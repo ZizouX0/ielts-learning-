@@ -493,7 +493,7 @@ the day before."*
 |---|---|---|---|
 | 1 | Diagnose | Day 1: full timed `/writing2`. Days 2–4: one timed section each of `/reading`, `/listening`, `/speaking`. Days 5–7: build the error map from those four scripts | Four baseline bands in `band-tracker.md`; top five recurring errors named |
 | 2 | Build | Task 2 structure — the four question families and a paragraph template for each. Reading: the two question types you lost most marks on. Listening: prediction and spelling | Task 2 finished inside 40 min at 270+ words, every time |
-| 3 | Build | Task 1: overview plus **grouping** — band-7 Task Achievement requires data appropriately categorised, not listed. Reading: 20 min per passage. Speaking: Part 2 to a full 2 minutes without stopping | Task 1 always has an overview and never reads row by row |
+| 3 | Build | Task 1: overview plus **grouping** — band-7 Task Achievement requires data appropriately categorised, not listed. Reading: 19 min per passage plus the 3-minute sweep. Speaking: Part 2 to a full 2 minutes without stopping | Task 1 always has an overview and never reads row by row |
 | 4 | Drill | Volume week. A full timed section daily. Every 9-minute theory block must address a *logged* error, not a general topic | Your top three error patterns are measurably less frequent |
 | 5 | Simulate | Two full Listening+Reading+Writing sittings — 2h40, typed, no breaks. One full `/speaking` simulation with pushback | You know your band under real conditions, not your practice band |
 | 6 | Taper | Days 1–3: light targeted drills, no new material. Day 4: last full sitting. Days 5–6: error log and vocab bank only. Day 7: rest | Arrive fresh |
@@ -546,7 +546,7 @@ own cold.
 | 3 | Foundation | Grammar block 2 — **a small repertoire drilled to control, not a large one drilled to coverage.** Three structures only: defining relative clauses, the second conditional, and concession (*although* + clause / *despite* + noun phrase). See Ch 8 | Every essay contains **three complex structures you got right**, drawn from that fixed repertoire — and no complex sentence you could not check. Measure the **ratio of error-free sentences**, not the count of clauses |
 | 4 | Build | Task 2: question families, position, paragraph structure | Full essay in 40 minutes |
 | 5 | Build | Task 1: all visual types, overview, grouping | Overview present every time |
-| 6 | Build | Reading: every question type, then timing to 20 min/passage | Full paper inside 60 minutes |
+| 6 | Build | Reading: every question type, then timing to 19 min/passage plus the 3-minute sweep | Full paper inside 60 minutes |
 | 7 | Drill | Listening + Speaking intensive | Stable Listening; recorded Speaking improving |
 | 8 | Drill | Mixed volume plus rewrites of graded essays | Top-three error patterns declining |
 | 9 | Simulate | Three full sittings plus Speaking simulations, strictly marked | Predicted band |

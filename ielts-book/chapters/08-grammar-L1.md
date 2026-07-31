@@ -734,13 +734,16 @@ complex than the first — it is the first, made error-free.
 | **8** | Wide range of structures, used flexibly | Most sentences contain no error; **a few basic errors *may* persist** |
 | **7** | A range of structures used flexibly; **simple and complex sentences both used effectively** | Error-free sentences are frequent, despite some errors; **a few basic errors persist** |
 | **6** | A mix of short and complex forms, and a variety of structures, but flexibility is limited | Errors occur frequently in the complex structures, though they rarely block the listener |
-| **5** | Basic sentence forms are produced with reasonable accuracy; complex structures are attempted but they are limited in range and usually contain error | Errors are frequent enough that they can cause the listener some difficulty |
+| **5** | Basic sentence forms are fairly well controlled for accuracy; complex structures are attempted, but they are limited in range | Those complex attempts **nearly always** contain errors, and may force you to stop and reformulate mid-sentence |
 
-Band 5 is in that table for a reason: your baseline is undiagnosed, and a first recorded
-Part 3 can land at 5.5. If what you hear on playback is *basic forms mostly right, complex
-attempts mostly wrong*, that is the band-5 description, not the band-6 one, and the repair is
-the same as everywhere else in this chapter — subtract the faulty complex attempts before you
-add more.
+Band 5 is in that table for a reason: your baseline is undiagnosed and a first recorded
+Part 3 can land at 5.5, so you need descriptor language for what you actually produced, not
+only for what you are aiming at. If what you hear on playback is *basic forms mostly right,
+complex attempts nearly always wrong, and a reformulation every time you try one*, that is
+the band-5 description, not the band-6 one. Note the ladder the four rows describe: at 5 the
+complex attempts nearly always fail, at 6 they fail frequently, at 7 they are as sound as
+your simple ones. It is the same accuracy-parity ladder as Writing, and the repair is the
+same — subtract the faulty complex attempts before you add more.
 
 Two things in that table are commonly mistaught and both are load-bearing for you.
 

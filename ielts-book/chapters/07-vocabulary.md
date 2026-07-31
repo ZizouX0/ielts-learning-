@@ -808,11 +808,16 @@ Writing descriptors' own header apply throughout, and the first is the one that 
 the work: a script must **fully** meet a band's positive features to be rated there,
 and "Bolded text indicates negative features that will limit a rating." Note what
 the second rule does *not* give you here — **nothing in the Lexical Resource column
-at bands 6 to 9 is bolded**; the bolded limiters begin at band 5 and run downward
-`[src: ielts.org — Writing band descriptors PDF (May 2023), per-character font
-extraction]`. So every band-6 and band-7 statement below is a *positive-feature*
-description, and the "fully meet" rule is what makes falling short of it cost you a
-band.
+at bands 6 to 9 is bolded**. Bold body text begins at band 5 and runs downward, and on the
+page covering bands 6 and 5 it does not touch Lexical Resource at all: the only bolded run
+on the Task 1 page is *There may be no data to support the description* under Task
+Achievement, and on the Task 2 page it is *incompletely addressed* under Task Response and
+*Paragraphing may be inadequate or missing* under Coherence & Cohesion
+`[src: ielts.org — Writing band descriptors PDF (Updated May 2023), pp.2 and 6 of the grid;
+per-character font extraction, re-run 2026-07-31]`. So every band-6 and band-7 statement
+below is a *positive-feature* description, and the "fully meet" rule is what makes falling
+short of it cost you a band. Do not go looking for a bolded lexical limiter at your
+boundary; there is not one, and the argument does not need it.
 
 ### Writing — Lexical Resource
 
@@ -821,6 +826,14 @@ band.
 | **8** | A wide resource used fluently and flexibly to convey precise meaning. Skilful use of uncommon and idiomatic items **when appropriate**, despite occasional inaccuracies in word choice and collocation. Occasional spelling or word-formation errors with minimal impact. |
 | **7** | Resource sufficient to allow **some** flexibility and precision. **Some** ability with less common and idiomatic items. An awareness of style and collocation is evident, though inappropriacies still occur. Only a few spelling or word-formation errors, and they do not detract from clarity. |
 | **6** | Generally adequate and appropriate for the task. Meaning generally clear **in spite of a rather restricted range or a lack of precision in word choice**. A risk-taker shows wider vocabulary but higher inaccuracy or inappropriacy. Some spelling or word-formation errors, but they do not impede communication. |
+| **5** | Limited, but minimally adequate for the task. Simple vocabulary may be used accurately, but the range does not permit much variation in expression. Frequent lapses in the appropriacy of word choice, and inflexibility showing as frequent simplification and repetition. Spelling or word-formation errors may be noticeable and may cause the reader some difficulty. |
+
+Band 5 is here because your baseline is not yet diagnosed and a first Task 2 can land at
+5.5 — you need the language for what you produced, not only for what you are aiming at. The
+official band-5 wording is the same in the Task 1 and Task 2 columns. Read the rows as one variable
+turned up: at 5 the lapses are *frequent* and the spelling errors *cause difficulty*; at 6
+the errors *do not impede*; at 7 they are *few* and *do not detract*. That is density
+again — the same word choice, counted differently.
 
 **Read the 6→7 gate carefully.** The words *some* and *awareness* are doing the
 work. Band 7 sets a **low bar on range** — some ability with less common items —
@@ -856,6 +869,11 @@ register. The plainer version is the higher-scoring one.
 | **8** | A wide resource used readily and flexibly across all topics, conveying precise meaning. Skilful use of less common and idiomatic items despite occasional inaccuracy in choice and collocation. **Effective use of paraphrase as required.** |
 | **7** | Resource used flexibly across a variety of topics. **Some** ability with less common and idiomatic items, and an awareness of style and collocation is evident, though inappropriacies occur. **Effective use of paraphrase as required.** |
 | **6** | Resource sufficient to discuss topics at length. **Vocabulary use may be inappropriate, but meaning is clear.** Generally able to paraphrase successfully. |
+| **5** | Resource sufficient to discuss familiar **and unfamiliar** topics, but flexibility is limited. Paraphrase is **attempted, but not always successfully**. |
+
+Note where the Speaking scale puts the 5→6 line: not on how many words you have — band 5
+already covers unfamiliar topics — but on **flexibility** and on whether the paraphrase
+lands. That is the whole of this chapter's argument, printed in the descriptor.
 
 **The asymmetry, stated plainly.** In Writing, LR is precision plus collocation plus
 spelling. In Speaking, LR is flexibility plus paraphrase plus collocation, with
