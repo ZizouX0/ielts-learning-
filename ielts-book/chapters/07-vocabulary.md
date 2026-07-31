@@ -858,12 +858,17 @@ indirect but real: examiners describe the result as *awkward expressions*, and
 awkwardness is scored under LR as well as CC. Break the chain — find the point where
 the sentence should have ended and put a full stop there.
 
-**Consonant and vowel transfer into spelling.** Arabic has no /p/ and no /v/, and
-its writing system does not represent short vowels the way English does. The
-predictable results are consonant substitutions (*broblem*, *sufer*) and unstable
-vowel spelling in unstressed syllables (*independant*, *seperate*, *definately*).
-These are pure LR losses on computer-delivered IELTS, where there is no
-spellchecker.
+**Consonant and vowel transfer into spelling.** Tunisian Arabic carries /p/ and
+/v/ only in loanwords, where they are usually replaced — but **you also speak
+French, which supplies both**, so these are not missing from your inventory (see
+Chapter 6, where the real issue turns out to be aspiration rather than an absent
+phoneme). What survives into *spelling* is the older habit: consonant
+substitutions such as *broblem* for *problem*. Arabic script also does not
+represent short vowels the way English does, which destabilises vowel spelling in
+unstressed syllables — *independant*, *seperate*, *definately*.
+
+These are pure Lexical Resource losses on computer-delivered IELTS, where there
+is no spellchecker.
 
 **Capitalisation.** Arabic script has no upper case, so capitals are a habit you
 have to install rather than transfer. Sentence-initial capitals, *I*, months, days,

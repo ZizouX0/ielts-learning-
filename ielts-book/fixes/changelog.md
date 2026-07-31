@@ -47,9 +47,36 @@ separate skill from producing it, and a misheard name still costs a mark.
 **Source.** R6 research file (`research/R6-speaking.md`), §L1 alert; cross-checked
 against Chapter 6 lines 553, 583–585, 596.
 
-**Status.** Fixed. Flagged for V4 to confirm the reconciliation is sound, and for
-V1 to rule on the underlying phonological claim, which R6 itself marked as its
-highest-stakes Tier-3-dependent finding.
+**Status.** ~~Fixed.~~ **Was incomplete — see below.**
+
+### `[MAJOR]` `[V4]` — the /p/ fix above was incomplete, and the Editor should have caught it
+
+**Issue.** V4 confirmed the Chapter 2 rewrite was sound and that Chapters 2 and 6
+now agree — but found `07-vocabulary.md` §L1 alert still asserting *"Arabic has
+no /p/ and no /v/"*, where the claim is load-bearing for an entire
+spelling-error class. Three chapters, two of them corrected, one missed.
+
+**Root cause — Editor error.** The original fix was made by editing the one
+location the Editor happened to find while checking a *different* consistency
+question. **No grep was run across the book before the entry was marked fixed.**
+That is exactly the mistake the verification phase exists to catch, and it is
+worth recording rather than quietly patching: a fix applied by inspection instead
+of by search is not a fix, it is a coincidence.
+
+**Change.** Chapter 7's passage rewritten to match Chapters 2 and 6 — Tunisian
+Arabic carries /p/ and /v/ in loanwords, French supplies both regardless, so
+neither is missing from the reader's inventory; what survives into *spelling* is
+the older substitution habit (*broblem*). Cross-referenced to Chapter 6 for the
+aspiration explanation. The short-vowel point, which is independent and correct,
+is retained.
+
+**Verification this time.** Grepped all nine chapters plus `knowledge/` and
+`CLAUDE.md` for every phrasing of the claim. Zero remaining. All /p/ mentions
+across the book now agree.
+
+**Still open for V1:** the underlying phonological claim about Tunisian Arabic
+phonotactics, which R6 flagged as its own highest-stakes Tier-3-dependent
+finding.
 
 ---
 
