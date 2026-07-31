@@ -106,6 +106,26 @@ The order matters because of the chapter's own sequencing rule: every structure 
 eight-structure section creates **new article decisions**, so drilling structures before
 articles are automatic trades a cheap error for an expensive one.
 
+### The grammar words this chapter uses, in plain English
+
+This is the canonical home for these terms — chapters 4, 5 and 6 use them and point back
+here. None of them is examiner jargon you have to reproduce; they are labels so that a
+correction can be generalised instead of memorised.
+
+| Term | In plain words | Example |
+|---|---|---|
+| **Finite verb** | A verb carrying tense and a subject — the thing that makes a clause a clause. *walks*, *walked*, *is walking* are finite; *walking*, *to walk* are not. | *Enrolment **rose**.* (finite) vs *…, **rising** fastest after 2015.* (not finite) |
+| **Head noun** | The one noun a noun phrase is actually about, once you strip the words piled in front of and behind it. Every article decision is made on the head noun and nothing else. | *the sharp fall in rural school enrolment* → head noun **fall** |
+| **Subordinator** | A word that makes one clause depend on another: *because, although, while, since, whereas, if, after*. Contrast a **coordinator** (*and, but, so*), which joins two equals, and an **adverb** (*however, therefore, moreover*), which joins nothing at all. | *…**because** fares rose.* |
+| **Relativiser** | The word that opens a relative clause: *who, which, that, whose, where*. Arabic drops it after an indefinite noun; English never does. | *households **that** live below the line* |
+| **Resumptive pronoun** | A spare pronoun left sitting in the hole the relativiser already filled. Standard in Arabic, an error in English. | ✗ *the reform which the ministry announced **it*** |
+| **Reduced relative** | A relative clause with the relativiser and the *be*-verb deleted. Shorter, and it counts as range. | *the measures **introduced** in 2020* (from *which were introduced*) |
+| **Participle clause** | A clause built on an *-ing* or *-ed* form instead of a finite verb, with no subject of its own — it borrows the subject of the main clause. That borrowing is the whole risk. §5 | ***Lacking** reliable transport, rural students miss classes.* |
+| **Cleft sentence** | A sentence deliberately split in two so that one element is put in the spotlight. *Cleft* means "split". §7 | ***It is** the shortage of teachers **that** limits access.* |
+| **Nominalisation** | Turning a verb or an adjective into a noun and rebuilding the sentence around it. Buys register and cohesion; costs you one new article decision every time. §8 | *cities grew rapidly* → *the **rapid growth** of cities* |
+| **Copula** | The verb *be* used to link a subject to what is said about it. Arabic can leave it out; English cannot. | *The obstacle **is** the cost.* |
+| **Parataxis** | Building prose by stringing clauses side by side with *and* rather than subordinating them. The Arabic default, and the source of your run-ons. | *…is cheap and it is used by many and it reduces traffic and…* |
+
 ---
 
 ## What the test actually asks
@@ -328,6 +348,10 @@ complex structures, plus the official range indicators *"subordinate clauses wit
 and phrases"* and *"complexity of other phrases"* `[src: ielts.org — Speaking key
 assessment criteria (PDF, 2023), p.3]`. Treat it as a defensible inference.
 
+**What it is, in plain words.** A clause built on an *-ing* or *-ed* form of the verb
+instead of a full tensed one, and with no subject of its own — it silently borrows the
+subject of the main clause. That borrowing is where all the value and all the danger sit.
+
 **Form.** Three types, all of which delete a subject and a finite verb.
 
 | Type | From | To |
@@ -410,6 +434,11 @@ the official range indicator *"range of sentence structures, especially to move 
 around for information focus"* `[src: ielts.org — Speaking key assessment criteria (PDF,
 2023), p.3]`, which describes exactly what a cleft does.
 
+**What it is, in plain words.** *Cleft* means "split". You take one ordinary sentence and
+break it into two halves so that the element you most want noticed is pushed into the
+spotlight. *The shortage of qualified teachers limits access* becomes *It is the shortage of
+qualified teachers that limits access.* Same content, one idea now under a lamp.
+
 **Form.** *It*-cleft: *It is/was* + X + *that/who* + … . *Wh*-cleft: *What* … *is/was* + X.
 
 **Original examples.**
@@ -436,6 +465,12 @@ body paragraph. It is a rhetorical instrument, not a decoration.
 required *"academic or semi-formal/neutral"* style plus the official Coherence and Cohesion
 sub-skill of flexible reference and substitution `[src: ielts.org — Writing test format;
 Writing key assessment criteria (PDF, 2023), p.3]`.
+
+**What it is, in plain words.** Taking the action out of the verb and packing it into a
+noun, then rebuilding the sentence around that noun. *Governments regulate emissions
+strictly* → *strict regulation of emissions*. English academic prose does this constantly,
+which is why the noun version of two otherwise identical sentences reads as the more
+academic one.
 
 **Form.** Turn the verb or adjective into a noun and make it the subject.
 
@@ -495,6 +530,10 @@ at band 6 falling to 7.4% at band 7, chi-square 80.1, p<0.01, with bands 5 and 6
 significantly different from each other `[src: Roothooft & Breeze 2019 — Speaking data, L1
 mix unreported]`. Articles do not separate 5 from 6. They separate 6 from 7, which is your
 boundary.
+**Procedure:** the two artefacts that make this a habit rather than an intention are
+§The article decision procedure (run on the head noun, five seconds) and §The 60-second
+Arabic sweep (run on the finished draft). Do not attempt anything in the eight-structure
+section until sweep pass 1 finds fewer than one article error per ten *the*s.
 
 **2. Repair every comma splice with a subordinator, not a full stop.** `[verified]`
 Punctuation sits inside the GRA criterion `[src: ielts.org — Writing key assessment
@@ -513,11 +552,21 @@ error-free count.
 derived target is under one error per ten slots on any single feature — the level at which
 the IELTS study found bands 7 and 8 sitting `[src: Roothooft & Breeze 2019 — Speaking data,
 L1 mix unreported]`.
+**Procedure:** pick one feature per script — articles this week, third-person *-s* next.
+Count the **slots** first (every noun that could take an article; every present-simple verb
+with a singular subject), then count the ones you got wrong, and write the fraction in
+`error-log.md`. "I made four article errors" is not a measurement; "four errors in
+thirty-one slots, 13%" is, and it tells you whether you are above or below the band-7 line.
 
 **5. Build noun phrases before you build clauses.** `[verified]` Pre- and post-modification
 of the head noun is a named official range indicator `[src: ielts.org — Speaking key
 assessment criteria (PDF, 2023), p.3]` and carries almost no error risk. It is the only
 free range on the list.
+**Procedure:** take any bare subject in your last essay — *enrolment*, *the scheme*, *costs*
+— and load it. One modifier in front (adjective, noun, participle) and one behind
+(prepositional phrase, participle, reduced relative), then stop. *Enrolment* → *the sharp
+fall in rural school enrolment recorded after 2015*. Cap at two pre-modifiers, and run the
+article procedure on the head noun before you move on.
 
 **6. In the last three minutes you may delete and repair. You may not add.**
 `[expert consensus]` Adding a clever sentence at minute 39 is how a band-7 script becomes a
@@ -540,6 +589,10 @@ English and not a defensible penalty.
 **9. Skip the third conditional entirely.** `[verified]` Zero occurrences across 73
 interviews spanning bands 4 to 8 `[src: Roothooft & Breeze 2019 — Speaking data, L1 mix
 unreported]`.
+**Procedure:** the trigger is thinking about the past. Whenever a sentence starts forming as
+*If governments had…, they would have…*, rewrite it in the past simple with a consequence:
+*Governments failed to act in the 1990s, and emissions rose accordingly.* Same argument, one
+tense, no three-part structure to get wrong under the clock.
 
 **10. Read for one error type at a time when you check.** `[expert consensus]` Reading for
 meaning makes you read what you meant, not what you wrote. Four passes, in priority order:
@@ -570,6 +623,15 @@ A short declarative is error-free by construction and is a rhetorical instrument
 the counterweight is equally official: IDP states that an answer written entirely in short
 sentences cannot receive a high GRA score even with no errors at all `[src: ielts.idp.com —
 grammar article]`.
+
+**And for Writing the evidence is direct, not inferred.** The official **7.5** computer-
+delivered Task 2 exemplar — a script the examiner praised for "a variety of complex
+structures with frequent error-free sentences" — was told in the same sentence that *"there
+is some overuse of rather short sentence forms"* `[src: ielts.org — CD Academic Writing
+example responses with band scores and examiner comments (PDF), Part 2, Candidate Response
+2, Band 7.5; verified by fresh fetch 2026-07-31]`. An official Writing examiner marked
+short-sentence overuse down in a script that was otherwise strong. That closes the myth from
+the other side: short sentences are instruments, not a style.
 
 **Scope this carefully, because the change is Speaking-only.** *Complex* was dropped from
 the **Speaking** band-7 range clause. The **Writing** band-7 GRA cell still reads *"A
@@ -672,6 +734,13 @@ complex than the first — it is the first, made error-free.
 | **8** | Wide range of structures, used flexibly | Most sentences contain no error; **a few basic errors *may* persist** |
 | **7** | A range of structures used flexibly; **simple and complex sentences both used effectively** | Error-free sentences are frequent, despite some errors; **a few basic errors persist** |
 | **6** | A mix of short and complex forms, and a variety of structures, but flexibility is limited | Errors occur frequently in the complex structures, though they rarely block the listener |
+| **5** | Basic sentence forms are produced with reasonable accuracy; complex structures are attempted but they are limited in range and usually contain error | Errors are frequent enough that they can cause the listener some difficulty |
+
+Band 5 is in that table for a reason: your baseline is undiagnosed, and a first recorded
+Part 3 can land at 5.5. If what you hear on playback is *basic forms mostly right, complex
+attempts mostly wrong*, that is the band-5 description, not the band-6 one, and the repair is
+the same as everywhere else in this chapter — subtract the faulty complex attempts before you
+add more.
 
 Two things in that table are commonly mistaught and both are load-bearing for you.
 
@@ -853,9 +922,13 @@ traffic and it also reduces pollution and the government wants to expand it.*
 cars off the road, it reduces both congestion and pollution — which is why the government
 intends to expand it.*
 
-Count what the repair bought: one subordinator, one non-defining relative, one compound
-predicate collapsed. Five clauses down to three, one word shorter. **Range up, error
-surface down.**
+Count what the repair bought: one subordinator (*Because*), one non-defining relative
+(*— which is why…*), and one compound predicate collapsed (*cheap and heavily used*). Five
+clauses chained on *and* became four, two of them now subordinate rather than coordinate,
+and the four clause-joining *and*s went to zero — the two *and*s left join a pair of
+predicates and a pair of nouns, not two sentences. The repair is five words **longer**, and that is
+the honest trade: subordination costs words and buys range. **Range up, error surface
+down.**
 
 **Copula omission.** Arabic present-tense sentences can be verbless — *al-madīnatu kabīra*
 is literally "the-city big" `[src: Abu Rass 2015 (Tier 2), citing Benmamoun 2000]`. Severe

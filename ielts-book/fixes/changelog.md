@@ -1346,3 +1346,145 @@ must say so rather than publish a fabricated one" among the open conflicts, long
 after V1 disproved it and V6 re-certified the correction. Left standing, it would
 have told a later pass to undo a fix the gate had just passed. Struck through in
 place rather than deleted, so the error remains visible in the record.
+
+---
+
+## Minor sweep
+
+### Chapters 1–3 — minor-sweep agent
+
+Scope: `chapters/01-how-ielts-works.md`, `02-listening.md`, `03-reading.md`. Every
+`[MINOR]` in V1–V6 touching these three chapters was checked against the file first;
+most had already been applied by the Phase 4 fix agents and are recorded below as
+*already closed* rather than re-done. What follows is what this pass actually changed.
+
+#### Chapter 1
+
+- **`[V3]` follow-through — the six-vs-eleven count did not add up.** Ch1 explained
+  Chapter 2's eleven layouts as the completion family split five ways, which yields
+  ten, not eleven. Ch2 also splits multiple choice into one-answer and
+  multiple-answer forms, because a *choose TWO* item occupies two question numbers
+  and is worth two marks. The explanation now states both splits and shows the
+  arithmetic: five completion layouts + two multiple-choice forms + four unsplit
+  types = eleven. No factual claim changed; the six official types are unchanged and
+  still sourced to the format page.
+- **`[V1]` broken performance-data URL.** The indexed CDN path in the citation
+  404s. The citation now names the parent page and the file as the page labels it —
+  `ielts.org — Test statistics → "Download test taker performance data 2024-2025
+  (XLSX)"` — with a note saying why the parent page is cited. Verified by fresh
+  WebFetch 2026-07-31: the page carries the link, and the live file path is
+  `.../ielts-downloadable-assets/ielts-research/ielts-research-data/...`. The figures
+  in the L1 table are unchanged.
+- **Arithmetic the reader can check and fail.** The text says the French-L1
+  Reading−Writing gap is 0.85; the rounded figures in the table immediately above it
+  subtract to 0.86. 0.85 is the certified correct number (7.006159 − 6.152480), so it
+  stays — but the chapter now says in one parenthesis that the gap comes from the
+  unrounded spreadsheet figures and that subtracting the rounded ones gives 0.86.
+  The reader who checks now finds an explanation instead of a contradiction.
+- **Tip 2 had no procedure.** "Start Writing in week one and never stop it" told the
+  reader nothing about how to split the week. It now points at Chapter 9 §The weekly
+  rotation for the split and §Why Writing gets the most time for the trade-off against
+  this chapter's own "buy your half-bands in Listening and Reading". Ch9 keeps
+  ownership of the plan; Ch1 stops implying the reader should improvise one.
+- **`[V5]` jargon.** *Paraphrase* glossed at first substantive use (Tip 7), with the
+  point that the Listening rule and the Writing rule are inverses.
+- **Not changed:** the mandated `## Question types, one by one` heading and its
+  framing sentence (V5 proposed renaming; the heading is mandated verbatim and the
+  Phase 4 agent already ruled on it). The `[src: ielts.idp.com/thailand/...]`
+  citations, the band tables, the band-5 anchors 16/15, and the 2h45-vs-2h40
+  treatment — all certified, all untouched.
+
+#### Chapter 2
+
+- **`[V4]` two worked examples printed no key.** The note-completion trap (b) gave
+  `converted` and left the second gap unanswered; the flow-chart example gave no key
+  at all. Both now print the full key — `converted` · `2004`, and `(two) references` ·
+  `supervisor` — and the flow-chart note makes its own point explicitly: the speaker
+  delivered the boxes out of sequence while the *questions* stayed in order, which is
+  what the type's trap paragraph claims.
+- **Trap (d)'s gap could not take its own answer.** The printed gap read *Building
+  dates from ………* and was keyed `Victorian`, which does not follow *dates from*.
+  Gap relabelled *Age of building: ………*, which the answer fits. The trap logic is
+  unchanged and the explanation now names both wrong answers the audio offers
+  (*footbridge*, *modern*) instead of only stating the rule.
+- **`[V5]` jargon — *distractor* was defined two sections after it started working.**
+  The gloss sat in §9 Matching; the concept is doing the work from §7 Multiple choice,
+  where the whole trap is a distractor. The definition moved to §7 at first use, and
+  §9 now back-references it. Wording of the definition unchanged.
+- **`[V5]` jargon — *rubric* was used undefined.** Glossed at its only use, in the
+  `ONE WORD ONLY` note, in the same words Ch1 and Ch3 use.
+- **Two senses of *anchor* in one chapter.** §9's technique called the box items "your
+  anchors" while §Band descriptor decoder uses *anchor* for the official band 5/6/7/8
+  raw-score points. Changed to "your fixed points"; the band-score sense is now the
+  only one in the chapter.
+- **Tip 9's arithmetic understated itself.** "Ten marks — a full band" is the floor,
+  not the figure: on the chapter's own mark budget, ten marks is one full band at its
+  narrowest (29 → 19) and a band and a half or more nearly everywhere else. Restated
+  as "at least a full band wherever you are on the table, and usually a band and a
+  half", with the worked instance 30 → 20 = 7.0 → 5.5.
+- **Broken cross-reference.** The false-friend pointer sent the reader to Chapter 8.
+  The annotated list is Chapter 7 §The false-friend list; Chapter 8 says in its own
+  error map that false friends cost **LR**, which is Chapter 7's criterion. Pointer
+  corrected, with the reason given.
+- **Uncountables — canonical home named.** Chapter 7 §Uncountables that French
+  pluralises owns the list and the countability rule. Ch2 keeps the nine words because
+  it needs them as *dictation* targets, and now says that is why they are reprinted.
+- **Not changed:** the `ONE WORD ONLY` Listening hedge, the five-accent framing, the
+  `[verified]` / `[expert consensus]` labels, §Where the audio comes from, and the
+  Tips/Myths dedupe. All certified in Phase 4.
+- **Already closed before this pass, verified in place:** the mark budget's
+  six-to-nine reframing `[V5]`, the summary's two orphan traps now trap (d) `[V5]`,
+  the forced-conversion decision procedure in §5 `[V4]`, the short-answer keys
+  `(main) reception` · `(the) noticeboard` `[V4]`, the sample-PDF five-vs-six
+  discrepancy `[V3]`.
+
+#### Chapter 3
+
+- **`[V2]` the summary was still half-wrong on order.** The matching-headings half had
+  been fixed; the other half had not. The summary filed summary/note/table/flow-chart
+  completion and diagram labelling under "Not ordered", but the chapter's own order
+  table marks them **NOT GUARANTEED** and the whole strategy for both types is *find
+  the region first*. Summary now reads: not ordered — matching information, matching
+  features; order not guaranteed but clustered in one region — types 9 and 10. Matches
+  the table row for row.
+- **`[V5]` jargon — survey / skim / scan used in the summary, defined 850 lines later.**
+  The summary is the part a reader on a nine-minute budget reads instead of the
+  chapter, and it issued three technical instructions with no glosses. Each now carries
+  a parenthesis in plain words; Tip 6 keeps the official definitions and timings and is
+  unchanged. *Paraphrase recognition* glossed in the same sentence.
+- **Broken cross-reference.** Same Chapter 8 → Chapter 7 §The false-friend list
+  correction as Ch2, with the criterion reason stated.
+- **Articles and plurals — canonical home named.** Ch3's L1 alert now points at
+  Chapter 8 §The article decision procedure for the production rule, and keeps only the
+  Reading-specific consequence: in a completion gap the error is a whole mark, and the
+  fix is copy-paste rather than vigilance, because you are not producing prose.
+- **Not changed:** the half-band table and its caveat, the band-5 anchor of 15, the
+  scope-mismatch NOT GIVEN/FALSE pair, matching-headings order, the 11-vs-14 type
+  count, the 19/19/19+3 baseline, Myths 2 and 14. All certified.
+- **Already closed before this pass, verified in place:** the *bands 5–8*
+  distribution qualifier `[V1]`, the `ONE WORD ONLY` Reading/Listening callout
+  `[V1][V4]`, the word-bank key `[V4]`, the diagram example's printed decoys `[V4]`,
+  the back-loaded split `[V4]`, *distractor* and *rubric* glossed `[V5]`.
+
+#### Checks run across all three chapters
+
+Every markdown table parsed for column-count mismatch against its header — none found;
+the four "empty" cells flagged by the parser are the intentional blank corner cells of
+comparison tables. Zero `[UNVERIFIED]` tags. All eight mandated H2 sections present in
+each chapter, with `## 60-second summary` first in all three. Every `§` and `Chapter N`
+cross-reference in the three chapters resolved against the target chapter's actual
+heading list. Band tables re-checked for contiguity (no gaps or overlaps between rows in
+either paper) and every band average, route total, mark-budget row and word count in the
+three chapters recomputed.
+
+#### Deliberately left alone
+
+- **`[V6]` m1–m4 ledger rows and m5's `STATUS.md` note.** Out of scope — the ledger is
+  `research/sources-ledger.md` and `STATUS.md` was already handled in the post-gate
+  repair above.
+- **`[V3]` "descriptor decoders stop at band 6"** — chapters 4, 5, 6 and 8. Reading and
+  Listening have no descriptors, so nothing in this scope to add.
+- **`[V3]` consolidated L1 appendix and pre-test-day checklist** — both are new
+  appendices, not chapter edits, and Ch9 already carries a night-before checklist.
+- **`[V5]` renaming the mandated "Question types, one by one" heading** — mandated
+  verbatim; the Phase 4 agent already ruled and this pass does not reopen it.

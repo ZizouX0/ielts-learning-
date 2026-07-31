@@ -32,9 +32,11 @@ rating-limiting feature anywhere above band 5, under-length carries no tariff; i
 carries a mechanism. Too short means undeveloped, and undeveloped is what the
 examiner marks.
 
-Concede once, then counter. Hedge every generalisation: an examiner credited *tend
-to* and *appears to be* as higher-level lexis, and hedging also kills band 7's named
-weakness.
+Concede once, then counter. **Hedge** every generalisation — hedging means softening
+a claim so that it is defensible rather than asserting it flat: *most people* instead
+of *everyone*, *tends to* instead of *does*. An examiner credited *tend to* and
+*appears to be* as higher-level lexis, and hedging also kills band 7's named
+weakness, the tendency to over-generalise.
 
 Cap discourse markers at about two per paragraph but never zero — one official
 script was docked for overuse, another for underuse. Replace the rest with reference
@@ -150,6 +152,20 @@ Three details make the extraction reproducible, and one of them is a trap:
 There is no tariff waiting at the top of the scale. There is a *mechanism*: 190 words
 cannot contain two extended and supported ideas, so the examiner marks the missing
 development, not the missing words.
+
+**Cambridge is two-handed about this, and you should see both hands.** The same FAQ
+document answers *"Will I be penalised if I don't write enough words?"* with *"There
+is no direct penalty for writing fewer than 150 words for the Task 1 question and 250
+words for the Task 2 question. However, writing fewer words may impact on the range
+of ideas and evidence produced and may therefore affect your score"* — and then, four
+pages earlier, prints a flat instruction in its Writing **Don't** list: *"Don't write
+less than the required number of words"*
+[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF), pp. 7–8, fetched
+2026-07-31]. Quote only the permissive half and Cambridge looks more relaxed than it
+is; quote only the prohibition and you have invented a tariff. **Neither sentence is
+a deduction, and the two together say exactly what the grid says:** going short is a
+real mistake, and the place it is marked is the range of ideas and evidence — which
+is Task Response, Lexical Resource and Grammatical Range, not a subtraction.
 
 Official commentary on a computer-delivered script of roughly 198 words does
 exactly that. The examiner notes the position is clear and the ideas relevant,
@@ -531,7 +547,9 @@ true, …*). *Fails when* you concede and forget to counter.
 
 **12. Build topic lexis, not synonym lists; memorise mechanisms, not sentences.**
 `[verified]` / `[expert consensus]` LR assesses topic-specific items and
-collocation, so ten precise education nouns (*curriculum, streaming, tuition fees,
+**collocation** — the word partnerships English habitually makes, so that *heavy
+rain* is right and *strong rain* is not, though both are grammatical and both are
+understood. So ten precise education nouns (*curriculum, streaming, tuition fees,
 attainment gap, vocational training, drop-out rate, teacher retention, rote
 learning, contact hours, lifelong learning*) outscore twenty synonyms for
 *important* [src: Key assessment criteria PDF, p.4]. For ideas, memorise nine
@@ -617,8 +635,9 @@ all above band 5. The correct model is causal: too short means undeveloped, and
 undeveloped is what the descriptor marks. [src: descriptors PDF, p.9]
 
 **M8 — "Contractions or any informality will cap you at band 6."** Overstated.
-Register belongs to LR, and errors are weighed by density and effect rather than by
-presence. The official **7.5** script uses *don't* three times and contains the
+**Register** — the level of formality a piece of language belongs to, the difference
+between *kids*, *children* and *minors* — belongs to LR, and errors are weighed by
+density and effect rather than by presence. The official **7.5** script uses *don't* three times and contains the
 redundancy *"In my opinion, I think"* — and still scored 7.5. **Keep avoiding
 both** — they buy nothing and cost a little — but do not spend exam minutes hunting
 contractions while a whole question part sits unanswered. [src: CD sample responses
@@ -680,6 +699,15 @@ one place that matters, and must not be used.
 | **8** | The prompt is addressed appropriately *and sufficiently*. Position clear and well developed. Ideas relevant, well extended, well supported. Only occasional omissions or lapses in content. |
 | **7** | The main parts are addressed appropriately. **"A clear and developed position"** is presented. Main ideas are extended and supported — but there may be a tendency to over-generalise, or supporting material may lack focus and precision. |
 | **6** | The main parts are addressed, but some more fully than others. Format appropriate. Position relevant, yet conclusions may be unclear, unjustified or repetitive. Main ideas relevant but some underdeveloped; some support weak or less relevant. |
+| **5** | The main parts of the prompt are **incompletely addressed**; format may be inappropriate in places. A position is expressed, but its development is not always clear. Some main ideas are put forward but they are limited and insufficiently developed, and there may be irrelevant detail or repetition. |
+
+**Read the band-5 row, because it is the row you can fall into by accident.** Its
+opening clause is one of only two bolded phrases on the whole bands 6/5/4 page, and
+bold means a negative feature that limits the rating. *Incompletely addressed* is
+what happens when a two-part prompt gets one part — the same failure ielts.org
+describes in plain words as being limited to band 5. Band 6 tolerates *uneven*
+coverage; band 5 is where a part is left incomplete. **Unevenness costs you the 7;
+absence costs you the 6.**
 
 **A correction most books get wrong.** The 2013 edition said band 7 presents a clear
 position *throughout*. The **2023 edition does not** — band 7 now reads simply that
@@ -722,6 +750,12 @@ The second *justifies* — it names the criteria the verdict rests on.
 | **8** | The message is followed with ease; ideas logically sequenced; cohesion well managed; occasional lapses; paragraphing sufficient and appropriate. |
 | **7** | Information and ideas logically organised with clear progression throughout, a few minor lapses allowed. A range of cohesive devices *including reference and substitution* used flexibly, though with inaccuracies or **"some over/under use"**. Paragraphing generally effective; sequencing within paragraphs generally logical. |
 | **6** | Generally coherent with clear overall progression. Cohesive devices work to some good effect, but cohesion within or between sentences may be faulty or mechanical through misuse, overuse or omission. Reference and substitution may lack flexibility, producing repetition or error. Paragraphing may not always be logical. |
+| **5** | Organisation is evident but not wholly logical, and overall progression may be lacking, though an underlying coherence survives. The relationship of ideas can be followed, but the sentences are **not fluently linked** to each other. Cohesive devices may be limited or overused, with some inaccuracy. Writing may be repetitive through inadequate or inaccurate reference and substitution. **"Paragraphing may be inadequate or missing."** |
+
+That last clause is the page's **second** bolded phrase — the only other
+rating-limiting feature printed anywhere on the bands 6/5/4 page. It is why tip 5
+exists, and it is the cheapest band in this book to protect: four or five paragraphs
+with a blank line between them, decided before you start writing.
 
 This is the criterion most damaged by well-meant advice. Over-use is named at band 7
 and again at band 6; **nothing in the grid rewards quantity of linkers.** Officially,
@@ -753,6 +787,11 @@ them and simply follows the argument.
 | **8** | Wide resource used fluently and flexibly for precise meaning; skilful use of uncommon and idiomatic items despite occasional inaccuracy in choice and collocation; occasional spelling or word-formation errors with minimal impact. |
 | **7** | Resource sufficient for some flexibility and precision. Some ability with less common and idiomatic items. **"An awareness of style and collocation"** is evident, though inappropriacies occur. Only a few spelling or word-formation errors, and they do not detract from clarity. |
 | **6** | Generally adequate and appropriate. Meaning generally clear despite a rather restricted range or a lack of precision in word choice. A risk-taker will show wider vocabulary but with higher inaccuracy. Some spelling or word-formation errors, but they do not impede communication. |
+| **5** | The resource is **limited but minimally adequate**. Simple vocabulary may be used accurately, but the range does not permit much variation in expression. Frequent lapses in appropriacy of word choice, and inflexibility showing as frequent simplification or repetition. Spelling and word-formation errors may be **noticeable and may cause the reader some difficulty**. |
+
+The 5→6 line is *impeding*: at 6 the errors do not impede, at 5 they cause the reader
+difficulty. This is where the false friends in §L1 alert land — *alimentation* for
+*diet* was the official examiner's own cited example on a script held at 5.5.
 
 **Read the band-6 risk-taker clause twice.** The descriptor explicitly anticipates
 the thesaurus strategy and places it *at band 6*. Reaching for rare words without
@@ -781,15 +820,24 @@ and it keeps the company it normally keeps.
 | **8** | A wide range of structures used flexibly and accurately. The majority of sentences are error-free; punctuation well managed. Occasional, non-systematic errors with minimal impact. |
 | **7** | A variety of complex structures used with some flexibility and accuracy. Grammar and punctuation generally well controlled, and **"error-free sentences are frequent"**. A few errors persist but do not impede communication. |
 | **6** | A mix of simple and complex forms with limited flexibility. Complex structures are less accurate than the simple ones. Errors occur but rarely impede communication. |
+| **5** | The range of structures is **limited and rather repetitive**. Complex sentences are *attempted* but tend to be **faulty**, and the greatest accuracy is achieved on simple sentences. Grammatical errors may be **frequent and cause the reader some difficulty**; punctuation may be faulty. |
+
+Bands 5, 6 and 7 are one ladder on this criterion: at 5 your complex sentences are
+*faulty*, at 6 they are *less accurate than your simple ones*, at 7 they are as
+accurate as your simple ones. The comma splices in §L1 alert 5 are the single
+commonest way a French-influenced writer sits on the 5 rung — *punctuation may be
+faulty* is printed right there in the row.
 
 **This one is measurable, so measure it — but measure it against the right number.**
 Band 7 needs error-free sentences to be *frequent*; band 8 needs them to be *the
 majority*. No official source quantifies *frequent*, so band 7 must sit **below** a
-majority, not at it. In a 280-word essay of about sixteen sentences: **fewer than six
-clean and you are arguing for a 6; six or seven is band-7 territory; nine or ten and
-you are arguing for an 8.** Chapter 4 tip 5 and Chapter 8 §How accurate is "accurate
-enough"? use the same derivation — four in ten rising to five — and it is a derived
-working proxy, not a published threshold. It is still the only criterion you can
+majority, not at it. Chapter 8 §How accurate is "accurate enough"? owns the
+derivation and Chapter 4 tip 5 restates it: **four sentences in ten completely clean,
+rising to five.** Scaled to a 280-word essay of about sixteen sentences, four in ten
+is 6.4 and five in ten is 8, so: **fewer than six clean and you are arguing for a 6;
+six, seven or eight is band-7 territory; nine or ten — a genuine majority of sixteen
+— and you are arguing for an 8.** It is a derived working proxy, not a published
+threshold. It is still the only criterion you can
 audit yourself with any reliability.
 
 **What "complex" officially means at band 7 and above:** passive constructions,
@@ -938,8 +986,11 @@ Third-person *-s* is the most common systematic error in Arabic-L1 academic writ
 and *systematic* is precisely the word that blocks band 8.
 
 **7. Register imported from French academic prose.** French favours abstraction,
-nominalisation and formulaic openings; in English this produces sentences that are
-grammatical but imprecise — band 6 LR, not band 7.
+**nominalisation** and formulaic openings. Nominalisation means turning a verb or an
+adjective into a noun and then hanging a weak verb off it — *the globalisation
+possesses numerous incidences* instead of *globalisation affects*. English tolerates
+a little of it and French academic prose runs on it; overdone, it produces sentences
+that are grammatical but imprecise — band 6 LR, not band 7.
 
 > ✗ *It is necessary to underline the fact that the problematic of the globalisation
 > possesses numerous incidences on the societies.*

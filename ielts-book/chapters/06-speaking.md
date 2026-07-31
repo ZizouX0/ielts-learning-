@@ -511,6 +511,25 @@ solves a problem that does not exist and costs you on style.
 **9. Aim to be stopped in Part 2.** `[verified]` Being stopped is pre-announced and harmless;
 finishing at fifty seconds forfeits the long-turn evidence band 7 requires.
 
+**How to rehearse being stopped when nobody is there to stop you.** Practising alone,
+an audible timer trains the exact reflex you are trying to unlearn: the beep teaches
+you to stop yourself, and self-halting at 1:20 is the band-6 failure mode. So make
+the clock **silent and invisible** — start your phone's voice recorder, put the phone
+face down, and speak until you genuinely run out. Check the length afterwards, never
+during. Three rules for reading the result:
+
+- **Under 1:50** — that turn does not count. You stopped yourself. Note which bullet
+  you were on when the momentum died, and add that content to your SPARE line.
+- **1:50 to 2:00, still going when you checked** — a pass. You produced a full long
+  turn under your own steam, which is the thing the examiner's interruption is a
+  receipt for.
+- **Past 2:00** — also a pass, and the most useful one: it proves you have more than
+  two minutes of material, which is what makes being stopped feel like an
+  interruption rather than a rescue.
+
+Recording it is free, because tip 13 and the three-check procedure at the end of
+*L1 alert* need the same recording anyway. One take, four uses.
+
 **10. Never reuse the same words across the test.** `[verified]` It signals limited spoken
 vocabulary `[src: ielts.idp.com — Seven mistakes to avoid]`. If you have said *important* three
 times, the fourth should be *decisive* or *what really counts*.
@@ -950,9 +969,10 @@ and these three are the difference between Pronunciation 6 and Pronunciation 7.
    last words a rare last resort rather than your default?
 7. Can you produce a Part 1 answer of four to five sentences containing one conditional or one
    contrast?
-8. In your last five Part 2 practices, were you **stopped by the clock** every time — and did you
-   answer the rounding-off question with a *short* answer plus one clause, not a bare *yes* and
-   not a second long turn?
+8. In your last five Part 2 practices, did the **silent** recording run past 1:50 every time —
+   checked afterwards, never with an audible timer, because a beep trains you to stop yourself
+   (tip 9) — and did you answer the rounding-off question with a *short* answer plus one clause,
+   not a bare *yes* and not a second long turn?
 9. Does your one-minute note page always include a SPARE line **and the tense the card's family
    hands you**?
 10. Can you name the four steps of the Part 3 answer shape, and do you reach the fourth step in

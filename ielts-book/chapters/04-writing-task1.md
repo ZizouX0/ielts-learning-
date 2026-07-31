@@ -12,8 +12,11 @@ predictions of your own.
 
 **The chapter in one line: band 7 Task Achievement requires a clear overview, the
 data appropriately categorised, and the main trends identified; band 6 only requires
-that an overview be attempted.** Grouping is in the mark scheme. A perfect list is a
-band-6 answer.
+that an overview be attempted.** An **overview** is one or two sentences, usually
+your second paragraph, that say what the whole visual shows — the big picture, with
+no individual figures in it. It is a named requirement in the mark scheme, not a
+stylistic preference. Grouping is in the mark scheme too. A perfect list is a band-6
+answer.
 
 Four paragraphs: one-sentence introduction in your own words, two-sentence
 figure-free overview, then two body paragraphs on the *same* grouping. Never copy
@@ -97,7 +100,10 @@ is band 1 on all four criteria [src: May 2023 descriptors, band 1 row; band 3 LR
 and GRA]. So the rule is not "don't go under 150" but **150 is the floor at which
 TA can even be satisfied — write 170–190**. Past 200 you rob the task worth double.
 
-**Copied rubric is struck out before your words are counted.** Triple-sourced: the
+**Copied rubric is struck out before your words are counted.** The **rubric** is the
+printed wording of the task itself — the chart title, the instruction line above the
+visual and the fixed sentence below it. It is not yours, so it cannot be marked as
+yours. Triple-sourced: the
 band-1 TA wording says copied rubric must be discounted; official examiner comments
 on the 2023 samples twice record that no credit is given for it, and add that
 copying reveals an inability to paraphrase — an *LR* judgement; and IELTS's own
@@ -291,8 +297,15 @@ the chart does not show.
 B 185, C 90, D 75, E 40.*
 
 > *Overall, consumption divides the five countries into two clearly separated
-> groups: two use well over twice as much water per head as the remaining three,
-> and the gap between the highest and lowest figures is more than fivefold.*
+> groups: two use more than twice as much water per head as any of the remaining
+> three, and the gap between the highest and lowest figures is more than fivefold.*
+
+Check the multiple against the *closest* pair before you write it, exactly as §4
+tells you to check a range against the worst column. The narrowest gap across the
+group boundary is B against C — 185 ÷ 90 = **2.06**, which is *more than twice* but
+nowhere near *well over twice*. Tip 8 warns that *well over* means clearly above;
+using it for 2.06 would be the same TA accuracy error as *plummeted* for a 3% fall.
+The wider claim is safe: 210 ÷ 40 = **5.25**, so *more than fivefold* is true.
 
 **Band-6 mistake.** *Country A increased to 210 litres, while country E decreased
 to 40.* Two trend verbs, no time dimension.
@@ -404,7 +417,17 @@ moulding → annealing → inspection and packing.*
 > *Overall, the process falls into three broad phases: the collection and
 > preparation of used glass, its conversion into molten material and forming into
 > new containers, and finally quality control and despatch. The sequence is linear,
-> ending with bottles that re-enter the same collection system.*
+> though the bottles it produces will eventually return to the collection stage that
+> begins it.*
+
+**Watch the word *linear* here, because §6 is about to make it load-bearing.** This
+process *is* linear: it has a defined start (used glass arriving) and a defined end
+(packed bottles leaving). The fact that those bottles may one day be collected again
+is a fact about the world, not a loop drawn on the diagram. Say *ending with bottles
+that re-enter the same system* and you have described a cycle while calling it a
+line — which is exactly the contradiction §6's trap punishes. **Test: is the return
+arrow drawn on the diagram?** If yes, it is a cycle and §6 applies. If no, it is a
+line, and any return you mention belongs in a subordinate clause, not in the verb.
 
 **Band-6 mistake.** *There are eight stages. First the glass is collected. Then it
 is sorted. Then it is washed.* A count where an overview should be, plus *then*
@@ -467,9 +490,9 @@ retained, was left intact*).
 differences**, and a constant is a finding. Second: assuming you cannot use compass
 language when no compass rose is drawn. **North is the top of the map.**
 
-**Worked example.** *Ashcombe village, 1985 and 2025. 1985: farmland north of the
-river; a fishing harbour, cottages, a church and a primary school to the south; a
-ferry crossing. 2025: the farmland is a housing estate; the harbour is a marina;
+**Worked example.** *Ashcombe village in 1985 and today. **1985:** farmland north of
+the river; a fishing harbour, cottages, a church and a primary school to the south; a
+ferry crossing. **Today:** the farmland is a housing estate; the harbour is a marina;
 the school has been extended; a road bridge replaces the ferry; the church is
 unchanged.*
 
@@ -478,9 +501,26 @@ unchanged.*
 > change being the loss of farmland on the north bank. The church at the centre of
 > the old village is the one feature to have survived the period untouched.*
 
-Dated 1985 → 2025 with "today" implied, so **present perfect passive** throughout.
+**Why present perfect passive throughout — and do not guess this.** The second plan
+is labelled *today*, not with a date, so the change runs up to the present moment and
+English marks that with the present perfect: *has been transformed*, *has been
+extended*, *the woodland has been cleared*.
 
-**Band-6 mistake.** *In 1985 there was a farmland in the north. In 2025 there is a
+**Change one word of the prompt and the whole report changes tense.** Had the second
+plan read *2025* — two dated snapshots, both closed — you would be describing two
+finished moments, and the report goes into the **past simple passive** throughout:
+*the farmland **was replaced** by a housing estate*, *a road bridge **was built** in
+place of the ferry*, *the church **was left** untouched*. Both versions are in the
+tense table above; they are different rows.
+
+**The decision procedure, three seconds:** read the label on the second plan. A
+**date** (*2025*, *last year*, *2010*) → past simple passive. An **undated present**
+(*today*, *now*, *at present*, *the present day*) → present perfect passive. A
+**future or proposed** plan (*proposed*, *planned*) → modal passive, *will be
+constructed*. Never infer "today" from the fact that a date is recent — 2025 is a
+date, and this book is being read in 2026.
+
+**Band-6 mistake.** *In 1985 there was a farmland in the north. Today there is a
 housing estate in the north. In 1985 there was a harbour…* Two parallel
 descriptions, no change verbs, and *a farmland* where English takes no article.
 
@@ -808,6 +848,20 @@ trends, differences or stages", you have the superseded 2013 edition — close i
   prominence, information selected and supported with figures, and an overview
   *attempted* and relevant. But some detail may be irrelevant, inappropriate or
   inaccurate, and some missing or excessive.
+- **5** — The task's requirements are *generally* addressed; format may be
+  inappropriate in places. Selected key features are **not adequately covered** and
+  the recounting of detail is **mainly mechanical**; there may be a tendency to focus
+  on details *without referring to the bigger picture*; irrelevant or inaccurate
+  material in key areas detracts; limited detail when extending and illustrating.
+  This row also carries the page's **one bolded clause** — *"There may be no data to
+  support the description"* — and the PDF's legend reserves bold for negative
+  features that limit a rating.
+
+**Why band 5 is printed here.** Your baseline is undiagnosed, and a first drill can
+land at 5.5. Read the band-5 row as the description of a *list*: features covered
+mechanically, detail without the bigger picture. That is the answer this whole
+chapter is built to stop you writing, and recognising it in your own script is worth
+more than admiring band 8.
 
 **The 6→7 gate — three things, all required:** the overview must be **clear**, not
 merely attempted; the data must be **categorised**; the main trends or differences
@@ -839,6 +893,16 @@ Same data — now grouped, the trend named, the relationship stated. Nothing rar
   effect, but cohesion within or between sentences may be **"faulty or
   mechanical"**, and reference and substitution may lack flexibility, producing
   repetition or error.
+- **5** — Organisation is evident but not wholly logical, and overall progression may
+  be lacking, though an underlying coherence survives. The relationship of ideas can
+  be followed, but the sentences are **not fluently linked** to each other. Cohesive
+  devices may be limited or overused, with some inaccuracy, and the writing may be
+  repetitive because reference and substitution are inadequate or inaccurate.
+
+Note what separates 5 from 6 here, because it is not the number of linkers: at 6 the
+progression is *clear*, at 5 it is merely *underlying*. Adding *moreover* to a band-5
+script does not move it; ordering the paragraphs so the reader never has to work out
+why one follows another does.
 
 **The 6→7 gate — two moves, and nobody makes the second.** Stop bolting a connector
 onto every sentence; and **use reference and substitution**, which band 7 names.
@@ -869,6 +933,15 @@ same downward path*), substitution (*a decline* standing in for a whole clause).
 - **6** — Generally adequate and appropriate; meaning clear despite a fairly
   restricted range or imprecise word choice; a risk-taker shows more range but more
   inaccuracy; some spelling and word-formation errors that do not impede.
+- **5** — The resource is **limited but minimally adequate**. Simple vocabulary may
+  be accurate, but the range does not permit much variation in expression; there may
+  be frequent lapses in appropriacy of word choice, and inflexibility shows in
+  frequent simplification or repetition. Spelling and word-formation errors may be
+  **noticeable and may cause the reader some difficulty**.
+
+The 5→6 step is about *impeding*: at 6 the errors do not impede communication, at 5
+they cause the reader difficulty. The trend toolkit and the six word families above
+are the whole difference on a Task 1 report.
 
 **The 6→7 gate: precision and collocation, not rarity.** Note the scope hedge the
 2023 wording adds at bands 7–9 — precision is judged *within the scope of the
@@ -913,6 +986,16 @@ Not one rare word — common items in **correct collocation**. That is band-7 LR
 - **6** — A mix of simple and complex forms, limited flexibility, and **complex
   structures noticeably less accurate than simple ones**; errors occur but rarely
   impede.
+- **5** — The range of structures is **limited and rather repetitive**. Complex
+  sentences are *attempted* but tend to be **faulty**, and the greatest accuracy is
+  achieved on simple ones. Grammatical errors may be **frequent and cause the reader
+  some difficulty**, and punctuation may be faulty.
+
+Read bands 6 and 5 as one continuum and the diagnosis is easy. At 5 your complex
+sentences are *faulty*; at 6 they are merely *less accurate than your simple ones*;
+at 7 they are as accurate as your simple ones. Your position on that ladder is
+decided by the four low-risk structures below — whether you can run them without
+breaking them, not whether you know harder ones.
 
 **The 6→7 gate — two independent things, both required.** (1) Around **four
 sentences in ten completely error-free**, rising to five — see tip 5 for why this is
@@ -936,11 +1019,22 @@ One forty-word run-on joined twice by *and*; *peoples*, *childrens*, *was increa
 resumptive *it*, plus commentary that adds nothing.
 
 > ✓ **7.** *The number of children travelling by car rose over the period, while
-> those walking to school fell substantially. This reversal, which took place
+> the number walking to school fell substantially. This reversal, which took place
 > gradually rather than abruptly, was the most striking change in the chart.*
 
-Two sentences; a participial modifier, substitution (*those*), a subordinator, a
+Two sentences, and four structures: a participle clause modifying a noun
+(*travelling by car*, *walking to school* — see §The trend toolkit for what a
+participle clause is), **ellipsis** (*the number walking* leaves *of children*
+unwritten because the reader can supply it), a subordinator (*while*), and a
 non-defining relative clause. Both error-free.
+
+**An earlier draft of this model read *while **those** walking to school fell* — and
+it was wrong.** *Those* is a substitution item, so it has to stand in for something
+already on the page, and the only candidate is *the number*, which is singular. It
+also produces a claim the chart cannot support: numbers fall, children do not. Tip 6
+is right that substitution is worth marks, but the rule that comes with it is
+**every substitute must have exactly one possible antecedent.** When it does not,
+ellipsis is the safer device and costs the same number of words.
 
 ---
 

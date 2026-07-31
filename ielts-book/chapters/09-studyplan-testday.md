@@ -263,7 +263,8 @@ centre confirms it exists.
 
 ## Question types, one by one
 
-Here, the "types" are study plans. Three of them, all built on 90 minutes a day.
+The "types" in this chapter are the **three study plans** — 6, 8 and 10 weeks — and the daily
+architecture they all share. All three are built on 90 minutes a day.
 
 ### The daily architecture — 70 / 20 / 10
 
@@ -290,8 +291,14 @@ this table wins — so you never spend a decision on it.
 
 | | Plan | Write | Check | Stop writing at | Word target | Hard floor |
 |---|---|---|---|---|---|---|
-| **Task 1** | 3 min | 12 min | 3 min | **17 min** | 170–190 | 150 |
+| **Task 1** | 5 min | 12 min | 3 min | **17 min** | 170–190 | 150 |
 | **Task 2** | 5 min | 32 min | 3 min | **37 min** | 270–290 | 250 |
+
+Each row adds to its own budget — 5 + 12 + 3 = 20 for Task 1, 5 + 32 + 3 = 40 for Task 2 —
+and "stop writing at" is planning plus writing, with the check block after it. Task 1's five
+planning minutes are two jobs: three to read the visual and find the extremes, two to decide
+the grouping and compose the overview, exactly as Chapter 4's 20-minute budget table splits
+them.
 
 Reading: 19 minutes per passage plus a 3-minute sweep, all inside the hour — there is no
 separate transfer time `[src: ielts.org — IELTS Academic: Reading test format]`. Listening:
@@ -305,11 +312,12 @@ length while the on-screen counter says you are fine.
 
 ### How to read this book inside the nine-minute rule
 
-This book is about 70,000 words. At a careful reading pace on dense prose with tables, that
-is roughly eight hours of first reading — and nine minutes a day across an eight-week plan
-gives you about eight and a half hours in total. **Reading this book once, straight through,
-would consume your entire theory budget for the entire course.** So do not read it straight
-through. It is a reference work with a small compulsory core.
+The nine chapters of this book run to about 88,000 words. At a careful reading pace on dense
+prose with tables, that is roughly ten hours of first reading — and nine minutes a day across
+an eight-week plan gives you 504 minutes, about eight and a half hours, in total. **Reading
+this book once, straight through, would consume more than your entire theory budget for the
+entire course, and leave you nothing to learn with.** So do not read it straight through. It
+is a reference work with a small compulsory core.
 
 **Day zero — one setup cost, outside the nine-minute rule.** Before day 1, spend two
 sittings of about 45 minutes reading these, end to end, in this order:
@@ -466,6 +474,18 @@ Task 2, Listening discipline, and the interface. And seriously consider moving t
 date: you may change your test date once, at any time before the test, provided the
 new date is within three months of the original — otherwise the transfer is treated
 as a cancellation `[src: ielts.org — Cancellations, refunds, remarks and transfers]`.
+
+**How the hour totals are calculated, so you can check them.** Seven sessions a week at 90
+minutes is 10.5 hours a week: 6 × 10.5 = 63, 8 × 10.5 = 84, 10 × 10.5 = 105. The rotation
+genuinely runs seven days — Sunday is a working review day, not a day off — so these are real
+numbers, not aspirational ones. The only day the plans give you off is day 7 of the taper
+week, which takes about ninety minutes back off each total; that is what the ≈ is doing. Add
+the keyboard plan's 3.5 hours on top if §The keyboard plan applies to you.
+
+**A word used in every plan table below: *taper*.** It is borrowed from endurance training
+and it means the deliberate reduction of load in the final week so you arrive rested rather
+than depleted. It is not slacking, and it is not optional — see Myth *"Study hard right up to
+the day before."*
 
 ### 6-week plan — ≈63 hours
 
@@ -657,6 +677,11 @@ mistake can impact your performance in the remaining sections" `[src: ielts.idp.
 — Mastering focus for IELTS success]`. On computer Listening this is the highest-
 value line in this chapter: the missed answer costs one mark, and four seconds of
 regret costs you the next three.
+**Procedure, so it is a reflex and not a resolution:** the moment you notice a miss, do three
+things in this fixed order — type any plausible word inside the limit, click Review to mark
+the question, and put your eyes on the next question number *before* you finish the thought.
+Rehearse it by deliberately skipping one question in every practice section, so the recovery
+is something you have done fifty times rather than something you decide on the day.
 
 **11. Use 4-4-6 breathing at three specific moments.** `[verified]` "Inhaling deeply
 through your nose for four seconds, holding your breath for four seconds, and
@@ -943,8 +968,8 @@ here it expires — a skill you cannot acquire in the last fortnight.
 
 **French and Arabic interference is where your Writing marks actually go**, and the
 data agrees: Arabic-L1 candidates average 5.54 on Academic Writing, French-L1
-candidates 6.15 `[src: ielts.org — IELTS test taker performance data 2024–2025
-(xlsx)]`. Your error log is your real syllabus. When you sort errors in week 2 of
+candidates 6.15 `[src: ielts.org — Test statistics → test taker performance data 2024–25]`.
+Your error log is your real syllabus. When you sort errors in week 2 of
 the 8-week plan, expect the L1 bucket to be the fattest, and expect it to be worth
 more marks than any structural fix.
 
@@ -1022,7 +1047,7 @@ Answer yes or no. Every "no" is an action, not a reflection.
 
 ### The night-before checklist
 
-The audit above is a *preparation* checklist. This is the *night-before* one — fifteen
+The audit above is a *preparation* checklist. This is the *night-before* one — thirteen
 tickable lines so you assemble nothing at 6 a.m.
 
 **By the door, tonight:**

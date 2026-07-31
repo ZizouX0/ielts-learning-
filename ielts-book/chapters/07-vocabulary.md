@@ -180,6 +180,23 @@ already own every word in it.
 
 ## Question types, one by one — the six components of Lexical Resource
 
+**The three words this chapter defines for the rest of the book.** Chapters 4, 5, 6 and 8
+all use these terms and all point back here. If you read nothing else in this chapter, read
+this table — it is the vocabulary you need in order to read the vocabulary advice.
+
+| Term | In plain words | Test it on yourself |
+|---|---|---|
+| **Collocation** | Which words habitually keep company with which. Not a rule of grammar and not a matter of meaning — pure habit. *Strike* a balance, *pose* a threat, *conduct* research. *Hit a balance* is perfectly logical and completely wrong. | Say the phrase aloud without the noun: *strike a…* If nothing comes, you have a word, not a collocation. §1 |
+| **Hedging** | Deliberately weakening a claim so that it is defensible instead of asserting it flat. *Young people are addicted to phones* → *Young people appear to be increasingly reliant on phones.* The **stance** half of the same job is marking what you think of the claim: *worryingly*, *encouragingly*, *admittedly*. | Find every *all / always / never / everyone* in your draft. Each one is an unhedged claim. §5 |
+| **Register** | The level of formality a piece of language belongs to — *kids* / *children* / *offspring*. None is a better word in the abstract; only one belongs in an Academic Task 2. Academic Writing is formal and impersonal; Speaking is conversational, and forcing written register into speech is itself an error. | Would you write it in a letter to a university admissions office? If not, it fails Writing register. §3 |
+
+Two more terms the descriptors use and this chapter borrows. **Appropriacy** is IELTS's word
+for "does this word fit *this* task, sentence and register" — it is the *appropriate* half of
+"accurate and appropriate", and it is why a real word can still be a scored error. A
+**cognate** is a word that looks and means roughly the same in two languages —
+French *analyser* / English *analyse* — which is the free gift French gives you, and the trap
+the false-friend list below covers.
+
 ### 1. Collocation
 
 **What it is.** Which words habitually keep company with which. *Strike a balance*,
@@ -598,15 +615,28 @@ week you meet it.
 with the same error types and the same adequate range scored 5.5 and 7.5; the only
 difference the examiner recorded was *frequent* versus *occasional*. Removing ten
 errors is worth more than adding ten words.
+**Procedure:** on your next graded script, circle every LR error — wrong word, wrong
+collocation, wrong suffix, misspelling — and divide by the word count. That number, errors
+per hundred words, is the only vocabulary metric worth tracking. Put it in
+`band-tracker.md` beside the LR band and do not add a single new item to your cards until
+it has fallen twice in a row.
 
 **2. Build the hedging kit first.** `[verified]` It is the one lexical feature an
 official examiner explicitly named as higher-level at band 7.5, it costs nothing in
 new vocabulary, and it simultaneously repairs the band-7 Task Response weakness of
 over-generalising.
+**Procedure:** the hedging table in §5 has eight rows. Take one row a day for eight days
+and use every item in that row at least once in the day's writing or speaking drill. On day
+nine, run self-test item 3 on an old essay and repair every absolute claim you find. That
+is the whole kit, learned inside the ten-minute daily slot.
 
 **3. Learn phrases, never headwords.** `[verified]` Sub-feature 4 assesses
 collocation; band 7 requires evident awareness of it; the band-8.5 script was
 credited for it and the band-4 script faulted for it.
+**Procedure:** the front of the card is a phrase with a gap in it — *place a strain ___
+health services* — never a single word, and never the English word with its French meaning
+on the back. If you cannot write the card as a gapped phrase, you have not yet found the
+collocation, only the word.
 
 **4. Spend a full study block on your own spelling list.** `[verified]` Spelling
 sits inside LR, appears at every band, held one official script down by itself, and
@@ -636,6 +666,11 @@ collocation, register and countability, which are three of the things LR measure
 `[verified]` The Speaking scale names paraphrase at bands 6, 7 and 8 and tolerates
 inappropriate vocabulary at band 6 provided meaning is clear. The Writing scale does
 neither. Same criterion name, different priorities.
+**Procedure:** for Speaking, pick five concrete nouns you do not know in English (a tool, a
+dish, a piece of infrastructure) and record yourself getting round each one in under fifteen
+seconds using the three escape routes in §4 — define it, give its function, give an example.
+For Writing, take a graded essay and for every substituted word ask only: *is this the exact
+word, or the nearby one?* Put back every substitution you cannot defend.
 
 **10. Repeat *people* and *in conclusion* without guilt.** `[expert consensus]`
 Some words have no synonym, and linking phrases are scored under Coherence and
@@ -660,8 +695,8 @@ optimises for the wrong half of the criterion.
 **MYTH 1 — "Use rare, impressive words to show your range."** The band-6 cell
 contains a description of exactly this candidate — the risk-taker with the wider
 range and the higher inaccuracy — and places them at band 6. Band 8 credits
-uncommon items only *when appropriate*. The official 7.5 script
-contains no showpiece vocabulary at all. **Why it hurts:** rare words add error
+uncommon items only *when appropriate*. The 7.5 script whose lexis an examiner discussed in
+detail contains no showpiece vocabulary at all. **Why it hurts:** rare words add error
 density — the metric the criteria actually names — without adding credit unless
 collocation, part of speech and register are all correct simultaneously. IDP states
 plainly that you do not need very uncommon words
