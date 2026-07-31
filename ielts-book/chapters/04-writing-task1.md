@@ -832,7 +832,11 @@ the official assessment criteria [src: Key Assessment Criteria PDF p.1].
 
 Restated in my own words from the **May 2023** Task 1 descriptors
 [src: `ielts.org/cdn/ielts-guides/ielts-writing-band-descriptors.pdf`, created
-2023-05-03, pp. 3–5]; one short official phrase quoted per criterion. If you find a
+2023-05-03, pp. 3–5]; one short official phrase quoted per criterion, everything else
+paraphrase. **Each criterion runs bands 8 down to 5**, because your baseline is
+undiagnosed and a first drill can land at 5.5 — a decoder that stops at 6 leaves you
+without the language for what you actually wrote. Find your own script in the rows
+first, then work upward. If you find a
 descriptor PDF whose band-7 TA line reads "presents a clear overview of main
 trends, differences or stages", you have the superseded 2013 edition — close it.
 

@@ -316,7 +316,9 @@ rated on the same four criteria as everything else. Three things to know:
 > **Band 7.** "I'd like to, yes — though I suspect I'd be a far less patient teacher than she
 > was."
 
-One sentence, a stance marker, a hedge and a comparative. Still short, still not flat.
+One sentence, a stance marker, a **hedge** (*I suspect* — softening a claim so that it is
+defensible instead of asserting it flat; the full kit is below in Part 3) and a comparative.
+Still short, still not flat.
 
 **The eight card shapes, and the tense each one hands you.** IELTS publishes no taxonomy of cue
 cards, so treat this as **a preparation heuristic, not an official list.** What is official is
@@ -418,13 +420,21 @@ Direct answer, reframing, a specific example, a genuine concession, a consequenc
 Structurally: *less about X than about Y*, a perfect participle, a modal, a non-defining
 relative. Not one rare word in it.
 
-**Traps.** *Reverting to the personal* — Part 3 asks about people in general; "For me, I use my
-phone a lot" dodges the analysis the part exists to elicit. Use yourself as an example *inside*
-a general claim, never as the claim. *Length inflation* — longer than Part 1, but still
-answers, not speeches. *Silence* — going off-topic is a coherence risk and bare non-answers a
-fluency risk `[src: ielts.idp.com — Speaking Part 3]`; saying something imperfect beats saying
-nothing. *Over-asking for clarification* — allowed here, but not on every question; stop after
-two attempts and pivot.
+**Traps.** *Reverting to the personal* — Part 3 asks about people in general, and IDP says the
+examiner will actively push you off personal ground: "If you try and talk about yourself and
+your family, the examiner will steer you away from these familiar topics and will encourage you
+to speak in a general way", the instruction being to "discuss all topics in a general manner"
+`[src: ielts.idp.com — How to perform at your best in part 3 of the Speaking test, fetched
+2026-07-31]`. Use yourself as an example *inside* a general claim, never as the claim. *Length
+inflation* — longer than Part 1, but still answers, not speeches. The same page's positive
+instruction is "It is important that you attempt to extend your responses as much as you can"
+(same source), which is the ceiling *and* the floor: extend, do not orate. *Silence* — saying
+something imperfect beats saying nothing, and the reason is the grid rather than any teaching
+page: going off-topic is a **coherence** risk, because relevance to the purpose of the turn is a
+named coherence indicator, and a bare non-answer is a **fluency** risk, because band 7 is defined
+by readily producing long turns. *Over-asking for clarification* — allowed here, and the same IDP
+page confirms it ("Your examiner will explain a term to you if you ask"), but not on every
+question; stop after two attempts and pivot.
 
 **Band-6 failure mode:** opinion, one reason, stall — then rescue by restating the opinion in
 different words.
@@ -645,7 +655,12 @@ examiners judging the modes equivalent.
 Paraphrased from the current official descriptors
 `[src: ielts.org — Speaking band descriptors (PDF, 2025)]`, with operational definitions from
 `[src: ielts.org — Speaking key assessment criteria (PDF, 2023)]`. One short quotation per
-criterion.
+criterion; everything not in quotation marks is paraphrase.
+
+**Each criterion runs bands 8 down to 5.** Band 5 is here on purpose: your baseline is
+undiagnosed, a first recorded Part 2 can land at 5.5, and a decoder that stops at 6 gives you
+no language for what you actually produced. Read the band-5 row first, find the sentence that
+describes your own recording, and work upward from there.
 
 ### Fluency & Coherence
 
@@ -654,6 +669,15 @@ criterion.
 | **8** | Fluent, only occasional repetition or self-correction. Hesitation may still occasionally be for language, but most is about **content**. Topic development coherent, appropriate, relevant. |
 | **7** | Keeps going, readily produces long turns, no visible effort. Hesitation, repetition and self-correction occur, often **mid-sentence**, and do signal difficulty reaching the right language — but *"these will not affect coherence."* Markers, connectives and cohesive features used **flexibly**. |
 | **6** | Keeps going, willing to produce long turns. **Coherence is lost at times** through hesitation, repetition or self-correction. Uses a range of markers, but not always appropriately. |
+| **5** | *Usually* able to keep going, but **relies on repetition and self-correction to do so, and/or on slow speech**. Hesitations are often mid-sentence searches for fairly **basic** lexis and grammar. **Overuse** of certain discourse markers and cohesive features. More complex speech usually causes disfluency; simpler language may still be fluent. |
+
+**Band 5 is printed here because it is the row that diagnoses tip 1.** Look at what
+separates it from 6: at 5 you *rely* on repetition to keep going, at 6 repetition
+merely costs you coherence at times, and at 7 it happens without costing coherence at
+all. Same behaviour, three bands, distinguished only by how load-bearing it is. That
+is why tip 1 makes repeating your last words step **3** and not step 1. Note also that
+*slow speech* appears as a band-5 limiter — which is the other jaw of the trap the
+Pronunciation section closes with: slow costs Fluency, fast costs Pronunciation.
 
 **The 6→7 jump is coherence survival, not silence.**
 
@@ -674,6 +698,13 @@ hears a speaker retrieving language, not a speaker losing control.
 | **8** | Wide resource, used readily and flexibly across all topics for precise meaning. Skilful use of less common and idiomatic items despite occasional slips. Paraphrases effectively. |
 | **7** | Used flexibly across a variety of topics. Some ability with less common and idiomatic items; **awareness of style and collocation** visible, though inappropriate choices occur. *"Effective use of paraphrase as required."* |
 | **6** | Sufficient to discuss topics at length. Word choice may be inappropriate, but meaning comes through. **Generally** able to paraphrase. |
+| **5** | Resource sufficient to discuss familiar *and* unfamiliar topics, but with **limited flexibility**. Paraphrase is *attempted* but **not always with success**. |
+
+Notice what band 5 does *not* say: it does not say your vocabulary is too small. It
+says you cannot move it around. The 5→6→7 ladder on this criterion is entirely about
+paraphrase — *attempted, not always successfully* at 5, *generally successful* at 6,
+*effective as required* at 7 — which is why the drill is rerouting round a missing
+word, not learning more words.
 
 > **Band 6 — paraphrase succeeds, but visibly:** "…the thing you use for, you know, to keep the
 > food cold."
@@ -693,6 +724,14 @@ Going silent is.
 | **8** | Wide range of structures, flexibly used; majority of sentences error-free. Occasional inappropriacies, non-systematic errors. **A few basic errors may persist.** |
 | **7** | A range of structures used flexibly. *"Error-free sentences are frequent."* Both simple and complex sentences used effectively despite some errors. **A few basic errors persist.** |
 | **6** | A mix of short and complex sentence forms and a variety of structures, with limited flexibility. Errors frequent in complex structures, though they rarely block communication. |
+| **5** | **Basic** sentence forms are fairly well controlled for accuracy. Complex structures are attempted, but they are **limited in range, nearly always contain errors, and may lead to the need for reformulation**. |
+
+Band 5 is where the six drilled structures earn their place. At 5 a complex sentence
+*nearly always* breaks and you have to start it again — which costs Fluency as well,
+because reformulation is exactly the repetition-and-self-correction band 5's Fluency
+cell is built on. One collapsing conditional damages two criteria at once, and that
+is the whole argument for drilling six structures to automaticity rather than
+collecting more of them.
 
 Read that carefully; it reverses the standard revision priority — but read the quantifier too.
 Band 7 does **not** demand that you eliminate article errors or missing third-person *-s*: those
@@ -730,6 +769,13 @@ to*).
 | **8** | Wide range of features conveying precise and subtle meaning. **Can sustain appropriate rhythm.** Flexible stress and intonation across long utterances, occasional lapses. Easy to understand throughout. **Accent has minimal effect on intelligibility.** |
 | **7** | **Defined only by reference to its neighbours:** all the positive features of band 6, plus some — not all — of band 8. |
 | **6** | Uses a range of features, but **control is variable**. Chunking generally appropriate, but *"rhythm may be affected by a lack of stress-timing and/or a rapid speech rate."* Some effective use of intonation and stress, not sustained. Individual words or phonemes may be mispronounced, causing occasional lack of clarity. Can generally be understood throughout without much effort. |
+| **5** | **Defined only by reference to its neighbours, exactly as band 7 is:** all the positive features of band 4, plus some — not all — of band 6. |
+
+Band 5 is worth reading precisely *because* it is empty. It confirms the structure
+this section turns on: on Pronunciation, IELTS writes out bands 9, 8, 6, 4, 2 and 1,
+and defines 7, 5 and 3 by reference to the rows above and below. So there is nothing
+to "do" at band 7 except own band 6 outright and take some of band 8 — which is the
+cheapest, most mechanical instruction anywhere in this test.
 
 Bands 5 and 7 have no positive features of their own. That is not a drafting accident — it tells
 you exactly how to reach 7: **secure every band-6 feature completely, then buy band-8 features

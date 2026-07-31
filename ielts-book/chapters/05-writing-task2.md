@@ -157,15 +157,17 @@ development, not the missing words.
 document answers *"Will I be penalised if I don't write enough words?"* with *"There
 is no direct penalty for writing fewer than 150 words for the Task 1 question and 250
 words for the Task 2 question. However, writing fewer words may impact on the range
-of ideas and evidence produced and may therefore affect your score"* — and then, four
-pages earlier, prints a flat instruction in its Writing **Don't** list: *"Don't write
-less than the required number of words"*
+of ideas and evidence produced and may therefore affect your score"* — and, a page
+earlier in the same document, prints a flat instruction in its Writing **Don't**
+list: *"Don't write less than the required number of words"*
 [src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF), pp. 7–8, fetched
 2026-07-31]. Quote only the permissive half and Cambridge looks more relaxed than it
 is; quote only the prohibition and you have invented a tariff. **Neither sentence is
 a deduction, and the two together say exactly what the grid says:** going short is a
-real mistake, and the place it is marked is the range of ideas and evidence — which
-is Task Response, Lexical Resource and Grammatical Range, not a subtraction.
+real mistake, and Cambridge names the place it is marked — the *range of ideas and
+evidence produced*. That is Task Response first, with Lexical Resource and
+Grammatical Range following, because a short script simply shows the examiner less of
+either. A mechanism, not a subtraction.
 
 Official commentary on a computer-delivered script of roughly 198 words does
 exactly that. The examiner notes the position is clear and the ideas relevant,
@@ -691,6 +693,13 @@ Paraphrased from the **May 2023** Task 2 descriptors
 pp.7–9; PDF metadata confirms creation 2023-05-03], with at most one short quoted
 phrase per criterion. The 2013 edition still circulating online differs in at least
 one place that matters, and must not be used.
+
+**Each table runs bands 8 down to 5.** Band 5 is included because your baseline is
+undiagnosed and a first essay can land at 5.5, and because the two bolded
+rating-limiting clauses on the whole bands 6/5/4 page — *incompletely addressed* and
+*paragraphing may be inadequate or missing* — **both sit in the band-5 row**, which is
+the extraction §Length asks you to reproduce yourself. Reading band 5 is how you check
+that finding rather than take it on trust.
 
 ### Task Response
 
