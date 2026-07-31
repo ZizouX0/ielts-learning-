@@ -420,9 +420,9 @@ the whole text"*; it covers one part. `[src: same]`
 
 The paraphrase point is established by the official word-bank sample, where none of the
 four correct option words appears anywhere in the passage it summarises
-`[src: ielts.org — Sample Tasks 2023 PDF, Summary Completion from a list]`. British
-Council adds: *"Where a list of answers is provided, they most frequently consist of a
-single word."* `[src: britishcouncil — Completion questions PDF, p.2]`
+`[src: ielts.org — Sample Tasks 2023 PDF, Summary Completion from a list]`. Bank answers
+*"most frequently consist of a single word."*
+`[src: britishcouncil — Completion questions PDF, p.2]`
 
 **The trap.** Variation 2's bank is full of grammar decoys — every option fits the slot,
 so only meaning can decide. Variation 1's trap is simply over-writing.
@@ -443,10 +443,9 @@ ways: *"contextually, grammatically and adherence to instructions."*
 > absconding." → **D, accidental.** All options fit grammatically; only meaning decides.
 > And *accidental* is not in the passage.
 
-**Marking notes from the official key:** *"Words in brackets are optional — they are
-correct, but not necessary"*; *"Alternative answers are separated by a single slash (/)"*
-— and the keys accept both UK and US spellings, and numbers as figures or words.
-`[src: cambridgeenglish — Task Type 9 PDF, Key to Worksheet 5]`
+**Marking notes from the official key:** words in brackets are optional, alternatives are
+separated by a slash, both UK and US spellings are accepted, and numbers count as figures
+or words. `[src: cambridgeenglish — Task Type 9 PDF, Key to Worksheet 5]`
 
 **The band-6 mistake.** Treating variation 2 like variation 1 — searching the passage for
 the bank words. They are not there.
@@ -814,7 +813,9 @@ hard items. There is no version of this where you answer only the easy ones and 
 
 ---
 
-## L1 alert — Arabic and French traps in Reading
+## L1 alert
+
+**Arabic and French traps inside the passage.**
 
 Reading is the one paper where your French helps before it hurts. Academic English is
 Latinate, and a French speaker reads *ubiquitous*, *mitigate*, *paucity*, *elucidate*,
