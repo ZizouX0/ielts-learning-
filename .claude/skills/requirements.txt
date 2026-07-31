@@ -1,0 +1,41 @@
+# Python dependencies for the skills in this directory.
+# Install with:  pip install -r .claude/skills/requirements.txt
+#
+# Verified working on Python 3.11 with the versions noted in comments.
+
+# --- docx / pptx / xlsx / pdf document skills ---
+python-docx>=1.2.0
+python-pptx>=1.0.2
+openpyxl>=3.1.5
+pypdf>=6.0
+pdfplumber>=0.11
+reportlab>=4.0
+pdf2image>=1.17
+pytesseract>=0.3.13          # OCR path in the pdf skill; needs the tesseract binary
+markitdown[pptx,docx,xlsx,pdf]>=0.1.7
+lxml>=5.0
+defusedxml>=0.7.1
+
+# --- canvas-design / algorithmic-art / slack-gif-creator ---
+pillow>=10.0.0
+numpy>=1.24.0
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+
+# --- webapp-testing ---
+# Pin to the Playwright release whose bundled Chromium revision matches the one
+# already present in this image (see PLAYWRIGHT_BROWSERS_PATH). A newer
+# playwright expects a Chromium revision that is not installed, and
+# `chromium.launch()` then fails unless an explicit executable_path is passed.
+playwright==1.56.0
+
+# --- mcp-builder ---
+# connections.py imports mcp.client.streamable_http.streamablehttp_client,
+# which mcp 2.0 renamed to streamable_http_client. Stay on the 1.x API.
+anthropic>=0.39.0
+mcp>=1.1.0,<2.0.0
+
+# --- misc helpers used across skills ---
+beautifulsoup4>=4.12
+markdown>=3.5
+pyyaml>=6.0

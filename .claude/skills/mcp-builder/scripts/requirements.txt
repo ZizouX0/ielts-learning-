@@ -1,0 +1,4 @@
+anthropic>=0.39.0
+# connections.py imports mcp.client.streamable_http.streamablehttp_client,
+# which mcp 2.0 renamed to streamable_http_client. Stay on the 1.x API.
+mcp>=1.1.0,<2.0.0
