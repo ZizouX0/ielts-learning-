@@ -17,7 +17,7 @@ Listening and Reading are marked out of 40, one mark per question; band 7 is
 officially 30/40 in both. ielts.org and the British Council publish four anchor
 points per paper (bands 5, 6, 7, 8); **IDP publishes the full table, half bands
 included** — Listening 6.5 = 26–29 and 7 = 30–31, Academic Reading 6.5 = 27–29 and
-7 = 30–32 `[src: ielts.idp.com — Listening band scores]`
+7 = 30–32 `[src: ielts.idp.com/thailand/results/scores/listening — IELTS Listening band scores; the table is on IDP’s market pages, not the canonical /results/scores/listening URL]`
 `[src: ielts.idp.com — Reading band scores]`. So the last step is small and
 countable: **in Listening, band 6.5 runs all the way to 29 and band 7 begins at 30
 — one mark.** Boundaries move slightly between versions, so aim at the *top* of a
@@ -289,13 +289,13 @@ There is an official one — it is just not a guarantee. ielts.org and the Briti
 Council publish four anchors per paper (bands 5, 6, 7, 8)
 `[src: ielts.org — IELTS scoring in detail: band scores explained]`; IDP, the third
 joint owner of IELTS, publishes the full table including every half band
-`[src: ielts.idp.com — Listening band scores]`
+`[src: ielts.idp.com/thailand/results/scores/listening — IELTS Listening band scores; the table is on IDP’s market pages, not the canonical /results/scores/listening URL]`
 `[src: ielts.idp.com — Reading band scores]`. Both carry the same warning: "The
 precise number of marks needed to achieve these band scores will vary slightly
 from test version to test version" `[src: ielts.org — IELTS scoring in detail]`,
 and IDP's own caveat is that its figures are the *average* marks required and
 "actual marks may vary slightly between tests"
-`[src: ielts.idp.com — Listening band scores]`. **Do instead:** use the table in
+`[src: ielts.idp.com/thailand/results/scores/listening — IELTS Listening band scores; the table is on IDP’s market pages, not the canonical /results/scores/listening URL]`. **Do instead:** use the table in
 the next section as a planning average, and read every boundary as a floor rather
 than a safe landing — Academic Reading 27 is the *bottom* of 6.5, not a comfortable
 6.5. Aim a mark or two above every line you are targeting.
@@ -389,7 +389,7 @@ included:**
 | 5.5 | 18–22 | 19–22 |
 | 5 | 16–17 | 15–18 |
 
-`[src: ielts.idp.com — Listening band scores]`
+`[src: ielts.idp.com/thailand/results/scores/listening — IELTS Listening band scores; the table is on IDP’s market pages, not the canonical /results/scores/listening URL]`
 `[src: ielts.idp.com — Reading band scores]`
 
 **The two tables agree exactly.** Every ielts.org anchor is the bottom mark of the
@@ -404,7 +404,7 @@ boundaries are equated per version, so "the Band 6 boundary may be set at a slig
 different raw score across individual tests"
 `[src: takeielts.britishcouncil.org — IELTS Guide for teachers (PDF)]`. IDP says the
 same of its own table: these are the *average* marks required, and "actual marks may
-vary slightly between tests" `[src: ielts.idp.com — Listening band scores]`.
+vary slightly between tests" `[src: ielts.idp.com/thailand/results/scores/listening — IELTS Listening band scores; the table is on IDP’s market pages, not the canonical /results/scores/listening URL]`.
 
 **Why the half bands are worth printing, and why "aim for 30" is the weaker
 instruction.** In Listening, band 6.5 runs to **29** and band 7 begins at **30**.

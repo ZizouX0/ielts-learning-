@@ -815,7 +815,7 @@ descriptors. It is a **mark budget**.
 
 **These are official figures, not interpolations.** ielts.org and the British Council
 publish only the band 5/6/7/8 anchors; IDP, the third joint owner of IELTS, publishes the
-full table including every half band [src: T1 ielts.idp.com — Listening band scores], and
+full table including every half band [src: T1 ielts.idp.com/thailand/results/scores/listening — IELTS Listening band scores; on IDP market pages, not the canonical /results/scores/listening URL], and
 its anchors match ielts.org's exactly. IDP's own caveat travels with it: these are the
 *average* marks required, and "actual marks may vary slightly between tests due to the
 variation in listening questions used on different occasions" [src: T1 ielts.idp.com —

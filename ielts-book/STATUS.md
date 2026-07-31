@@ -173,7 +173,7 @@ fix loop.
 - Computer results turnaround: five different official figures (1–2 to 5–7 days).
 - Speaking delivery: face-to-face (ielts.org, IDP) vs "face-to-face or video call" (BC booking).
 - `ONE WORD ONLY` could not be verified verbatim in any official Listening document.
-- No official half-band raw-score table exists — the book must say so rather than publish a fabricated one.
+- ~~No official half-band raw-score table exists — the book must say so rather than publish a fabricated one.~~ **REFUTED by V1 and re-confirmed by V6.** IDP publishes complete half-band tables for both papers. This line stood after it had been disproved and would have instructed a later pass to undo a certified fix; V6 flagged it as a live hazard. Struck rather than deleted, so the error stays visible. The correct position, and its citation, are recorded in `fixes/changelog.md`.
 - One Skill Retake in Tunisia: BC Tunisia hosts an OSR page but names no Tunisian centre. Upgraded from "unconfirmed" to "probable but unconfirmed". Separately, BC Tunisia lists only computer-delivered and IELTS Online — no paper.
 - Whether matching-headings answers follow text order — R3's reading of the official note needs confirming.
 - ielts-simon.com URLs now return 404; any corroboration resting on that site is tagged unverified.

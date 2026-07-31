@@ -1303,3 +1303,46 @@ and lives nowhere else, is untouched and is now the whole of that subsection.
 - **Chapter 7's ten topic banks and the AWL myth at full length.** V5 flagged chapter length
   generally, but this is the chapter those belong to; the deduplication was applied to
   Chapter 6's copy of Chapter 7's material, not to Chapter 7's own.
+
+---
+
+## Post-gate repairs (V6)
+
+### `[MAJOR]` `[V6]` — the Listening band-score citation pointed at a page without the table
+
+**Issue.** Chapters 1 and 2 cited `[src: ielts.idp.com — Listening band scores]`
+by page title. V6 followed it: the canonical `ielts.idp.com/results/scores/listening`
+and the Turkey variant carry **no table**, only a single worked example, and IDP
+Japan publishes the four anchors alone. The table is real — V6 found it on
+`ielts.idp.com/thailand/results/scores/listening`, matching both chapters row for
+row with the caveat quote verbatim — but a reader checking the obvious URL would
+have found nothing.
+
+**Why it mattered more than a normal citation slip.** This is the book's most
+emphatic sourcing claim. Chapter 2 asserts in bold that these are official
+figures and not interpolations, chapter 1 says official and not a reconstruction,
+the claim **reverses a position the book previously held**, and the whole
+"one mark to band 7" argument rests on it. A sourcing claim that loud must
+survive being checked.
+
+**Change.** All six citations in chapters 1 and 2 now name the market page that
+actually carries the table, and say so explicitly — the table lives on IDP's
+market pages, not on the canonical `/results/scores/listening` URL. Reading needed
+no change; V6 verified `ielts.idp.com/turkey/results/scores/reading/en-gb` exactly.
+
+**Verified.** Editor re-fetched the Thailand page: full table returned, 30–31 for
+band 7 and 26–29 for 6.5, with IDP's caveat that marks may vary slightly between
+tests. Matches both chapters.
+
+**Note on fetching.** `curl` returns 403 on all three IDP score URLs — bot
+protection, the same wall met earlier at the British Council terms page. WebFetch
+retrieves them. A future verifier getting 403 should not conclude the page is
+gone.
+
+### `[MINOR]` `[V6]` — STATUS.md carried a refuted instruction
+
+`STATUS.md` still listed "No official half-band raw-score table exists — the book
+must say so rather than publish a fabricated one" among the open conflicts, long
+after V1 disproved it and V6 re-certified the correction. Left standing, it would
+have told a later pass to undo a fix the gate had just passed. Struck through in
+place rather than deleted, so the error remains visible in the record.
