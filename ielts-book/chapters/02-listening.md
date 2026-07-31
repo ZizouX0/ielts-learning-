@@ -689,9 +689,14 @@ and in North American speech the /t/ is often flapped so it sounds like /d/ [src
 Understanding distractors; T2 IELTS Advantage — common mistakes]. Neither French nor
 Arabic gives you this contrast for free. Drill it across all five accents.
 
-**7. Sound contrasts worth ten minutes a week.** Arabic does not use a /p/ phoneme, so
-*pear/bear*, *cap/cab*, *port/board* deserve regular dictation. A language fact, not an
-IELTS rule — but the cost is real: a misheard proper noun in Part 1 is a mark gone.
+**7. Sound contrasts worth ten minutes a week.** The /p/–/b/ contrast deserves regular
+dictation — *pear/bear*, *cap/cab*, *port/board* — because a misheard proper noun in
+Part 1 is a mark gone. But be precise about what your difficulty actually is: you are a
+fluent French speaker, and **French supplies /p/, so the phoneme is not missing from your
+inventory**. What English adds is *aspiration* on word-initial /p t k/, and that is a
+production issue more than a perception one (see Chapter 6). For Listening, drill the
+contrast anyway — perceiving it under time pressure in an unfamiliar name is a separate
+skill from producing it. A language fact, not an IELTS rule.
 
 **8. The hedging habit.** The more anxious you are about spelling, the more tempted you
 are to type both versions. Both in one box scores zero [src: T1 cambridgeenglish.org —

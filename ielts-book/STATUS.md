@@ -79,6 +79,19 @@ original material. That is the standard for the remaining chapters.
 
 ## Phase 3 — Verification agents (adversarial)
 
+> **BLOCKED — agent capacity exhausted.** All seven still-running writer agents
+> were terminated by a session limit that resets at **16:20 UTC**. No new agents
+> can be launched until then, so V1–V6 are queued rather than running.
+>
+> The writers were killed during optional self-imposed compression passes, not
+> during drafting — every chapter was already complete on disk. Nothing was lost.
+>
+> **Editor pre-verification pass run in the meantime** (main thread, no agents
+> required — see `fixes/changelog.md`). Six clean checks, one `[MAJOR]` found and
+> fixed. This does **not** substitute for V1–V6: it covers only what can be
+> checked without independent re-research. The adversarial verifiers must still
+> run, and are not bound by anything the Editor concluded.
+
 - [ ] V1 — Fact auditor
 - [ ] V2 — Band descriptor auditor
 - [ ] V3 — Coverage auditor
