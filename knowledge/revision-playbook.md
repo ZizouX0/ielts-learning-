@@ -618,21 +618,48 @@ yourself.
 <a id="7"></a>
 ## Chapter 7 — Six structures that buy band 7, and the L1 checklist
 
+### First, the thing almost everyone gets wrong about 6→7
+
+The band-6 descriptor contains this limiter: *examples of more complex structures
+are not marked by the same level of accuracy as in simple structures.*
+
+Read that again, because it inverts the usual advice. **The 6→7 gate is not more
+complexity. It is accuracy *parity* between your complex and simple sentences.**
+
+Which means: **if you are at band 6 and you add complex sentences at your current
+accuracy, you move down, not up.** The move is to make a small number of complex
+structures reliable — not to reach for more of them.
+
+An IELTS-published study of 73 Speaking interviews (Roothooft & Breeze, *IELTS
+Research Reports* 2019/1) makes the same point with numbers, and its findings
+should reorder your practice:
+
+| Structure | What the data shows | What to do |
+|---|---|---|
+| **Relative clauses** | Doubled in frequency from band 6 to 7, at just a **2.2% error rate** | **Your safest band-7 structure.** Drill these first. |
+| **Second conditionals** | Band 7 had the study's *highest* conditional error rate (27.8%) — **every** band-7 second conditional contained an error | High risk. Learn one pattern properly; do not scatter them. |
+| **Third conditionals** | **Zero appeared across all 73 interviews** | Do not spend time here. Nobody at any band uses them. |
+
+So: **relative clauses are the reliable win; conditionals are the trap.** Most
+prep books list them side by side as equally valuable "band 7 structures". The
+evidence says otherwise.
+
 ### The six structures
 
-Band 7 requires "a variety of complex structures with some flexibility and
-accuracy" and **frequent error-free sentences**. Accuracy beats ambition: a
-correct complex sentence earns; a broken one costs twice. Master six and use them
-accurately rather than attempting twelve badly.
+Master these accurately rather than attempting twelve badly. Ordered by
+risk-adjusted value, not by grammatical complexity.
 
-**1. Relative clauses (especially non-defining).**
+**1. Relative clauses (defining and non-defining).** The best return in the list.
 > Students who work part-time report higher stress levels.
 > Tunisia, which has invested heavily in higher education, still sees graduate
 > unemployment.
 
-**2. Conditionals — second and third.**
+**2. Conditionals — the second, done properly.**
 > If governments subsidised public transport, congestion would fall.
-> Had the policy been introduced earlier, the outcome might have been different.
+
+Use one pattern and get it right. The third conditional (*Had the policy been
+introduced earlier…*) is elegant but essentially absent from real band-7
+performance — skip it unless it is already automatic for you.
 
 **3. Participle clauses.** The most reliable band-7 signal, because few
 candidates at band 6 use them.

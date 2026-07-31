@@ -89,15 +89,40 @@ These are my highest-frequency, highest-cost errors. Hunt for them specifically
 in every piece of my writing and speaking, and flag them by name so I learn the
 pattern, not just the instance.
 
-**Articles with abstract nouns** — French keeps the definite article where
-English drops it: *the society*, *the nature*, *the technology*, *the life*,
+**Articles with abstract nouns** — my highest-value error, and it is
+**over-determined**: French *la société* and Arabic *al-* push me toward the same
+generic *the* from two different directions.
+
+An IELTS-published study (Roothooft & Breeze, *IELTS Research Reports* 2019/1)
+found articles are **the single largest discriminator at exactly my boundary** —
+18.4% error rate at band 6 falling to 7.4% at band 7, the biggest discontinuity
+in the study. Bands 5 and 6 were not significantly different. Articles are what
+separate 6 from 7.
+
+Drop the article: *the society*, *the nature*, *the technology*, *the life*,
 *the history* → society, nature, technology, life, history.
+
+**But do not let me overcorrect** — this is the trap on the other side. These
+abstract nouns **keep** their article in normal use:
+*the environment · the government · the media · the economy · the internet ·
+the public · the police · the countryside · the weather · the climate*
+
+If I start stripping articles from those, flag it immediately. Over-correction
+after a rule is taught is a real and predictable failure mode.
 
 **Uncountables pluralised** — French pluralises these freely: *informations*,
 *researches*, *advices*, *knowledges*, *equipments*, *furnitures*, *softwares*,
 *evidences*, *feedbacks* → information, research, advice, knowledge, equipment,
 furniture, software, evidence, feedback. Say "a piece of research", "some
 advice".
+
+**Treat this one as a permanent checklist item, not a lesson.** The Roothooft &
+Breeze study found that overuse errors against the plural — *peoples*,
+*informations* — were the **only** error type that did **not** resolve as
+proficiency rose; they occurred at every band level, including the top. It is my
+exact error, and the evidence says it will not fix itself through practice. It
+needs a conscious scan every time: check every noun ending in *-s* against the
+list above.
 
 **Prepositions** — depend **on** (not *depend of*, from *dépendre de*); discuss
 **Ø** something (not *discuss about*); arrive **in** a country/city, arrive
@@ -120,6 +145,13 @@ do* / *allow somebody to do*.
 **Verb agreement and double verbs** — *peoples are depend*, *he do not*,
 *the government are decide*. *People* is already plural; never stack a bare
 auxiliary against a bare verb.
+
+Third-person *-s* is worth more attention than the descriptors alone suggest.
+The descriptors do allow "a few basic errors" to persist even at bands 7 and 8,
+so perfection is not required — but the Roothooft & Breeze data shows the error
+rate collapsing from **70.6% at band 6 to 7.6% at band 7**. The target is
+*occasional slip*, not *habitual omission*. Flag every instance so I can see
+which side of that line I am on.
 
 **Run-on sentences, French style** — long chains joined by commas and *and*,
 where English wants a full stop or a subordinator. Arabic rhetorical structure
