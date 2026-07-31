@@ -135,10 +135,16 @@ to protect in training.
 ielts.org's format page lists **six** Listening question types: multiple choice;
 matching; plan, map or diagram labelling; form, note, table, flow-chart or summary
 completion; sentence completion; and short-answer questions
-`[src: ielts.org — IELTS Academic: Listening test format]`. Chapter 2 splits the
-fourth of those into its separate printed layouts — form, note, table, flow-chart
-and summary each behave differently on screen even though the marking rules are
-identical — and so works through eleven layouts rather than six.
+`[src: ielts.org — IELTS Academic: Listening test format]`. Chapter 2 works through
+**eleven** layouts rather than six, and the arithmetic is worth following so the two
+counts never look like a disagreement. It splits the fourth type — the completion
+family — into its five printed layouts, because form, note, table, flow-chart and
+summary each behave differently on screen even though the marking rules are
+identical. It also splits multiple choice into its **one-answer** and
+**multiple-answer** forms, because a *choose TWO* item occupies two question numbers
+and is worth two marks, which changes what a mistake costs. The remaining four types
+— matching, plan/map/diagram labelling, sentence completion and short-answer
+questions — carry across unchanged. Five plus two plus four is eleven.
 
 Answers are marked for spelling and grammar, and both British and American
 spellings count
@@ -230,8 +236,12 @@ an average.
 
 **2. Start Writing in week one and never stop it.** `[expert consensus]` It is
 the slowest-moving paper and, for both your first languages, the lowest-scoring
-one (see *L1 alert*). **When this fails:** doing Writing *only*. Daily essays plus
-untrained Listening produces 6.5 Writing, 6.0 Listening, and a miss.
+one (see *L1 alert*). **How, concretely:** Chapter 9 §The weekly rotation gives
+Writing the largest share of every week from week one and shows what the other
+papers get; Chapter 9 §Why Writing gets the most time explains the trade-off against
+this chapter's "buy your half-bands in Listening and Reading". Take the rotation from
+there rather than improvising a split. **When this fails:** doing Writing *only*.
+Daily essays plus untrained Listening produces 6.5 Writing, 6.0 Listening, and a miss.
 
 **3. Protect Task 2's forty minutes as arithmetic, not discipline.** `[verified]`
 "Finish Writing Task 1 after about 20 minutes to allow enough time to answer
@@ -257,7 +267,10 @@ little text as you want without any impact on your test result", and you need no
 clear it before moving on
 `[src: takeielts.britishcouncil.org — IELTS on computer: Highlighting text]`.
 
-**7. In Listening, write what you hear, not your paraphrase.** `[verified]` "Don't
+**7. In Listening, write what you hear, not your paraphrase.** `[verified]`
+(*Paraphrase*, throughout this book, means saying the same thing in different words.
+Listening pays you for the speaker's words; Writing and Speaking pay you for yours.)
+"Don't
 try to rephrase what you hear. Try to write down the words you hear which fit the
 question" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`.
 **When this fails:** in Writing, where the rule inverts — "Don't simply copy words
@@ -522,7 +535,9 @@ requirement of every institution you are applying to before you optimise anythin
 ## L1 alert
 
 Official IELTS test-taker performance data for 2024–25, IELTS Academic, by first
-language `[src: ielts.org — Test taker performance data 2024-2025 (XLSX)]`:
+language `[src: ielts.org — Test statistics → "Download test taker performance data
+2024-2025 (XLSX)"; cite the parent page, because the CDN path to the file has already
+moved once]`:
 
 | L1 | Listening | Reading | Writing | Speaking | Overall |
 |---|---:|---:|---:|---:|---:|
@@ -535,7 +550,10 @@ and 6.32 for Reading `[src: ielts.org — Test statistics]`.
 Four things follow, and they should shape how you spend ninety minutes a day.
 
 **Writing is the weakest skill for both of your languages, by a wide margin** —
-0.56 below Reading for Arabic L1, 0.85 below for French L1. The same pattern in two
+0.56 below Reading for Arabic L1, 0.85 below for French L1. (Both gaps are taken
+from the unrounded figures in the spreadsheet: French L1 is 7.006 for Reading and
+6.152 for Writing, a gap of 0.85. Subtracting the rounded figures printed in the
+table above gives 0.86; the unrounded number is the right one.) The same pattern in two
 unrelated language families means the problem is the task, not the language.
 Writing is where 7.0 is won or lost, and it responds most slowly to work. Start it
 in week one.

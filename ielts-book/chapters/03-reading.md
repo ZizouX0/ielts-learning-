@@ -19,12 +19,16 @@ conversion, **band 7 starts at 30/40 and band 6.5 at 27** `[src: ielts.idp.com �
 scores]` — so from the floor of 6.5 the gap to 7 is **three marks**, and from the top of 6.5
 (29) it is **one**. Treat **30 as the target** and everything above it as insurance.
 
-The test measures paraphrase recognition and information location, not comprehension. So:
-survey 20 seconds, skim the topic and final sentences, then scan only where the question
-sends you. Never read the passage through first.
+The test measures paraphrase recognition — spotting the same idea said in different words
+— and information location, not comprehension. So: **survey** 20 seconds (look at the
+layout: title, headings, pictures, glossary), **skim** the topic and final sentences (read
+fast, for the shape of the argument only), then **scan** only where the question sends you
+(hunt the page for one specific word or figure, reading nothing else). Never read the
+passage through first.
 
 Know the order table. Ordered — multiple choice, T/F/NG, Y/N/NG, matching sentence endings,
-sentence completion, short answer. Not ordered — matching information, matching features,
+sentence completion, short answer. Not ordered — matching information, matching features.
+Order not guaranteed, but the answers cluster in one region —
 summary/note/table/flow-chart completion, diagram labelling. **Matching headings is the
 special case:** the *questions* run one per paragraph in paragraph order, so work the
 paragraphs top to bottom — but the Roman *numerals* are scrambled, so never expect heading
@@ -1074,9 +1078,10 @@ know where it turns on you.
 
 **False friends inside the passage** are more dangerous here than in Writing, because a
 misread word produces a wrong answer with no warning signal. The full annotated list lives in
-Chapter 8; the table below is the Reading subset, and the fourth column — *what the
-misreading costs you on the answer sheet* — is the part that is specific to this paper and
-worth memorising here.
+Chapter 7 §The false-friend list — false friends are scored under Lexical Resource, so
+vocabulary is their canonical home. The table below is the Reading subset, and the fourth
+column — *what the misreading costs you on the answer sheet* — is the part that is specific
+to this paper and worth memorising here.
 
 | In the passage | You will read | It means | Consequence |
 |---|---|---|---|
@@ -1106,8 +1111,11 @@ the connector first.
 **Articles and plurals become zeros, not style marks.** Your two commonest Writing errors —
 an article before an abstract noun (*the society*, *the nature*) and a plural on an English
 uncountable (*informations*, *researches*, *equipments*) — cost a whole mark in a completion
-gap. The passage reads *"research suggests"*; write *researches* and the mark is gone. The
-fix is not vigilance, it is **copy-paste**: never retype a completion answer.
+gap. The passage reads *"research suggests"*; write *researches* and the mark is gone.
+Chapter 8 §The article decision procedure explains *why* your two languages push you into
+the article error and how to stop producing it in your own prose; here the fix is simpler
+and total, because you are not producing prose at all. It is **copy-paste**: never retype
+a completion answer.
 
 **Litotes.** English academic prose uses understatement where French would negate directly —
 *not uncommon*, *far from conclusive*, *hardly negligible*. Each is a claim in disguise:

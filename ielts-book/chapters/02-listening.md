@@ -201,8 +201,10 @@ extra. Your job is subtraction, not comprehension.
 > "The mill was surveyed in the late eighties, **converted in the nineties**, and
 > finally **reopened to visitors in 2004**."
 
-`converted` — the pre-printed `1990s` is the filter. Read the printed part of the gap
-and accept only audio that matches it.
+`converted` · `2004`. Three verbs and three dates arrive in one sentence, and the
+pre-printed `1990s` is the filter that picks the middle one: *surveyed* belongs to the
+eighties, *reopened* to 2004. Read the printed part of the gap and accept only audio
+that matches it.
 
 *(c) Negated lead-in.* The wrong answer comes first and is fluent in the gap:
 
@@ -214,13 +216,15 @@ and accept only audio that matches it.
 going to be, or what it used to be. ***Proposed* is not *actual*, and *modern* is not
 *recently opened*.**
 
-> *Currently houses the ……… · Building dates from ………*
+> *Currently houses the ……… · Age of building: ………*
 > "A second footbridge was **proposed** in 2018 and never built. The **archive** moved in
 > instead, into what looks like a modern building — it's actually **Victorian**, just
 > refurbished two years ago."
 
-`archive` · `Victorian`. A plan is not a fact; a refurbishment date is not a construction
-date. Scan every gap for the tense and the status it demands before the audio starts.
+`archive` · `Victorian`. A plan is not a fact, so *footbridge* is not the answer to the
+first gap; and a refurbishment date is not a construction date, so *modern* is not the
+answer to the second. Scan every gap for the tense and the status it demands before the
+audio starts: does it ask what exists, what was intended, or what used to be?
 
 **Technique.** Read all ten Part 4 gaps in the opening window; there is no second one.
 Mark two or three gaps whose headings are furthest apart as re-entry points. Track the
@@ -269,6 +273,10 @@ a straight line.
 > "You send in the application form. Now — before the induction, and people forget this
 > — you need **two references** in writing. Once those are through you come to the
 > induction evening, and after that we allocate you a **supervisor**."
+
+`(two) references` · `supervisor`. Note that the speaker delivers the second box
+*before* the third — "before the induction… you need two references" — while the
+questions themselves stayed in order.
 
 **Technique.** In the reading window, say each arrow out loud as a sequence word:
 "first → then → after that → finally." Then listen for **connectives**
@@ -349,6 +357,11 @@ cambridgeenglish.org — FAQs p.3].
 **back-reference** that only works if you retained a definition given seconds earlier;
 and the only option the answering speaker names is the one being **rejected**.
 
+(*Distractor* — the word used from here on — means a wrong option deliberately built to
+be attractive: it uses the words you were listening for, or it answers a question next
+to the one being asked. Every multiple-choice and matching item in this test has them,
+and they are the reason "I heard that word" is not evidence.)
+
 > *Which plan does the customer choose?* A Basic · B Flexible · C Unlimited
 > "We've got Basic, which is pay-as-you-go; Flexible, which lets you carry data over;
 > and Unlimited at the top end." — "Well, I ran out on Basic twice last year, so I'll
@@ -418,10 +431,7 @@ each item's discussion.
 **C**. Two endorsements — his own and a third party's — overturned in four words.
 
 For the box form the mechanic differs: descriptions are paraphrased, and the distractors
-sit in the right semantic field and the wrong category. (*Distractor* — a wrong option
-deliberately built to be attractive: it uses the words you were listening for, or answers
-a question next to the one being asked. Every multiple-choice and matching item in this
-test has them, and they are the reason "I heard that word" is not evidence.)
+(defined under type 7 above) sit in the right semantic field and the wrong category.
 
 > *Which café is in a quiet location?*
 > "Riverside is out past the industrial estate, so it's not central — but it's on the
@@ -432,8 +442,8 @@ test has them, and they are the reason "I heard that word" is not evidence.)
 
 **Technique.** For type (a), mark three symbols — ✓ / ? / ✗ — while listening and
 convert to letters afterwards; faster than holding letters in working memory. For type
-(b), the box items are your anchors: proper nouns survive paraphrase, descriptions do
-not.
+(b), the box items are your fixed points: proper nouns survive paraphrase, descriptions
+do not.
 
 **Band-6 mistake.** Committing on first evidence. Wait for the final clause.
 
@@ -535,10 +545,12 @@ Academic Reading sample tasks 2023]. The 2023 Listening sample tasks use only `N
 THAN THREE WORDS AND/OR A NUMBER` and `NO MORE THAN TWO WORDS`, and research for this
 book could **not verify `ONE WORD ONLY` verbatim in any official Listening document**
 [src: T1 ielts.org — Listening sample tasks 2023]. So Chapter 3 quotes it as standard
-Reading rubric and this chapter does not quote it as standard Listening rubric, and the
-two chapters are not in disagreement: **expect it in Reading; do not assume it in
-Listening.** Either way the behaviour it demands is what you need anyway: **read the
-instruction printed above every task, every time, and obey exactly that.**
+Reading **rubric** — *rubric* meaning the printed instruction line above a set of
+questions, the sentence that tells you what to choose and how many words you may write
+— and this chapter does not quote it as standard Listening rubric. The two chapters are
+not in disagreement: **expect it in Reading; do not assume it in Listening.** Either way
+the behaviour it demands is what you need anyway: **read the instruction printed above
+every task, every time, and obey exactly that.**
 
 ---
 
@@ -593,8 +605,10 @@ Listening to write things down" [src: T1 ielts.idp.com — 9 myths] **[verified]
 *Fails:* either-order pairs, where holding two items before placing them is correct.
 
 **9. Train on five accents, not two.** Parts 2 and 4 carry 20 of the 40 marks in a
-single voice each, so one unfamiliar accent can cost ten marks — a full band
-**[expert consensus]**, derived from the five-accent list above. This is only an
+single voice each, so one unfamiliar accent can cost ten marks. Read that against the
+mark budget in §Band descriptor decoder: ten marks is **at least a full band wherever
+you are on the table, and usually a band and a half** — 30 drops to 20, which is 7.0
+down to 5.5 **[expert consensus]**, derived from the five-accent list above. This is only an
 instruction you can obey if you know where the audio comes from, so the next section
 names the sources, the weekly rotation and the exact ten-minute exercise: see
 **§Where the audio comes from**.
@@ -866,8 +880,10 @@ Writing costs you marks here too, in the same words.
 *informations, researches, advices, knowledges, equipments, furnitures, softwares,
 evidences, feedbacks* into a gap is a spelling error and scores zero — however perfectly
 you heard the word. Drill this list as **Listening dictation**, not just as Writing
-grammar. With Myth 13: match the number you hear, check the gap's grammar, and never add
-`-s` "to be safe".
+grammar — that is the Listening-specific point, and it is why the words are reprinted
+here rather than only in Chapter 7 §Uncountables that French pluralises, which is the
+canonical list and explains the countability rule behind them. With Myth 13: match the
+number you hear, check the gap's grammar, and never add `-s` "to be safe".
 
 **2. French-form words that are not English words.** *Adresse, exemple, développement,
 responsable, significative.* In Writing these cost a fraction of a criterion. Here they
@@ -884,7 +900,8 @@ speaker used. *Formation* ≠ training. *Augmentation* ≠ increase. *Assist* �
 almost every time. **The Listening-specific consequence is what matters here:** in Writing
 a false friend costs you a fraction of one criterion; in a Listening gap it is the whole
 mark, and there is no partial credit to soften it. The full annotated list lives in
-Chapter 8; do not learn it twice.
+Chapter 7 §The false-friend list, which is where vocabulary is scored; do not learn it
+twice.
 
 **5. Spatial prepositions in map tasks.** The highest-value L1 fix in this chapter:
 *en face de* and أمام each cover two English prepositions, and in a map task the
