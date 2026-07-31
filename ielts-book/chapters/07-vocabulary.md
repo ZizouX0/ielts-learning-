@@ -373,7 +373,7 @@ appropriacy dimension `[src: ielts.org — Speaking key assessment criteria (PDF
 The British Council names wrong register as one of the commonest mistakes in the
 Writing test, says slang is never appropriate in formal contexts, and singles out
 phrasal verbs such as *figure out* and *call off* as not always academically
-appropriate `[src: takeielts.britishcouncil.org — common mistakes in IELTS Writing]`.
+appropriate `[src: takeielts.britishcouncil.org/blog/formal-vs-informal-english-ielts-writing — formal vs informal English for IELTS Writing]`.
 
 **The technique.** Three rules, and they run in opposite directions for the two
 papers. In **Academic Writing**: no contractions, no slang, no *stuff / kids / a
@@ -751,7 +751,7 @@ body of evidence* — **not colourful figurative idiom** — *rain cats and dogs
 ball is in their court*. The first raises Writing LR. The second lowers it on
 register: the British Council names wrong register as a top Writing mistake and
 says slang is never appropriate in formal contexts
-`[src: takeielts.britishcouncil.org — common mistakes in IELTS Writing]`.
+`[src: takeielts.britishcouncil.org/blog/formal-vs-informal-english-ielts-writing — formal vs informal English for IELTS Writing]`.
 
 **And in Speaking it flips.** IDP explicitly recommends idiomatic language for
 Speaking, notes it is assessed from band 7, and warns only against overuse, topic

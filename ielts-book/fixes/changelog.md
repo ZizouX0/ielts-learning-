@@ -1488,3 +1488,399 @@ three chapters recomputed.
   appendices, not chapter edits, and Ch9 already carries a night-before checklist.
 - **`[V5]` renaming the mandated "Question types, one by one" heading** — mandated
   verbatim; the Phase 4 agent already ruled and this pass does not reopen it.
+
+---
+
+### Chapters 4–6 — minor-sweep agent
+
+Scope: `chapters/04-writing-task1.md`, `05-writing-task2.md`, `06-speaking.md`. Every
+`[MINOR]` in V1–V6 touching these three chapters was checked against the file before
+being actioned; the Phase 4 fix agents had already closed most of them, and those are
+listed under *already closed* rather than re-done. Nothing certified was reverted.
+
+#### Chapter 4 — Writing Task 1
+
+- **`[V4]` "well over twice as much" overstated a 2.06× ratio.** §2's bar-chart model
+  grouped A 210 / B 185 against C 90 / D 75 / E 40 and claimed *well over twice*. The
+  narrowest cross-boundary ratio is B ÷ C = **2.06** — *more than twice*, not *well
+  over* it, and tip 8 explicitly warns that *well over* means clearly above. Model
+  now reads *more than twice as much water per head as **any** of the remaining
+  three*, with both divisions printed (185 ÷ 90 = 2.06; 210 ÷ 40 = 5.25, so *more
+  than fivefold* stands) and the general rule attached: check a multiple against the
+  **closest** pair, exactly as §4 checks a range against the worst column. The
+  chapter's own tip 9 charge — intensity must match size — now applies to its own
+  model.
+- **`[V4]` §5's process overview called a loop linear.** *"The sequence is linear,
+  ending with bottles that re-enter the same collection system"* described a cycle
+  while calling it a line, and §6's trap is *treating a cycle as a line*. Rewritten to
+  *"linear, though the bottles it produces will eventually return to the collection
+  stage that begins it"*, plus a short block giving the decision procedure the reader
+  actually needs: **is the return arrow drawn on the diagram?** Drawn → cycle, §6
+  applies; not drawn → line, and any return goes in a subordinate clause, never in the
+  verb.
+- **`[V4]` §7's map example asserted a tense its own table does not give it.** The
+  prompt was dated *1985 and 2025* — two closed snapshots, i.e. past → past — and the
+  model was justified as *"with 'today' implied, so present perfect passive"*. Nothing
+  implied it, and the book is read in 2026. Fixed by relabelling the second plan
+  ***today***, which is what the present perfect actually requires, and then turning
+  the ambiguity into the teaching point: a new block shows the same report rewritten
+  in the **past simple passive** for the 1985→2025 version, and adds a three-second
+  decision procedure — date → past simple passive · undated present (*today, now, at
+  present*) → present perfect passive · *proposed/planned* → modal passive — closing
+  with *never infer "today" from a recent date*. The band-6 mistake below it was
+  re-dated to match. Both readings were already rows in the chapter's tense table; the
+  example now points at the right one.
+- **`[V4]` the band-7 GRA model leaned on an ambiguous substitution and was claimed
+  error-free.** *"…while **those** walking to school fell substantially"* required
+  *those* to substitute for *the number*, which is singular, and produced a claim the
+  chart cannot support (numbers fall, children do not). Changed to *while **the
+  number** walking to school fell substantially*, which keeps the cohesive move as
+  **ellipsis** (*of children* understood). The analysis line now names four structures
+  correctly, and the discarded version is printed with the rule it violates:
+  **every substitute must have exactly one possible antecedent** — otherwise use
+  ellipsis, which costs the same number of words. Tip 6's recommendation of *those* is
+  preserved, now with its condition.
+- **`[V3]` decoder stopped at band 6.** Band-5 rows added to all four criteria
+  (TA · CC · LR · GRA), restated from the May 2023 PDF p.4, with a short 5→6 reading
+  under each: TA's *mechanical recounting / details without the bigger picture* is the
+  list this chapter exists to stop; CC's 5-vs-6 line is *underlying* versus *clear*
+  progression, not linker count; LR's is whether errors **impede**; GRA's is the
+  ladder *faulty complex sentences* (5) → *less accurate than simple ones* (6) → *as
+  accurate as simple ones* (7). Decoder preamble now states the range and why band 5
+  is there — the reader's baseline is undiagnosed and a first drill can land at 5.5.
+- **Quality bar — undefined jargon.** ***overview*** was the chapter's central term and
+  was never defined; now glossed at first use in the 60-second summary (one or two
+  sentences, usually the second paragraph, saying what the whole visual shows, no
+  individual figures — a named mark-scheme requirement, not a style preference).
+  ***rubric*** glossed at first use in §What the test actually asks (the printed
+  wording of the task itself: chart title, instruction line above, fixed sentence
+  below).
+
+#### Chapter 5 — Writing Task 2
+
+- **`[V1]` Cambridge's own under-length "Don't" instruction was not quoted.** The book
+  rested the under-length case on the ielts.org / Cambridge pair without noting that
+  the same Cambridge FAQ is two-handed. Both halves are now quoted verbatim in
+  §Length — *"There is no direct penalty for writing fewer than 150 words … However,
+  writing fewer words may impact on the range of ideas and evidence produced"* and,
+  from the Writing **Don't** list, *"Don't write less than the required number of
+  words"* — with the ruling unchanged and sharpened: neither sentence is a tariff, and
+  Cambridge itself names the place the shortfall is marked (*range of ideas and
+  evidence produced* → Task Response first, LR and GRA following). **Verified by fresh
+  fetch 2026-07-31**, text extracted from the PDF directly: pp. 7–8 of
+  `cambridgeenglish.org/images/269898-ielts-academic-faqs.pdf`.
+- **Arithmetic — a gap in the GRA sentence-count bands.** The decoder read *fewer than
+  six → 6; six or seven → 7; nine or ten → 8*, leaving **eight** unassigned, and did
+  not show its working against Ch4/Ch8's shared derivation. Now: four in ten = 6.4 of
+  sixteen, five in ten = 8 of sixteen, therefore **six, seven or eight is band-7
+  territory; nine or ten is a genuine majority of sixteen and argues for 8**. Matches
+  Ch4 tip 5 and Ch8 exactly, and self-test 14 (*at least six of about sixteen*) is
+  consistent with it unchanged.
+- **`[V3]` decoder stopped at band 6.** Band-5 rows added to all four criteria
+  (TR · CC · LR · GRA) from the May 2023 PDF p.8. This one does real work rather than
+  filling a table: **both** of the page's bolded rating-limiting clauses —
+  *"incompletely addressed"* and *"Paragraphing may be inadequate or missing"* — sit in
+  the band-5 row, so printing that row lets the reader check §Length's bold-extraction
+  finding instead of taking it on trust. Re-derived independently for this pass by
+  font-run extraction from the PDF: page 8's only bold body runs are exactly those two
+  strings, both band 5. **The certified bold analysis is confirmed, not weakened.** The
+  TR band-5 note ties *incompletely addressed* to the verbatim ielts.org sentence, and
+  keeps the existing formulation "unevenness costs you the 7; absence costs you the 6".
+- **Quality bar — undefined jargon.** ***hedge / hedging*** glossed at first use in the
+  60-second summary (softening a claim so it is defensible rather than asserting it
+  flat, *most people* for *everyone*); ***collocation*** glossed at first use in tip 12
+  (the word partnerships English habitually makes — *heavy rain*, not *strong rain*),
+  matching Ch4's wording; ***register*** glossed at first use in M8 (the level of
+  formality a piece of language belongs to — *kids* / *children* / *minors*);
+  ***nominalisation*** glossed where §L1 alert 7 uses it (turning a verb or adjective
+  into a noun and hanging a weak verb off it — *the globalisation possesses numerous
+  incidences* for *globalisation affects*), which also makes the ✗ example beneath it
+  self-explaining.
+
+#### Chapter 6 — Speaking
+
+- **`[V5]` "Aim to be stopped in Part 2" had no way to be stopped.** Tip 9 told a
+  reader practising alone to be stopped by a clock that does not exist, and an audible
+  timer trains the self-halting reflex the tip is warning against. Tip 9 now carries
+  the procedure: a **silent, face-down** phone recording, checked only afterwards, with
+  three rules for reading the result (under 1:50 → the turn does not count, log which
+  bullet died and feed it to the SPARE line · 1:50–2:00 still going → pass · past 2:00
+  → the best pass, because it proves you have more than two minutes of material).
+  Self-test item 8 rewritten to match — *did the silent recording run past 1:50*,
+  never an audible timer. Costs nothing extra: tip 13 and the three-check procedure at
+  the end of §L1 alert need the same recording. One take, four uses.
+- **`[V6]` m4 — the `ielts.idp.com — Speaking Part 3` citation could not be located.**
+  Traced to the live page and split honestly. The IDP page verifies the *stay general*
+  and *extend* advice and is now quoted verbatim for both — *"If you try and talk about
+  yourself and your family, the examiner will steer you away from these familiar topics
+  and will encourage you to speak in a general way"*, *"discuss all topics in a general
+  manner"*, *"It is important that you attempt to extend your responses as much as you
+  can"*, plus *"Your examiner will explain a term to you if you ask"* for the
+  clarification trap — cited to
+  `ielts.idp.com — How to perform at your best in part 3 of the Speaking test`,
+  **verified by WebFetch 2026-07-31**. The coherence/fluency framing of *silence* was
+  never on that page and is no longer attributed to it: it is now stated as
+  descriptor-derived (relevance to the purpose of the turn is a named coherence
+  indicator; band 7 is defined by readily producing long turns). Ledger gap closed at
+  source rather than left for Appendix E.
+- **`[V3]` decoder stopped at band 6.** Band-5 rows added to all four criteria
+  (FC · LR · GRA · Pronunciation) from the 2025-09-16 Speaking PDF, p.3. Each carries
+  the diagnostic the reader needs: FC's 5-vs-6-vs-7 line is how *load-bearing* the
+  repetition is (*relies on* → *coherence lost at times* → *no effect on coherence*),
+  which is the evidence base for tip 1 making repetition step **3**; LR's whole ladder
+  is paraphrase (*attempted, not always successfully* → *generally successful* →
+  *effective as required*), not vocabulary size; GRA's band 5 is where a complex
+  sentence *nearly always* breaks and forces reformulation, which damages Fluency too —
+  the argument for drilling six structures rather than collecting more. Pronunciation's
+  band 5 is *"all the positive features of band 4, and some, but not all, of band 6"*,
+  which independently confirms the chapter's structural claim: IELTS writes out
+  Pronunciation bands 9, 8, 6, 4, 2 and 1 and defines 7, 5 and 3 by reference — checked
+  row by row against the PDF for this pass. Decoder preamble states the range and why.
+- **Quality bar — undefined jargon.** ***hedge*** was used in passing in the Part 2
+  rounding-off analysis before §Part 3 defined it; a one-clause gloss now sits at that
+  first use with a pointer forward. *Chunking*, *stress-timing*, *schwa*, *register*,
+  *collocation* and *clefting* were already defined at or before first use and were
+  left alone.
+
+#### Already closed — verified in the files, not re-done
+
+`[V1]` the video-call study's 99-candidate scale (Ch6, body and summary) · `[V1]`/`[V2]`
+Ch4's band-5 TA overstatement, now by paraphrase · `[V2]` Ch4's linker myth and band-8 CC
+row citing band 9's wording · `[V2]`/`[V4]`/`[V5]` the "half your sentences error-free"
+collision, restated as four in ten rising to five across Ch4 and Ch5 · `[V2]` Ch5's
+self-test 300-word ceiling · `[V2]` Ch5's criterion-weighting citation · `[V2]`
+pluralised uncountables hedged to *GRA, and arguably LR too* · `[V2]`/`[V4]` Ch6's
+"self-correction at all nine bands" → 4 to 9 · `[V2]` Ch6's "buy one band-8 feature" →
+budget for two · `[V3]` Ch4's *"or other visual input"* two-question classifier · `[V4]`
+Ch5's five skeletons and their totals (re-verified: 280 / 285 / 280 / 280 / 280, all
+inside 270–290) · `[V4]` Ch5's "five markers, four sentences" · `[V4]`/`[V5]` Ch4's LR
+error count (28 words, eight faults, split six LR / two GRA) and the article-to-GRA
+allocation · `[V4]` Ch6's *"Same words. Same accent. Different band."* — the two lines
+are already lexically identical (*I think that the GOVernment should inVEST MORE*), so
+the overclaim is gone.
+
+#### Checks run across all three chapters
+
+Every model answer's claimed word count recounted programmatically: Ch4's line-graph
+overview is **34** as claimed, the static-diagram overview **51** as claimed, the LR
+band-6 example **28** as claimed. Ch5's five skeleton totals recomputed and all match
+their printed figures. Ch4's 20-minute budget table sums to 20; Ch6's part timings sum
+to 11–14. Every markdown table parsed for pipe-count mismatch — none found. Zero
+`[UNVERIFIED]` tags. All eight mandated H2 sections present in all three chapters with
+`## 60-second summary` first. Every `§` and `Chapter N §` cross-reference resolved
+against the target chapter's live heading list (Ch7 §1/§3/§5, Ch8 §7, Ch8 §The nine
+words, Ch8 §French: 3, Ch8 §How accurate is "accurate enough"? — all present). Both
+descriptor PDFs re-fetched today and their metadata checked: Writing
+`CreationDate D:20230503`, Speaking `CreationDate D:20250916`. No superseded edition
+cited. All examples remain original.
+
+#### Deliberately left alone
+
+- **`[V4]`/`[V5]` Task 1 stop time, 17 in Ch4 versus 18 in Ch8.** Settled by the
+  pass's standing rules at **17 minutes**, which is what Ch4 already prints
+  (`0:05–0:17` write, `0:17–0:20` check). Ch4 needed no edit; Ch8 is another agent's
+  file and this pass does not reach into it.
+- **`[V5]` Task 1 word target, Ch4's 170–190 versus Ch9's "170".** Not a
+  contradiction — 170 is inside the range, and Ch9 is out of scope.
+- **`[V5]` the single canonical numbers table** proposed for Ch9. A new Ch9 artefact,
+  not a chapters 4–6 edit.
+- **`[V3]` consolidated L1 appendix, question-type index, night-before checklist.** All
+  new appendices rather than chapter edits.
+- **`[V5]` renaming the mandated "Question types, one by one" heading.** Mandated
+  verbatim; already ruled on in Phase 4 and not reopened.
+- **Ch5's bold-extraction analysis, the verbatim "limited to Band 5" sentence, the
+  no-published-tariff position, the floor-and-no-ceiling finding, the article
+  counter-list with *government* as the trap, "complex" dropped from **Speaking**
+  band 7 only, third-person *-s* as occasional-slip-not-habitual-omission, /p/ as
+  aspiration rather than a missing phoneme, and the five Task 2 families as a
+  recognition heuristic.** All certified; all left exactly as written. The band-5 rows
+  added this pass corroborate the first of these rather than touching it.
+
+---
+
+### Chapters 7–9 — minor-sweep agent
+
+Scope: `chapters/07-vocabulary.md`, `08-grammar-L1.md`, `09-studyplan-testday.md`. Every
+`[MINOR]` in V1–V6 touching these three chapters was checked against the file before
+editing. Most had already been applied by the Phase 4 fix agents; those are recorded as
+*already closed*. What follows is what this pass actually changed.
+
+#### Chapter 7 — Vocabulary
+
+- **Undefined jargon → a canonical terms block.** Added *The three words this chapter
+  defines for the rest of the book* at the head of §Question types — a table defining
+  **collocation**, **hedging/stance** and **register** in plain words, each with a
+  self-test, plus inline glosses for **appropriacy** and **cognate**. Chapters 4, 5, 6
+  and 8 all point here for these terms; before this pass the definitions were real but
+  scattered across the summary, a table cell and three separate sub-sections, so a reader
+  arriving on a cross-reference had nothing to land on. *(Quality bar 1.)*
+- **The bold claim sharpened against a fresh font extraction.** The decoder preamble said
+  "the bolded limiters begin at band 5 and run downward", which a reader could take to
+  mean band-5 Lexical Resource is bolded. Re-ran the per-character extraction on the live
+  PDF: on the page covering bands 6 and 5 the *only* bold body text is
+  *There may be no data to support the description* (Task 1, Task Achievement) and
+  *incompletely addressed* / *Paragraphing may be inadequate or missing* (Task 2, Task
+  Response and Coherence & Cohesion). Bold never touches Lexical Resource at 5 or above.
+  The chapter now says exactly that and adds "do not go looking for a bolded lexical
+  limiter at your boundary; there is not one, and the argument does not need it."
+  **This strengthens, and does not reverse, the certified standing rule.**
+  `[src: ielts.org — Writing band descriptors PDF (Updated May 2023); per-character font
+  extraction re-run 2026-07-31]`
+- **`[V3]` descriptor decoder extended to band 5** in both LR tables. Writing band 5
+  paraphrased from the live PDF (wording is the same in the Task 1 and Task 2 columns);
+  Speaking band 5 from the 2025-09-16 file. Each row carries a reading note: the Writing
+  rows are one variable — density — turned up, and the Speaking 5→6 line is flexibility
+  and successful paraphrase, not vocabulary size. Rationale is the reader's undiagnosed
+  baseline, exactly as V3 argued for chapters 4/5/6/8.
+- **Procedures added to tips 1, 2, 3 and 9** — the four that carried evidence but no
+  instruction. Tip 1 now specifies the LR-errors-per-hundred-words measurement and where
+  to log it; tip 2 sequences the hedging table one row a day for eight days; tip 3 defines
+  the card format that makes "learn phrases" operational; tip 9 gives separate Speaking
+  and Writing drills. *(Quality bar 2.)*
+- **Myth 1's "The official 7.5 script"** → "The 7.5 script whose lexis an examiner
+  discussed in detail", closing the last place where the two different official 7.5
+  scripts could still be read as one (`[V2]`; the body text was already fixed).
+
+*Already closed, verified in place, not re-done:* `[V4]` the LR-weighting non-sequitur in
+§What the test actually asks; `[V2]` the two-different-7.5-scripts conflation in §The
+proof that it is density; `[V4]` both before/after miscounts (now "three spelling errors …
+five LR hits" and "**two** articles on abstract nouns … five errors disappear"); `[V2]`
+the hedged GRA/LR allocation for pluralised uncountables; the band-6 clauses correctly
+un-bolded in all four places. Myth 7 still describes the fabricated collocation statistic
+without printing the number.
+
+#### Chapter 8 — Grammar and the L1 error map
+
+- **`[V2]` the missing Writing counterweight in Myth 3.** The myth previously leaned on an
+  IDP teaching page. Added the direct official Writing evidence V2 identified: the
+  band-7.5 computer-delivered Task 2 exemplar, praised for "a variety of complex
+  structures with frequent error-free sentences", was told in the same sentence that
+  *"there is some overuse of rather short sentence forms"*. Retrieved and quoted verbatim
+  from the PDF this pass. **The Speaking-only scoping of the dropped word *complex* is
+  untouched** — Writing band 7 still reads "a variety of complex structures".
+  `[src: ielts.org — CD Academic Writing example responses with band scores and examiner
+  comments (PDF), Part 2, Candidate Response 2, Band 7.5; fetched 2026-07-31]`
+- **Undefined jargon → §The grammar words this chapter uses, in plain English.** An
+  eleven-row table defining **finite verb, head noun, subordinator, relativiser,
+  resumptive pronoun, reduced relative, participle clause, cleft sentence,
+  nominalisation, copula, parataxis**, each with one example. Placed before the first use
+  of most of them. In addition, §5, §7 and §8 each gained a *What it is, in plain words*
+  paragraph ahead of *Form* — previously all three opened on syntax and never said what
+  the thing was. Ch8 is the canonical home for these three terms and other chapters point
+  here. *(Quality bar 1, 7.)*
+- **`[V3]` Speaking GRA decoder extended to band 5**, paraphrased from the live
+  2025-09-16 file: *basic sentence forms fairly well controlled; complex structures
+  attempted but limited in range* / *those attempts nearly always contain errors and may
+  force reformulation*. Added the reading note that bands 5-6-7 are one accuracy-parity
+  ladder — nearly always faulty → frequently faulty → as sound as your simple sentences.
+  The Writing GRA table already carried band 5.
+- **Arithmetic — the parataxis repair was miscounted twice.** "Five clauses down to three,
+  one word shorter" was wrong on both numbers: the repaired version has four clauses and
+  is five words *longer*. Recount published honestly, with the trade named — subordination
+  costs words and buys range — and the real gain restated (four clause-joining *and*s
+  down to zero). *(Quality bar 4.)*
+- **Procedures added to tips 1, 4, 5 and 9.** Tip 1 now names the two artefacts that make
+  it a habit and the gate for starting the structures section; tip 4 specifies counting
+  slots before errors and logging the fraction; tip 5 gives the load-the-noun drill with
+  its cap; tip 9 gives the rewrite that removes the third-conditional temptation at
+  source. *(Quality bar 2.)*
+
+*Already closed, verified in place, not re-done:* `[V4]` Task 1 stop time now **17**
+minutes in both the summary and tip 6, cross-referenced to Ch9's numbers table; `[V4]`
+band 8's *may* persist present in both the Speaking GRA table and the prose; `[V4]` the
+first conditional moved out of §6's heading into a labelled note; `[V2]` the hedged
+GRA/LR allocation for pluralised uncountables in error-map row 4; `[V4]/[V5]` the
+error-free-sentence target derived once here (four in ten rising to five) with chapters 4,
+5 and 9 citing it. Relative-clause, third-conditional and conditional-error-rate figures
+all still carry the "Speaking data, 73 interviews, L1 mix unreported" caveat at every
+occurrence.
+
+#### Chapter 9 — Study plan and test day
+
+- **Arithmetic — the numbers table did not add up.** Task 1 read *Plan 3 / Write 12 /
+  Check 3 / stop at 17*: 3 + 12 = 15, not 17, and 3 + 12 + 3 = 18, not 20. Chapter 4's
+  budget table gives 0:00–0:03 read the visual, 0:03–0:05 decide grouping and compose the
+  overview, 0:05–0:17 write, 0:17–0:20 check — so planning is **5** minutes. Corrected to
+  5 / 12 / 3, and the table now shows its own working plus the two-job split of the five
+  planning minutes, so the canonical table can be checked rather than trusted. Task 2
+  (5 / 32 / 3, stop at 37) was already right. *(Quality bar 4.)*
+- **Arithmetic — the hour totals now show their derivation.** ≈63 / ≈84 / ≈105 were
+  already correct; added the calculation (seven sessions × 90 min = 10.5 h/week) and the
+  reason for the ≈ (the taper week's single rest day takes about ninety minutes back off
+  each total), plus a pointer to add the keyboard plan's 3.5 hours. The earlier
+  54/72/90 → 63/84/105 fix is confirmed landed and untouched.
+- **Arithmetic — the book's own length was stale.** "About 70,000 words … roughly eight
+  hours of first reading" against an actual `wc -w` of **88,153** across the nine
+  chapters. Corrected to ~88,000 words and ~ten hours, which makes the section's argument
+  stronger, not weaker: nine minutes a day for eight weeks is 504 minutes ≈ 8.5 hours, so
+  reading the book straight through now costs *more* than the whole theory budget.
+- **Arithmetic — the night-before checklist claimed fifteen lines and has thirteen.**
+  Corrected the count rather than padding the list.
+- **Reading pace aligned to the canonical table.** Two plan cells said "20 min per
+  passage"; the numbers table says 19 minutes plus a 3-minute sweep (19 × 3 + 3 = 60).
+  Both cells now match the table that declares itself authoritative.
+- **`[V5]` the apologising heading sentence.** The mandated H2 `## Question types, one by
+  one` is preserved verbatim, but "Here, the 'types' are study plans" — which apologised
+  for the heading — now orients instead: it names the three plans by length and the shared
+  daily architecture. No mandated section renamed or removed.
+- **Jargon: *taper* defined** at first use in a plan table, with the reason it is not
+  optional and a pointer to the myth that covers it. *(Quality bar 1.)*
+- **Procedure added to tip 10** ("Quarantine your mistakes"), which was the one tip in the
+  chapter that stated a principle with no way to execute it: the fixed three-step recovery
+  (type a plausible answer inside the limit → Review → eyes on the next question number)
+  and the rehearsal that installs it. *(Quality bar 2.)*
+- **Citation normalised.** The one remaining `[src: ielts.org — IELTS test taker
+  performance data 2024–2025 (xlsx)]` now cites the parent page form used everywhere else
+  in the book, per V1's finding that the indexed CDN path 404s and that CDN paths on this
+  site move.
+
+*Already closed, verified in place, not re-done:* `[V1]` the pen-or-pencil conflict
+downgraded and scoped to paper in both §What you may take into the room and the myth;
+`[V4]` Writing now correctly placed "in the last hour of the block, starting at roughly
+the 1h32 mark"; `[V2]` the body-paragraph formula restored to claim → because → so what →
+instance in week 3 and in the theory-slot table; `[V5]` the "when the coach contradicts
+this book, the source wins" bullet; `[V3]` the night-before checklist. **`[V1]` the
+Cambridge IELTS 21 date hedge is deliberately untouched**, as V1 required.
+
+#### Commands verified against the repo
+
+All eleven commands named in Ch9 — `/writing1` `/writing2` `/reading` `/listening`
+`/speaking` `/mock` `/official` `/vocab` `/anki` `/review` `/handbook` — exist as files in
+`.claude/commands/`, and the chapter's count of "eleven" matches its own table. No command
+is named anywhere in these three chapters that does not exist. *(Quality bar 5.)*
+
+#### Checks run across all three chapters
+
+Every markdown table parsed against its header for column-count mismatch: **zero
+problems** across all three files, including the collocation sets, the ten topic banks,
+the word-formation families, the article counter-list, the transfer tables and the three
+plan tables. Zero `[UNVERIFIED]` tags. All eight mandated H2 sections present in each
+chapter with `## 60-second summary` first. Every `§` and `Chapter N` cross-reference
+resolved against the target chapter's real heading list — Ch1 §The strategic core, Ch4's
+trend adverbs and 20-minute budget, Ch5 Tip 4 and the font-extraction instruction, Ch6's
+speech rate / stress-timing / chunking, Ch8 §The numbers pointer, all confirmed present.
+Every count claim recomputed: six LR sub-features, six precision families, ten topic
+banks, thirty spelling words, eight band-7 structures, nine uncountables, ten error-map
+rows, the 25+25+10 = 60 s Arabic sweep, the 15+15+10+5 = 45 s French sweep, the
+60+60+45+15 = 180 s self-edit, 9+63+18 = 90 minutes, 70/20/10, and every plan table.
+
+#### Deliberately left alone
+
+- **`[V6]` m2** — the missing ledger row for `takeielts.britishcouncil.org — common
+  mistakes in IELTS Writing`, cited twice in Ch7. The claim verifies; the gap is in
+  `research/sources-ledger.md`, which is outside this scope, and V6 directs it to
+  Appendix E. The inline citations are left in the book's house format.
+- **`[V3]` the consolidated Arabic/French one-page reference.** V3 explicitly calls this a
+  consolidation into an *appendix*, and the standing rule for this pass is that chapters 7
+  and 8 keep the full treatment. Removing or thinning either would break that rule, so
+  nothing was moved.
+- **`[V5]` renaming the mandated "Question types, one by one" heading** in Ch7, Ch8 and
+  Ch9. The heading is mandated; only Ch9's apologising sentence was rewritten. Ch7 and Ch8
+  already carry an informative subtitle after the em dash and no apology to delete.
+- **The 250-word floor in Ch9's numbers table against Ch5's "hard floor 260".** Not a
+  contradiction: Ch9's column is explicitly labelled the *published rubric minima* and the
+  table says so in the following paragraph, while Ch5's 260 is a personal safety margin.
+  Left as is.
+- **`[V1]` the Cambridge IELTS 21 hedge, the Tunisia fees and deadlines, the re-mark
+  hedge, the /p/-aspiration ruling, the article counter-list, and the un-bolded band-6
+  clauses** — all certified, all verified present, none reopened.

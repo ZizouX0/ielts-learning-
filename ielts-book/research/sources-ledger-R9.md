@@ -1,5 +1,13 @@
 # Sources ledger fragment — R9 (Test-day strategy & study plan)
 
+> **RECONCILED 2026-07-31 — historical fragment, do not use as a live source of rows.**
+> All 39 rows below were checked against `sources-ledger.md` during the ledger audit.
+> Every one is present in the main ledger, either as its own row or merged into an
+> existing row for the same URL (descriptions were combined, nothing was dropped).
+> A URL-level diff after the merge confirmed **zero loss**. This file is retained only
+> as the audit trail for the write-contention mitigation described below; the single
+> authoritative ledger is `sources-ledger.md`.
+
 Appended to `sources-ledger.md` on 2026-07-31. Kept as a fragment per STATUS.md's
 write-contention mitigation, so the Editor can restore these rows if a concurrent
 write clobbers them.
