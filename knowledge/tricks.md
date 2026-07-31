@@ -87,16 +87,24 @@ psychology · rhythm · queue · aisle
 # 2. READING (Academic)
 
 3 passages, 40 questions, **60 minutes, no extra transfer time**. 2,150–2,750
-words total. Passages get harder; question types are mixed within each.
+words total. Question types are mixed within each passage.
+
+*(Prep sites routinely say the passages get progressively harder. No official
+source states this, so do not plan around it — plan around the clock instead.)*
 
 ## Time budget
 
-| Passage | Target | Cumulative |
+Cambridge's own guidance is **about 20 minutes on each passage**. That is the
+official baseline. The uneven split below is a personal tactic, not an official
+rule — it buys time for Passage 3 by compressing Passage 1, which works only if
+Passage 1 really is easier for you. Use whichever you can hold to.
+
+| Passage | Even split (official) | Front-loaded (tactic) |
 |---|---|---|
-| 1 | 16 min | 16 |
-| 2 | 19 min | 35 |
-| 3 | 21 min | 56 |
-| Check/guess | 4 min | 60 |
+| 1 | 20 min | 16 min |
+| 2 | 20 min | 19 min |
+| 3 | 20 min | 21 min |
+| Check/guess | — | 4 min |
 
 Set a hard stop. Overrunning Passage 1 by ten minutes to secure two marks costs
 you five in Passage 3. If a question resists after 90 seconds, guess and move.
@@ -131,8 +139,21 @@ contradicts this?* If yes → False. If you are reasoning "well, it probably
 isn't, because..." → Not Given. **Never use outside knowledge.**
 
 **Qualifier traps.** Watch *all, always, never, only, the most, exclusively,
-majority*. A statement saying *all* where the text says *many* is **False**, not
-True. A statement saying *some* where the text says *many* is True.
+majority*. But be careful which way a vague quantifier cuts — this is subtler
+than most guides admit, and getting it backwards costs marks:
+
+- **Vague word in the text, precise claim in the statement → NOT GIVEN.** If the
+  text says *numerous* or *many* and the statement asserts a specific proportion
+  or *all*, the text has not made that claim — it has said something looser. No
+  contradiction exists, so it is Not Given, **not** False. This is what an
+  official worked example gives.
+- **Scope mismatch → FALSE.** The text makes a claim about one thing and the
+  statement transfers it to another, or reverses it. Now there *is* a
+  contradiction.
+
+The test remains the same: **point to the contradicting sentence.** If you cannot
+put your finger on it, the answer is Not Given regardless of how the quantifiers
+look.
 
 **Yes / No / Not Given** — identical logic, but about the **writer's opinions and
 claims**, not facts. Look for opinion language: *arguably, it seems likely,
@@ -151,21 +172,31 @@ order, and one paragraph may hold two answers or none. Do it **last**.
 Eliminate: options that are true but don't answer the stem, options that
 overstate, options containing a word from the text used differently.
 
-**Sentence / Summary / Table / Flow-chart completion** — answers **are** in order
-within the set. Predict the grammar of the gap first. Obey the word limit
-absolutely. If words come from a box, they may be paraphrased; if "from the
-passage", copy exactly — including spelling.
+**Sentence completion** — answers **are** in passage order. Predict the grammar
+of the gap first. Obey the word limit absolutely.
 
-**Matching Features** (e.g. researchers to findings) — options can be reused
-unless stated otherwise. Scan for the proper nouns first, then read around each.
+**Summary / note / table / flow-chart completion** — answers are **NOT**
+guaranteed to be in passage order (only *sentence* completion is). Official
+wording is that they may not come in the same order as the text. If words come
+from a box they may be paraphrased; if taken "from the passage" you must copy
+them exactly, spelling included.
+
+**Matching Features** (e.g. researchers to findings) — options may be reused
+**only when the instructions say so**. Assume no reuse unless told otherwise.
+Scan for the proper nouns first, then read around each.
 
 **Short answer** — obey the word limit, take words from the passage.
 
 ## Guessing strategy
 
-No negative marking — never leave a blank. For T/F/NG, **Not Given** is
-statistically the safest blind guess, because candidates over-choose False.
-For MCQ with four options, eliminate two and pick.
+No negative marking — never leave a blank. For MCQ with four options, eliminate
+two and pick.
+
+**On T/F/NG, ignore the folklore that "Not Given is the safest guess."** No
+official data supports it, and believing it actively trains you to reach for Not
+Given before you have finished searching — which turns findable Trues and Falses
+into misses. Search properly; guess only when the clock forces you to, and then
+guess whichever your partial reading actually supports.
 
 ---
 

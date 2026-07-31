@@ -24,16 +24,20 @@ sources.
 
 ## Phase 1 — Research agents
 
-Batch 1:
+Batch 1 — complete:
 - [x] R1 — Test anatomy & scoring (648 lines)
 - [x] R2 — Listening deep dive (1,336 lines)
-- [~] R3 — Reading deep dive — RUNNING
+- [x] R3 — Reading deep dive (1,410 lines, 233 inline source notes)
 - [x] R4 — Writing Task 1 (1,031 lines)
 
 Batch 2 — **RUNNING**:
 - [~] R5 — Writing Task 2
 - [~] R6 — Speaking deep dive
 - [~] R7 — Vocabulary system
+
+Batch 3 — **RUNNING**:
+- [~] R8 — Grammar & L1 interference
+- [~] R9 — Test-day strategy & study plan
 
 > **Known risk — ledger write contention.** Batch 1 agents were told to
 > read-append-write `research/sources-ledger.md` concurrently, which is not
@@ -109,6 +113,13 @@ fix loop.
 | 8 | **Two answers written in one gap score zero** even if one is right (Cambridge FAQ). Appears on no format page. | R2 | Add to Ch.2. |
 | 9 | **Copied rubric is discounted before the word count**, so copying the prompt can silently push a script under length. | R4 | Added to `CLAUDE.md`. |
 | 10 | **Official 2024–25 performance data by L1:** Arabic-L1 mean Academic Writing 5.54 (overall 5.95); French-L1 Writing 6.15 (overall 6.75). Writing is the weakest skill for both. | R1 | Directs chapter weighting and the study plan. |
+| 11 | **Summary / note / table / flow-chart completion answers are NOT in passage order** — only *sentence* completion is. `tricks.md` claimed all four were ordered. | R3 | Fixed in `knowledge/tricks.md` + `revision-playbook.md`. |
+| 12 | **Matching Features reuse rule was backwards.** Options may be reused only when the instructions permit it; the repo said reuse was allowed unless forbidden. | R3 | Fixed in both files. |
+| 13 | **Qualifier-trap rule was wrong.** A vague quantifier in the text (*numerous*, *many*) against a precise claim in the statement gives **NOT GIVEN**, not False — no contradiction exists. The repo taught the opposite. Scope mismatch is what yields False. | R3, from an official worked example | Fixed in both files with the corrected two-way rule. |
+| 14 | **"Not Given is the safest blind guess" is unsourced folklore** and actively harmful — it trains premature NG-picking, turning findable answers into misses. | R3 | Removed from both files and replaced with a warning. |
+| 15 | **"Passages get progressively harder" is unverified** — no Tier 1 source states it. The 16/19/21 time split is also not official; Cambridge says about 20 minutes per passage. | R3 | Both files now present the official even split as the baseline and the front-loaded split as a labelled personal tactic. |
+| 16 | **CD Reading permits copy-paste from the passage**, and all completion answers are transcription rather than composition — so spelling errors are structurally avoidable on those types. Significant for a French/Arabic L1 reader. | R3 | To be built into Ch.3 as a tactic box. |
+| 17 | **Reading 6.5 → 7.0 is exactly 3 marks** (27 → 30). Reading has no band descriptors, so every tip must justify itself in marks. | R3 | Framing device for Ch.3. |
 
 ## Unresolved conflicts for verifiers
 
@@ -119,6 +130,16 @@ fix loop.
 - `ONE WORD ONLY` could not be verified verbatim in any official Listening document.
 - No official half-band raw-score table exists — the book must say so rather than publish a fabricated one.
 - One Skill Retake in Tunisia: BC Tunisia hosts an OSR page but names no Tunisian centre. Upgraded from "unconfirmed" to "probable but unconfirmed". Separately, BC Tunisia lists only computer-delivered and IELTS Online — no paper.
+- Whether matching-headings answers follow text order — R3's reading of the official note needs confirming.
+- ielts-simon.com URLs now return 404; any corroboration resting on that site is tagged unverified.
+- Question-type count: ielts.org's format page defines **11** numbered Reading task types; the 2023 sample-tasks PDF names **14** by splitting the completion formats. Both official. The book uses the 11-type numbering, which is what Cambridge files its own teaching material under.
+
+## Copyright watch
+
+R3's research notes quote official worked examples verbatim (a Marie Curie
+passage set, a smoking Yes/No/Not Given set) as evidence. **These must not reach
+`chapters/` or `book/`.** Writer agents build original parallels with the same
+logical shape. V4 checks for lifted material.
 
 ---
 

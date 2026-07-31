@@ -189,17 +189,24 @@ back for analysis.
 <a id="3"></a>
 ## Chapter 3 — Reading: a playbook per question type
 
-3 passages, 40 questions, 60 minutes, **no transfer time**. Passages get
-progressively harder.
+3 passages, 40 questions, 60 minutes, **no transfer time**.
+
+Prep sites almost universally claim the passages get progressively harder. No
+official source says so — so do not build your plan on it. Build it on the clock.
 
 ### The time budget is the skill
 
-| Passage | Target | Cumulative |
+Cambridge's own guidance is **about 20 minutes on each passage**. That is the
+official baseline and it is perfectly good. The front-loaded split beside it is a
+personal tactic that compresses Passage 1 to buy time for Passage 3 — worth using
+only if Passage 1 genuinely comes easier to you.
+
+| Passage | Even split (official) | Front-loaded (tactic) |
 |---|---|---|
-| 1 | 16 min | 16 |
-| 2 | 19 min | 35 |
-| 3 | 21 min | 56 |
-| Check and guess | 4 min | 60 |
+| 1 | 20 min | 16 min |
+| 2 | 20 min | 19 min |
+| 3 | 20 min | 21 min |
+| Check and guess | — | 4 min |
 
 Set hard stops and obey them. Spending an extra ten minutes on Passage 1 to
 secure two marks costs you five in Passage 3, where you then run out of time
@@ -269,20 +276,29 @@ order, and one paragraph may hold two or none. Always do these **last**.
 Eliminate: options that are true but do not answer the stem; options that
 overstate; options containing a passage word used in a different sense.
 
-**Sentence / summary / table / flow-chart completion** — answers **are** in order
-within the set. Predict the grammar of the gap before you search. Obey the word
-limit absolutely. If words come from a box they may be paraphrased; if they come
-"from the passage", copy them exactly, spelling included.
+**Sentence completion** — answers **are** in passage order. Predict the grammar
+of the gap before you search, and obey the word limit absolutely.
+
+**Summary / note / table / flow-chart completion** — answers are **not**
+guaranteed to follow passage order; only *sentence* completion is ordered. If
+words come from a box they may be paraphrased; if they come "from the passage",
+copy them exactly, spelling included.
 
 **Matching features** (researchers to findings, etc.) — options may be reused
-unless stated. Scan for the proper nouns first, then read around each.
+**only if the instructions say so**. Assume each is used once unless told
+otherwise. Scan for the proper nouns first, then read around each.
 
 **Short answer** — word limit, words from the passage.
 
 ### Guessing
 
-No negative marking. Never leave a blank. On True/False/Not Given, **Not Given**
-is the safest blind guess, because candidates systematically over-choose False.
+No negative marking. Never leave a blank.
+
+But ignore the widespread advice that **Not Given** is the safest blind guess on
+True/False/Not Given. No official data supports it, and treating it as a rule
+trains you to reach for Not Given before you have finished looking — converting
+findable answers into misses. Search properly. Guess only when the clock forces
+it, and then guess what your partial reading actually supports.
 
 ---
 
@@ -822,12 +838,12 @@ than it recovers. Never leave a blank.
 
 ### Reading (60 min)
 
-Set hard stops: 16 minutes on Passage 1, 19 on Passage 2, 21 on Passage 3, 4 to
-check. Obey them even when a question is nearly solved.
+Set hard stops — about 20 minutes per passage, or the front-loaded 16/19/21 split
+if you have practised it. Obey them even when a question is nearly solved.
 
 Do Matching Headings early, Matching Information last. No transfer time — write
-answers in their final form as you go. Never leave a blank; on True/False/Not
-Given, guess **Not Given**.
+answers in their final form as you go. Never leave a blank, but do not
+reflex-guess Not Given: decide from what you actually read.
 
 ### Writing (60 min)
 
