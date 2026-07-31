@@ -6,64 +6,60 @@ IELTS Academic is four papers: Listening, Reading, Writing, Speaking. The
 official headline figure for the whole test is **2 hours 45 minutes**
 `[src: ielts.org — IELTS Academic test format and sections]`.
 
-You will also see **2 hours 40 minutes**, describing the Listening + Reading +
-Writing session, with "no breaks between each section of the test"
-`[src: ielts.org — IELTS test day advice: what to expect]`. These are different
-quantities, not a contradiction: 2h40m is the paper-mode sitting (30-minute
-Listening + 10 minutes of transfer + 60-minute Reading + 60-minute Writing);
-2h45m counts all four papers including a ~15-minute Speaking test and excludes
-the paper-only transfer window. Budget your day around the individual paper
-timings below, not around either headline.
+You will also see **2 hours 40 minutes** for the Listening + Reading + Writing
+session, with "no breaks between each section of the test"
+`[src: ielts.org — IELTS test day advice: what to expect]`. Different quantities,
+not a contradiction: 2h40m is the paper-mode sitting (Listening 30 + transfer 10 +
+Reading 60 + Writing 60); 2h45m counts all four papers including a ~15-minute
+Speaking test and excludes the paper-only transfer window. Budget around the
+individual paper timings below, not either headline.
 
-There is no pass or fail. Every paper is reported on a nine-band scale, 0–9, in
-whole or half bands, and so is the overall score
+There is no pass or fail. Every paper, and the overall score, is reported on a
+nine-band scale in whole or half bands
 `[src: takeielts.britishcouncil.org — IELTS Guide for teachers (PDF)]`.
 
-**Two facts about your test, specifically, that change everything downstream.**
+**Two facts about your test that change everything downstream.**
 
-First, **you will sit this on a computer.** From mid-2026 IELTS stops offering a
-paper-based test: "All IELTS tests will be delivered on computer. Exact timelines
-will vary by market" `[src: ielts.org — Updates to IELTS test delivery]`. British
-Council Tunisia already lists only computer-delivered testing at a centre and
-IELTS Online — no paper option appears
-`[src: britishcouncil.tn — Test dates, fees and locations]`. Tunisia has five
-British Council test locations: Tunis, Bizerte, Sousse, Sfax and Gabes
+First, **you will sit this on a computer.** From mid-2026, "All IELTS tests will
+be delivered on computer. Exact timelines will vary by market"
+`[src: ielts.org — Updates to IELTS test delivery]`. British Council Tunisia
+already lists only computer-delivered testing at a centre and IELTS Online — no
+paper option — across five locations: Tunis, Bizerte, Sousse, Sfax and Gabes
 `[src: britishcouncil.tn — Test dates, fees and locations]`. Every timing,
 technique and drill in this book assumes a screen and a keyboard.
 
-Second, **the move to computer does not change what is being measured**: "This
-update does not change the IELTS skills assessed, the test construct, or the way
-results should be interpreted by institutions"
-`[src: ielts.org — Updates to IELTS test delivery]`. The band descriptors are the
-same. What changes is the clock, the input method, and one specific ten-minute
-window that no longer exists — see the trap in *Myths*.
+Second, **the move to computer does not change what is measured**: "This update
+does not change the IELTS skills assessed, the test construct, or the way results
+should be interpreted by institutions"
+`[src: ielts.org — Updates to IELTS test delivery]`. Same descriptors. What
+changes is the clock, the input method, and one ten-minute window that no longer
+exists — see *Myths*.
 
-On the section order: British Council and ielts.org state Listening → Reading →
-Writing on the same day
-`[src: takeielts.britishcouncil.org — IELTS test format explained]`, and IDP
-describes the same three papers on one day for computer delivery
+**Section order:** British Council and ielts.org state Listening → Reading →
+Writing on one day
+`[src: takeielts.britishcouncil.org — IELTS test format explained]`, and IDP says
+the same for computer delivery
 `[src: ielts.idp.com — What to expect on IELTS test day]`. For the *paper* test
-IDP's comparison page states a different order (Writing first). Both are
-official, the conflict could not be resolved, and it does not affect you. Plan
-for Listening → Reading → Writing.
+IDP's comparison page gives a different order. Both are official; the conflict is
+unresolved and does not affect you. Plan for Listening → Reading → Writing.
 
-Speaking may be the same day or a different one, and the published windows
-disagree: "either on the same day or seven days before or after that"
+**Speaking** may be the same day or a different one, and the published windows
+disagree — "seven days before or after"
 `[src: takeielts.britishcouncil.org — IELTS test format explained]` versus "seven
 days before or two days after that, depending on local arrangements"
 `[src: takeielts.britishcouncil.org — Frequently asked questions]`. For
 computer-delivered tests both partners point to the **same day**, before or after
 the other papers `[src: ielts.idp.com — What to expect on IELTS test day]`.
-**Trust your booking confirmation over any published window.** A later Speaking
-slot "may cause a delay in your IELTS results"
+**Trust your booking confirmation over any published window**, and note that a
+later slot "may cause a delay in your IELTS results"
 `[src: takeielts.britishcouncil.org — Frequently asked questions]`.
 
-Results for computer-delivered tests: about half are ready within one day and 80%
-within two `[src: ielts.org — Fast IELTS results: get and share your score]`,
-though other official pages quote ranges up to five days
+**Results** on computer: about half are ready within one day and 80% within two
+`[src: ielts.org — Fast IELTS results: get and share your score]`, though other
+official pages quote up to five days
 `[src: ielts.org — Ways to take IELTS: online, computer or paper]`. **Plan
 university deadlines against five days.** The Test Report Form is valid for two
-years, and there is no limit on how many times you may sit the test
+years, and there is no limit on retakes
 `[src: takeielts.britishcouncil.org — Frequently asked questions]`.
 
 ---
@@ -89,19 +85,18 @@ recording** `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]` 
 which makes Part 4 the part with the least structured reading time, and the part
 to protect in training.
 
-Spelling and grammar are marked: "You will lose marks for incorrect spelling and
-grammar", and both British and American spellings are accepted. Two answers where
-one is required scores zero — "Even if one of your answers is correct, you will
-not receive a mark" — and answers over the stated word limit are marked incorrect
-`[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`.
+Answers are marked for spelling and grammar, and both British and American
+spellings count
+`[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`; Chapter 2 takes
+the marking rules in detail.
 
 **The computer difference, and it is the big one:** on paper you get ten extra
 minutes to copy answers onto an answer sheet
 `[src: takeielts.britishcouncil.org — IELTS test format explained]`. On computer
-you do not. "At the end of the Listening section you only have two minutes to
+you do not — "At the end of the Listening section you only have two minutes to
 check your answers"
 `[src: takeielts.britishcouncil.org — IELTS on paper vs computer: how to choose]`,
-confirmed independently: "no extra time is given to transfer your answers… You
+confirmed independently by "no extra time is given to transfer your answers… You
 will only have 2 minutes to review your answers at the end"
 `[src: ielts.idp.com — How IELTS on computer works]`.
 
@@ -124,50 +119,42 @@ summary/note/table/flow-chart completion; diagram label completion; and
 short-answer questions `[src: ielts.org — IELTS Academic: Reading test format]`.
 Chapter 3 takes them one at a time.
 
-**Computer differences:** you type answers directly, so illegible handwriting
-stops being a risk — on paper, "If an answer isn't clear on your answer sheet, you
-will lose the mark"
-`[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`. You get a
+**Computer differences:** you type answers, so illegible handwriting stops being a
+risk — on paper, "If an answer isn't clear on your answer sheet, you will lose the
+mark" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`. You get a
 built-in highlighter (left-click-drag, right-click → highlight; right-click → clear
-all), and "your examiner will not be able to see whether or where you've made use
-of this feature"
+all) that "your examiner will not be able to see"
 `[src: takeielts.britishcouncil.org — IELTS on computer: Highlighting text]`, plus
-a permanently visible on-screen timer and free navigation between questions
+a permanently visible timer and free navigation between questions
 `[src: takeielts.britishcouncil.org — IELTS on paper vs computer: how to choose]`.
 
 ### Writing — 60 minutes, 2 tasks
 
 `[src: ielts.org — IELTS Academic: Writing test format]`
 
-Task 1 asks for **at least 150 words in about 20 minutes**; Task 2 asks for **at
-least 250 words in about 40 minutes**
-`[src: ielts.org — IELTS Academic: Writing test format]`. The 20/40 split is
-official guidance, not an enforced boundary — the computer gives you 60 minutes
-and lets you move between the two tasks freely, and it displays a live word
-counter, though "you still need to check your own spelling"
+Task 1 asks for **at least 150 words in about 20 minutes**, Task 2 for **at least
+250 words in about 40 minutes**, in a style that is "academic or
+semi-formal/neutral" `[src: ielts.org — IELTS Academic: Writing test format]`. The
+20/40 split is guidance, not an enforced boundary: the computer gives you 60
+minutes, lets you move between tasks freely, and shows a live word counter, though
+"you still need to check your own spelling"
 `[src: takeielts.britishcouncil.org — IELTS on paper vs computer: how to choose]`.
-
-The style required is "academic or semi-formal/neutral", and the response must be
-full connected prose: "it should not have sub-headings or bullet points"
-`[src: ielts.org — Writing test resources]`
-`[src: ielts.org — IELTS Academic: Writing test format]`.
+The response must be full connected prose — "it should not have sub-headings or
+bullet points" `[src: ielts.org — Writing test resources]`.
 
 ### Speaking — 11–14 minutes, 3 parts
 
 `[src: ielts.org — IELTS Academic: Speaking test format]`
 
-Part 1 runs 4–5 minutes, Part 2 runs 3–4 minutes including preparation time, and
-Part 3 runs 4–5 minutes
-`[src: ielts.org — IELTS Academic: Speaking test format]`. It is described as "a
-face-to-face interview between the test taker and an examiner", and "The Speaking
-test is recorded" `[src: ielts.org — IELTS Academic: Speaking test format]`. One
-British Council booking page describes Speaking as "either face-to-face or via
-video call"
+Part 1 runs 4–5 minutes, Part 2 runs 3–4 minutes including preparation time, Part 3
+runs 4–5 minutes. It is "a face-to-face interview between the test taker and an
+examiner", and "The Speaking test is recorded"
+`[src: ielts.org — IELTS Academic: Speaking test format]`. One British Council
+booking page instead describes it as "either face-to-face or via video call"
 `[src: takeielts.britishcouncil.org — IELTS on computer (booking page)]`, which
-conflicts with ielts.org and IDP; **which applies in Tunisia could not be
-confirmed — ask your centre, and if it is video, do a video rehearsal.** Speaking
-is never on computer in the sense of talking to software: it is a human examiner
-either way `[src: ielts.idp.com — IELTS on computer vs IELTS on paper]`.
+conflicts with ielts.org and IDP; **which applies in Tunisia could not be confirmed
+— ask your centre, and if it is video, rehearse on video.** Either way it is a human
+examiner, never software `[src: ielts.idp.com — IELTS on computer vs IELTS on paper]`.
 
 ---
 
@@ -176,56 +163,49 @@ either way `[src: ielts.idp.com — IELTS on computer vs IELTS on paper]`.
 Ranked by how many marks they are worth to you.
 
 **1. Buy your extra half-bands in Listening and Reading, not Writing.**
-`[expert consensus]` Listening and Reading are objectively marked — 40 questions,
-"Each correct answer is awarded 1 mark"
-`[src: ielts.org — IELTS scoring in detail: band scores explained]`. A mark is a
-mark; technique converts directly into score. Writing and Speaking are judged
-against criteria by a human, and improvement there is slower and less linear. The
-band math in the next section shows you need only two extra half-bands above a
-6.5 floor. Buy them where they are cheapest. **When this fails:** if your Writing
-is below 6.5, no amount of Reading technique rescues the profile, because a
-sub-score floor is a hard gate, not an average.
+`[expert consensus]` These are objectively marked — 40 questions, "Each correct
+answer is awarded 1 mark"
+`[src: ielts.org — IELTS scoring in detail: band scores explained]` — so technique
+converts directly into score, while Writing and Speaking are human-judged against
+criteria and move more slowly. The band math below shows you need only two extra
+half-bands above a 6.5 floor. **When this fails:** if Writing is below 6.5, no
+amount of Reading technique rescues you, because a sub-score floor is a gate, not
+an average.
 
-**2. Start Writing work in week one and never stop it.** `[expert consensus]`
-Writing is the slowest-moving paper and, for both of your first languages, the
-lowest-scoring one (see *L1 alert*). It is the only paper where six weeks of daily
-work is the minimum rather than a comfort. **When this fails:** doing Writing
-*only* — a person who writes essays daily and never trains Listening arrives with
-6.5 Writing and 6.0 Listening and misses.
+**2. Start Writing in week one and never stop it.** `[expert consensus]` It is
+the slowest-moving paper and, for both your first languages, the lowest-scoring
+one (see *L1 alert*). **When this fails:** doing Writing *only*. Daily essays plus
+untrained Listening produces 6.5 Writing, 6.0 Listening, and a miss.
 
 **3. Protect Task 2's forty minutes as arithmetic, not discipline.** `[verified]`
-Official advice: "Finish Writing Task 1 after about 20 minutes to allow enough
-time to answer Writing Task 2. Remember Task 2 contributes twice as much as Task 1"
-`[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`. Overrunning
-Task 1 by ten minutes costs you ten minutes on the task that carries twice the
-weight.
+"Finish Writing Task 1 after about 20 minutes to allow enough time to answer
+Writing Task 2. Remember Task 2 contributes twice as much as Task 1"
+`[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`. Ten minutes
+overrun on Task 1 is ten minutes stolen from the task worth double.
 
-**4. Rehearse the two-minute Listening close before test day.** `[verified]` You
-have 120 seconds at the end, not ten minutes. Officially recommended practice: note
-on paper any Listening item you want to revisit, because the window closes
+**4. Rehearse the two-minute Listening close.** `[verified]` You have 120 seconds,
+not ten minutes. Note on paper any item you want to revisit — the window closes
 automatically
 `[src: takeielts.britishcouncil.org — IELTS on paper vs computer: how to choose]`.
 
-**5. Answer every question.** `[verified]` "Try to answer all the questions, even
-if you don't feel sure about an answer"
+**5. Answer every question, but guess one thing.** `[verified]` "Try to answer all
+the questions, even if you don't feel sure about an answer"
 `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]` — there is no
-negative marking. But guess *one* thing: two answers in one gap score zero.
+negative marking. Two answers in one gap, however, score zero.
 
-**6. Do the official familiarisation test before you do anything else.**
-`[verified]` It is free, untimed, and uses the real test screens
-`[src: takeielts.britishcouncil.org — Free IELTS familiarisation test]`. Learning
-the interface during your actual test is a self-inflicted wound.
-
-**7. Highlight without hesitation in computer Reading.** `[verified]` "You can
-highlight as much or as little text as you want without any impact on your test
-result", and you need not clear it before moving on
+**6. Learn the interface before test day, then use it freely.** `[verified]` The
+official familiarisation test is free, untimed, and uses the real test screens
+`[src: takeielts.britishcouncil.org — Free IELTS familiarisation test]`. Once you
+know it, highlight without hesitation in Reading: "You can highlight as much or as
+little text as you want without any impact on your test result", and you need not
+clear it before moving on
 `[src: takeielts.britishcouncil.org — IELTS on computer: Highlighting text]`.
 
-**8. Write down what you hear, not your paraphrase of it.** `[verified]` "Don't
+**7. In Listening, write what you hear, not your paraphrase.** `[verified]` "Don't
 try to rephrase what you hear. Try to write down the words you hear which fit the
 question" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`.
-**When this fails:** never in Listening. In Writing it is the opposite rule —
-"Don't simply copy words and phrases from the question paper"
+**When this fails:** in Writing, where the rule inverts — "Don't simply copy words
+and phrases from the question paper"
 `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`.
 
 ---
@@ -243,65 +223,62 @@ sheet)" with no computer caveat at all
 and a hard 2-minute close.
 
 **"I need band 7 in all four papers to get 7.0 overall."**
-You do not. Because of how rounding works, an average of 6.75 reports as 7.0. See
-the next section. **Why the myth is expensive:** it pushes you to chase a Writing
-7.0 you probably will not reach in six weeks instead of a Writing 6.5 you can,
-plus two half-bands in Listening and Reading that you certainly can.
+You do not: an average of 6.75 reports as 7.0 (see the next section). **Why the
+myth is expensive:** it makes you chase a Writing 7.0 you probably will not reach
+in six weeks, instead of a Writing 6.5 you can plus two half-bands in Listening and
+Reading that you certainly can.
 
 **"There's a raw-score table that tells me exactly what 6.5 needs."**
-There is not — not an official one. IELTS publishes four anchor points per test and
-nothing else, with an explicit warning that the numbers move between test versions.
-Every "complete" table you find online reconstructs half-bands from retired
-practice books. **Do instead:** use the published anchors, aim above them, and
-never budget your revision on the assumption that 26/40 is definitely a 6.5.
+Not an official one. IELTS publishes four anchor points per test and nothing else,
+with an explicit warning that the numbers move between versions. Every "complete"
+table online reconstructs half-bands from retired practice books. **Do instead:**
+use the published anchors, aim above them, and never budget your revision on the
+assumption that 26/40 is definitely a 6.5.
 
 **"Under-length costs you a fixed half band."**
-There is no published arithmetic penalty. Official positions differ in emphasis:
-ielts.org says "you will be penalised if your answer is too short"
-`[src: ielts.org — IELTS Academic: Writing test format]`, while Cambridge's FAQ
-says "There is no direct penalty for writing fewer than 150 words for the Task 1
+There is no published arithmetic penalty, and the official positions differ in
+emphasis. ielts.org says "you will be penalised if your answer is too short"
+`[src: ielts.org — IELTS Academic: Writing test format]`; Cambridge's FAQ says
+"There is no direct penalty for writing fewer than 150 words for the Task 1
 question and 250 words for the Task 2 question. However, writing fewer words may
 impact on the range of ideas and evidence produced and may therefore affect your
 score" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`. The May
-2023 descriptors contain no word-count deduction: under-length appears only as a
-*cause* of low criterion scores, and the key criteria define the task itself as
-being fulfilled "using a minimum of 150 words" / "250 words"
+2023 descriptors contain no word-count deduction — under-length appears only as a
+*cause* of low criterion scores — and the key criteria define the task as fulfilled
+"using a minimum of 150 words" / "250 words"
 `[src: ielts.org — IELTS Writing key assessment criteria (PDF)]`. **What is
 certain:** "Responses of 20 words or fewer are rated at Band 1"
 `[src: takeielts.britishcouncil.org — IELTS Writing band descriptors (PDF)]`.
 **Do instead:** stop asking what the deduction is. A 210-word Task 2 cannot fully
-develop a position, so Task Response is capped, and there is not enough text to
-evidence lexical or grammatical range. That is the mechanism, and it hurts more
-than a flat half band would.
+develop a position, so Task Response is capped, and there is too little text to
+evidence lexical or grammatical range. That mechanism costs more than a flat half
+band would.
 
 **"One Skill Retake is my safety net."**
-It might not exist for you. Eligibility requires all of: a completed full test at a
-centre that offers it, a computer-delivered full test, and the retake sat within 60
-days `[src: ielts.org — IELTS One Skill Retake: retake one section]`. It must be in
-the same country `[src: takeielts.britishcouncil.org — IELTS One Skill Retake]`,
-only one retake per full test `[src: ielts.org — One Skill Retake]`, and receiving
-institutions do not all accept it — IELTS itself says "We recommend that you check
-with the organisation directly to see if they accept IELTS One Skill Retake before
-booking your test" `[src: ielts.org — One Skill Retake]`. British Council Tunisia
-publishes a One Skill Retake page but says only that it "is currently available at
-selected IELTS on Computer centres" and names no Tunisian centre
-`[src: britishcouncil.tn — IELTS One Skill Retake]`. **Availability in Tunis,
-Sfax, Sousse, Bizerte or Gabes could not be confirmed; ask your centre before your
-test date, and never build a band-7 plan that depends on it.**
+It may not exist for you. It requires all of: a full test completed at a centre
+that offers it, that full test taken on computer, the retake sat within 60 days
+`[src: ielts.org — IELTS One Skill Retake: retake one section]` and in the same
+country `[src: takeielts.britishcouncil.org — IELTS One Skill Retake]`, one retake
+per full test, and acceptance by the receiving institution — which IELTS tells you
+to verify directly before booking `[src: ielts.org — One Skill Retake]`. British
+Council Tunisia publishes a One Skill Retake page but says only that it "is
+currently available at selected IELTS on Computer centres", naming no Tunisian
+centre `[src: britishcouncil.tn — IELTS One Skill Retake]`. **Whether it runs in
+Tunis, Sfax, Sousse, Bizerte or Gabes could not be confirmed — ask your centre, and
+never build a band-7 plan that depends on it.**
 
 **"Copying the prompt gives me a free introduction."**
 "Any copied rubric must be discounted"
 `[src: takeielts.britishcouncil.org — IELTS Writing band descriptors (PDF)]` — it
-is not counted as your writing, so copying can silently push you under length.
+does not count as your writing, so copying can silently push you under length.
 
 **"A memorised essay is insurance."**
-It is a band 0 risk. Band 0 is used "where there is proof that a candidate's answer
+It is a band 0 risk: band 0 is used "where there is proof that a candidate's answer
 has been totally memorised"
 `[src: takeielts.britishcouncil.org — IELTS Writing band descriptors (PDF)]`, and
-memorised phrasing is named in the descriptors as evidence *of* low bands. Official
-advice is blunt: "Don't waste your time learning essays by heart to use in the exam.
-You will be penalised for this"
-`[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`.
+memorised phrasing is named in the descriptors as evidence *of* low bands. "Don't
+waste your time learning essays by heart to use in the exam. You will be penalised
+for this" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`.
 
 ---
 
@@ -323,58 +300,53 @@ published conversion points — and this is the whole of it:
 `[src: ielts.org — IELTS scoring in detail: band scores explained]`
 `[src: takeielts.britishcouncil.org — IELTS Guide for teachers (PDF)]`
 
-**Half-band thresholds (6.5, 7.5) are not published by any official source.** This
-book will not print a number it cannot source. What is official is the caveat:
-"The precise number of marks needed to achieve these band scores will vary slightly
-from test version to test version"
-`[src: ielts.org — IELTS scoring in detail]`, because "the band score boundaries
-are set so that all test takers' results relate to the same scale of achievement…
-the Band 6 boundary may be set at a slightly different raw score across individual
-tests"
+**Half-band thresholds (6.5, 7.5) are not published by any official source**, so
+this book will not print them. What *is* official is the caveat: "The precise
+number of marks needed to achieve these band scores will vary slightly from test
+version to test version" `[src: ielts.org — IELTS scoring in detail]` — boundaries
+are equated per version, so "the Band 6 boundary may be set at a slightly different
+raw score across individual tests"
 `[src: takeielts.britishcouncil.org — IELTS Guide for teachers (PDF)]`.
 
 Practical reading: **30/40 is band 7** in both papers. Treat 30 as your working
-target and anything above it as insurance against a version where the boundary sits
-a mark higher. The one asymmetry worth knowing is at band 5, where Reading needs 15
-and Listening 16; from band 6 upward they are identical.
+target and everything above it as insurance against a version whose boundary sits a
+mark higher. The one asymmetry is at band 5 — Reading 15, Listening 16; from band 6
+upward they are identical.
 
 ### Writing and Speaking: four criteria, equal weight
 
-Both are marked by certificated examiners on four criteria, each worth 25% of the
-task score. Writing Task 1 is judged on Task Achievement, Coherence and Cohesion,
-Lexical Resource, Grammatical Range and Accuracy; Task 2 substitutes Task Response
-for Task Achievement. Speaking is judged on Fluency and Coherence, Lexical
-Resource, Grammatical Range and Accuracy, and Pronunciation
+Both are marked by certificated examiners on four criteria worth 25% each. Writing
+Task 1: Task Achievement, Coherence and Cohesion, Lexical Resource, Grammatical
+Range and Accuracy. Task 2 substitutes Task Response for Task Achievement.
+Speaking: Fluency and Coherence, Lexical Resource, Grammatical Range and Accuracy,
+Pronunciation
 `[src: takeielts.britishcouncil.org — IELTS Guide for teachers (PDF)]`. "Each task
 is assessed independently. The criteria are weighted equally and the score on the
 task is the average"
 `[src: ielts.org — Understanding and setting IELTS scores]`.
 
-Two consequences people miss. Coherence and Cohesion is worth exactly as much as
-Task Response — a quarter of the task, not a linking-words afterthought. And
-Pronunciation is worth exactly as much as grammar in Speaking, which makes it a
-trainable quarter of that band rather than a fixed accent tax.
+Two consequences people miss: Coherence and Cohesion is worth exactly as much as
+Task Response, not a linking-words afterthought; and Pronunciation is worth exactly
+as much as grammar in Speaking, making it a trainable quarter rather than a fixed
+accent tax.
 
 ### Combining Task 1 and Task 2 into a Writing band
 
-The ratio is official and stated three ways: "Task 2 contributes twice as much as
-Task 1 to the Writing score"
-`[src: ielts.org — IELTS Academic: Writing test format]`
-`[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`; and, more
+The ratio is official, stated two ways: "Task 2 contributes twice as much as Task 1
+to the Writing score" `[src: ielts.org — IELTS Academic: Writing test format]`
+`[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`, and more
 explicitly, "Task 1 is worth a third of your overall mark for Writing. Task 2 is
 worth two thirds" `[src: ielts.org — Writing test resources]`.
 
-What IELTS does **not** publish is the arithmetic it uses to combine the two task
-scores, or how the result is rounded. So:
+What IELTS does **not** publish is the arithmetic combining the two task scores, or
+how the result is rounded. So:
 
 > **Planning estimate, not IELTS's method:**
 > Writing band ≈ (Task 1 band + 2 × Task 2 band) ÷ 3
 
-That formula follows directly from the published thirds, which makes it a
-well-grounded estimate — but the exact combination and rounding are not published,
-so treat any number it produces as an indication, not a prediction.
-
-Used as an estimate, it shows the asymmetry that matters:
+It follows directly from the published thirds, which makes it well grounded — but
+treat any number it produces as an indication, not a prediction. Used that way, it
+shows the asymmetry that matters:
 
 | Task 1 | Task 2 | (T1 + 2·T2) ÷ 3 | Reading |
 |---:|---:|---:|---|
@@ -388,12 +360,11 @@ than any other single task in the test.
 
 ### The overall band: averaging and rounding
 
-The rule, verbatim in substance: the overall band is the average of the four
-section bands, rounded to the nearest half band; if the average ends in **.25 it
-rounds up to the next half band**, and if it ends in **.75 it rounds up to the next
-whole band** `[src: ielts.org — IELTS scoring in detail: band scores explained]`.
-
-The three official worked examples:
+The overall band is the average of the four section bands, rounded to the nearest
+half band; if the average ends in **.25 it rounds up to the next half band**, and if
+it ends in **.75 it rounds up to the next whole band**
+`[src: ielts.org — IELTS scoring in detail: band scores explained]`. The three
+official worked examples:
 
 | | L | R | W | S | Sum | Average | Reported |
 |---|---:|---:|---:|---:|---:|---:|---:|
@@ -425,13 +396,13 @@ Not four sevens. Two half-bands, bought anywhere.
 
 Read routes A–D against route E. A, B, C and D all land on exactly 27.0 — **zero
 margin.** Lose half a band anywhere on the day and you are at 26.5, which averages
-6.625, which reports as 6.5. Route E is the same plan with one extra half-band of
-buffer, and the buffer is bought in the papers where marks are countable. That is
-the plan this book is built around: **push Listening and Reading toward 30–35 out
-of 40, and get Writing and Speaking securely to 6.5.**
+6.625 and reports as 6.5. Route E is the same plan with one half-band of buffer,
+bought in the papers where marks are countable. That is what this book is built
+around: **push Listening and Reading toward 30–35 out of 40, and get Writing and
+Speaking securely to 6.5.**
 
-One qualifier that overrides all of this: a 6.5 sub-score requirement is a gate,
-not an average. The last row scores 6.5 overall *and* fails Writing. Check the exact
+One qualifier overrides all of it: a sub-score requirement is a gate, not an
+average. The last row scores 6.5 overall *and* fails Writing. Check the exact
 requirement of every institution you are applying to before you optimise anything.
 
 ---
@@ -449,38 +420,33 @@ language `[src: ielts.org — Test taker performance data 2024-2025 (XLSX)]`:
 For context, the global Academic means in the same period were 6.45 for Listening
 and 6.32 for Reading `[src: ielts.org — Test statistics]`.
 
-Three things follow directly, and they should shape how you spend ninety minutes a
-day.
+Four things follow, and they should shape how you spend ninety minutes a day.
 
-**Writing is the weakest skill for both of your languages, by a wide margin.**
-Arabic-L1 Writing sits 0.56 below the same group's Reading; French-L1 Writing sits
-0.86 below the same group's Reading. This is not a coincidence of one cohort — it
-is the same pattern in two unrelated language families, which means it is about the
-task, not the language. Writing is where a 7.0 is won or lost, and it is the paper
-that responds most slowly to work. Start it in week one.
+**Writing is the weakest skill for both of your languages, by a wide margin** —
+0.56 below Reading for Arabic L1, 0.86 below for French L1. The same pattern in two
+unrelated language families means the problem is the task, not the language.
+Writing is where 7.0 is won or lost, and it responds most slowly to work. Start it
+in week one.
 
-**Your target is roughly a full band above the Arabic-L1 average.** The Arabic-L1
-Academic overall mean is 5.95; you are aiming at 7.0. It is also 0.25 above the
-French-L1 mean of 6.75. This is not discouragement — it is calibration. Feeling
-"about average" is not evidence you are close; it is evidence you are around 6.0.
-Only timed, criterion-graded practice tells you where you are.
+**Your target sits roughly a full band above the Arabic-L1 average** (5.95) and
+0.25 above the French-L1 average (6.75). That is calibration, not discouragement:
+feeling "about average" is evidence you are near 6.0, not near 7.0. Only timed,
+criterion-graded practice tells you where you actually are.
 
-**The Arabic-L1 profile has a Listening problem that the French-L1 profile does
-not.** Arabic-L1 Listening (5.70) is 0.40 *below* Arabic-L1 Reading (6.10), whereas
-French-L1 Listening and Reading are almost level (6.95 / 7.01) and both well above
-the global mean. If your English was built through French-medium reading and
-academic study, your Reading is probably your strongest paper and your Listening
-the one hiding a gap — especially on computer, where there is no ten-minute
-transfer window to recover from a lost thread. The generic advice "buy your extra
-half-bands in Listening and Reading" still holds, but **diagnose Listening before
-you assume it is cheap.** Sit one timed 40-question Listening set in week one and
-let the raw score, not the feeling, tell you which of routes A–E you are on.
+**The Arabic-L1 profile has a Listening problem the French-L1 profile does not.**
+Arabic-L1 Listening (5.70) is 0.40 *below* that group's Reading (6.10), while
+French-L1 Listening and Reading sit almost level (6.95 / 7.01), both above the
+global means. If your English was built through French-medium reading and academic
+study, Reading is probably your strongest paper and Listening the one hiding a gap
+— especially on computer, where there is no transfer window in which to recover a
+lost thread. "Buy your half-bands in Listening and Reading" still holds, but
+**diagnose Listening before assuming it is cheap.** Sit one timed 40-question set
+in week one and let the raw score decide which route you are on.
 
-A fourth point, on Speaking: Pronunciation is 25% of the Speaking band
-`[src: takeielts.britishcouncil.org — IELTS Guide for teachers (PDF)]`. A Tunisian
-Arabic and French accent is not a penalty. What is assessed is intelligibility and
-control of phonological features, and it is trainable — Chapter 6 treats it as a
-scoreable quarter, not a fixed ceiling.
+**Your accent is not a penalty.** Pronunciation is 25% of the Speaking band
+`[src: takeielts.britishcouncil.org — IELTS Guide for teachers (PDF)]`; what is
+assessed is intelligibility and control of phonological features, which Chapter 6
+treats as a trainable quarter rather than a fixed ceiling.
 
 ---
 
@@ -488,63 +454,55 @@ scoreable quarter, not a fixed ceiling.
 
 Answer yes or no. Any "no" is a chapter you cannot skip.
 
-1. Can you state the four papers in the order you will sit them, with each paper's
-   time limit, from memory?
-2. Do you know how many minutes you have at the end of computer Listening — and is
-   your answer "two"?
-3. Can you say how many questions are in Listening and in Reading, and how many
-   marks each correct answer is worth?
-4. Do you know the raw mark that officially corresponds to band 7 in Listening and
-   in Academic Reading?
-5. Do you understand why this book refuses to give you a raw-score number for 6.5?
-6. Can you state the overall-band rounding rule, including what happens at .25 and
-   at .75?
-7. Can you compute, without help, what 7.0 / 6.5 / 6.5 / 7.0 reports as?
-8. Do you know the total (out of 28) that you must reach for a reported 7.0?
+1. Can you state the four papers in sitting order, with each time limit, from
+   memory?
+2. How many minutes do you get at the end of computer Listening — and is your
+   answer "two"?
+3. How many questions are in Listening and Reading, and what is each worth?
+4. What raw mark officially corresponds to band 7 in Listening and Academic
+   Reading?
+5. Can you explain why this book refuses to give you a raw score for 6.5?
+6. Can you state the rounding rule, including what happens at .25 and at .75?
+7. Without help: what does 7.0 / 6.5 / 6.5 / 7.0 report as?
+8. What total, out of 28, must you reach for a reported 7.0?
 9. Can you name the four Writing Task 2 criteria and say what each is worth?
-10. Do you know how much of your *entire* IELTS result rides on Task 2 alone?
-11. Do you know what happens to a Writing response of 20 words or fewer?
+10. How much of your *entire* IELTS result rides on Task 2 alone?
+11. What happens to a Writing response of 20 words or fewer?
 12. Can you explain why under-length writing costs marks without naming a fixed
     deduction?
-13. Have you confirmed with your test centre whether your Speaking test is on the
-    same day, and whether it is face-to-face or by video call?
-14. Have you confirmed with your centre whether One Skill Retake is available in
-    Tunisia — and have you built a plan that does not need it?
-15. Have you completed the free official computer familiarisation test at least
-    once?
+13. Have you confirmed with your centre whether Speaking is the same day, and
+    whether it is face-to-face or by video call?
+14. Have you confirmed whether One Skill Retake runs in Tunisia — and built a plan
+    that does not need it?
+15. Have you completed the free official familiarisation test at least once?
 
 ---
 
 ## 60-second summary
 
-IELTS Academic is four papers — Listening (~30 min, 4 parts, 40 questions),
-Academic Reading (60 min, 3 passages, 40 questions), Writing (60 min, Task 1 ≥150
-words / Task 2 ≥250 words) and Speaking (11–14 min, 3 parts) — reported on a 0–9
-band scale in whole and half bands.
+Four papers — Listening (~30 min, 40 questions), Academic Reading (60 min, 3
+passages, 40 questions), Writing (60 min, Task 1 ≥150 words / Task 2 ≥250 words),
+Speaking (11–14 min, 3 parts) — on a 0–9 scale in whole and half bands.
 
 You are sitting it on a computer, in Tunisia, and paper is being retired from
-mid-2026. The single most expensive consequence: **computer Listening has no
-ten-minute transfer window, only two minutes to check.** ielts.org's own Listening
-page still advertises the ten minutes without a computer caveat — ignore it.
+mid-2026. The most expensive consequence: **computer Listening has no ten-minute
+transfer window, only two minutes to check.** ielts.org's own Listening page still
+advertises the ten minutes with no computer caveat — ignore it.
 
-Listening and Reading are marked out of 40 with one mark per question. Officially,
-band 7 is 30/40 in both; only bands 5, 6, 7 and 8 are published, half-band
-thresholds are not published anywhere official, and even the published anchors move
-slightly between test versions. Writing and Speaking are marked on four criteria of
-25% each. Within Writing, Task 1 is worth a third and Task 2 two thirds; the exact
-formula IELTS uses is not published, but `(T1 + 2×T2) ÷ 3` is a sound planning
-estimate. Task 2 alone is about 17% of your whole result.
+Listening and Reading are marked out of 40, one mark per question; band 7 is
+officially 30/40 in both. Only bands 5–8 are published, half-band thresholds are
+published nowhere official, and even the anchors shift between versions. Writing
+and Speaking are marked on four criteria of 25% each. Within Writing, Task 1 is
+worth a third and Task 2 two thirds; the combining formula is unpublished, but
+`(T1 + 2×T2) ÷ 3` is a sound planning estimate. Task 2 alone is about 17% of your
+whole result.
 
-The overall band is the average of the four papers, rounded to the nearest half —
-with **.25 rounding up to the next half band and .75 up to the next whole band.**
-That last rule is the strategic centre of this book: an average of 6.75 reports as
-7.0, which is a total of 27.0 out of 28.0. From a 6.5 floor in all four papers you
-need exactly **two more half-bands**, not four sevens. Buy them in Listening and
-Reading, where marks are countable and technique converts directly into score, and
-buy a third one if you can, because 27.0 exactly leaves zero margin for a bad
-morning.
-
-Then check the gate: a 6.5-per-section requirement is not an average, and Writing
-is the paper most likely to break it. Official 2024–25 data puts Academic Writing at
-5.54 for Arabic-L1 candidates and 6.15 for French-L1 candidates — the weakest skill
-for both. Start Writing in week one. It moves slowest and it decides this.
+The overall band is the four-paper average rounded to the nearest half — **.25
+rounds up to the next half band, .75 up to the next whole band.** Hence the
+strategic centre of this book: an average of 6.75 reports as 7.0, which is 27.0 out
+of 28.0. From a 6.5 floor in all four papers you need exactly **two more
+half-bands**, not four sevens. Buy them in Listening and Reading, where technique
+converts directly into marks — and buy a third if you can, because 27.0 exactly
+leaves no margin for a bad morning. Then check the gate: a per-section minimum is
+not an average, and Writing is the paper most likely to break it. Start Writing in
+week one. It moves slowest, and it decides this.

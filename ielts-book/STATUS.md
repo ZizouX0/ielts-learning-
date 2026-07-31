@@ -51,20 +51,31 @@ ledger.
 
 ## Phase 2 — Writer agents
 
-Batch 1 — **RUNNING**:
-- [~] Ch 1 — How IELTS Academic Really Works
-- [~] Ch 2 — Listening: Complete Playbook
-- [~] Ch 3 — Reading: Complete Playbook
+All nine writers launched. Drafted so far (~43,800 words, **zero
+`[UNVERIFIED]` tags surviving into any chapter**):
 
-Batch 2 — queued:
-- [ ] Ch 4 — Writing Task 1: Every Visual Type Mastered
-- [ ] Ch 5 — Writing Task 2: Every Question Family Mastered
-- [ ] Ch 6 — Speaking: All Three Parts
+- [x] Ch 1 — How IELTS Academic Really Works (4,428 w)
+- [x] Ch 2 — Listening: Complete Playbook (6,515 w)
+- [x] Ch 3 — Reading: Complete Playbook (8,180 w)
+- [x] Ch 4 — Writing Task 1 (7,734 w)
+- [x] Ch 5 — Writing Task 2 (8,876 w)
+- [x] Ch 6 — Speaking (8,061 w)
+- [~] Ch 7 — The Band 7 Vocabulary System — RUNNING
+- [~] Ch 8 — Grammar for Band 7 + Arabic/French Error Map — RUNNING
+- [~] Ch 9 — Study Plan, Practice System & Test Day — RUNNING
 
-Batch 3 — queued:
-- [ ] Ch 7 — The Band 7 Vocabulary System
-- [ ] Ch 8 — Grammar for Band 7 + Arabic/French Error Map
-- [ ] Ch 9 — Study Plan, Practice System & Test Day
+**Length note.** Chapters are running well over their word targets (Ch 2 came in
+at 5,700 body words against a 3,000–4,000 target). The writer's reasoning is
+sound: the mandated template — every question type × six required elements, plus
+every myth with its why-it-fails — sets a floor that cannot be met inside the
+target without dropping mandated content. Completeness was chosen over the
+target and flagged. The Editor accepts this; V5 will judge whether any of it is
+padding.
+
+**Copyright verification is happening at draft time, not just at V4.** The Ch 2
+writer grepped every proper noun from the official sample tapescripts it had used
+as evidence and confirmed zero hits in its own text, then rebuilt each trap with
+original material. That is the standard for the remaining chapters.
 
 ## Phase 3 — Verification agents (adversarial)
 
