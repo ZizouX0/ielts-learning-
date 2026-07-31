@@ -109,20 +109,47 @@ thread during the outage. Six clean checks, one `[MAJOR]` found and fixed. It
 covers only what can be checked without independent re-research and does **not**
 substitute for V1–V6, which are not bound by anything it concluded.
 
+## Phase 3 — result
+
+Six audits: **9 CRITICAL, 43 MAJOR, ~59 MINOR** raised. V6 returned
+**VERDICT: PASS** (0 critical, 1 major, 5 minor), with the major repaired
+immediately — see the post-gate section of `fixes/changelog.md`.
+
+- [x] V1 — Fact auditor (3C / 8M / 9m)
+- [x] V2 — Band descriptor auditor (0C / 5M / 13m)
+- [x] V3 — Coverage auditor (1C / 5M / 6m)
+- [x] V4 — Consistency & example auditor (2C / 11M / 23m)
+- [x] V5 — Level auditor (3C / 14M / 8m)
+- [x] V6 — Verification gate — **PASS**
+
 ## Phase 4 — Fix loop
 
-- [ ] All `[CRITICAL]` resolved
-- [ ] All `[MAJOR]` resolved
-- [ ] `[MINOR]` editing pass
-- [ ] `fixes/changelog.md` complete
+- [x] All `[CRITICAL]` resolved — five fix agents, grouped by chapter
+- [x] All `[MAJOR]` resolved
+- [~] `[MINOR]` editing pass — **RUNNING**, three agents (Ch1–3, Ch4–6, Ch7–9)
+- [~] `fixes/changelog.md` — 64 entries and growing
 
 ## Phase 5 — Assembly
 
-- [ ] `book/IELTS-Academic-War-Book.md`
+- [~] Ledger gaps + Appendix E — **RUNNING**
+- [ ] `book/IELTS-Academic-War-Book.md` — title page, how-to-use, TOC, 9 chapters
+- [ ] Appendices A–D
 - [ ] `book/CHEAT-SHEETS.md`
-- [ ] Appendices A–E
 - [ ] Final Editor-in-Chief read-through
 - [ ] PDF export
+
+### Repeated failure mode worth recording
+
+**Two fixes in this session were applied by inspection rather than by search, and
+both were incomplete.** The /p/ phoneme claim was corrected in one chapter of
+three; the Not Given rule was corrected in one knowledge file of two. Each was
+caught later — the first by V4, the second only when a fix agent's sharper
+rewrite was being propagated.
+
+The lesson generalises beyond this project: **a fix applied where the problem was
+noticed is not a fix, it is a coincidence.** Every correction in this repository
+now ends with a grep across all candidate files, and the sweep results are
+recorded rather than asserted.
 
 ---
 
