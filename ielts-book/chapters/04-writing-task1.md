@@ -961,8 +961,9 @@ relative clause is one of the things that makes it specific. So *the people **wh
 travelled by bus*** is correct English in a Task 1 report: the clause says *which*
 people — the ones in the chart. Compare the pair and the rule is visible:
 
-> ✗ *The people prefer cars.* → ✓ *People prefer cars.* (generic, no clause)
-> ✓ *The people who travelled by bus fell to 5 million.* (specified by the clause)
+> ✗ *The people prefer cars.* → ✓ *People prefer cars.* (bare generic — no article)
+> ✓ *The people who travelled by bus outnumbered cyclists three to one in 1990.*
+> (specified by the clause — the article is required)
 
 Chapter 8 gives the full trigger list — an *of*-phrase, a defining relative clause, a
 superlative, an ordinal, a date, or previous mention — and the decision procedure

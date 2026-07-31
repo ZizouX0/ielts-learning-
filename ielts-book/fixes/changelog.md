@@ -789,3 +789,249 @@ list in 8. In these two chapters the rule applied was: keep what is load-bearing
   preamble and again as M12. V3 marked both as correct and the duplication is
   load-bearing: the preamble governs how the five families are read, and M12 is where
   a reader who learned the families elsewhere will look. Kept.
+
+---
+
+### Chapters 8 and 9 — grammar/L1 and study plan/test day
+
+Fix agent scope: `08-grammar-L1.md`, `09-studyplan-testday.md`.
+
+#### `[MAJOR]` `[V2]` `[V1]` — Chapter 8 asserted a descriptor clause is printed in bold. It is not.
+
+**Issue.** Ch8's Band descriptor decoder stated: *"The band-6 accuracy cell is set in
+bold in the original, and the PDF's own legend reserves bold for negative features
+that limit a rating."* The error map repeated the premise ("a multiplier where the
+descriptors bold it as a limiter"). Chapter 5 states the correct fact and invites the
+reader to verify it by font extraction — so a reader who followed Ch5's instruction
+would have caught the book contradicting itself.
+
+**Verification.** Re-downloaded `ielts-writing-band-descriptors.pdf`
+(`CreationDate D:20230503120242`) and extracted per-character `fontname`. On the two
+pages covering bands 6 and 5, the entire bold inventory is at **band 5**:
+*"incompletely addressed."*, *"Paragraphing may be inadequate or missing."*,
+*"There may be no data to support the description."* The band-6 GRA accuracy clause
+and the band-6 LR risk-taker clause are `OpenSans-Regular`. The page covering bands
+9, 8 and 7 carries no bolded body text at all. This reproduces V2's and V1's findings
+independently.
+
+**Change.** The bold claim is deleted and replaced with what the text actually is: a
+**positive-feature description** of band 6, binding because the grid's header rule
+requires a script to *fully* fit a level's positive features. The correct bold
+inventory is printed so the reader can check it, and the underlying advice — close the
+accuracy gap, do not add complexity — is untouched, because it never depended on the
+typography. The error map's ranking principle loses the bold multiplier.
+
+**Source.** `[src: ielts.org — Writing band descriptors (PDF, Updated May 2023), pp.4
+and 8; per-character font extraction, fetched 2026-07-31]`
+
+#### `[MAJOR]` `[V2]` — Chapter 9 coached a sub-6.0 reader into exactly what Chapter 8 debunks
+
+**Issue.** The 10-week plan (explicitly *"for a starting point below 6.0"*) set week 3
+as *"Band 7 GRA needs a range of complex forms, not error-free simple ones"* with the
+milestone *"Every essay contains 4+ correctly formed complex sentences"*, and the
+decoder's step 2.4 said *"band 7 wants range, not merely accurate simple sentences."*
+Ch8's Myth 1 debunks the first and Myth 2 debunks numeric complexity quotas by name.
+Ch9 is the artefact the reader executes daily, so it would have beaten Ch8 in practice.
+
+**Change.** The quota is deleted. Week 3 now drills **three** structures to control
+rather than a large set to coverage, and its milestone is a **ratio of error-free
+sentences**, not a count of clauses. A warning block above the 10-week table states the
+mechanism: band 6 already credits a mix of simple and complex forms, so the gate is the
+next clause — complex structures *not marked by the same level of accuracy as in simple
+structures* — and band 7 requires variety **and** frequent error-free sentences,
+conjunctively. Decoder step 2.4 now scores the ratio first and reads the two numbers in
+that order. The 2025 Speaking change is noted: *complex* was dropped from the band-7
+range clause and simple sentences used effectively are explicitly endorsed.
+
+**Source.** `[src: ielts.org — Writing band descriptors (PDF, Updated May 2023),
+pp.1, 5, 9]` `[src: ielts.org — Speaking band descriptors (PDF, created 2025-09-16)]` —
+both re-downloaded and the band 5/6/7 GRA cells re-extracted, 2026-07-31.
+
+#### `[MAJOR]` `[V5]` — Chapter 1's strategy and Chapter 9's timetable were never reconciled
+
+**Issue.** Ch1 argues the cheap marks are in Listening and Reading; Ch9's rotation gives
+Writing three days and Reading one. Both are individually right and the reader was left
+to resolve them by mood.
+
+**Change.** §Why Writing gets the most time is renamed *"— and how that squares with
+Chapter 1"* and states it: Writing is a **gate** (statistically weakest, fails the
+application outright below 6.5, moves in weeks), Listening and Reading are **levers**
+(technique converts in sessions, which is *why* Ch1 calls those marks cheap). A
+three-line decision rule for a spare hour is added. Ch1's caveat is carried across:
+Arabic-L1 Listening (5.70) sits 0.40 **below** Arabic-L1 Reading (6.10) while French-L1
+Listening and Reading sit level (6.95 / 7.01), so the two L1 profiles disagree about
+which receptive paper is cheap — **diagnose before allocating**, which is also why plan
+selection moves to day 8.
+
+**Source.** `[src: ielts.org — Test statistics → test taker performance data 2024–25]`
+(figures re-checked against Ch1's table, which V1 verified against the spreadsheet).
+
+#### `[MAJOR]` `[V5]` — Chapter 9 reintroduced a study partner Chapter 6 admits does not exist
+
+**Issue.** Decoder Step 4 offered only one route to assessing Pronunciation — 25% of the
+Speaking band — *"play a recording to a fluent English speaker"*. Ch6 is honest that the
+reader is solo, so Pronunciation silently dropped out of the plan.
+
+**Change.** Replaced with two genuinely solo procedures: the Ch6 three-target recording
+review (speech rate, stress-timing, chunking), and a speech-to-text proxy — dictate the
+recording back and treat the words the recogniser gets wrong as the words a listener has
+to work for, tracked weekly on the same passage. Its crudeness is stated. The fluent
+speaker survives as a bonus, not the method.
+
+#### `[CRITICAL]` `[V5]` — 70,000 words of book against a 9-minute daily theory cap, with no reading plan
+
+**Issue.** Reading this book once consumes the entire theory budget of the plan Ch9
+itself sets, and nothing told the reader which 10% to read first.
+
+**Change.** New §How to read this book inside the nine-minute rule: a day-zero setup
+block explicitly outside the cap (all nine 60-second summaries, Ch1 §The strategic core,
+Ch8 §The spine and §Your error map, Ch9's plan tables); a day-by-day table naming **one
+section** per skill day; and an explicit read-once / skim-on-demand / keep-open-beside-
+the-keyboard split. It also states plainly that the book is not to be read straight
+through. Rule 4 of the six rules is restated as "nine minutes, from one named section".
+
+Chapter 8 gets the matching artefact — §How to use this chapter — ordering its own
+sections by value (error map → article material → three-minute self-edit → the eight
+structures last), plus a gate at the head of the structures section: do not start it
+until article error rate is under 10%, because every structure there creates new article
+decisions.
+
+#### `[MAJOR]` `[V5]` — the spaced-repetition ladder had no mechanism and `/anki` went unmentioned
+
+**Change.** Ch9's rotation now carries a full command table for all eleven repo commands
+(`/writing1` `/writing2` `/speaking` `/reading` `/listening` `/vocab` `/mock` `/official`
+`/review` `/handbook` `/anki`), saying what each is for and when it fires. `/anki` is
+added to the Sunday row with the running instruction: keep items in
+`progress/vocab-bank.md`, export on Sunday, let the app compute the ladder — with a
+five-envelope paper fallback for anyone who prefers it. A "miss a day, never double up"
+catch-up rule is added.
+
+#### `[MAJOR]` `[V5]` — AZERTY was flagged as the biggest unpublished risk, then given no procedure and no time
+
+**Change.** New §The keyboard plan in Ch9's L1 alert: (1) test first — 250 words timed on
+QWERTY, and above 20 clean words a minute there is no problem, stop; (2) below that it is
+a week-1 task, 20 minutes a day for ten days *on top of* the 90, never inside the
+practice slot, because a timed essay written while fighting the keyboard corrupts
+`band-tracker.md`; (3) buy the layout, not the willpower; (4) re-test in week 3 and drill
+punctuation keys specifically. Budgeted explicitly at ≈3.5 hours in weeks 1–2.
+
+#### `[MAJOR]` `[V1]` — the "stale French translation" diagnosis of the Tunisia paper option does not hold
+
+**Issue.** Ch9 attributed the paper-versus-computer conflict to a lagging French
+translation, and the L1 alert generalised it into a rule ("where the French and English
+versions disagree, the English one is more likely current").
+
+**Verification (fresh fetch, 2026-07-31).** britishcouncil.tn's **English** IELTS Academic
+page says *"You can choose between IELTS on paper or computer"* and quotes
+*"Paper-based: 750 TND"*; the English General Training page quotes the same paper fee. The
+English dates/fees/locations page offers only IELTS on computer and IELTS Online. So the
+site is internally inconsistent **within English**, and the translation-lag diagnosis is
+unsupported.
+
+**Change.** Both passages rewritten honestly: the conflict is real, it is not
+French-versus-English, the website cannot settle it, and the rule is *phone the centre and
+confirm on the booking confirmation*. The chapter's conclusion — book computer at a centre
+— is unchanged and unaffected; paper is retired from mid-2026 either way.
+
+**Source.** `[src: britishcouncil.tn/en — IELTS Academic]`
+`[src: britishcouncil.tn/en — IELTS General Training]`
+`[src: britishcouncil.tn — Test dates, fees and locations]` — all fetched 2026-07-31.
+
+#### `[MAJOR]` `[V1]` `[V4]` — 2h45 versus 2h40
+
+**Change.** Ch9 now states both published figures and invents no reconciliation between
+them: 2h40 is the Listening + Reading + Writing session, published **with no
+delivery-mode caveat**; 2h45 is the total test time for IELTS Academic quoted alongside
+the four component timings including Speaking. The chapter notes that the computer
+components sum to roughly 2h32 and tells the reader to practise against 2h40 seated and to
+budget the individual paper timings.
+
+**Source.** `[src: ielts.org — What to expect on IELTS test day]` (*"This takes 2 hours 40
+minutes, and there are no breaks between each section of the test"*, no mode caveat) and
+`[src: ielts.org — IELTS Academic test]` (*"The test time is 2 hours and 45 minutes"*) —
+both fetched 2026-07-31.
+
+#### Smaller corrections applied
+
+**Chapter 8**
+- **Criterion weighting re-sourced `[V2]`.** "A quarter of every Writing task" was cited
+  to the Key assessment criteria PDF, which never mentions weighting. Now cited to
+  `[src: ielts.org — Understanding and setting IELTS scores]`, matching Ch1.
+- **Band 8's modal restored `[V2]` `[V4]`.** Band 7 says a few basic errors *persist*;
+  band 8 says a few *may* persist. The prose dropped the modal and the Speaking table
+  omitted the clause from band 8 entirely. Both fixed, and the *a few* quantifier is now
+  read as a **density** claim against the official error-density criterion, with the 70.6%
+  band-6 third-person `-s` rate as the threshold.
+- **Myth 3 scoped `[V2]`.** *Complex* was dropped from the **Speaking** band-7 range
+  clause only; Writing band 7 still reads *"A variety of complex structures is used with
+  some flexibility and accuracy"*. The myth previously licensed short **Writing** sentences
+  from a Speaking descriptor. Verified by re-extraction of both PDFs.
+- **Uncountables allocation hedged `[V2]`.** Error map row 4 is now "GRA, and arguably LR
+  too", with the note that IELTS files word formation under LR and does not say which side
+  countability falls. The book previously stated a contested allocation as settled.
+- **Band-5 row added to the Writing GRA decoder `[V3]`.** The decoders stopped at band 6
+  and the reader's baseline is undiagnosed. Wording taken from the re-extracted band-5 GRA
+  cell.
+- **First conditional un-filed from the second-conditional section `[V4]`.** *If the
+  subsidy will end…* is a first conditional; it now sits in a one-line note about the
+  shared no-modal-in-the-*if*-clause rule, so the section keeps one pattern.
+- **Task 1 stop time aligned to 17 minutes `[V4]`** (was 18, against Ch4's 17), pointing at
+  Ch9's new canonical numbers table.
+- **Band-7 error-free ratio quantified `[V4]` `[V2]`** as four in ten rising to five, so
+  Ch4, Ch5 and Ch8 carry one figure rather than three.
+- **60-second summary moved to the top `[V5]`**, the duplicated opening data folded into
+  it, and the section kept under its mandated heading.
+
+**Chapter 9**
+- **60-second summary moved to the top `[V5]`** and rewritten to carry the corrected
+  figures.
+- **New §The numbers, in one table `[V5]`** — the canonical clocks and word counts for the
+  whole book (T1 3/12/3, stop 17, 170–190, floor 150; T2 5/32/3, stop 37, 270–290, floor
+  250), so no chapter has to be adjudicated against another.
+- **Study-plan hour totals corrected `[V4]`** from 54/72/90 to **63/84/105** — the rotation
+  works seven days, including the Sunday review.
+- **Plan selection de-circularised `[V5]`.** The rule refers to four sections; week 1 is
+  identical in all three plans, so the choice is now explicitly made on **day 8**.
+- **8-week week 3 body paragraph `[V2]`** changed from *claim → explain → example* to
+  **claim → because → so what → instance** (Ch5 Tip 4). The dropped *so what* is the
+  consequence step that separates band 6 from band 7 on Task Response.
+- **"Writing is sat at the two-and-a-half-hour mark" `[V4]`** → sat in the **last hour** of
+  the block, starting at roughly 1h32. The breakfast argument is unaffected.
+- **Pen-or-pencil downgraded from "genuine unresolved conflict" `[V1]`.** The British
+  Council rule is explicitly scoped to *"your IELTS on Paper test"*; Cambridge answers a
+  different question. Both are about paper and neither applies to a computer candidate.
+  `[src: takeielts.britishcouncil.org — Test day advice, fetched 2026-07-31]`
+- **New bullet on coach-versus-book disagreement `[V5]`.** When an AI coach contradicts a
+  rule here, ask it to quote the official document; if it cannot, the book's sourced
+  version stands; if it can, log it.
+- **New §The night-before checklist `[V3]`** — fifteen tickable lines, distinct from the
+  existing preparation audit.
+- **L1 alert de-duplicated `[V5]`.** The interference material is cross-referenced to
+  Chapter 8 rather than partially restated; only the test-day-specific consequence (the
+  sweeps fit inside the checking window) is kept here.
+
+#### Judged NOT to change
+
+- **Ch9's refusal to treat "a re-mark can only go up" as verified.** V1 confirms only IDP
+  states it; ielts.org and the British Council are silent, and the BC terms page returns
+  HTTP 403. The hedge is correct and stays exactly as written.
+- **Tunisia fees (750 / 820 / 640), the six-week EOR deadline, the 60-day One Skill Retake
+  rule, and every IELTS Online claim.** V1 verified all exact against live sources. Left
+  untouched.
+- **The Cambridge IELTS 21 publication-date hedge.** V1 hit the same HTTP 403 at
+  cambridge.org and explicitly recorded that the hedge should not be tidied into an
+  assertion. Kept verbatim.
+- **Chapter 8's ~90 wrong→right pairs.** V4 worked every one individually and found each
+  genuinely wrong and genuinely right. Not touched, and the full L1 treatment stays here:
+  Ch8 is the canonical home for the false-friend, uncountables, preposition and article
+  material, so the cross-cutting de-duplication removes copies elsewhere, never here.
+- **Physical reordering of Chapter 8's H2 sections.** V5 proposed promoting the error map
+  and article material above the eight structures. The value is real, but reordering
+  mandated H2 sections in one chapter alone would break the book-wide section order that
+  V4 exists to protect, and other agents hold live cross-references into this chapter by
+  section name. Solved instead by moving the 60-second summary to the top, adding §How to
+  use this chapter as an explicit value-ordered reading route, and gating the structures
+  section — same navigational effect, no structural risk.
+- **The mandated "Question types, one by one" heading in both chapters.** V5 wanted it
+  renamed to describe its contents. The heading is mandated across all nine chapters;
+  renaming it in two would cost more consistency than it buys.

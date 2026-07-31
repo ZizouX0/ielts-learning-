@@ -879,11 +879,12 @@ words**. Two things belong here rather than there:
   about which side countability falls on, so a book that states the allocation as
   settled is inventing a ruling. Either way it is scored, and the repair is
   identical.
-- **Why Task 2 is where it bites.** An essay about *research*, *information*,
-  *evidence*, *knowledge* and *training* is an essay made almost entirely of
-  uncountables — the abstract-argument register hands you five of the nine words in
-  every paragraph. The official **7.5** script itself contains *"reading gossips"*, so
-  this family reaches strong writers; it is a scan, not a lesson.
+- **Why Task 2 is where it bites.** Five of Chapter 8's nine words — *research ·
+  information · evidence · knowledge · advice* — are the working vocabulary of
+  argument itself, so an abstract Task 2 essay hands you most of the list in every
+  paragraph, while a Task 1 report might not use one of them. The official **7.5**
+  script itself contains *"reading gossips"*, so this family reaches strong writers.
+  It is a scan, not a lesson.
 
 **3. Preposition transfer — the six that essay argument actually produces.** The full
 table is in **Chapter 8**. These six recur because they attach to the verbs of
