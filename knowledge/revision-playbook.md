@@ -253,9 +253,30 @@ inference, and the answer is **Not Given**.
 irrelevant and actively dangerous.
 
 **Qualifier traps.** Watch *all, always, never, only, exclusively, the most,
-majority*. If the statement says *all* and the passage says *many*, that is
-**False** — the qualifier is the claim. If the statement says *some* and the
-passage says *many*, that is True.
+majority* — but be careful which way they cut. Most guides say a statement
+claiming *all* where the passage says *many* is **False**. That is wrong, and it
+costs marks.
+
+If the passage says *many* and the statement says *all*, the passage has not made
+that claim — it said something looser. There is no sentence contradicting the
+statement, so the answer is **NOT GIVEN**. An official worked example gives
+exactly this.
+
+**Scope mismatches split the same way**, and this is the distinction to hold:
+
+- **The passage says nothing about the part the statement adds → NOT GIVEN.**
+  The passage gives a figure for *managerial staff*; the statement generalises it
+  to *all employees*. That is a gap, not a contradiction.
+- **The passage does speak about that part and it goes the other way → FALSE.**
+  Passage: *the scheme operates only in coastal regions.* Statement: *the scheme
+  operates nationwide.* Here the passage has explicitly ruled the addition out.
+
+**The discriminator, in one question:** *has the writer said anything at all
+about the part the statement adds?* No → Not Given. Yes and it conflicts →
+False.
+
+(A statement saying *some* where the passage says *many* is True — the weaker
+claim is contained in the stronger one.)
 
 **Yes / No / Not Given** works identically, but concerns the **writer's opinions
 and claims** rather than facts. Look for opinion markers: *arguably, it seems

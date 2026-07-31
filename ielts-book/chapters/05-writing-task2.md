@@ -248,7 +248,7 @@ Intro   ~45 w   Paraphrase the proposition · state your position in one sentenc
 Body 1  ~100 w  Reason 1 — claim, because, so what, instance
 Body 2  ~100 w  Reason 2 — claim, because, so what, instance
 Conc.   ~35 w   Restate the position in new words. No new argument.
-Total   ~280 w  ────────────────────────────
+Total   ~280 w   ← inside the 270–290 target
 ```
 
 **Worked skeleton.** Original prompt: *Some people believe universities should
@@ -289,7 +289,7 @@ Intro   ~45 w   Paraphrase both views · state YOUR position now, not at the end
 Body 1  ~95 w   View A — presented fairly, developed
 Body 2  ~110 w  View B — developed, and this is where you side with one, with reasons
 Conc.   ~35 w   Your position restated
-Total   ~285 w  ────────────────────────────
+Total   ~285 w   ← inside the 270–290 target
 ```
 
 Safer alternative at 6 or 6.5: three bodies of about 75 words — view A, view B,
@@ -334,7 +334,7 @@ Intro   ~45 w   Paraphrase the problem · signpost causes then remedies
 Body 1  ~100 w  Cause 1 developed fully, Cause 2 briefly — or one cause, deeply
 Body 2  ~100 w  A remedy for cause 1, a remedy for cause 2, named as such
 Conc.   ~35 w   The problem is tractable if the named causes are attacked
-Total   ~280 w  ────────────────────────────
+Total   ~280 w   ← inside the 270–290 target
 ```
 
 **Worked skeleton.** Original prompt: *In many countries young people are leaving
@@ -385,7 +385,7 @@ Intro   ~45 w   Paraphrase · state the verdict now
 Body 1  ~90 w   The weaker side, honestly presented
 Body 2  ~110 w  The stronger side, developed further — and say WHY it weighs more
 Conc.   ~35 w   Verdict restated with the reason for the weighting
-Total   ~280 w  ────────────────────────────
+Total   ~280 w   ← inside the 270–290 target
 ```
 
 Give the winning side more words. The asymmetry is itself an argument; a
@@ -428,7 +428,7 @@ Intro   ~45 w   Paraphrase · one-line answer to BOTH questions
 Body 1  ~100 w  Question 1, fully
 Body 2  ~100 w  Question 2, fully — and it must be an evaluation, not more causes
 Conc.   ~35 w   Both answers, compressed
-Total   ~280 w  ────────────────────────────
+Total   ~280 w   ← inside the 270–290 target
 ```
 
 **Worked skeleton.** Original prompt: *In many households children now spend more

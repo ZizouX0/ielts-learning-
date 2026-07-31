@@ -147,9 +147,20 @@ than most guides admit, and getting it backwards costs marks:
   or *all*, the text has not made that claim — it has said something looser. No
   contradiction exists, so it is Not Given, **not** False. This is what an
   official worked example gives.
-- **Scope mismatch → FALSE.** The text makes a claim about one thing and the
-  statement transfers it to another, or reverses it. Now there *is* a
-  contradiction.
+- **A scope mismatch is usually NOT GIVEN too.** This is the refinement that
+  matters, and most guides — including an earlier version of this file — get it
+  wrong by calling every mismatch False. Split it in two:
+  - **The passage says nothing about the part the statement adds → NOT GIVEN.**
+    The passage gives a figure for *managerial staff*; the statement generalises
+    it to *all employees*. That is a **gap**, not a contradiction. The passage
+    never spoke about the wider group.
+  - **The passage does speak about that part, and it goes the other way →
+    FALSE.** Passage: *the scheme operates only in coastal regions.* Statement:
+    *the scheme operates nationwide.* Now the passage has ruled the addition out.
+
+**The discriminator, in one question:** *has the writer said anything at all
+about the part the statement adds?* If no → Not Given. If yes and it conflicts →
+False.
 
 The test remains the same: **point to the contradicting sentence.** If you cannot
 put your finger on it, the answer is Not Given regardless of how the quantifiers

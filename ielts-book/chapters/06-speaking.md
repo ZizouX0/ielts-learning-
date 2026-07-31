@@ -202,7 +202,9 @@ highly trained to spot memorised answers, which never bodes well"
 `[src: ielts.org — Don't overdo it]`, and Part 1 is where the rehearsed hometown paragraph
 appears. *Register collapse* — "Concerning my domicile, it is situated…" is not
 sophistication; band-7 Lexical Resource requires **awareness of style**, and French academic
-register in spoken English fails it.
+register in spoken English fails it. (*Register* = the level of formality a piece of language
+belongs to — the difference between *my place*, *my flat* and *my domicile*. Chapter 7 §3 is the
+full treatment; in Speaking the formal end is the wrong end.)
 
 **Band-6 failure mode:** two-clause answers that are grammatically fine and completely flat.
 *"Yes, I like cooking. It's very nice."*
@@ -389,9 +391,11 @@ acceptable `[src: takeielts.britishcouncil.org — Speaking Part 3 lesson (PDF)]
 | Causation | *which in turn · that stems largely from · the knock-on effect is · driven less by X than by Y* |
 | Conceding | *granted, … even so · true up to a point, but · I can see why people say that, although* |
 
-Hedging is not decoration: band-7 Lexical Resource requires awareness of style, and unhedged
-absolutes ("all young people are addicted to their phones") read as stylistically wrong *and*
-analytically thin.
+*Hedging* — softening a claim so that it is defensible, instead of asserting it flat — is not
+decoration: band-7 Lexical Resource requires awareness of style, and unhedged absolutes ("all
+young people are addicted to their phones") read as stylistically wrong *and* analytically thin.
+Chapter 7 §5 builds the full kit; it is the cheapest band-7 lexical feature there is, because it
+uses no words you do not already own.
 
 **Worked example.** *Should schools teach practical skills like cooking and basic repairs?*
 
@@ -429,8 +433,8 @@ different words.
 
 ## Tips & tricks
 
-**1. Train sentence recovery, not hesitation elimination.** `[expert consensus — descriptor-
-derived, not officially stated]` The band-7 Fluency cell says hesitation, repetition and
+**1. Train sentence recovery, not hesitation elimination.**
+`[expert consensus — descriptor-derived, not officially stated]` The band-7 Fluency cell says hesitation, repetition and
 self-correction **do** occur at 7, often mid-sentence, and **do** signal difficulty accessing
 language — the only requirement is that they not affect coherence
 `[src: ielts.org — Speaking band descriptors (PDF, 2025)]`. So the target is not silence; it is a
@@ -495,8 +499,9 @@ correct twice; never return to a finished sentence.
 The official list: sentence length, subordinate clauses, verb-phrase complexity (perfect and
 continuous aspect, **modality**, the **passive**), phrase complexity (modification before and
 after the head noun), and **moving elements for information focus** — that last meaning
-clefting and fronting: *What really matters is… · It's the parents who… · That, I think, is the
-real issue.* Almost no band-6 candidate does it.
+*clefting* and *fronting*, which are simply the two ways English reorders a plain sentence to put
+the spotlight on one part of it: *What really matters is… · It's the parents who… · That, I
+think, is the real issue.* (Chapter 8 §7 has the patterns.) Almost no band-6 candidate does it.
 
 **8. Speak in spoken sentences, not written ones.** `[verified]` The official definition of a
 "spoken sentence" includes verbless structures and ellipsis doing a sentence's job. "Depends on
@@ -551,7 +556,9 @@ stress, and the three or four phonemes that actually cost you clarity.
 
 **"Memorise strong answers for common topics."** Examiners are trained to spot memorised
 answers, and memorised utterances are named as a **band 2/3** feature in the grid itself.
-**Correct version:** flexible frameworks, collocations, functional language. Never scripts.
+**Correct version:** flexible frameworks, **collocations** — the word partnerships English
+habitually uses, *strike a balance* rather than *hit a balance*; Chapter 7 §1 is where they are
+defined and drilled — and functional language. Never scripts.
 
 **"Use idioms to prove your Lexical Resource."** Band 7 asks for *some* ability with less common
 items **and awareness of style and collocation**. A forced idiom fails both to gain one. The

@@ -536,10 +536,13 @@ own cold.
 
 1. **Never practise Writing untimed.** A 70-minute essay tells you nothing about a
    40-minute test.
-2. **Always type.** Your test is computer-delivered `[src: ielts.org — Test centre:
-   British Council Tunis]`; typing speed and typo rate are scored variables.
+2. **Always type, on the layout you will meet at the centre.** Every Tunis booking link on
+   ielts.org is computer-delivered `[src: ielts.org — Test centre: British Council Tunis]`;
+   typing speed and typo rate are scored variables, and spelling is marked under Lexical
+   Resource. See §The keyboard plan.
 3. **Mark before you move on.**
-4. **Nine minutes of theory. Nine.**
+4. **Nine minutes of theory, from one named section.** Not nine minutes of browsing, and
+   never a whole chapter — see §How to read this book inside the nine-minute rule.
 5. **Log every session** to `progress/error-log.md`, `vocab-bank.md`,
    `band-tracker.md`. These are the only reason week 6 is smarter than week 1.
 6. **One full rest day before the test.** Never a mock the day before.
@@ -615,7 +618,8 @@ designed interruption. For Writing it means: stop generating, start checking
 articles and verb endings. For Reading: stop reading, fill every empty box. Deciding
 this on the day is how candidates lose four marks in ten minutes.
 
-**5. Aim at 270 words and 170 words, not 250 and 150.** `[expert consensus]` The
+**5. Aim at 270 words and 170 words, not 250 and 150.** `[expert consensus]` (Full targets
+and clocks: §The numbers, in one table.) The
 on-screen counter sits in the lower-left `[src: ielts.idp.com — How
 computer-delivered IELTS works]`, so counting is free — but copied rubric is
 discounted *before* the count, so weak paraphrasing can leave you under length while
@@ -1006,14 +1010,14 @@ Answer yes or no. Every "no" is an action, not a reflection.
     chosen plan backwards from it — and did you make that choice on **day 8**, from four
     real bands, rather than on day one from a hunch?
 11. Is every practice essay you write typed, timed, and marked within 48 hours?
-11a. Does today's nine minutes of theory come from **one named section** matched to today's
+12. Does today's nine minutes of theory come from **one named section** matched to today's
     skill, rather than from whichever chapter you opened first?
-12. Have you read both public band descriptor PDFs end to end, and at least one set
+13. Have you read both public band descriptor PDFs end to end, and at least one set
     of examiner-commented sample responses?
-13. Have you sat two full 2h40 sittings — typed, no breaks — before test day?
-14. Do you know what you will do the moment the on-screen timer starts flashing, in
+14. Have you sat two full 2h40 sittings — typed, no breaks — before test day?
+15. Do you know what you will do the moment the on-screen timer starts flashing, in
     both Reading and Writing?
-15. Is your last study day a rest day, with ID and booking confirmation already by
+16. Is your last study day a rest day, with ID and booking confirmation already by
     the door?
 
 ### The night-before checklist

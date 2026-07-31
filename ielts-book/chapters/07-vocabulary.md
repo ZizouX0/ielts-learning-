@@ -9,9 +9,9 @@ words habitually keep company with which in English.** You *strike* a balance, y
 *hit* one. You *pose* a threat, you do not *make* one. You *conduct* research, you do not
 *do a research*. Collocations are learned as whole phrases, never as single words, and
 they are the assessed unit: the official criteria list "control of collocations" as a
-sub-feature, band 7 requires that an awareness of collocation is evident, and the only
-official examiner comments that mention vocabulary quality at the top and bottom of the
-scale both name collocation — never rarity
+sub-feature, band 7 requires that an awareness of collocation is evident, and in the
+official examiner comments collocation is named at **both** ends of the scale — a band-4
+script faulted for it, a band-8.5 script credited for it. Rarity is named at neither
 `[src: ielts.org — Writing key assessment criteria (PDF, 2023), p.4; Academic Writing
 sample tasks (PDF, 2023)]`. This chapter is where the book defines and drills the term;
 the earlier chapters that lean on it are pointing here.
@@ -32,8 +32,9 @@ of band 6. Two official scripts prove the mechanism: same error types, same adeq
 range, 5.5 versus 7.5 — the only variable the examiner recorded was whether errors were
 *frequent* or *occasional*. The metric is **density**, not presence.
 
-And the official 7.5 scripts' vocabulary is completely ordinary — fast food, obesity,
-gadgets, laziness, plus a misspelling and a countability error. What the examiner named as
+And in the official 7.5 script whose lexis an examiner discussed in detail, the vocabulary
+is completely ordinary — fast food, obesity, gadgets, laziness, plus a misspelling and a
+countability error. What the examiner named as
 the higher-level lexical feature was **softening**: *they tend to*, *this appears to be*,
 *might disagree*. **Hedging** — deliberately weakening a claim so that it is defensible,
 instead of asserting it flat — is the neglected band-7 lexical feature. It is built from
