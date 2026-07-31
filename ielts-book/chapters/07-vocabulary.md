@@ -509,7 +509,11 @@ the risk is never the stem, it is the suffix.
 | — | technology | technologist | technological | ✗ *technologic* |
 | vary | variety, variation | — | various, variable, varied | — |
 
-**Nominalisation — a range gain and a collocation gain at once:**
+**Nominalisation — a range gain and a collocation gain at once.** *Nominalisation* is
+turning a verb or an adjective into a noun and building the sentence around it:
+*governments invest* → *investment*; *cities grow rapidly* → *the rapid growth of
+cities*. English academic prose does this constantly, which is why the noun version
+often reads as the more academic of two otherwise identical sentences.
 
 | Plain (band 6) | Nominalised (band 7 shape) |
 |---|---|
@@ -653,8 +657,9 @@ preparation actively damages candidates, because almost all of the popular advic
 optimises for the wrong half of the criterion.
 
 **MYTH 1 — "Use rare, impressive words to show your range."** The band-6 cell
-contains, in bold, a description of exactly this candidate and places them at band
-6. Band 8 credits uncommon items only *when appropriate*. The official 7.5 script
+contains a description of exactly this candidate — the risk-taker with the wider
+range and the higher inaccuracy — and places them at band 6. Band 8 credits
+uncommon items only *when appropriate*. The official 7.5 script
 contains no showpiece vocabulary at all. **Why it hurts:** rare words add error
 density — the metric the criteria actually names — without adding credit unless
 collocation, part of speech and register are all correct simultaneously. IDP states
@@ -669,8 +674,13 @@ Repetition of a general word costs you under sub-feature 1; a wrong substitution
 costs you under sub-features 3 **and** 4.
 
 **MYTH 3 — "Memorise band-9 sentences and drop them in."** The LR descriptor names
-this at **band 4**, in bold: inappropriate use of lexical chunks, e.g. memorised
-phrases and formulaic language. Band 3 names over-dependence on memorised language.
+this at **band 4**: inappropriate use of lexical chunks, e.g. memorised phrases and
+formulaic language `[src: ielts.org — Writing band descriptors PDF (May 2023), band
+4 LR]`. Band 3 names over-dependence on memorised language, and a wholly memorised
+response is band 0. The band-4 clause is not one of the bolded limiters — bold in
+this document starts at band 5 and runs downward — but it does not need to be: it
+is a description of what a band-4 script *is*, and a script must fully fit a band's
+positive features to be rated there.
 **Why it hurts:** memorised phrases are not neutral, they are a scored negative, and
 an examiner spots them instantly because they sit at a different level from the rest
 of the script. *Since the dawn of time, humanity has always…* is a band-4 signal.
@@ -758,9 +768,15 @@ All Writing wording below is paraphrased from the current descriptors
 `[src: ielts.org — Writing band descriptors PDF (May 2023)]`; all Speaking wording
 from the current Speaking descriptors
 `[src: ielts.org — Speaking band descriptors (PDF, 2025)]`. Two rules from the
-descriptors' own header apply throughout: a script must **fully** meet a band's
-positive features to be rated there, and **bold marks negative features that limit
-a rating**.
+Writing descriptors' own header apply throughout, and the first is the one that does
+the work: a script must **fully** meet a band's positive features to be rated there,
+and "Bolded text indicates negative features that will limit a rating." Note what
+the second rule does *not* give you here — **nothing in the Lexical Resource column
+at bands 6 to 9 is bolded**; the bolded limiters begin at band 5 and run downward
+`[src: ielts.org — Writing band descriptors PDF (May 2023), per-character font
+extraction]`. So every band-6 and band-7 statement below is a *positive-feature*
+description, and the "fully meet" rule is what makes falling short of it cost you a
+band.
 
 ### Writing — Lexical Resource
 
@@ -889,8 +905,11 @@ faire* drops the object; English does not.
 
 ### Uncountables that French pluralises
 
-Writing *informations* is a word-formation error under LR and it is instantly
-diagnostic to an examiner.
+Writing *informations* costs you a mark on **GRA, and arguably on LR too** — IELTS
+files "errors in word formation" under Lexical Resource and does not say which side
+countability falls on, so the book states the allocation as contested rather than
+settled (Chapter 8 takes the same line). Either way it is scored, the repair is the
+same list, and it is instantly diagnostic to an examiner.
 
 | ✗ Never | ✓ Always | Counting unit |
 |---|---|---|

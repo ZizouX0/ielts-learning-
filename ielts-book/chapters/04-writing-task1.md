@@ -560,7 +560,7 @@ comparison requirement is not limited to numbers: Task Achievement assesses
 *"comparing or contrasting the information by adequately highlighting the
 identifiable trends, principal changes or differences in the data **and other
 inputs** (rather than mechanical description reporting detail)"* [src: ielts.org —
-Writing key assessment criteria PDF, p.1, fetched 2026-07-31]. *Differences* and
+Writing key assessment criteria PDF, p.2, fetched 2026-07-31]. *Differences* and
 *other inputs* are what you are being marked on. **Grouping is still the band-7
 gate**, exactly as it is everywhere else in this chapter; the only thing that changes
 is what you group *by*.
@@ -612,9 +612,10 @@ with the X found in the first · where the first uses X, the second uses Y*.
 **Trap one — the label inventory.** Walking round the diagram naming every label in
 the order your eye happens to meet them. It is fluent, it is accurate, it covers
 everything, and it is a band-5 answer: *"mechanical description reporting detail"* is
-the criteria document's own phrase for what it is not looking for. A static diagram
-usually carries eight to fifteen labels and you have 170–190 words; **you must leave
-some labels out**, and the ones you keep must be grouped.
+the criteria document's own phrase for what it is not looking for. A labelled diagram
+routinely carries more labels than 170–190 words can hold, so **you must leave some
+out** — and the ones you keep must be grouped. Selection is a band-7 virtue here for
+exactly the reason it is on a table: coverage is cheap, categorisation is not.
 
 **Trap two — commentary.** With no numbers to report, the temptation is to explain
 which design is better, why it was invented, or what it costs. All three are outside
@@ -636,10 +637,12 @@ leaves at a spout beside the wheel.*
 > design B lifts it continuously on a moving loop of rope. Almost all of design B's
 > moving parts sit above ground, while design A's are submerged.*
 
-Fifty-one words — counted, not estimated. Two objects held in one sentence, the
-organising difference named,
-the consequence of that difference named, **and not one trend verb, not one figure,
-and not one sequencer**. Body 1 would then take the lifting mechanism in both
+Fifty-one words — counted, not estimated. Both objects held inside one sentence, the
+organising difference named first, a second grouped difference named after it, **and
+not one trend verb, not one figure and not one sequencer**. That is what
+categorisation looks like when there is no data to categorise: you group by
+*mechanism* and then by *position*, and the two groupings become your two body
+paragraphs. Body 1 would take the lifting mechanism in both
 designs; body 2 would take the parts above ground — the drive, the outlet and the
 access for repair — again in both.
 

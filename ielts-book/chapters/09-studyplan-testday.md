@@ -972,6 +972,14 @@ the wait in English — narrate what you can see, silently, in full sentences. T
 minutes of French immediately before a Speaking test is how *actually*, *assist* and
 *in the other hand* find their way into Part 1.
 
+**The full interference material lives in Chapter 8, and this chapter does not repeat it.**
+Articles with abstract nouns and the counter-list, the nine uncountables, the preposition
+set, the false friends, the two timed sweeps and the three-minute self-edit are all there,
+in one place, annotated. Do not re-derive them here — on a test-day timetable what matters
+is only this: the sweeps are 60 seconds and 45 seconds, they fit inside the checking window
+in the numbers table above, and if you have not rehearsed them until they are automatic
+they will not happen under the clock.
+
 ---
 
 ## Self-test checklist
@@ -987,15 +995,19 @@ Answer yes or no. Every "no" is an action, not a reflection.
 4. Do you know which document you must bring on test day — and is it the same one?
 5. Have you asked your centre whether One Skill Retake is available, and at what
    fee?
-6. Have you asked whether the keyboards are AZERTY or QWERTY?
+6. Have you asked whether the keyboards are AZERTY or QWERTY — and have you timed 250
+   words of your own prose on QWERTY to find out whether you actually have a problem?
 7. Have you asked whether headphones are supplied?
 8. Have you completed the official computer familiarisation tutorials at least
    once, and confirmed for yourself whether there is a spellchecker?
 9. Can you state how many minutes you get at the end of computer Listening — and is
    your answer "two"?
 10. Have you written your test date into `CLAUDE.md` and dated every week of your
-    chosen plan backwards from it?
+    chosen plan backwards from it — and did you make that choice on **day 8**, from four
+    real bands, rather than on day one from a hunch?
 11. Is every practice essay you write typed, timed, and marked within 48 hours?
+11a. Does today's nine minutes of theory come from **one named section** matched to today's
+    skill, rather than from whichever chapter you opened first?
 12. Have you read both public band descriptor PDFs end to end, and at least one set
     of examiner-commented sample responses?
 13. Have you sat two full 2h40 sittings — typed, no breaks — before test day?
@@ -1004,39 +1016,38 @@ Answer yes or no. Every "no" is an action, not a reflection.
 15. Is your last study day a rest day, with ID and booking confirmation already by
     the door?
 
----
+### The night-before checklist
 
-## 60-second summary
+The audit above is a *preparation* checklist. This is the *night-before* one — fifteen
+tickable lines so you assemble nothing at 6 a.m.
 
-**Book computer-delivered IELTS Academic at a British Council Tunisia centre — not
-IELTS Online.** IELTS Online "is not currently accepted for immigration purposes",
-institutions choose individually whether to accept it, it bans headphones, and it
-demands a passport. Your Malta student visa is an immigration process. TND 750,
-payable in dinar only. Register with your passport and bring that identical document
-on the day; the wrong ID means no test.
+**By the door, tonight:**
 
-Bring nothing else. Water in a clear bottle, no food, no phone, no watch. The
-stationery rule is genuinely disputed between the British Council and Cambridge and
-I could not settle it — the centre supplies pen and paper, so follow their
-instruction. The only published arrival figure, 30 minutes, comes from a blog page
-rather than a policy page; your booking confirmation is the authority on reporting
-time, and on whether Speaking is the same day and face-to-face or by video call. Ask
-your centre about One Skill Retake, headphones, and **AZERTY versus QWERTY** before
-you pay.
+- [ ] The **exact ID** you registered with — passport, not the CIN, and not a different one
+- [ ] Booking confirmation, printed or downloaded offline, showing your **reporting time**
+- [ ] Clear transparent water bottle, filled
+- [ ] Nothing else. No stationery, no watch, no snacks
 
-The day is 2h40 with no breaks: Listening (two minutes to review, no transfer time),
-Reading (transfer inside the hour), Writing (worth most, sat when you are most
-tired — so eat first). Never leave a box blank; guess one thing, inside the word
-limit. Copy-paste Reading completions. Flag and move on. Results: plan against five
-days, not two.
+**Set tonight:**
 
-Study at 90 minutes a day on a fixed shape — 9 minutes theory, 63 minutes timed
-practice **plus marking**, 18 minutes error logging — six working days and a review
-Sunday. Pick 6, 8 or 10 weeks from a diagnostic, not from optimism; 8 is the default.
-With fewer than six weeks, cut the build weeks rather than compressing everything.
-Mark one criterion per pass against the real public descriptors, wait 48 hours before
-marking your own writing, award the lower band when torn, and remember that an AI
-cannot hear your pronunciation and grades high unless you pin it to the descriptors.
-If a section comes back anomalously low, you have six weeks to apply for a remark —
-and you should read your centre's own terms before you assume the score cannot move
-down.
+- [ ] Two alarms, on two devices
+- [ ] Route checked, plus Tunis traffic margin on top of the 30-minute floor
+- [ ] Phone charged — it goes in the locker switched off, but you need it to get there
+- [ ] No mock today or tomorrow morning. The last 48 hours change your working memory, not
+      your English
+
+**In the morning:**
+
+- [ ] Eat something substantial. Writing is sat in the last hour of a 2h40 block with no
+      breaks
+- [ ] Toilet **before** you enter the room — you are told to, and there is no break
+- [ ] Arrive early enough to check in without hurrying: ID, photograph, possibly a finger
+      scan, belongings locked away
+
+**In the first sixty seconds at the desk:**
+
+- [ ] Set the **volume** during the instructions, slightly louder than feels right — you keep
+      control throughout
+- [ ] Say the three rules to yourself once: **two minutes** at the end of Listening and no
+      transfer time · **never** leave a box blank, guess one thing inside the word limit ·
+      when the timer flashes at 10 and 5 minutes, stop generating and start checking
