@@ -87,25 +87,27 @@ original material. That is the standard for the remaining chapters.
 
 ## Phase 3 — Verification agents (adversarial)
 
-> **BLOCKED — agent capacity exhausted.** All seven still-running writer agents
-> were terminated by a session limit that resets at **16:20 UTC**. No new agents
-> can be launched until then, so V1–V6 are queued rather than running.
->
-> The writers were killed during optional self-imposed compression passes, not
-> during drafting — every chapter was already complete on disk. Nothing was lost.
->
-> **Editor pre-verification pass run in the meantime** (main thread, no agents
-> required — see `fixes/changelog.md`). Six clean checks, one `[MAJOR]` found and
-> fixed. This does **not** substitute for V1–V6: it covers only what can be
-> checked without independent re-research. The adversarial verifiers must still
-> run, and are not bound by anything the Editor concluded.
+Agent capacity returned at 16:20 UTC. **V1–V5 launched 16:44 UTC and are
+running.** All five are instructed to re-research independently and are
+explicitly *not* permitted to treat the research notes as evidence.
 
-- [ ] V1 — Fact auditor
-- [ ] V2 — Band descriptor auditor
-- [ ] V3 — Coverage auditor
-- [ ] V4 — Consistency & example auditor
-- [ ] V5 — Level auditor
-- [ ] V6 — Verification gate (runs last, after fix loop)
+- [~] V1 — Fact auditor — RUNNING
+- [~] V2 — Band descriptor auditor — RUNNING
+- [~] V3 — Coverage auditor — RUNNING
+- [~] V4 — Consistency & example auditor — RUNNING
+- [~] V5 — Level auditor — RUNNING
+- [ ] V6 — Verification gate (runs last, after the fix loop)
+
+**Where the pipeline stopped, precisely.** The session limit killed seven writer
+agents mid-run, but all of them were in optional self-imposed compression passes
+having already written their chapters. `chapters/` was complete; `verification/`
+and `book/` were empty. So the true stopping point was the **boundary between
+Phase 2 and Phase 3** — nothing was half-done and nothing needed redoing.
+
+**The Editor's pre-verification pass** (`fixes/changelog.md`) ran in the main
+thread during the outage. Six clean checks, one `[MAJOR]` found and fixed. It
+covers only what can be checked without independent re-research and does **not**
+substitute for V1–V6, which are not bound by anything it concluded.
 
 ## Phase 4 — Fix loop
 
