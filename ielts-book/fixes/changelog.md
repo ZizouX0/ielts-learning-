@@ -1035,3 +1035,271 @@ both fetched 2026-07-31.
 - **The mandated "Question types, one by one" heading in both chapters.** V5 wanted it
   renamed to describe its contents. The heading is mandated across all nine chapters;
   renaming it in two would cost more consistency than it buys.
+
+---
+
+### Chapters 6 and 7 — Speaking and Vocabulary
+
+Scope: `chapters/06-speaking.md` and `chapters/07-vocabulary.md` only. Both PDFs
+re-fetched and re-extracted by this agent on 2026-07-31 rather than taken from the
+audit reports.
+
+#### `[MAJOR]` `[V2]` `[V1]` — Chapter 7 asserted three times that descriptor clauses are printed in bold. They are not.
+
+**Issue.** Ch7 claimed the band-6 risk-taker clause (opening, and 60-second summary)
+and the band-4 memorised-chunks clause (Myth 3) are set in **bold**, and that bold is
+IELTS's marker for rating-limiting features — so the clauses were being presented as
+hard limiters. Myth 1 repeated it. The Band descriptor decoder header also asserted
+the bold rule "applies throughout", which in the LR column it does not.
+
+**Independent verification.** `ielts-writing-band-descriptors.pdf` downloaded and every
+character's `fontname` inspected. The complete `OpenSans-Bold` body-text inventory is:
+p.4 (T1 bands 6/5) *"There may be no data to support the description."* — **band 5 TA**;
+p.8 (T2 bands 6/5) *"incompletely addressed."* — **band 5 TR** — and *"Paragraphing may
+be inadequate or missing."* — **band 5 CC**. The pages covering bands 9/8/7 (pp. 3 and 7)
+contain **no bold body text at all**. Nothing at band 6, nothing at band 4, nothing in
+any Lexical Resource cell above band 5. Chapter 5's analysis is confirmed for the third
+time and is **not** contradicted anywhere in Chapter 7.
+
+**Change.** All four assertions removed and replaced with the status the text actually
+has, which loses nothing because the clauses genuinely sit where the chapter says.
+- **Opening** — the quotation stands; a new paragraph, *"A note on its status, because
+  it is easy to overclaim"*, states that the clause is **not** bolded, that bold starts
+  at band 5 and runs downward, and that the header's *other* rule is what makes it bite:
+  a script must **fully** fit a band's positive features, and this is a positive-feature
+  description of what a band-6 script *is*.
+- **Myth 1** — "contains, in bold, a description of exactly this candidate" → "contains
+  a description of exactly this candidate — the risk-taker with the wider range and the
+  higher inaccuracy".
+- **Myth 3** — "names this at band 4, in bold" → names it at band 4, with the band-0
+  total-memorisation point added and an explicit note that the band-4 clause is not
+  bolded and does not need to be.
+- **60-second summary** — rewritten to "At band 6 … the current descriptors describe the
+  candidate who reaches for a wider range at the cost of accuracy", with the fully-fit
+  rule carrying the argument instead.
+- **Decoder header** — now quotes the legend verbatim (*"Bolded text indicates negative
+  features that will limit a rating"*) **and** states what it does not give you here:
+  nothing in the LR column at bands 6–9 is bolded.
+
+**Source.** `[src: ielts.org — Writing band descriptors PDF (May 2023), per-character
+font extraction]`; legend wording quoted verbatim from p.7 of the same file.
+
+#### `[MAJOR]` `[V1]` — Chapter 6 under-claimed its own sourcing in two places
+
+Both are strengthenings: the book was hedging claims that are stated verbatim in an
+official document it already cites eleven times. Both quotations were re-fetched and
+re-extracted from the PDF by this agent.
+
+**1 — the asking-for-help table.** Was sourced to IELTS Liz / IELTS Advantage / Magoosh
+with the caveat "the Part 1 ban is probable rather than certain". It is officially
+stated. The three Tier-2 citations and the hedge are deleted; the official paragraph is
+now block-quoted above the table, the table is explained as that paragraph read by
+contrast (repetition named for Parts 1 and 3; rephrasing and word explanation named only
+for Part 3; Part 2 told to consult the card), and the official limit is quoted — *"The
+most important thing is not to ask the examiner to repeat every question or explain every
+word."* The descriptor argument is kept underneath as corroboration rather than as the
+only support. Myths → *"Never ask the examiner to repeat"* upgraded from a derived rule
+to a quotable one; self-test item 4 now asks the reader to know it is officially stated.
+
+**2 — the Part 2 stop rule.** The myth entry read *"The examiner cannot stop you before
+two minutes, and you must signal if you finish early. Widely circulated; unsupported"* —
+which taught the reader to distrust something reassuring. Retitled **"You must signal if
+you finish Part 2 early"** (the half that really is unsupported) and rewritten around the
+official half: *"Don't worry if the examiner stops you in the Part 2 long turn. It means
+you have spoken for 2 minutes."* The same fix is applied in-chapter, in §Part 2
+*Finishing early is the real risk*, with the target sentence added — *"You should try to
+talk for the full 2 minutes to give the examiner a good sample of your English."*
+
+**Source.** `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF), pp.10–11]`,
+re-fetched 2026-07-31.
+
+#### `[MAJOR]` `[V2]` — Chapter 6 contradicted Chapter 8 on third-person `-s`, and Chapter 8 was right
+
+**Issue.** Ch6 quoted the band-7 tolerance without its quantifier and told a reader whose
+documented omission rate is habitual to "leave them alone", in three places: Tip 3, L1
+alert priority 4, and the 60-second summary. The GRA decoder said the same. Ch8 quotes
+the IELTS-published figure — **70.6% error at band 6 falling to 7.6% at band 7** — and
+frames the target correctly as *occasional slip, not habitual omission*.
+
+**Change.** The threshold is now stated everywhere the tolerance appears, and the
+reallocation-of-attention argument (which is good) is kept behind it as a **conditional**.
+- **Tip 3** retitled *"Stop hunting basic slips — once they are already occasional"*, with
+  *a few* read strictly as a density claim, the official metric named (*error density*),
+  the 70.6 / 7.6 figures printed, and the repair pointed at Chapter 8.
+- **L1 alert priority 4** → *"once your written error rate on them is already low"*, plus
+  a closing paragraph: at 70% you are not spending a tolerance, you are producing the
+  band-6 measurement.
+- **60-second summary** and the **GRA decoder** carry the same gate.
+- **Modal precision restored** throughout: band 7 says a few basic errors *persist*;
+  band 8 says a few *may* persist. Also corrected in the myth *"You can't get band 7 …
+  with basic grammar slips"*, which had flattened both into "permits".
+- **Self-test item 11** now asks whether the written rate is occasional yet, since that
+  is the condition for being allowed to stop monitoring in speech.
+
+**Source.** `[src: Roothooft & Breeze 2019 — Speaking data, L1 mix unreported]`;
+`[src: ielts.org — Speaking key assessment criteria (PDF, 2023)]` for *error density*;
+`[src: ielts.org — Speaking band descriptors (PDF, 2025)]` for both modals.
+
+#### `[MAJOR]` `[V2]` — Chapter 6 taught deliberate repetition as a `[verified]` technique
+
+**Issue.** Tip 1 instructed the reader to *"repeat your last two or three words"* when he
+stalls, tagged `[verified]`; Self-test 6 drilled the habit; the summary absolutised it
+(*"Never abandon and restart"*), contradicting the tip's own escape hatch four lines
+below. But repetition is a **descending** feature of the whole scale: bands 8/9 are
+defined by *very occasional* repetition, band 6 names it as a coherence-breaker, and
+**band 5 is defined by relying on it**. Band 7 *tolerates* it; nothing rewards
+manufacturing it.
+
+**Change.** Tag downgraded to `[expert consensus — descriptor-derived, not officially
+stated]`, and repetition demoted from first resort to third. Tip 1 now gives an explicit
+order of preference — (1) pause and complete the structure, (2) paraphrase round the gap,
+(3) only then repeat your own last words — followed by the scale evidence and the reason
+the book's old defence fails: the examiner cannot classify your repetition as
+"functional", he hears it and rates density. Self-test 6 rewritten to test holding the
+structure rather than repeating. The summary now says abandon-and-restart is for a
+genuinely lost proposition, and keeps repetition as a rare rescue.
+
+**Source.** `[src: ielts.org — Speaking band descriptors (PDF, 2025), bands 9–5 Fluency &
+Coherence]`; `[src: ielts.org — Speaking key assessment criteria (PDF, 2023)]` for
+*"functionless repetitions of words and phrases"*.
+
+#### `[CRITICAL]` `[V5]` — the best pronunciation drill was written in a notation the reader cannot read
+
+**Issue.** The stress-timing drill — which the chapter itself calls the single most
+efficient route out of Pronunciation 6 — turned on the unexplained term *schwa* and on
+IPA (`/wʊdəv/`, `/ðə/`, `/ɑːskt/`, `/θ/`, `/ð/`). This reader has no teacher and no IPA.
+The drill was also called "the rubber-band drill" and contained no rubber band.
+
+**Change.** Fixed at the root and then everywhere downstream.
+- New box **§Three words you need before the rest of this chapter makes sense**, placed
+  immediately after the format table: **chunking**, **stress-timing** and **schwa**, each
+  in plain words with a French anchor for schwa (*le*, *je*) and the explanation of why
+  French rhythm comes out even. All three are named in the official band-6 Pronunciation
+  cell, so the box also makes the decoder legible.
+- **Every phonetic symbol in the chapter now carries an ordinary-letters respelling**, and
+  the box says so: *would have* → "wud-uv", *the* → "thuh" not "thee", *asked* → "ahst".
+  The two *th* sounds are introduced as "the *th* of *think*" and "the *th* of *this*" in
+  the L1 table, the drill heading and the drill's diagnosis step. `/ɑːskt/` removed from
+  the transfer table in favour of a plain description.
+- Drill 4 renamed **the three-beat drill** (V5's option B — the elastic was never part of
+  the procedure), with the instruction rewritten as a countable action: three taps, same
+  number of seconds per line, more than twice the syllables on line three.
+- The decoder's band-6/band-7 delivery pair now explains the compression in words instead
+  of the symbol — and, per `[V4]`, the two lines are now **lexically identical**
+  (*I think that the GOVernment should inVEST MORE*), so "Same words. Same accent.
+  Different band." is literally true.
+- **§The one thing this book cannot do** kept and hardened into a procedure with a written
+  output: three checks, each with an explicit pass/fail test and a number to log, and the
+  honest note that the coaching system can grade a transcript but cannot hear these three
+  either.
+
+#### `[MAJOR]` `[V3]` — Part 2 coverage gaps
+
+**1 — rounding-off questions.** IELTS's own heading appeared once in the book, in a table
+cell. They now have a full treatment: what they look like, that they sit **inside Part 2**
+and are rated, the officially stated fact that **a short answer is what is expected there**
+— *"A short answer is usually expected only when the examiner asks a question at the end of
+the long turn in Part 2"* — the trap (a bare *yes* immediately after two minutes of your
+best English; the drop in level is audible), the shape that fixes it (answer + one clause),
+and an original band-6 / band-7 pair. Self-test item 8 extended to cover it.
+**Source.** `[src: ielts.org — Speaking sample tasks (PDF, 2023), p.5]` for the heading and
+the transcript; `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF), p.10]` for
+the short-answer rule.
+
+**2 — cue-card shapes.** The chapter taught Part 2 through one invented card and never said
+what else a card can ask, although **card shape determines tense** and tense is this
+reader's costliest area. New table of eight families — person · place · object · event or
+experience · activity or habit · media · abstract idea · future plan — each with the tenses
+it hands you, one structure worth planting, and its characteristic failure. Labelled
+explicitly as **a preparation heuristic, not an official taxonomy**; all eight example cards
+are original. Tied back to the note template's existing "the tense I'll use here" line, and
+to self-test item 9. **Source.** `[src: ielts.org — Academic Speaking test format]` for what
+IELTS does say about the card; the absence of an official taxonomy is stated in the text.
+
+#### `[MAJOR]` `[V5]` — jargon and structure in Chapter 7
+
+- **`collocation` now has an unmissable, early canonical definition.** It load-bears three
+  chapters before Ch7 defines it, and Ch7 is its home. The definition is now the **first
+  paragraph of the chapter** (in the relocated 60-second summary), with three minimal pairs
+  and the reason it is the assessed unit; it is repeated in the sub-feature table at first
+  use in the body; §1 keeps the full treatment. Other agents' cross-references land here.
+- **`hedging`, `stance`, `register` and `nominalisation` glossed in plain words at first
+  use** — the first three in the sub-feature table and the §What the criterion contains
+  paragraph, nominalisation at the head of its own table.
+- **Chapter 6's jargon glossed too**, with pointers rather than duplicate treatments:
+  *register* (§Part 1 traps → Ch7 §3), *hedging* (§Part 3 → Ch7 §5), *collocation* (§Myths
+  → Ch7 §1), *clefting / fronting* (Tip 7 → Ch8 §7).
+- **Both 60-second summaries moved to the START** of their chapters, heading name unchanged,
+  each opening "Read this first" with a one-line pointer left at the old position — matching
+  Ch1, Ch2, Ch3, Ch4 and Ch5.
+
+#### Padding reduction `[V5]`
+
+Ch7 is the canonical home for vocabulary and false friends, so its 23-row false-friend
+table, its 15-row uncountables table and its spelling list are **kept in full**. Chapter 6
+carried a compressed re-run of the same material inside §The grammar transfers; it is now
+one sentence naming the classes plus a pointer to Ch7 (false friends, uncountables,
+spelling) and Ch8 (articles, agreement, the counter-list). Nothing was deleted from a
+mandated section — the ranked priority list, which is the part that is Speaking-specific
+and lives nowhere else, is untouched and is now the whole of that subsection.
+
+#### `[MINOR]` items applied
+
+- **`[V2]` two 7.5 scripts presented as one (Ch7).** The comparison table is from Sample
+  Tasks 2023 Task 2B; the vocabulary inventory and the softening credit come from the CD
+  example-responses PDF — a different response to a different prompt. Now "**another**
+  official 7.5 script — a different response, to a different prompt".
+- **`[V4]` two error miscounts in Ch7's before/after pairs.** "Four spelling errors … six LR
+  hits" → **three** misspellings, one wrong suffix, one non-word = **five**, each now named.
+  "Four errors disappear" → **five**, because there are **two** generic articles in the
+  sentence (*the pollution*, *the society*) — undercounting the book's flagship error in its
+  own demonstration was the worst place to be imprecise.
+- **`[V4]` Ch7's opening arithmetic was a non-sequitur.** LR is a quarter of the Writing band
+  because the four criteria are equally weighted, not because Task 2 counts double. Restated,
+  with the double weighting given its real consequence (two thirds of that quarter is decided
+  in Task 2) and the equal-weighting claim sourced to the page that states it.
+  `[src: ielts.org — Understanding and setting IELTS scores]`
+- **`[V2]` pluralised uncountables allocated to LR here and GRA in Ch8.** Standardised on
+  Ch8's hedged version: **GRA, and arguably LR too** — IELTS files word formation under LR
+  and does not say which side countability falls on. Either way it is scored and the repair
+  is the same list.
+- **`[V2]` "self-correction is limiting at all nine bands" (Ch6 Myths).** It appears at bands
+  4–9 only, which the chapter's own Tip 6 already said. Corrected to **4 to 9**.
+- **`[V2]` "buy one band-8 feature outright" (Ch6 Tip 2 and Pronunciation decoder).** Band 7
+  needs *"some, but not all"* of band 8's **five** features. Both places now say **budget for
+  two** and name them in order of cost: sustained rhythm, then flexible stress and intonation
+  across long utterances.
+- **`[V4]` *possiBIlity* contradicted the rule it illustrated** (Ch6 Drill 3). Corrected to
+  `possiBIlity`, with the capitals pointed at explicitly. *phoTOgraphy* did not end in any of
+  the four suffixes listed, so `-graphy / -ology / -ography` is now stated as its own rule
+  line with two more examples.
+- **`[V1]` the video-call research was a 99-candidate preliminary study.** All three figures
+  are verbatim correct; the scale was missing. Now "99 test-takers in Shanghai in 2015, each
+  sitting both modes, in a study its own authors describe as a preliminary comparison", in
+  both the body and the summary.
+
+#### Judged NOT to change
+
+- **The `[verified]` tag on Chapter 6 Tip 2 (buy stress-timing).** V2 challenged only the
+  arithmetic ("one" band-8 feature), not the claim. Band 7 Pronunciation genuinely is defined
+  by reference to bands 6 and 8, and sustained rhythm genuinely is band 8's named feature.
+  The number was fixed; the tag is correct and stays.
+- **Chapter 6's refusal to treat the 2008/2013 Speaking descriptors as current**, and its
+  claim about that file's creation and modification dates. V2 re-pulled the file and recorded
+  the book as "exactly right". Untouched.
+- **Chapter 7's Myth 7** (the fabricated collocation statistic) and its deliberate refusal to
+  print the number even while debunking it. Confirmed clean by V2 and V5; untouched.
+- **Chapter 7's `[src: ielts-simon.com]` and `[src: myieltsclassroom.com]` citations.** They
+  support technique advice, not descriptor claims, and are labelled as what they are. No
+  official source states them, and inventing one would be the error the bold finding exists
+  to prevent.
+- **Chapter 6's honest disclaimer on the phonological transfer table** ("descriptive
+  linguistics, not IELTS documentation … I have not verified them to the standard applied to
+  the descriptor claims"). V4 and V1 both left it standing; hardening it into fact is exactly
+  what the /p/ incident earlier in this log punished.
+- **Chapter 6's `[verified]` self-correction tip and the `[expert consensus]` tag on
+  "record every practice answer".** Both accurate; the distinction is load-bearing for a
+  reader deciding what to trust.
+- **Chapter 7's ten topic banks and the AWL myth at full length.** V5 flagged chapter length
+  generally, but this is the chapter those belong to; the deduplication was applied to
+  Chapter 6's copy of Chapter 7's material, not to Chapter 7's own.
