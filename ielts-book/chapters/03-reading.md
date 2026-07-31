@@ -7,6 +7,52 @@
 
 ---
 
+## 60-second summary
+
+**Read this first.** It is at the top of the chapter on purpose: if today's theory budget is
+nine minutes, spend them here and on §The FALSE / NOT GIVEN decision procedure, and go and
+do a passage.
+
+Three passages, 40 questions, 60 minutes, no transfer time. One mark per item, no negative
+marking, band converted from the raw score. There are no band descriptors. On the published
+conversion, **band 7 starts at 30/40 and band 6.5 at 27** `[src: ielts.idp.com — Reading band
+scores]` — so from the floor of 6.5 the gap to 7 is **three marks**, and from the top of 6.5
+(29) it is **one**. Treat **30 as the target** and everything above it as insurance.
+
+The test measures paraphrase recognition and information location, not comprehension. So:
+survey 20 seconds, skim the topic and final sentences, then scan only where the question
+sends you. Never read the passage through first.
+
+Know the order table. Ordered — multiple choice, T/F/NG, Y/N/NG, matching sentence endings,
+sentence completion, short answer. Not ordered — matching information, matching features,
+summary/note/table/flow-chart completion, diagram labelling. **Matching headings is the
+special case:** the *questions* run one per paragraph in paragraph order, so work the
+paragraphs top to bottom — but the Roman *numerals* are scrambled, so never expect heading
+(i) to belong to paragraph A. On an ordered type, resume from the last answer; on an
+unordered one, find the region and work locally.
+
+**FALSE / NO requires a contradiction you can point at; NOT GIVEN is the absence of a
+sentence.** A vague quantifier in the text against a precise one in the statement is NOT
+GIVEN. **A scope mismatch is NOT GIVEN too** — unless the text explicitly rules the
+statement's population out, in which case it is FALSE. Narrow in the passage against wide in
+the statement is a *gap*, not a contradiction. If you are constructing an argument, you are
+inferring, and the answer is NOT GIVEN.
+
+Completion answers are transcription, not composition — every word you need is already in the
+passage. On computer, copy-paste them and spelling stops being a risk, which removes an entire
+category of loss for you. Write the word limit down; it changes between sets. Add no article,
+no plural, no preposition the gap did not ask for.
+
+Multiple choice comes in two forms and the second is worth two marks, not one: *Choose TWO
+letters, A–G* occupies two question numbers and the letters are accepted in either order
+`[src: ielts.org — Academic Reading Sample Tasks 2023 PDF, Multiple Choice: more than one
+answer + key]`. Never answer one of the two.
+
+Twenty minutes a passage is the official baseline; 19 / 19 / 19 plus a three-minute sweep is
+the working version. Fill every blank. A guess costs nothing and a blank scores zero.
+
+---
+
 ## What the test actually asks
 
 Three long passages, 40 questions, 60 minutes — and the 60 minutes is the whole budget:
@@ -19,7 +65,7 @@ graphs, and *"if texts use technical vocabulary, then a simple dictionary defini
 provided"* — a glossary, and people miss it. `[src: same]`
 
 Each correct item is worth one mark and the band is converted from the raw score.
-`[src: britishcouncil — Guide for teachers, p.7]`
+`[src: britishcouncil — IELTS Guide for teachers (PDF), p.10, fetched 2026-07-31]`
 
 Two things the test does **not** ask, and both matter more than anything it does.
 
@@ -59,7 +105,7 @@ order of the information in the text."* `[src: cambridgeenglish — FAQs PDF]`
 
 | # | Task type | In passage order? |
 |---|---|---|
-| 1 | Multiple choice | **YES** — *"the answer to the first question will be before the answer to the second"* |
+| 1 | Multiple choice | **YES** — *"the questions are in the same order as the information in the text"* (on a *Choose TWO letters* item, that fixes where the **item** sits, not the order of your two letters) |
 | 2 | Identifying information (T/F/NG) | **YES** — *"the answers are in the same order as the text"* |
 | 3 | Identifying writer's views (Y/N/NG) | **YES** — the same official note covers both |
 | 4 | Matching information | **NO** — weakest sourcing in this table, see below |
@@ -76,20 +122,42 @@ lesson PDF, p.2]` · `[src: britishcouncil — Matching Headings PDF, p.2]` ·
 `[src: britishcouncil — Matching Features PDF, p.2]` ·
 `[src: cambridgeenglish — Task Type 11 PDF]`
 
-**Two honest caveats.** ielts.org states the order rule for only **6 of the 11 types** —
-1, 7, 8, 9, 10, 11. Rows 2, 3, 5 and 6 are closed from British Council lesson PDFs and
-Cambridge activity PDFs. Row 4 is weaker still: no official statement exists, and the
-"NO" rests on `[src: ielts.idp.com — Matching Information]` plus a structural argument
-that holds anyway — a task in which paragraphs may be skipped and reused cannot be
-strictly ordered. Treat it as unordered; being wrong costs nothing.
+**Two honest caveats.** ielts.org's format page states an order rule for only **4 of the 11
+types** in so many words — 1, 7, 8 and 11, each with a sentence of the shape *"the questions
+are in the same order as the information in the text"* `[src: ielts.org — Reading test
+format, fetched 2026-07-31]`. Types 9 and 10 carry the opposite note on the same page —
+*"The answers may not come in the same order as in the text. However, they will usually come
+from one part of the text rather than the whole text"* `[src: same]` — which is why they are
+marked NOT GUARANTEED and why the strategy for both is *find the region first*.
+Rows 2, 3, 5 and 6 are closed from British Council lesson PDFs and Cambridge activity PDFs.
+Row 4 is weaker still: no official statement exists, and the "NO" rests on
+`[src: ielts.idp.com — Matching Information]` plus a structural argument that holds anyway —
+a task in which paragraphs may be skipped and reused cannot be strictly ordered. Treat it as
+unordered; being wrong costs nothing.
 
-*Type 5* — the official note reads *"NB The answers are NOT in the same order as the
-text."* `[src: britishcouncil — Matching Headings PDF, p.2]` This book reads that as
-meaning **the Roman numerals are scrambled relative to the paragraphs**, not that the
-questions jump around, since the official samples number questions one per paragraph in
-paragraph order. **That reading is not certain**; no official source states it in so many
-words. Work the paragraphs in order — safe either way — but never expect heading (i) to
-belong to paragraph A.
+*Type 5 — settled, and the book states one position throughout.* The official note reads
+*"NB The answers are NOT in the same order as the text."*
+`[src: britishcouncil — Dealing with Matching Headings questions (PDF), p.2, fetched
+2026-07-31]` On its own that sentence is ambiguous: does it mean the questions jump around
+the passage, or that the list of headings is shuffled? Two pieces of official evidence
+resolve it.
+
+1. **The same British Council document says which.** Its teacher's notes ask the class to
+   notice how the *list of headings* is organised — *"not in text order, use of roman
+   numerals, and there are more headings than paragraphs."* `[src: same, Exercise 5
+   teacher's notes]` It is the **headings** that are out of order.
+2. **The official 2023 sample task numbers the questions in section order.** The task covers
+   five lettered sections; question 1 is the first section, one section is done for you as
+   the Example, and the remaining questions run consecutively through the sections that
+   follow. The numerals awarded are scattered across the list — none of them the first
+   heading. `[src: ielts.org — Academic Reading Sample Tasks 2023 PDF, Matching Headings task
+   and answer key, fetched 2026-07-31]`
+
+So the operating rule, used identically in the table above, in Type 5 below, in Tip 4 and in
+the 60-second summary: **the questions run in paragraph order — work the paragraphs top to
+bottom — and the Roman numerals do not, so never expect heading (i) to belong to paragraph
+A.** No official source says the questions jump around, and no official sample shows them
+doing it.
 
 One thing you cannot budget for: ielts.org answers *"How many questions are there?"* with
 **"Variable"** for all eleven types. `[src: ielts.org — Reading test format]`
@@ -98,15 +166,24 @@ One thing you cannot budget for: ielts.org answers *"How many questions are ther
 
 ### Type 1 — Multiple choice
 
-**Appearance.** A question or sentence-stem with four options A–D; sometimes a longer
-list from which you choose more than one (*"Choose TWO letters, A–G"*).
+Multiple choice ships in **two forms**, and the official 2023 sample-tasks PDF prints them
+as two separate sample tasks — *Multiple Choice: one answer* and *Multiple Choice: more than
+one answer* `[src: ielts.org — Academic Reading Sample Tasks 2023 PDF, contents and
+pp. 24–29, fetched 2026-07-31]`. They are worth different numbers of marks and they punish
+different mistakes. Form A is below; **form B has its own block after it, and you must not
+meet it for the first time on test day.**
+
+#### Form A — one answer
+
+**Appearance.** A question or sentence-stem with four options A–D. One mark.
 
 **Rules.** *"You should read the question carefully to check how many answers you need to
 choose."* Tests detailed or general understanding. `[src: ielts.org — Reading test format]`
 
-**The trap.** Distractors are built from the passage's own vocabulary — scan for the
-question **stem**, not the options, *"as these are often distractors"* — and grammar
-cannot narrow the field: *"all answer options (A–D) are grammatically possible."*
+**The trap.** Distractors — the wrong options, deliberately engineered to be attractive —
+are built from the passage's own vocabulary. Scan for the question **stem**, not the
+options, *"as these are often distractors"*, and grammar cannot narrow the field: *"all
+answer options (A–D) are grammatically possible."*
 `[src: cambridgeenglish — Task Type 1 PDF, steps 2 and 8]`
 
 **Technique.** Underline key words in the stem only; cover A–D; locate the region;
@@ -126,6 +203,82 @@ pick the match. If two survive, prove one wrong.
 guarantees you find the distractor.
 
 **Order: YES.**
+
+#### Form B — more than one answer
+
+**Appearance.** A lead-in sentence, then *"Choose TWO letters, A–G"* (or A–F), then the option
+list. It occupies **two question numbers** — the rubric says *"Write the correct letters in
+boxes 1 and 2 on your answer sheet"* — and a paper can carry two such items back to back, as
+the official sample does. `[src: ielts.org — Academic Reading Sample Tasks 2023 PDF, Multiple
+Choice: more than one answer, fetched 2026-07-31]`
+
+**Rules — the five that matter, and they are not the same as form A's.**
+
+| | Form A — one answer | Form B — more than one |
+|---|---|---|
+| Options | Four, A–D | A longer list — A–F and A–G in the official samples |
+| Question numbers used | One | **Two** (a three-answer variant uses three) |
+| Marks available | One | **Two — one per correct letter** |
+| Order of your two letters | n/a | **Either order is accepted** — the official key prints *"1&2 IN EITHER ORDER"* |
+| What the stem asks | Which single option is right | Which **two** of a long list the writer actually mentions |
+
+`[src: ielts.org — Academic Reading Sample Tasks 2023 PDF, Multiple Choice: more than one
+answer + its answer key, fetched 2026-07-31]` · `[src: ielts.org — Reading test format:
+*"Sometimes you are given a longer list of possible answers and you have to choose more than
+one answer. You should read the question carefully to check how many answers you need to
+choose."*]`
+
+**The trap — and it is a different trap.** In form A you discriminate between four options,
+one of which is right. In form B you run an **exclusion sweep across a long list**, and the
+list is built so that most of the wrong options are *true of the world, plausible about the
+topic, and simply never said by the writer*. The official sample's lead-in is of exactly that
+shape — which TWO advantages are **mentioned by the writer** — and *mentioned* is not *true*.
+Five of seven options can be perfectly sensible statements about the topic and still wrong,
+on exactly the T/F/NG logic: no sentence, no mark.
+
+A second, purely mechanical trap: the two correct letters are **not** required to appear in
+passage order. In the official sample item the two ideas occur in the text in the opposite
+order from the letters in the key. Do not reject a candidate letter because "we already
+passed that part of the passage".
+
+**Technique.**
+1. Read the lead-in and fix the exact relation it asks for — *mentioned by the writer*, *given
+   as advantages*, *stated as causes*. Write that word down.
+2. **Do not scan for the options.** Locate the region from the lead-in's topic words, then
+   read that region once, properly. Form B items are drawn from a short stretch of text.
+3. Work the list **A to G in order**, once, marking each option ✓ / ✗ / ? against what you
+   just read. Two ✓ ends it.
+4. If you finish with three ✓, the extra one is almost always the option that is *true but
+   not stated* — cut the one you cannot point at a sentence for.
+5. If you finish with one ✓, guess the strongest ? and move on. **Never write one letter.**
+
+**Mini-example.**
+> *Text:* "Volunteers who catalogue the parish registers tell us the same three things. The
+> work is unexpectedly sociable — most sessions end in a pub. It has taught them to read
+> secretary hand, a skill none expected to acquire. And it is slow: a single register can
+> absorb a winter. They are not, whatever the county council's press office implies, saving
+> the archive money; the supervision alone costs more than the labour is worth."
+>
+> *Q:* Which **TWO** benefits of the cataloguing work are mentioned by the writer?
+> A It saves the archive money · B It is a social activity · C It is quick to complete ·
+> D It teaches a new skill · E It attracts younger volunteers · F It improves the registers'
+> condition
+>
+> → **B and D** (or **D and B** — either order). **A** is explicitly denied, so it is not a
+> benefit *and* it is not merely absent. **C** is contradicted (*it is slow*). **E** and **F**
+> are the dangerous ones: both are entirely plausible things to say about volunteer archive
+> work, and the writer never says either. Nothing to point at, no letter.
+
+**The band-6 mistake.** Two of them, and both are free marks.
+- **Writing one letter.** The item is worth two marks and you have thrown one away even
+  though your single letter may be right. If you are sure of one and unsure of the rest,
+  write your certain letter *and* your best guess.
+- **Treating it as two separate one-answer questions** and answering the first from the first
+  half of the region and the second from the second half. It is one exclusion problem over
+  one region, decided by the whole list at once.
+
+**Order: the item sits in passage order relative to the questions around it; the two letters
+within it do not have to.**
 
 ---
 
@@ -149,9 +302,10 @@ is officially prescribed: **turn the statement into a Yes/No question** before y
 looking. `[src: britishcouncil — T/F/NG PDF, Worksheet 3 Ex.1 + key]`
 
 **Mini-example** (deliberately trivial, to isolate the logic).
-> *Passage, entire:* "The meeting room is on the fourth floor."
+> *Passage, entire:* "The meeting room occupies the top floor of the four-storey annexe."
 > · "The meeting room is on the second floor." → **FALSE**, direct contradiction.
-> · "The word *floor* appears in the sentence." → **TRUE.**
+> · "The meeting room is on the fourth floor." → **TRUE.** Not a word of the statement
+> appears in the passage; the information does. That is the whole test.
 > · "The building has a lift." → **NOT GIVEN.** You may be certain a four-storey office
 > has one. The passage does not say so — *"even if you know [it], based on the
 > information given in the TEXT/PASSAGE, the correct answer is NOT GIVEN."*
@@ -195,20 +349,40 @@ filter: hunt **stance language**. Cambridge teaches the split — findings are *
 by language such as the study shows, reveals, proves"*; opinions by *"the researchers
 believe, argue, claim."* `[src: cambridgeenglish — Task Type 6 PDF, step 4]`
 
-**Mini-example — four shapes you will meet.**
-> *Text:* "Forty per cent of *managerial* staff at the firms surveyed reported working
-> entirely from home. The Institute of Transport Studies, which has long campaigned
-> against car commuting, published the results. Fewer journeys means less time lost to
-> traffic — and, I would argue, a working week measurably longer in useful hours."
+**Mini-example — five shapes you will meet.** Note what the statements are *about*: in a
+Y/N/NG set the object judged is what the **writer** thinks. A bare statistic is not a view,
+and a statement of that shape would not carry a YES or NO key here at all.
+
+> *Text:* "Every regional library I visited had cut its opening hours since 2015. The
+> Association of County Archivists, which has campaigned for decades against branch
+> closures, published the figures. Defenders of the cuts point to falling visitor numbers,
+> but that argument gets the causation backwards: shorten the hours and of course fewer
+> people come. In my view the decline is a policy choice, not a public verdict."
 >
-> · *40% of employees at these firms worked entirely from home* → **NO. Scope
-> mismatch** — right number, wrong population (*managerial staff*).
-> · *Remote workers spend less on household energy* → **NOT GIVEN. Adjacent
-> proposition** — commuting is discussed, household costs are not.
-> · *The writer believes remote work increases productive time* → **YES. Legitimate
-> paraphrase**, marked as the writer's own by *I would argue*.
-> · *The body that funded the survey opposes car commuting* → **NOT GIVEN. Attribution
-> gap** — the Institute *published* it; who funded it is never said.
+> · *The writer thinks falling visitor numbers caused the reduction in opening hours* →
+> **NO. Explicit contradiction of the writer's view** — he names that argument and says it
+> *"gets the causation backwards."* You can put a finger on the sentence, and the sentence
+> is about what he believes. That is what NO requires.
+> · *The writer regards the reduction as a decision by policymakers rather than a response
+> to demand* → **YES. Legitimate paraphrase**, marked as the writer's own by *In my view*.
+> · *Library funding has fallen in real terms since 2015* → **NOT GIVEN. Adjacent
+> proposition** — hours and visitors are discussed, funding never is.
+> · *The Association of County Archivists compiled the figures* → **NOT GIVEN. Attribution
+> gap** — it *published* them; who compiled them is never said.
+> · *Every regional library in the country reduced its opening hours* → **NOT GIVEN.
+> Population gap.** The writer's claim covers the libraries **he visited**; the statement
+> covers all of them. The passage neither confirms nor denies the wider claim — there is no
+> sentence to point at. **Narrow in the passage, wide in the statement, is a gap, not a
+> contradiction.**
+
+**On that last one, because it is the item most guides — and most candidates — key
+backwards.** It is tempting to reason: *he only saw some libraries, so the statement
+over-claims, so mark it NO.* That is constructing an argument, which step 7 below forbids. Compare a scope mismatch
+that genuinely **does** contradict: if the text read *"outside the two northern counties, not
+a single library changed its hours"*, then *"every regional library reduced its opening
+hours"* is **NO** — the passage asserts precisely what the statement denies. The difference
+is not the size of the mismatch; it is whether a sentence exists that rules the statement
+out. §The qualifier trap works this through again.
 
 **The band-6 mistake.** Treating Y/N/NG as T/F/NG. If the statement is true of the world
 and its topic appears in the passage, but the writer takes no position, it is NOT GIVEN,
@@ -296,8 +470,10 @@ first sentence of the paragraph they can be elsewhere."*
 **The band-6 mistake.** Reading each paragraph in full before looking at the headings,
 which doubles the work — or leaving a blank when torn between two. No penalty; pick one.
 
-**Order: questions run in paragraph order; the numerals do not** (see the caveat above —
-that reading is this book's, not a quotation).
+**Order: the questions run in paragraph order; the numerals do not.** Work the paragraphs
+top to bottom; never expect heading (i) to belong to paragraph A. The evidence for that
+split is set out under the order table above, and this chapter uses the same wording in all
+four places it comes up.
 
 ---
 
@@ -311,6 +487,8 @@ used more than once. When it is possible to use any option more than once, the
 instructions **will say**: 'You may use any option more than once'."*
 `[src: ielts.org — Reading test format]` **Reuse is permitted only when the instructions
 say so.** If the rubric is silent, assume single use. Many guides state this backwards.
+(*Rubric*, throughout this chapter, means the printed instruction line above a set of
+questions — the sentence that tells you what to choose and how many words you may write.)
 
 **The trap.** Attribution. In a passage discussing three researchers, every option is
 genuinely in the text; the question is *whose* claim it is.
@@ -372,6 +550,16 @@ reads naturally — that is the design.
 
 **Appearance.** *"Complete the sentences below. Choose ONE WORD ONLY from the passage for
 each answer."*
+
+> **On `ONE WORD ONLY`, so that this chapter and Chapter 2 do not appear to disagree.** That
+> wording is **verbatim official in Academic Reading**: it appears twice in the official 2023
+> Academic Reading sample tasks — once on a Sentence Completion set and once on a Summary /
+> Notes Completion set. `[src: ielts.org — Academic Reading Sample Tasks 2023 PDF, fetched
+> 2026-07-31]` Chapter 2 says the phrase could **not** be verified in any official *Listening*
+> document, and that is also correct: the 2023 Listening sample tasks use only `NO MORE THAN
+> THREE WORDS AND/OR A NUMBER` and `NO MORE THAN TWO WORDS`. `[src: ielts.org — Listening
+> Sample Tasks 2023 PDF, fetched 2026-07-31]` Two papers, two different findings, no
+> contradiction: expect `ONE WORD ONLY` in Reading, do not assume it in Listening.
 
 **Rules.** *"Read the instructions very carefully as the number of words or numbers you
 may use to fill the gaps **can change**."* The limit is absolute: *"Answers which are over
@@ -437,11 +625,13 @@ ways: *"contextually, grammatically and adherence to instructions."*
 `[src: cambridgeenglish — Task Type 9 PDF, Key to Worksheet 3–4]`
 
 **Mini-example, variation 2.**
-> *Bank:* A gradual · B costly · C deliberate · D accidental · E rapid · F local
-> *Gap:* "The spread of the technique was largely ______." *Text:* "No guild ever
-> sanctioned the transfer; it moved by way of sailors changing ships and apprentices
-> absconding." → **D, accidental.** All options fit grammatically; only meaning decides.
-> And *accidental* is not in the passage.
+> *Bank:* A gradual · B official · C deliberate · D accidental · E rapid · F local
+> *Gap:* "The spread of the technique was largely ______." *Text:* "No guild ever sanctioned
+> the transfer, and no master ever set out to teach it beyond his own yard; it travelled by
+> chance contact between crews wintering in the same harbour." → **D, accidental.** Every
+> option fits the slot grammatically, so grammar decides nothing; only meaning does. B is
+> what the text denies, C is what the text denies twice over, and *accidental* — the word
+> the passage never uses — is what *chance contact* means.
 
 **Marking notes from the official key:** words in brackets are optional, alternatives are
 separated by a slash, both UK and US spellings are accepted, and numbers count as figures
@@ -479,9 +669,10 @@ sure they have found the relevant section."*
 `[src: cambridgeenglish — Task Type 10 PDF, teacher's notes steps 1–6]`
 
 **Mini-example.**
-> *Text:* "A brass collar sits **immediately below** the spindle; the **outer** casing,
-> made of lacquered oak, encloses both." *Label on the lower ring:* → **brass collar**,
-> chosen by *immediately below*, not by *brass*, which also describes two other parts.
+> *Text:* "A brass bezel rings the dial and a brass pin secures the arm. A brass collar sits
+> **immediately below** the spindle; the **outer** casing, made of lacquered oak, encloses
+> both." *Label on the lower ring:* → **brass collar**, chosen by *immediately below*, not by
+> *brass*, which describes three parts in three lines and therefore discriminates nothing.
 
 **The band-6 mistake.** Reading the passage linearly hunting for labels. They cluster in
 one region. Find the region, then read densely.
@@ -564,7 +755,8 @@ exclusivity — is **a separate claim that must itself be present in the text.**
 |---|---|---|---|
 | *most / the majority* | *numerous / many / several* | **NOT GIVEN** | A vague quantifier gives no basis to confirm **or** deny a precise one |
 | *both / all / every* | one case explicitly excluded (*the sole recipient*) | **FALSE / NO** | Explicit exclusion is a contradiction |
-| deaths in general | deaths from one cause | **FALSE / NO** | Scope mismatch — right number, wrong population |
+| a wide population (*employees*, *all the villages*) | a narrow one only (*managerial staff*, *the villages I visited*), and nothing about the rest | **NOT GIVEN** | **Scope mismatch, gap version** — a narrower fact neither confirms nor denies a wider claim |
+| a wide population (*nowhere in the UK*) | the text rules the statement out (*the practice survives only in Scotland*) | **FALSE / NO** | **Scope mismatch, contradiction version** — a sentence exists that excludes the statement |
 | *only a few* | no proportion stated at all | **NOT GIVEN** | Proportion dimension absent |
 | *rapidly* | the event described, its speed not | **NOT GIVEN** | Rate dimension absent |
 | *more X than Y* | one side described, no comparison made | **NOT GIVEN** | The comparison was never made |
@@ -580,6 +772,27 @@ but also might not; we don't have enough information."*
 > along the estuary draw water from wells."* → **NOT GIVEN.**
 > "Every village along the estuary was surveyed except Portsea." vs *"All the villages
 > along the estuary were surveyed."* → **FALSE.** Now there is a sentence contradicting you.
+
+**Rows 3 and 4 are the pair candidates get wrong, and they look identical from a distance.**
+Both are scope mismatches — the statement talks about a bigger population than the passage
+does. Only one of them is a contradiction. On original material:
+
+> **Gap version → NOT GIVEN.** Passage: *"Two thirds of the households on the eastern bank
+> were connected to the mains supply by 1968."* Statement: *"Two thirds of households in the
+> district were connected to the mains supply by 1968."* The eastern bank is part of the
+> district; the passage says nothing at all about the rest of it. The district figure could
+> be two thirds, could be a tenth. **No sentence answers the question, so NOT GIVEN.**
+>
+> **Contradiction version → FALSE.** Passage: *"Two thirds of the households on the eastern
+> bank were connected by 1968; on the western bank, mains water did not arrive until the
+> 1980s."* Same statement: *"Two thirds of households in the district were connected to the
+> mains supply by 1968."* Now the passage has told you about the rest of the district, and
+> what it says rules the statement out. **FALSE, and you can point at the clause that does
+> it.**
+
+The discriminator is never *how much* wider the statement is. It is: **has the writer said
+anything about the part the statement adds?** If no — NOT GIVEN. If yes, and it goes the
+other way — FALSE / NO.
 
 ### Reading vs inferring — the line
 
@@ -639,8 +852,12 @@ and *"answers which are over the word limit will be marked as incorrect."*
 improvement whatsoever.
 
 **4. Learn the order table. [verified]** On an ordered type, resume searching from where
-the last answer was. It **fails** on types 4, 5, 6, 9 and 10 — applying it there makes you
-abandon correct answers. `[src: cambridgeenglish — FAQs PDF]`
+the last answer was. It **fails** on types 4, 6, 9 and 10 — applying it there makes you
+abandon correct answers. **Type 5 is the special case:** the *questions* still run in
+paragraph order, so work the paragraphs top to bottom, but the Roman *numerals* do not, so
+never expect heading (i) to belong to paragraph A. `[src: cambridgeenglish — FAQs PDF]` ·
+`[src: britishcouncil — Dealing with Matching Headings questions (PDF)]` ·
+`[src: ielts.org — Academic Reading Sample Tasks 2023 PDF]`
 
 **5. Answer from the text before you look at the options. [verified]** Types 1, 6, 7. It
 **fails** when you cannot locate the region — then flag it and move on rather than guessing
@@ -680,10 +897,12 @@ the next"*, and *"take care not to spend too much time on any one text or questi
 Because the last three minutes must go on blanks, the working budget is **19 / 19 / 19 +
 3**. Set a per-question ceiling of about 90 seconds and a hard stop per passage.
 
-A front-loaded split — roughly 16 / 19 / 21 — is a legitimate **personal tactic**, not a
-rule, and it rests on a premise no official source states. Earn it from your own data: if
-across three timed tests your Passage 1 accuracy is at or above 90% and Passage 3 is below
-70%, shift time to the end. Otherwise stay flat.
+A **back-loaded** split — roughly 17 / 19 / 21, plus the three-minute sweep — is a legitimate
+**personal tactic**, not a rule, and it rests on a premise no official source states. Earn it
+from your own data: if across three timed tests your Passage 1 accuracy is at or above 90%
+and Passage 3 is below 70%, shift time to the end. Otherwise stay flat — and note that Myth
+13 below warns against exactly this move when it is made on folklore rather than on your own
+numbers, because it under-budgets Passage 1, where marks are cheapest.
 
 ---
 
@@ -768,7 +987,7 @@ ielts.org, the British Council or Cambridge.
 **Reading has no band descriptors.** There is no Task Response, no Coherence and Cohesion,
 no examiner judgement of any kind. It is an objective test converted from a raw score:
 *"Each correct item is awarded one mark. Band scores… are awarded to test takers on the
-basis of their raw scores."* `[src: britishcouncil — Guide for teachers, p.7]` The only
+basis of their raw scores."* `[src: britishcouncil — IELTS Guide for teachers (PDF), p.10, fetched 2026-07-31]` The only
 band-level prose for Reading is the general nine-band ability scale — Band 7 = *"Good
 user"*, Band 6 = *"Competent user"* `[src: ielts.idp.com — Reading band scores]` — which
 describes you, not your answers.
@@ -787,16 +1006,45 @@ So the decoder is arithmetic:
 | 19–22 | 5.5 |
 | 15–18 | 5 |
 
-`[src: ielts.idp.com — Reading band scores]`, which carries the official caveat *"actual
-scores may differ slightly between tests."* Cross-checked against the coarser official table
-— 8 → 35, 7 → 30, 6 → 23, 5 → 16 out of 40 — which is consistent with it.
-`[src: britishcouncil — Guide for teachers, p.7]`
+**Where this table comes from, and how far to trust it.** It is **published**, not
+reconstructed: IDP prints the full Academic Reading conversion including the half-bands
+`[src: ielts.idp.com — IELTS Reading band scores, fetched 2026-07-31]`. It carries its own
+caveat, and you should carry it too: *"The IELTS Reading band score charts that are displayed
+illustrate the average number of marks needed to get each band score. As a result of the
+variations in texts used on different occasions, actual scores may differ slightly between
+tests."* `[src: same]` The co-owners say the same thing from the other direction — *"the band
+score boundaries are set so that all test takers' results relate to the same scale of
+achievement… the Band 6 boundary may be set at a slightly different raw score across
+individual tests."* `[src: britishcouncil — IELTS Guide for teachers (PDF), p.10, fetched
+2026-07-31]`
 
-### **6.5 → 7.0 is exactly three marks. 27 → 30.**
+So: the whole-band rows are hard anchors, the half-band rows are a published average, and
+**neither is a guarantee for your particular paper.** Use the table to set a target, never to
+argue that you "should have got" a band.
 
-Three marks is this chapter's whole job. Three careless completion answers — one
-unnecessary article, one plural the text did not have, one answer a word over the limit —
-*is* the gap. Every technique here must justify itself against that number:
+Cross-checked against the coarser official anchor table — **8 → 35, 7 → 30, 6 → 23,
+5 → 15** out of 40 — which is consistent with it row for row.
+`[src: britishcouncil — IELTS Guide for teachers (PDF), p.10]` Note the band-5 figure:
+Academic Reading is **15**, Listening is **16**. That one-mark asymmetry at band 5 is the only
+difference between the two papers' conversions; from band 6 upward they are identical. If
+Chapter 1's table looks different from this one at band 5, that is why.
+
+### **Band 7 starts at 30. From the floor of 6.5 that is three marks; from the top of it, one.**
+
+Get the arithmetic exactly right, because the old version of this line over-stated it. Band
+6.5 is the range **27–29** and band 7 is **30–32**. So the distance from *a* 6.5 to *a* 7
+depends entirely on where in 6.5 you are sitting:
+
+| You scored | Marks to band 7 |
+|---:|---|
+| 27 | **3** |
+| 28 | **2** |
+| 29 | **1** |
+
+Three marks is the **worst case**, and it is the number to plan against. Three careless
+completion answers — one unnecessary article, one plural the text did not have, one answer a
+word over the limit — *is* the whole gap in the worst case. That is this chapter's job. Every
+technique here must justify itself against that number:
 
 | Source of loss | Fix | What it is worth |
 |---|---|---|
@@ -807,8 +1055,10 @@ unnecessary article, one plural the text did not have, one answer a word over th
 Note what is *not* on that list: reading speed, vocabulary breadth, general comprehension.
 They matter, but they move slowly and they are not where your three marks are sitting.
 
-One honest constraint: Academic items are *"pitched at bands 5–8"*
-`[src: britishcouncil — Guide for teachers, p.4]`, so 30/40 means converting some genuinely
+One honest constraint: the Academic paper has *"more items pitched at bands 5–8"* than
+General Training does, which has more at bands 3–6 `[src: britishcouncil — IELTS Guide for
+teachers (PDF), p.4, fetched 2026-07-31]`. That is a claim about the *distribution* of item
+difficulty, not a floor — but the consequence stands: 30/40 means converting some genuinely
 hard items. There is no version of this where you answer only the easy ones and reach band 7.
 
 ---
@@ -823,7 +1073,10 @@ Latinate, and a French speaker reads *ubiquitous*, *mitigate*, *paucity*, *eluci
 know where it turns on you.
 
 **False friends inside the passage** are more dangerous here than in Writing, because a
-misread word produces a wrong answer with no warning signal.
+misread word produces a wrong answer with no warning signal. The full annotated list lives in
+Chapter 8; the table below is the Reading subset, and the fourth column — *what the
+misreading costs you on the answer sheet* — is the part that is specific to this paper and
+worth memorising here.
 
 | In the passage | You will read | It means | Consequence |
 |---|---|---|---|
@@ -892,33 +1145,11 @@ Every "no" is a mark you are currently paying for.
 14. Have I stopped reading the whole passage before looking at the questions?
 15. Do I check my passage-by-passage accuracy in timed practice, rather than assuming Passage
     3 is the hard one?
+16. On a *Choose TWO letters* item, do I know it is worth two marks, that both letters are
+    accepted in either order, and that leaving one blank throws away a mark I may already
+    have earned?
+17. When the passage says something about a narrow group and the statement says it about a
+    wider one, do I answer NOT GIVEN rather than FALSE?
 
----
-
-## 60-second summary
-
-Three passages, 40 questions, 60 minutes, no transfer time. One mark per item, no negative
-marking, band converted from the raw score. There are no band descriptors: **6.5 → 7.0 is
-exactly three marks, 27 → 30.**
-
-The test measures paraphrase recognition and information location, not comprehension. So:
-survey 20 seconds, skim the topic and final sentences, then scan only where the question
-sends you. Never read the passage through first.
-
-Know the order table. Ordered — multiple choice, T/F/NG, Y/N/NG, matching sentence endings,
-sentence completion, short answer. Not ordered — matching information, matching features,
-matching headings, summary/note/table/flow-chart completion, diagram labelling. On an ordered
-type, resume from the last answer; on an unordered one, find the region and work locally.
-
-**FALSE requires a contradiction you can point at; NOT GIVEN is the absence of a sentence.**
-A vague quantifier in the text against a precise one in the statement is NOT GIVEN. A scope
-mismatch is FALSE. If you are constructing an argument, you are inferring, and the answer is
-NOT GIVEN.
-
-Completion answers are transcription, not composition — every word you need is already in the
-passage. On computer, copy-paste them and spelling stops being a risk, which removes an entire
-category of loss for you. Write the word limit down; it changes between sets. Add no article,
-no plural, no preposition the gap did not ask for.
-
-Twenty minutes a passage is the official baseline; 19 / 19 / 19 plus a three-minute sweep is
-the working version. Fill every blank. A guess costs nothing and a blank scores zero.
+*The 60-second summary is at the top of this chapter, not the bottom. Re-read it before
+every Reading drill.*

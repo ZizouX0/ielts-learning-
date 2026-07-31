@@ -1,24 +1,97 @@
 # Chapter 7 — The Band 7 Vocabulary System
 
+## 60-second summary
+
+*Read this first. Everything after it is the evidence and the word lists.*
+
+**The one word you must have before anything else here makes sense: *collocation* — which
+words habitually keep company with which in English.** You *strike* a balance, you do not
+*hit* one. You *pose* a threat, you do not *make* one. You *conduct* research, you do not
+*do a research*. Collocations are learned as whole phrases, never as single words, and
+they are the assessed unit: the official criteria list "control of collocations" as a
+sub-feature, band 7 requires that an awareness of collocation is evident, and the only
+official examiner comments that mention vocabulary quality at the top and bottom of the
+scale both name collocation — never rarity
+`[src: ielts.org — Writing key assessment criteria (PDF, 2023), p.4; Academic Writing
+sample tasks (PDF, 2023)]`. This chapter is where the book defines and drills the term;
+the earlier chapters that lean on it are pointing here.
+
+Lexical Resource is six things, and only one of them is range. The other five are
+precision, collocation, register, attitude, and spelling and word formation. If your
+vocabulary study has consisted of acquiring more words, you have been working on a
+sixth of the criterion.
+
+At **band 6**, in Task 1 and Task 2 alike, the current descriptors describe the candidate
+who reaches for a wider range at the cost of accuracy: *"If the writer is a risk-taker,
+there will be a wider range of vocabulary used but higher degrees of inaccuracy or
+inappropriacy"* `[src: ielts.org — Writing band descriptors PDF (May 2023), band 6 LR, T1
+and T2]`. That is a **positive-feature description of what a band-6 script looks like**,
+and the descriptors' own header says a script must **fully** fit a band's positive
+features to be rated there. IELTS has written the thesaurus candidate into the definition
+of band 6. Two official scripts prove the mechanism: same error types, same adequate
+range, 5.5 versus 7.5 — the only variable the examiner recorded was whether errors were
+*frequent* or *occasional*. The metric is **density**, not presence.
+
+And the official 7.5 scripts' vocabulary is completely ordinary — fast food, obesity,
+gadgets, laziness, plus a misspelling and a countability error. What the examiner named as
+the higher-level lexical feature was **softening**: *they tend to*, *this appears to be*,
+*might disagree*. **Hedging** — deliberately weakening a claim so that it is defensible,
+instead of asserting it flat — is the neglected band-7 lexical feature. It is built from
+words you already own, it adds no error risk, and it pays into Lexical Resource, Task
+Response and Coherence at once. Build that kit first.
+
+Spelling and word formation are scored **here**, not under grammar — which means
+your predictable French and Arabic misspellings concentrate on one criterion instead
+of dispersing across four. Thirty words of rote learning is worth a half band.
+
+"Idiomatic" in the descriptors means natural collocation — *strike a balance* — not
+figurative idiom. The first raises Writing LR; the second lowers it on register. In
+Speaking it flips: idioms are recommended there, and paraphrase, not precision, is
+the named skill.
+
+French gives you most of the academic word list for free. It also gives you
+*significative*, *alimentation* and *informations* — and an official examiner has
+already put French interference in writing about someone else's script. Take the
+cognates. Check the suffix, the countability and the false friend, every time.
+
+**The one thing:** learn ten collocations per topic and the hedging kit, and stop
+looking for impressive words. Range gets you considered for band 7. Precision,
+collocation and spelling decide whether you get it.
+
+---
+
 ## What the test actually asks
 
-Lexical Resource is one of four equally weighted criteria in Writing Task 1, one of
-four in Writing Task 2, and one of four in Speaking. Because Task 2 counts double,
-LR is worth a quarter of your Speaking band and a quarter of your Writing band. It
-is also the criterion candidates spend the most preparation time on and get the
-most catastrophically wrong advice about.
+Lexical Resource is one of four **equally weighted** criteria in Writing Task 1, one
+of four in Writing Task 2, and one of four in Speaking
+`[src: ielts.org — Understanding and setting IELTS scores]`. So it is a quarter of
+your Speaking band and a quarter of your Writing band — and because Task 2 counts
+double, two thirds of that Writing quarter is decided in Task 2. It is also the
+criterion candidates spend the most preparation time on and get the most
+catastrophically wrong advice about.
 
 Start with the sentence that decides everything else in this chapter. It sits in
 the **band 6** Lexical Resource cell of the current Writing descriptors, in Task 1
-and Task 2 alike, and it is printed in bold — and the descriptor's own header
-rubric says bold marks features that **limit** a rating:
+and Task 2 alike:
 
 > **"If the writer is a risk-taker, there will be a wider range of vocabulary used
 > but higher degrees of inaccuracy or inappropriacy."**
 > `[src: ielts.org — Writing band descriptors PDF (May 2023), band 6 LR, T1 and T2]`
 
-Read that as an official personality sketch. IELTS has written into its published
-scale a description of the candidate who deliberately reaches for bigger
+**A note on its status, because it is easy to overclaim.** This clause is *not* one
+of the bolded rating-limiting features. The descriptors' header says "Bolded text
+indicates negative features that will limit a rating", and if you extract the bold
+runs from the PDF by font name you find that on the two pages covering bands 6 and
+5 every bolded phrase sits at **band 5** — nothing at 6, and no bold body text at
+all on the page covering bands 9, 8 and 7
+`[src: ielts.org — Writing band descriptors PDF (May 2023), per-character font
+extraction; the same test Chapter 5 asks you to run]`. The clause does not need the
+bold. The header's other rule is what makes it bite: **a script must *fully* fit the
+positive features of the descriptor at a particular level**, and this is a
+positive-feature description of what a band-6 script *is*.
+
+Read it, then, as an official personality sketch. IELTS has written into its
+published scale a description of the candidate who deliberately reaches for bigger
 vocabulary, and it has filed that candidate at **band 6** — the same band as the
 candidate with a "rather restricted range". The scale is telling you, in print,
 that widening your range while degrading your accuracy **does not move you**. It is
@@ -31,16 +104,20 @@ The *IELTS Writing Key Assessment Criteria* defines LR as the range of vocabular
 used **and** the accuracy and appropriacy of that use *in terms of the specific
 task* `[src: ielts.org — Writing key assessment criteria (PDF, 2023), p.4]`. Three
 nouns, not one. And the qualifier matters: a word is never "good vocabulary" in the
-abstract. It is good only if it fits this task, this sentence, this register.
+abstract. It is good only if it fits this task, this sentence, this **register** —
+*register* being the level of formality a piece of language belongs to, the
+difference between *kids*, *children* and *offspring*, none of which is a better
+word than the others in the abstract and only one of which belongs in an Academic
+Task 2.
 
 The same page lists what the criterion assesses. Restated in my own words:
 
 | # | Sub-feature | What it means for you |
 |---|---|---|
 | 1 | Range of general words, e.g. synonyms used to avoid repetition | Don't write *problem* five times |
-| 2 | Adequacy and appropriacy — topic-specific items, and words that signal the writer's attitude | Topic lexis **plus hedging and stance** |
+| 2 | Adequacy and appropriacy — topic-specific items, and words that signal the writer's attitude | Topic lexis **plus hedging and stance** — *hedging* = softening a claim so it is defensible (*tends to*, *in most cases*) rather than asserting it flat; *stance* = words that show what you think of it (*worryingly*, *encouragingly*) |
 | 3 | Precision of word choice and expression | The exact word, not the nearby one |
-| 4 | Control of collocations, idiomatic expressions and sophisticated phrasing | **Word partnerships, not single words** |
+| 4 | Control of **collocations**, idiomatic expressions and sophisticated phrasing | **Word partnerships, not single words** — *collocation* = which words habitually go together in English: you *strike* a balance, you do not *hit* one. §1 below is the full treatment |
 | 5 | The **density and communicative effect** of spelling errors | Spelling is marked here |
 | 6 | The **density and communicative effect** of word-formation errors | *significative*, *economical growth* → LR, not GRA |
 
@@ -79,8 +156,9 @@ recorded that the weaker script's range was *adequate* — range was never the
 diagnosis. The variable that separated the two scripts by two whole bands was
 **error density**, which is precisely the metric the assessment criteria names.
 
-Now look at what the band-7.5 script actually wrote. A separate official
-publication reproduces a 7.5 Task 2 response in full with the examiner's comments
+Now look at what **another** official 7.5 script wrote — a different response, to a
+different prompt, published with its own examiner comment. A separate official
+publication reproduces that 7.5 Task 2 response in full with the examiner's comments
 `[src: ielts.org — CD Academic Writing example responses with examiner comments (PDF, 2023), Part 2, Response 2]`.
 Its vocabulary inventory: *fast food, sweets and chocolate, busier, obesity,
 gadgets, video games, bad eyesight, laziness, spend time outdoors, applications,
@@ -453,8 +531,9 @@ conventions within one script is what looks careless.
 > **Band 7:** The government should place greater emphasis on sustainable economic
 > growth, which is a significant challenge.
 
-Four spelling errors, one wrong suffix, one non-word — six LR hits in a single
-sentence, all of them fixable by rote.
+Three spelling errors (*goverment, developement, sustainible*), one wrong suffix
+(*economical* for *economic*) and one non-word (*significative*) — five LR hits in a
+single sentence, all of them fixable by rote.
 
 **The band-6 mistake.** Treating spelling as a cosmetic issue and proofreading for
 grammar only. Your misspellings are a closed, learnable set. See *L1 alert*.
@@ -704,8 +783,9 @@ words combine.
 > **Band 7:** Air pollution now poses a serious threat to public health,
 > particularly in densely populated cities.
 
-*Poses a threat to* and *public health* are the whole upgrade. Four errors
-disappear with them: an article on an abstract noun, *gives effects to*, a
+*Poses a threat to* and *public health* are the whole upgrade. Five errors
+disappear with them: **two** articles on abstract nouns (*the pollution*, *the
+society* — your flagship error, twice in one sentence), *gives effects to*, a
 pluralised *peoples*, and *the healthy* for *health*.
 
 > **Band 6:** Companies must utilise their pecuniary resources to ameliorate the
@@ -917,41 +997,5 @@ named repair.
 
 ---
 
-## 60-second summary
-
-Lexical Resource is six things, and only one of them is range. The other five are
-precision, collocation, register, attitude, and spelling and word formation. If your
-vocabulary study has consisted of acquiring more words, you have been working on a
-sixth of the criterion.
-
-The current descriptors contain, in bold, at **band 6**, a description of the
-candidate who reaches for a wider range at the cost of accuracy. Bold marks features
-that limit a rating. IELTS has told you in print that thesaurus strategy stalls at
-6. Two official scripts prove the mechanism: same error types, same adequate range,
-5.5 versus 7.5 — the only variable the examiner recorded was whether errors were
-*frequent* or *occasional*. The metric is **density**, not presence.
-
-And the official 7.5 script's vocabulary is completely ordinary — fast food,
-obesity, gadgets, laziness, plus a misspelling and a countability error. What the
-examiner named as the higher-level lexical feature was **softening**: *they tend
-to*, *this appears to be*, *might disagree*. Hedging is the neglected band-7 lexical
-feature. It is built from words you already own, it adds no error risk, and it pays
-into Lexical Resource, Task Response and Coherence at once. Build that kit first.
-
-Spelling and word formation are scored **here**, not under grammar — which means
-your predictable French and Arabic misspellings concentrate on one criterion instead
-of dispersing across four. Thirty words of rote learning is worth a half band.
-
-"Idiomatic" in the descriptors means natural collocation — *strike a balance* — not
-figurative idiom. The first raises Writing LR; the second lowers it on register. In
-Speaking it flips: idioms are recommended there, and paraphrase, not precision, is
-the named skill.
-
-French gives you most of the academic word list for free. It also gives you
-*significative*, *alimentation* and *informations* — and an official examiner has
-already put French interference in writing about someone else's script. Take the
-cognates. Check the suffix, the countability and the false friend, every time.
-
-**The one thing:** learn ten collocations per topic and the hedging kit, and stop
-looking for impressive words. Range gets you considered for band 7. Precision,
-collocation and spelling decide whether you get it.
+*The 60-second summary for this chapter is at the top, before "What the test actually
+asks". If you are revising, start there.*

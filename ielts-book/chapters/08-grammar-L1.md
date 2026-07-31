@@ -1,18 +1,69 @@
 # Chapter 8 — Grammar for Band 7, and Your Arabic/French Error Map
 
-Grammatical Range and Accuracy is a quarter of every Writing task and a quarter of
-Speaking `[src: ielts.org — Writing key assessment criteria (PDF, 2023), p.1;
-ielts.idp.com — grammar article]`. Because Task 2 carries twice the weight of Task 1,
-your Task 2 GRA alone is roughly **one sixth** of your Writing band. In the official
-2024–25 test-taker data, Arabic-L1 candidates averaged **5.540** on Academic Writing
-against an overall **5.953**; French-L1 candidates averaged **6.152** on Writing against
-an overall **6.754** `[src: ielts.org — test taker performance data 2024–25]`. In both of
-your language backgrounds, Writing is the paper that drags the mean down, and inside
-Writing, GRA is the criterion that most reliably drags the task down.
+## 60-second summary
 
-So this chapter has one job. Not to teach you more grammar — you already have more
-grammar than a band-6 script needs. To stop the grammar you have from costing you
-sentences.
+GRA is a quarter of every task — the four Writing criteria are weighted equally
+`[src: ielts.org — Understanding and setting IELTS scores]` — and because Task 2 carries
+twice the weight of Task 1, your Task 2 GRA alone is about a sixth of your Writing band.
+Writing is the weakest paper for both your L1 backgrounds — Arabic-L1 candidates averaged
+5.540 on Academic Writing in the 2024–25 official data, French-L1 6.152
+`[src: ielts.org — Test statistics → test taker performance data 2024–25]` — so this is
+where the band is won.
+
+The 6→7 gate is **not more complexity**. Band 6 already credits a mix of simple and complex
+forms; what caps it is that your complex sentences are less accurate than your simple ones.
+Close that gap and you have band 7. Add complexity without closing it and you move down.
+
+Punctuation is inside GRA, so a comma splice is a grammar error that costs you two clauses
+at once — and the cheapest repair, a subordinator, is also the only one that buys you a
+complex structure. Learn *however / therefore / moreover* as adverbs that cannot join
+clauses, and *and / but / because / although / while* as conjunctions that can.
+
+The IELTS Speaking study of 73 interviews (L1 mix unreported) puts numbers on the boundary.
+**Articles**: 18.4% error at band 6, 7.4% at band 7 — the largest discontinuity measured,
+and bands 5 and 6 were not significantly different, so articles are precisely your gate.
+**Third-person *-s***: 70.6% at band 6, 7.6% at band 7. **Relative clauses**: doubled in
+frequency at band 7 at a 2.2% error rate, the safest complexity you own. **Second
+conditionals**: all eight produced by band-7 speakers were wrong. **Third conditionals**:
+zero, at every band. Skip them. **Pluralised uncountables**: the only error type found at
+all band levels — it does not resolve with proficiency, so it needs a permanent conscious
+check against the nine-word list, not more practice.
+
+French *la société* and Arabic *al-* push you toward the same generic *the* from two
+directions, which is why it feels natural. The rule is not "avoid *the*" — it is "no *the*
+with a generic", and the moment an *of*-phrase, relative clause, superlative or second
+mention arrives, *the* comes back. Carry the counter-list: *the environment, the
+government, the media, the economy, the internet, the public, the police* keep their
+article; *society, nature, technology, education, poverty, research* do not.
+
+Arabic also gives you resumptive pronouns (*which … it*), missing relativisers after
+indefinite heads (*many households live…*), *and*-chains, and the occasional missing *is*.
+French gives you *informations*, *depend of*, *discuss about*, *significative*, and
+sentences twice as long as they need to be. The reduced-relative repair for the missing
+relativiser — *many households **living** below the poverty line* — is worth learning
+first, because it deletes a transfer error and produces a band-7 structure in the same
+stroke.
+
+Build noun phrases before you build clauses: pre- and post-modification of the head noun is
+an officially named range indicator with almost no failure mode. Participle clauses, clefts
+and nominalisation are reasoned advice rather than official fact — no current IELTS
+document names them — but they follow defensibly from the published range indicators. Use
+them in that order of confidence.
+
+Then finish early and subtract. Stop at 37 minutes on Task 2 and 17 on Task 1, run the four
+passes — full stops, nouns, verbs, longest sentences — and in those three minutes delete and
+repair only. Never add. An untested complex sentence at minute 39 is the single likeliest
+place for a faulty one to appear, and one faulty complex sentence re-instates the band-6
+limiter you spent the whole essay avoiding.
+
+**Fix articles and full stops before you fix anything clever.**
+
+---
+
+This chapter has one job. Not to teach you more grammar — you already have more grammar
+than a band-6 script needs. To stop the grammar you have from costing you sentences. GRA
+is the criterion that most reliably drags your Writing task down, and the two L1s behind
+your English push at it from both sides at once.
 
 ## The spine of this chapter, in one paragraph
 
@@ -37,9 +88,32 @@ writer who responds by adding more complex sentences at his current accuracy mov
 not up.** He increases the count of faulty complex structures and makes the band-6 limiter
 more visible. Every recommendation in this chapter is filtered through that.
 
+### How to use this chapter — read it in this order, not front to back
+
+This is the longest chapter in the book and you are working under a nine-minute daily
+theory cap (Chapter 9 §The daily architecture). Do not read it straight through. Read it in
+value order:
+
+| When | Read |
+|---|---|
+| **First sitting, before any drill** | §Your error map, ranked by expected cost — the chapter's contents ranked by what each error costs you |
+| **Week 1–2, and until automatic** | §L1 alert → The over-determined error · The counter-list · The article decision procedure · The 60-second Arabic sweep · The 45-second French sweep |
+| **Every timed task, from day one** | §The three-minute self-edit — this is the artefact you keep beside the keyboard |
+| **Only once your article error rate is under 10%** | §Question types, one by one — the eight band-7 structures |
+| **Reference, not reading** | §What the test actually asks · §Band descriptor decoder · the French and Arabic transfer tables — look them up when an error appears in your log, not on a schedule |
+
+The order matters because of the chapter's own sequencing rule: every structure in the
+eight-structure section creates **new article decisions**, so drilling structures before
+articles are automatic trades a cheap error for an expensive one.
+
 ---
 
 ## What the test actually asks
+
+GRA is one of four Writing criteria, and ielts.org states that *"The criteria are weighted
+equally and the score on the task is the average"* `[src: ielts.org — Understanding and
+setting IELTS scores]` — so GRA is a quarter of every Writing task, and a quarter of
+Speaking.
 
 The official definition is short. GRA assesses *"the range and accurate use of the
 candidate's grammatical resource … at sentence level"*, through four things
@@ -109,9 +183,20 @@ Online Series 2019/1 — Speaking data, L1 mix unreported]`.
 opportunities, on any single feature.** Count opportunities missed, not structures
 attempted.
 
+On the ratio of clean sentences: because band 8 is the band that owns *the majority*, the
+honest working target for band 7 is **four sentences in ten completely error-free, rising
+to five** — regularly occurring, but not yet a majority. Nine sentences with three clean is
+a band 6 however ambitious the other six; consistently above half is evidence you are
+arguing for an 8.
+
 ---
 
 ## Question types, one by one — the band-7 structures
+
+⚠️ **Do not start this section until your article error rate is under 10%.** Every
+structure below creates new article decisions, and §Nominalisation explains what that
+costs. If you have not yet run the article decision procedure to automaticity, skip
+forward to §L1 alert and come back.
 
 Eight structures. For each: the form, an original example, when to use it, and the part
 most prep material omits — when it costs more than it earns.
@@ -302,12 +387,15 @@ Read that properly. The third conditional is not a band marker. It is a three-pa
 structure that candidates from band 4 to band 8 essentially never produce. Reaching for it
 to impress means reaching for something no band-8 speaker in the sample bothered with.
 
-The recurring wrong forms:
+The recurring wrong form:
 - ✗ *If governments **would tax** sugary drinks, consumption would fall.*
   ✓ *If governments **taxed** sugary drinks, consumption would fall.* (no *would* in the
   *if*-clause)
-- ✗ *If the subsidy **will end** next year, ticket prices will rise.*
-  ✓ *If the subsidy **ends** next year, ticket prices will rise.*
+
+The same no-modal-in-the-*if*-clause rule governs the **first** conditional, which is a
+different structure — a real future condition, not a hypothetical one — but fails the same
+way: ✗ *If the subsidy **will end** next year, ticket prices will rise.* → ✓ *If the
+subsidy **ends** next year, ticket prices will rise.*
 
 Deliberately **not** marked wrong: *If public transport **was** free, more people would use
 it.* *Were* is the formal subjunctive and the better academic choice; *was* is standard
@@ -436,7 +524,9 @@ free range on the list.
 band-6 script: an untested complex structure is where the faulty one appears, and one
 faulty complex sentence re-instates the limiter you spent forty minutes avoiding. IDP's
 own advice is to finish a few minutes early and check `[src: ielts.idp.com — Writing
-advice]`. Stop writing at **37 minutes** on Task 2, **18 minutes** on Task 1.
+advice]`. Stop writing at **37 minutes** on Task 2 and **17 minutes** on Task 1 — the
+canonical clocks and word targets for the whole book are in Chapter 9 §The numbers, in one
+table.
 
 **7. Convert your transfer errors into structures.** `[expert consensus]` ✗ *There are many
 households rely on a single income* is an Arabic missing-relativiser error. ✓ *…many
@@ -479,7 +569,15 @@ clause and now states outright that both simple and complex sentences are used
 A short declarative is error-free by construction and is a rhetorical instrument. **But**
 the counterweight is equally official: IDP states that an answer written entirely in short
 sentences cannot receive a high GRA score even with no errors at all `[src: ielts.idp.com —
-grammar article]`. All-simple is capped; simple among complex is rewarded.
+grammar article]`.
+
+**Scope this carefully, because the change is Speaking-only.** *Complex* was dropped from
+the **Speaking** band-7 range clause. The **Writing** band-7 GRA cell still reads *"A
+variety of complex structures is used with some flexibility and accuracy"* `[src: ielts.org
+— Writing band descriptors (PDF, Updated May 2023), p.1]` — the word was not dropped there.
+So in Speaking, simple sentences used effectively are now explicitly credited at band 7; in
+Writing, complex variety is still named. All-simple is capped in both papers; simple
+**among** complex is rewarded in both.
 
 **4. "Use the passive everywhere — it sounds academic."** IDP says the opposite in as many
 words `[src: ielts.idp.com — grammar article]`. Three costs: it hides the agent when Task
@@ -535,9 +633,21 @@ Speaking `ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf` (creat
 | **8** | Wide range of structures, used flexibly and accurately | Most sentences contain no error; the occasional slip is non-systematic and barely registers | Handled well |
 | **7** | A variety of complex structures, with some flexibility and some accuracy | Error-free sentences occur regularly; a few errors persist but never block the reader | Grammar and punctuation generally under control |
 | **6** | Simple and complex forms are both present, but you cannot move between them freely | **The complex ones are less accurate than the simple ones** | Errors occur in both, but rarely block the reader |
+| **5** | Limited and rather repetitive range; complex sentences are attempted but tend to be faulty, and the greatest accuracy is on the simple ones | Errors may be frequent and cause the reader some difficulty | May be faulty |
 
-The band-6 accuracy cell is set in bold in the original, and the PDF's own legend reserves
-bold for negative features that limit a rating.
+That band-6 accuracy clause is the whole of the band-6 GRA definition on accuracy. **It is
+not bolded** — and this matters, because prep material routinely claims it is. The grid's
+own legend reserves bold for negative features that limit a rating, and on the descriptor
+pages covering bands 6 and 5 the entire bold inventory sits at **band 5**: *incompletely
+addressed*, *Paragraphing may be inadequate or missing*, *There may be no data to support
+the description*. The pages covering bands 9, 8 and 7 carry no bolded body text at all
+`[src: ielts.org — Writing band descriptors (PDF, Updated May 2023), pp.4 and 8; verified
+by per-character font extraction, 2026-07-31]`. Chapter 5 tells you how to run that check
+yourself, and you should.
+
+The clause does not need to be bolded to bind you. It is a **positive-feature description
+of what a band-6 script is**, and the grid's header rule says a script must *fully* fit the
+positive features of a level to be rated there. Fitting that clause *is* what band 6 means.
 
 **Before → after, 6 to 7.** The change is not more clauses. It is the same idea with the
 faults removed.
@@ -559,7 +669,7 @@ complex than the first — it is the first, made error-free.
 
 | Band | Range, paraphrased | Accuracy, paraphrased |
 |---|---|---|
-| **8** | Wide range of structures, used flexibly | Most sentences contain no error |
+| **8** | Wide range of structures, used flexibly | Most sentences contain no error; **a few basic errors *may* persist** |
 | **7** | A range of structures used flexibly; **simple and complex sentences both used effectively** | Error-free sentences are frequent, despite some errors; **a few basic errors persist** |
 | **6** | A mix of short and complex forms, and a variety of structures, but flexibility is limited | Errors occur frequently in the complex structures, though they rarely block the listener |
 
@@ -569,9 +679,16 @@ Two things in that table are commonly mistaught and both are load-bearing for yo
 explicitly endorsed as effective. Whatever you were told about never writing a short
 sentence in Part 3 is out of date.
 
-**"A few basic errors persist" appears at band 7 and band 8 alike.** In Speaking, a missing
-third-person *-s* under time pressure is not what keeps you at 6. A botched conditional is.
-That tolerance is Speaking-specific: Writing gives you checking time, and the Writing
+**Basic errors are tolerated at 7 and at 8 — but read the modal and read the quantifier.**
+Band 7 says a few basic errors *persist*; band 8 says a few *may* persist. At 7 they are
+expected, at 8 merely survivable. And *a few* is a **density** claim, not an amnesty: the
+official Speaking criteria define accuracy partly by *"error density (the number of
+grammatical errors in a given amount of speech)"* `[src: ielts.org — Speaking key
+assessment criteria (PDF, 2023), p.3]`. So an *occasional* dropped third-person *-s* under
+time pressure is not what keeps you at 6 — a *habitual* one is exactly what does, and the
+study below puts the band-6 rate at 70.6%. Get it to occasional in writing practice first;
+then stop monitoring it in speech and spend the attention on making the conditional land.
+That tolerance is also Speaking-specific: Writing gives you checking time, and the Writing
 descriptors do not license the same thing.
 
 **Before → after, Speaking 6 to 7.**
@@ -915,15 +1032,17 @@ the reader losing the thread, delete it.
 
 The ranking principle: at the 6→7 boundary both bands sit above the impede-communication
 line, so **severity is not what separates them — density is**. Cost ≈ how often it occurs ×
-how many sentences it contaminates, with a multiplier where the descriptors bold it as a
-limiter and another where it damages more than one criterion.
+how many sentences it contaminates, with a multiplier where the error damages more than one
+criterion. Nothing on this list is a **bolded** rating-limiter in the descriptor grid — bold
+starts at band 5 — and nothing needs to be: band 6 is defined by its positive features, and
+these are what stop you fitting band 7's.
 
 | # | Error | Criterion | Why it costs this much |
 |---|---|---|---|
 | 1 | Articles — generic *the*, missing *a/an*, missing *the* before *N of N* | GRA | Both L1s push the same way; largest measured 6→7 discontinuity; never impedes, which is exactly why it is invisible to you and lethal to the error-free count |
 | 2 | Comma splices and run-ons | GRA (+CC) | Punctuation is inside GRA; a splice damages two clauses at once; it is the default output of Arabic parataxis plus French period length; and subordinating to repair it raises range |
 | 3 | Third-person *-s* and subject–verb agreement | GRA | Sharpest measured cliff of any morpheme; finite, discrete, mechanically checkable in 30 seconds — best cost-to-fix ratio on the list |
-| 4 | Uncountables pluralised | GRA (+LR) | The only error the IELTS research reports as persisting at all band levels; nine-word closed list, so fully fixable by memory |
+| 4 | Uncountables pluralised | **GRA, and arguably LR too** | IELTS files word formation under LR and does not say which side countability falls, so do not treat the allocation as settled — either way it is scored. The only error the IELTS research reports as persisting at all band levels; nine-word closed list, so fully fixable by memory |
 | 5 | Faulty complex structures — *Although…but*, *despite* + clause, danglers, resumptives, second conditionals | GRA | This **is** the band-6 limiter. Every faulty complex sentence actively confirms band 6 |
 | 6 | Prepositions | GRA | High frequency, rarely impedes, breaks the error-free count; top ten are a closed list, the tail is not |
 | 7 | False friends and word-formation errors | **LR** | A different criterion — cannot be offset by clean grammar |
@@ -989,60 +1108,3 @@ Answer yes or no. Any *no* is this week's work.
 14. After every participle clause, do you check the word immediately after the comma?
 15. Did you stop writing at 37 minutes on your last Task 2, and did you only delete and
     repair — never add?
-
----
-
-## 60-second summary
-
-GRA is a quarter of every task and Task 2 GRA alone is about a sixth of your Writing band.
-Writing is the weakest paper for both your L1 backgrounds — Arabic-L1 candidates averaged
-5.540 on Academic Writing in the 2024–25 official data, French-L1 6.152 — so this is where
-the band is won.
-
-The 6→7 gate is **not more complexity**. Band 6 already credits a mix of simple and complex
-forms; what caps it is that your complex sentences are less accurate than your simple ones.
-Close that gap and you have band 7. Add complexity without closing it and you move down.
-
-Punctuation is inside GRA, so a comma splice is a grammar error that costs you two clauses
-at once — and the cheapest repair, a subordinator, is also the only one that buys you a
-complex structure. Learn *however / therefore / moreover* as adverbs that cannot join
-clauses, and *and / but / because / although / while* as conjunctions that can.
-
-The IELTS Speaking study of 73 interviews (L1 mix unreported) puts numbers on the boundary.
-**Articles**: 18.4% error at band 6, 7.4% at band 7 — the largest discontinuity measured,
-and bands 5 and 6 were not significantly different, so articles are precisely your gate.
-**Third-person *-s***: 70.6% at band 6, 7.6% at band 7. **Relative clauses**: doubled in
-frequency at band 7 at a 2.2% error rate, the safest complexity you own. **Second
-conditionals**: all eight produced by band-7 speakers were wrong. **Third conditionals**:
-zero, at every band. Skip them. **Pluralised uncountables**: the only error type found at
-all band levels — it does not resolve with proficiency, so it needs a permanent conscious
-check against the nine-word list, not more practice.
-
-French *la société* and Arabic *al-* push you toward the same generic *the* from two
-directions, which is why it feels natural. The rule is not "avoid *the*" — it is "no *the*
-with a generic", and the moment an *of*-phrase, relative clause, superlative or second
-mention arrives, *the* comes back. Carry the counter-list: *the environment, the
-government, the media, the economy, the internet, the public, the police* keep their
-article; *society, nature, technology, education, poverty, research* do not.
-
-Arabic also gives you resumptive pronouns (*which … it*), missing relativisers after
-indefinite heads (*many households live…*), *and*-chains, and the occasional missing *is*.
-French gives you *informations*, *depend of*, *discuss about*, *significative*, and
-sentences twice as long as they need to be. The reduced-relative repair for the missing
-relativiser — *many households **living** below the poverty line* — is worth learning
-first, because it deletes a transfer error and produces a band-7 structure in the same
-stroke.
-
-Build noun phrases before you build clauses: pre- and post-modification of the head noun is
-an officially named range indicator with almost no failure mode. Participle clauses, clefts
-and nominalisation are reasoned advice rather than official fact — no current IELTS
-document names them — but they follow defensibly from the published range indicators. Use
-them in that order of confidence.
-
-Then finish early and subtract. Stop at 37 minutes, run the four passes — full stops,
-nouns, verbs, longest sentences — and in those three minutes delete and repair only. Never
-add. An untested complex sentence at minute 39 is the single likeliest place for a faulty
-one to appear, and one faulty complex sentence re-instates the band-6 limiter you spent the
-whole essay avoiding.
-
-**Fix articles and full stops before you fix anything clever.**

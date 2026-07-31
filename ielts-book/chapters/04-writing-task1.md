@@ -1,5 +1,49 @@
 # Chapter 4 — Writing Task 1: Every Visual Type Mastered
 
+## 60-second summary
+
+**Read this first.** It is at the top of the chapter deliberately: on a nine-minute
+theory budget this page is the chapter, and everything after it is the detail behind
+one of these lines.
+
+Twenty minutes, at least 150 words, about a third of your Writing score. Summarise,
+select, compare — and report only what the visual shows: no causes, no opinions, no
+predictions of your own.
+
+**The chapter in one line: band 7 Task Achievement requires a clear overview, the
+data appropriately categorised, and the main trends identified; band 6 only requires
+that an overview be attempted.** Grouping is in the mark scheme. A perfect list is a
+band-6 answer.
+
+Four paragraphs: one-sentence introduction in your own words, two-sentence
+figure-free overview, then two body paragraphs on the *same* grouping. Never copy
+the prompt or the chart title — it is struck out before your words are counted and
+it tells the examiner you cannot paraphrase. Decide tense before typing: past for
+dated history, present for undated data, future forms for projections, present
+simple passive for man-made processes, active for natural cycles, present simple for
+a static diagram with no time axis, and for maps whatever the two dates dictate.
+
+**Before you use any trend verb, ask one question: does this visual have a time
+axis?** If it does not — a categorical bar chart, an undated table, a labelled
+diagram of an object — then *rose*, *fell* and *increased* are factually wrong, and
+the whole toolkit in §The trend toolkit is illegal. Comparison language replaces it.
+
+Precision beats rarity. **Collocation** — the word this chapter and the next three
+lean on hardest — means the pairings English habitually makes: *heavy rain* is right
+and *strong rain* is not, though both are grammatical and both are understood.
+Band-7 LR is judged on collocation, not on rarity. So *rose sharply* outscores
+*skyrocketed* used wrongly, and *plummeted* for a 3% fall is an accuracy error as
+well as a lexical one. Keep the six families apart: proportion, figure, rate,
+amount, trend and period are not synonyms. Your three costliest L1 leaks here are
+the article on abstract nouns (*the car use*), the preposition on figures (*rose of*
+for *rose by/to*), and the sixty-word coordinated run-on.
+
+**If you do only one thing:** spend ninety seconds, before writing anything,
+deciding your two groups and composing the overview sentence that names them.
+Everything else in Task 1 follows from that decision.
+
+---
+
 Task 1 is the most learnable thing in the test: fixed instruction, a short list of
 visuals, a closed vocabulary, no opinion to invent. It is also your highest-value
 twenty minutes — official 2024–25 data puts mean Academic Writing at 5.54 for
@@ -71,7 +115,10 @@ test, not on the day). Answers **auto-save**; you may **start with either task**
 [src: ielts.idp.com, "How computer-delivered IELTS works"]. Use the counter as a
 pacing instrument, not a final check.
 
-**The 20-minute budget.**
+**The 20-minute budget.** Run every timed drill in this chapter on **the same
+keyboard layout you will meet at the test centre** — if you train on AZERTY and sit
+on QWERTY, every minute in this table is optimistic. Chapter 9's L1 alert covers the
+Tunisian keyboard question and what to do about it.
 
 | Minutes | Action |
 |---|---|
@@ -94,11 +141,32 @@ recommendation, or a cause.
 
 ## Question types, one by one
 
-The official list of inputs is "diagram, graph, table, chart, map, or other visual
-input" [src: Key Assessment Criteria PDF p.2]; the format page adds "one or more
-graphs, charts or tables" and "a diagram of an object, device, process or event".
-The eight-way split below is a **teaching convention, not an official taxonomy**,
-but it covers every input those documents describe.
+The official list of inputs is verbatim *"a diagram, graph, table, chart, map or
+other visual input"* [src: ielts.org — Writing key assessment criteria PDF, p.2,
+fetched 2026-07-31]; the format page adds *"one or more graphs, charts or tables"*
+and *"a diagram of an object, device, process or event"* [src: ielts.org — IELTS
+Academic format: Writing, fetched 2026-07-31]. Read that second phrase slowly:
+**object** and **device** are separate items from **process**, so a diagram is not
+automatically a sequence. That is why there are nine sections below and not eight.
+The nine-way split is a **teaching convention, not an official taxonomy**, but it
+covers every input those two documents name.
+
+**"Or other visual input" is an open category by construction**, and one day you may
+meet something that fits none of the nine. Do not panic and do not reach for a
+template. Ask the two questions that actually decide your writing, in this order:
+
+1. **Is there a time axis?** If yes, you have a trend task: trend verbs, tense set by
+   the dates, group by trend behaviour. If no, trend verbs are banned and your
+   organising principle is comparison — §2 (categorical bars), §4 (table) and §9
+   (static diagram) all live here.
+2. **Is there a sequence?** If yes, you have a process: stages, sequencers, present
+   simple passive, group into phases (§5, §6). If neither a time axis nor a sequence,
+   you are in §9.
+
+Those two questions classify every visual IELTS can print, including one that has no
+name in this chapter. The fixed instruction never changes — *summarise, select,
+compare* — so whatever the input, the marks come from selecting the main features and
+comparing them.
 
 ### Tense by visual type — decide this before you write
 
@@ -111,6 +179,8 @@ but it covers every input those documents describe.
 | Categorical bar / table | no time axis | present simple, comparison language only |
 | Process — man-made | any | present simple **passive** |
 | Process — natural cycle | any | present simple, largely **active** (§6) |
+| Static diagram of an object or device | no time axis, no sequence | present simple, largely **active** for what a part does (*the blade **rotates***), passive for what is done to it (§9) |
+| Static diagram of a historical artefact or a past event | dated to the past | past simple: *the chamber **was lined** with brick* (§9) |
 | Maps | past → past | past simple passive: *a car park **was built*** |
 | Maps | past → "today" | present perfect passive: *the woodland **has been cleared*** |
 | Maps | present → proposed | modal passive: *a marina **will be constructed*** |
@@ -141,8 +211,12 @@ them for a fall is a TA accuracy error.
 
 Cheapest range win: **write every trend both ways** — *Sales rose sharply* ↔
 *There was a sharp rise in sales*. Two further shapes: change-as-subject (*The
-steepest decline occurred between 1995 and 2000*) and the participle clause
-(*…, rising to a peak of 40% before falling back*).
+steepest decline occurred between 1995 and 2000*) and the **participle clause** — a
+clause with no subject of its own, hooked onto the main clause by an *-ing* or *-ed*
+form, which takes its subject from the main clause: *Sales climbed steadily**, rising
+to a peak of 40% before falling back***. It is the cheapest complex structure in
+Task 1 because it adds a second piece of information without adding a second subject
+and verb to get wrong.
 
 ### Six word families you must keep apart
 
@@ -186,7 +260,10 @@ rated band 6 [src: official 2023 examiner comments, Task 1A].
 > the period. The aquarium, by contrast, saw almost no net change.*
 
 A category, a named trend, the crossover flagged, the flat series separated, no
-figures. Forty-five words.
+figures. **Thirty-four words** — counted, not estimated, because this chapter tells
+you to count. Add a 20-to-25-word introduction and you land inside the 55–70-word
+checkpoint in tip 12 with nothing to spare, which is the point: an overview this
+tight is a target, not a maximum.
 
 **Band-6 mistake.** *In 2000 the castle had 120,000 visitors, the aquarium 60,000
 and the gallery 40,000. In 2010 the castle had 95,000…* Numbers right, nothing
@@ -276,9 +353,17 @@ something that appears in no single cell.**
 
 > *Overall, the subject studied mattered far more than the country of study:
 > nursing graduates found work most readily everywhere and fine art graduates least
-> readily, with a gap of roughly forty-five points between them in every country.
-> Canada led on all subjects except nursing, where Ireland narrowly took first
-> place.*
+> readily, with a gap of between forty-five and fifty percentage points separating
+> the two in every country. Canada led on all subjects except nursing, where Ireland
+> narrowly took first place.*
+
+Do the arithmetic before you write the range: 96−51 = **45**, 97−47 = **50**,
+89−39 = **50**. *Roughly forty-five points in every country* would have been faster to
+write and would have been **wrong in two countries out of three** — a TA accuracy
+error inside the very sentence meant to demonstrate categorisation. A stated range
+(*between forty-five and fifty*) costs three words and is true of all three columns.
+When an approximation has to cover several figures, check it against the **worst**
+one, not the first one you looked at.
 
 **Band-6 mistake.** Twelve sentences, one per cell, in reading order.
 
@@ -434,6 +519,145 @@ both.
 
 ---
 
+### 9. Static diagram — an object, a device, or an event
+
+**This is the type nobody prepares for, and the rubric names it explicitly.** The
+format page lists *"a diagram of an **object, device**, process or event"*
+[src: ielts.org — IELTS Academic format: Writing, fetched 2026-07-31], and the
+assessment criteria list *"a diagram, graph, table, chart, map or other visual
+input"* [src: ielts.org — Writing key assessment criteria PDF, p.2, fetched
+2026-07-31]. *Object* and *device* sit alongside *process* as separate items. So a
+diagram need not be a sequence.
+
+**What it looks like.** Any of these, and they behave the same way:
+
+- **Two designs of the same thing** side by side — two kinds of pump, two roof
+  constructions, two styles of bridge, an old and a new version of a tool. This is
+  the commonest shape.
+- **One labelled artefact**, cut away or exploded, with its parts named — a
+  cross-section of a wall, the inside of a machine, the layout of a building.
+- **A diagram of an event or an arrangement** — how something is set out at a single
+  moment, with no before and after.
+
+**How to recognise it in three seconds.** Two absences, both decisive:
+
+- **No time axis.** There are no dates, no years, no *before/after* pair. Therefore
+  **not one verb from the trend toolkit is legal here** — no *rose*, no *fell*, no
+  *increased*, no *remained stable*, no degree adverbs. Writing *the second design
+  increased the number of moving parts* is a TA accuracy error, because the diagram
+  shows no change; it shows a difference. This is the single most likely way to lose
+  marks on this type, because the trend toolkit is your default.
+- **No sequence.** Nothing happens first and nothing happens last. Therefore the
+  process apparatus is wrong too: *initially · subsequently · once X has been
+  completed · in the final stage* all invent an order the diagram does not contain.
+  A reader can start anywhere on a static diagram, which is exactly what makes it
+  static.
+
+**What it demands instead: comparison of features.** The fixed instruction has not
+changed — *summarise the information by selecting and reporting the main features,
+and make comparisons where relevant*. And the criteria document is explicit that the
+comparison requirement is not limited to numbers: Task Achievement assesses
+*"comparing or contrasting the information by adequately highlighting the
+identifiable trends, principal changes or differences in the data **and other
+inputs** (rather than mechanical description reporting detail)"* [src: ielts.org —
+Writing key assessment criteria PDF, p.1, fetched 2026-07-31]. *Differences* and
+*other inputs* are what you are being marked on. **Grouping is still the band-7
+gate**, exactly as it is everywhere else in this chapter; the only thing that changes
+is what you group *by*.
+
+**Structure.** The same four paragraphs, and still no conclusion.
+
+| Paragraph | Content |
+|---|---|
+| Introduction | One sentence, your own words: what the diagram shows, and — if there are two — that they are alternative designs of the same thing. |
+| Overview | The organising difference, no part-by-part detail. For two objects: the one structural distinction everything else follows from. For one object: its two or three main divisions, and what the whole thing is for. |
+| Body 1 | One functional group, **across both objects** — not one object. |
+| Body 2 | The second functional group, across both. |
+
+**Group by function or component system, never object by object.** Writing all of
+object A and then all of object B is this type's version of "list, don't group": it
+produces two descriptions and no comparison, which is precisely the categorisation
+failure band 7 tests for. Useful groupings: *structure / power source / user
+interface*; *what it is made of / how it is held together*; *the part above ground /
+the part below*; *the parts that move / the parts that do not*.
+
+**Tense: present simple, and mostly active.** A device *has* parts and its parts *do*
+things, in a permanent present: *the handle pivots*, *the filter traps sediment*.
+Reserve the passive for what is genuinely done to the object by someone else — *the
+frame is welded at the joints*, *the cylinder is sealed with a rubber gasket*. If
+the diagram is dated to the past, or shows a historical artefact or a past event,
+switch the whole report to past simple and say so in the introduction.
+
+**The language, and there are three sets of it.**
+
+*Parts and what they do* — the LR lever on a figure-free task, exactly as verb
+precision is on a process: *consists of · comprises* (no *of*) *· is made up of · is
+fitted with · is mounted on · houses · is encased in · serves to · functions as ·
+acts as · is responsible for · allows the water to pass · prevents heat from
+escaping · draws · channels · supports · secures · seals · absorbs · traps*.
+
+*Spatial relationships* — worth real marks, because most candidates own five of these
+and repeat them: *at the base · at the upper end · directly beneath · immediately
+above · adjacent to · alongside · at either end · running the length of · on the
+underside · at right angles to · flush with · set into · protruding from · vertically
+· horizontally · at the centre*. Note the same distinction the maps section makes:
+*in the upper section* means inside it, *above the section* means beyond it.
+
+*Comparison between two objects* — the sentences that actually earn the band:
+*whereas · by contrast · unlike the first design · in place of · the equivalent
+component in the second design · a comparable function is performed by · both designs
+share · neither design · the chief difference lies in · the second design dispenses
+with the X found in the first · where the first uses X, the second uses Y*.
+
+**Trap one — the label inventory.** Walking round the diagram naming every label in
+the order your eye happens to meet them. It is fluent, it is accurate, it covers
+everything, and it is a band-5 answer: *"mechanical description reporting detail"* is
+the criteria document's own phrase for what it is not looking for. A static diagram
+usually carries eight to fifteen labels and you have 170–190 words; **you must leave
+some labels out**, and the ones you keep must be grouped.
+
+**Trap two — commentary.** With no numbers to report, the temptation is to explain
+which design is better, why it was invented, or what it costs. All three are outside
+the visual, and Task 1 relates *narrowly to the factual content* of the input, not to
+speculative explanation. You may say the second design has fewer moving parts. You
+may not say it is therefore more reliable, unless the diagram labels it so.
+
+**Worked example.** *Two designs of a hand-operated well pump used to raise drinking
+water in rural areas. Design A, a lever pump: a pivoting handle above ground drives a
+piston up and down inside a sealed cylinder sunk in the well; a foot valve at the
+base of the rising main holds the water column; the outlet is a short spout below the
+handle. Design B, a rope pump: a hand-turned wheel above ground draws a continuous
+loop of rope, fitted at intervals with rubber washers, up through a narrow pipe; the
+rope runs over a guide block at the bottom of the well and back down; the water
+leaves at a spout beside the wheel.*
+
+> *Overall, the two pumps perform the same task by fundamentally different means:
+> design A lifts water intermittently with a piston in a sealed cylinder, whereas
+> design B lifts it continuously on a moving loop of rope. Almost all of design B's
+> moving parts sit above ground, while design A's are submerged.*
+
+Fifty-one words — counted, not estimated. Two objects held in one sentence, the
+organising difference named,
+the consequence of that difference named, **and not one trend verb, not one figure,
+and not one sequencer**. Body 1 would then take the lifting mechanism in both
+designs; body 2 would take the parts above ground — the drive, the outlet and the
+access for repair — again in both.
+
+**Band-6 mistake.**
+
+> ✗ *There is a handle at the top of design A. Under the handle there is a cylinder.
+> Inside the cylinder there is a piston. There is also a valve at the bottom and a
+> spout. In design B there is a wheel at the top. There is a rope with washers. There
+> is a guide block at the bottom. There is a spout.*
+
+Every label present, nothing selected, nothing grouped, no comparison, and *there
+is/there are* eight times — the restricted range band-6 LR describes and the
+mechanical description the criteria document names under TA. The repair is not more
+vocabulary; it is one decision made before writing: **what are my two groups, and
+what is the one difference the overview will state?**
+
+---
+
 ## Tips & tricks
 
 Ranked by band impact for a candidate currently around 6.0.
@@ -452,10 +676,15 @@ Ranked by band impact for a candidate currently around 6.0.
    Struck out before counting, and it costs you on LR.
 4. **Decide the tense before you write.** `[verified]` Five seconds prevents a
    systematic error across 180 words.
-5. **Count your clean sentences after every drill.** `[verified]` Band 7 GRA
-   requires error-free sentences to be *frequent*; band 8 requires the *majority*.
-   The working target for 7 is roughly half. Nine sentences with three clean is a
-   band 6, however ambitious the other six.
+5. **Count your clean sentences after every drill.** `[expert consensus — derived]`
+   The descriptor wording is official: band 7 GRA requires error-free sentences to be
+   *frequent*, band 8 requires the *majority*. The **number** is not — no official
+   source quantifies *frequent*. So the honest derivation is that band 7 sits
+   **below** a majority: a working target of **four sentences in ten completely
+   clean, rising to five**, with anything consistently above half reading as band-8
+   evidence rather than band-7. Nine sentences with three clean is a band 6, however
+   ambitious the other six. Chapter 8 §How accurate is "accurate enough"? owns this
+   reasoning; the same number is used there and in Chapter 5.
 6. **Train reference and substitution.** `[verified]` Band 7 CC names them
    explicitly; band 6 says they lack flexibility. *This shift · the former · the
    latter · both · those · doing so · the remaining two categories.* Almost nobody
@@ -490,11 +719,13 @@ template cannot adapt — applied to a map or a process it produces format error
 and format errors cap TA, documented on an official script whose language was
 excellent and which was still held to band 7.
 
-**"Use as many linking words as possible."** Band 6 CC is *defined* by cohesion
-that is faulty or mechanical through misuse, overuse or omission; band 8 CC is
-cohesion the reader does not notice. Examiners flagged overuse at band 6 *and*
-still flagged some overuse of sequencers on a script rated 7.5 [src: May 2023
-descriptors, bands 6 and 8 CC; official 2023 examiner comments].
+**"Use as many linking words as possible."** Band 6 CC is *defined* by cohesion that
+is faulty or mechanical through misuse, overuse or omission; band 7 still names *some
+over- or under-use*; and only at **band 9** does cohesion stop attracting attention
+altogether. **Nothing anywhere in the grid rewards quantity.** Examiners flagged
+overuse at band 6 *and* still flagged some overuse of sequencers on a script rated
+7.5 [src: May 2023 descriptors, bands 6, 7 and 9 CC; official 2023 examiner
+comments].
 
 **"Use impressive vocabulary wherever possible."** Band 6 LR explicitly covers the
 risk-taker who reaches wider and gets it wrong. The descriptor tells you outright
@@ -531,9 +762,12 @@ cap the overall band. An official sample script with no clear overview was rated
 **band 7 overall**, carried there by CC, LR and GRA at band 8–9 level
 [src: official 2023 examiner comments, Task 1C]. State the cap, not the absolute.
 For a candidate whose other criteria sit at 6–7 the cap still makes an overall 7
-arithmetically unreachable, so the practical advice is unchanged. Note also that
-the **band-5 TA descriptor explicitly describes an overview-less script**, so the
-common claim that no overview means below band 5 is simply wrong.
+arithmetically unreachable, so the practical advice is unchanged. Note also that the
+band-5 TA cell describes a script showing *a tendency to focus on details without
+referring to the bigger picture* — an overview-less script in all but the word; the
+word *overview* itself does not appear at band 5. So the common claim that no
+overview means **below** band 5 is wrong, but say it by paraphrase, not by claiming
+the descriptor uses the term.
 
 **"An overview just says how many categories or stages there are."** Documented as
 insufficient by an official examiner on a script rated **8.5**: the count was not
@@ -589,8 +823,12 @@ Same data — now grouped, the trend named, the relationship stated. Nothing rar
 
 ### Coherence & Cohesion
 
-- **8** — The reader follows with no effort. Logical sequencing, all aspects of
-  cohesion handled well, paragraphing sufficient and appropriate.
+- **8** — The message can be followed **with ease**. Information and ideas logically
+  presented and sequenced, cohesion **well managed**, paragraphing sufficient and
+  appropriate; occasional lapses allowed. *(Cohesion that "very rarely attracts
+  attention" and a message followed "effortlessly" are **band 9**, not band 8 — a
+  distinction worth holding, because aiming at band 9 invisibility is aiming a band
+  higher than you need.)*
 - **7** — Logical organisation, clear progression throughout, at most a few lapses.
   A range of cohesive devices — **including reference and substitution** — used
   flexibly, though with some inaccuracy or some over- or under-use.
@@ -639,9 +877,23 @@ of it.
 > people who use the walk decreased strongly. In the other hand, the cycling had a
 > important diminution.*
 
-Seven problems in thirty words: *augmented* (French *augmenter*), *significatively*
-(not a word), *use the walk* and *decreased strongly* (collocation), *in the other
-hand* (preposition), *a important* (article), *diminution* (French register).
+**Eight problems in twenty-eight words**, and they do not all land on the same
+criterion — which is the point of counting them this way:
+
+- **Six against LR:** *augmented* (French *augmenter*), *significatively* (not an
+  English word), *use the walk* and *decreased strongly* (both wrong collocations),
+  *in the other hand* (the fixed phrase is *on the other hand*), *diminution* (French
+  register).
+- **Two against GRA:** *a important* — determiner choice is grammar, not vocabulary —
+  and ***the** cycling*, the generic article on an abstract noun, which is your
+  single highest-frequency error and is sitting in the middle of this sentence. It is
+  easy to miss precisely because it looks harmless. Chapters 7 and 8 both file
+  article errors under **GRA**; this chapter follows them.
+
+There is a ninth fault the error list does not name because it is not a word choice
+at all: *who **use** the walk* is present simple inside a past-simple sentence. Tense
+clashes inside a relative clause are the commonest way a Task 1 report loses its
+tense discipline after the first paragraph.
 
 > ✓ **7.** *Car use rose sharply, whereas the number of journeys made on foot fell
 > steeply over the same period. Cycling, by contrast, saw only a marginal decline.*
@@ -659,8 +911,10 @@ Not one rare word — common items in **correct collocation**. That is band-7 LR
   structures noticeably less accurate than simple ones**; errors occur but rarely
   impede.
 
-**The 6→7 gate — two independent things, both required.** (1) Roughly half your
-sentences completely error-free. (2) Complex sentences as accurate as simple ones —
+**The 6→7 gate — two independent things, both required.** (1) Around **four
+sentences in ten completely error-free**, rising to five — see tip 5 for why this is
+a derived working number and not an official one. (2) Complex sentences as accurate
+as simple ones —
 band 6 is *defined* by the gap between them. The fix is not more complexity; it is
 complexity you can control. Four low-risk structures do the whole job:
 
@@ -695,21 +949,42 @@ where French transfer lives, and where Arabic definiteness habits compound it.
 **1. Articles.** French keeps the article on general and abstract nouns; English
 drops it: ✗ *the car use increased* → **car use** · ✗ *the tourism grew* →
 **tourism** · ✗ *the electricity consumption fell* → **electricity consumption** ·
-✗ *the people who travelled by bus* (people in general) → **people**. But Task 1
-also *demands* the article in fixed frames, and over-correction costs as much:
-**the** number of · **the** proportion of · **the** percentage of · **the** amount
-of · **the** figure for · **the** majority of · **the** remainder — and superlatives
-(*walking was **the** highest*). Drill sentence, three different decisions:
-*Overall, **car** use rose while **the** number of children who walked to school
-fell to **the** lowest figure recorded.* Arabic marks definiteness heavily and
-doubles the pressure toward *the*: **when in doubt on a general noun, leave it out.**
+✗ *the people prefer cars* → **people prefer cars** · ✗ *the cycling declined* →
+**cycling declined**.
 
-**2. Uncountables pluralised.** *information · research · evidence · equipment ·
-transport · traffic · consumption · expenditure · electricity · employment ·
-pollution · waste · advice · knowledge · software · feedback* — never with *-s*.
-Say *a piece of information*, *a unit of electricity*. Treat **data** as **plural**:
-this matches the band-7 descriptor's own wording, which says the data *are*
-appropriately categorised. *The data show that…*
+**But the error is never *the* by itself — it is *the* on a bare generic.** The
+moment the noun is made specific, English wants the article **back**, and a defining
+relative clause is one of the things that makes it specific. So *the people **who
+travelled by bus*** is correct English in a Task 1 report: the clause says *which*
+people — the ones in the chart. Compare the pair and the rule is visible:
+
+> ✗ *The people prefer cars.* → ✓ *People prefer cars.* (generic, no clause)
+> ✓ *The people who travelled by bus fell to 5 million.* (specified by the clause)
+
+Chapter 8 gives the full trigger list — an *of*-phrase, a defining relative clause, a
+superlative, an ordinal, a date, or previous mention — and the decision procedure
+that goes with it. Task 1 also *demands* the article in fixed frames, and
+over-correction costs as much: **the** number of · **the** proportion of · **the**
+percentage of · **the** amount of · **the** figure for · **the** majority of ·
+**the** remainder — and superlatives (*walking was **the** highest*). Drill sentence,
+three different decisions: *Overall, **car** use rose while **the** number of
+children who walked to school fell to **the** lowest figure recorded.* Arabic marks
+definiteness heavily and doubles the pressure toward *the*: **when in doubt on a bare
+general noun with nothing after it, leave it out.**
+
+**2. Uncountables pluralised.** The full nine-word list and the reason it never fixes
+itself with practice are in **Chapter 8 §The nine words**. What is specific to Task 1
+is *which* uncountables the visuals hand you, and they are the industrial ones:
+*transport · traffic · consumption · expenditure · electricity · employment ·
+pollution · waste* — never with *-s*, however many countries the chart shows. Two
+Task-1-only points that live nowhere else in the book:
+
+- **Treat *data* as plural.** *The data **show** that…* This is not a style
+  preference: it matches the band-7 descriptor's own wording, *"the data **are**
+  appropriately categorised"*.
+- **Quantify with a partitive, not a plural**: *a unit of electricity*, *a category
+  of expenditure* — because a table with five rows makes *expenditures* feel right,
+  and it is not.
 
 **3. Prepositions with figures — the highest-value drill in this chapter.** Every
 one is French transfer: invisible to you, instantly visible to an examiner.
@@ -731,13 +1006,21 @@ The pair that catches nearly everyone: **rise *to* a level** versus **rise *by* 
 amount**. *Sales rose to 40%* and *sales rose by 40%* are different facts, and
 confusing them is a **TA accuracy error**, not merely a grammar slip.
 
-**4. False friends that surface here.** *significative* → **significant** (not an
-English word) · *augmented* → **rose/increased** · *diminution* → **decline/drop** ·
-*evolution* (of a trend) → **change/trend** · *important* (of a quantity) →
-**substantial**, since *an important increase* is wrong · *actually* →
-**currently** · *eventually* → **possibly** · *sensibly* (meaning noticeably) →
-**noticeably** · *permit to increase* → **allow X to increase** · *control* (meaning
-check) → **check**.
+**4. False friends — only the five that a chart actually produces.** The full
+annotated list is in **Chapter 8 §French: 3. False friends**; do not learn it twice.
+What matters here is that Task 1's narrow lexical field concentrates the damage into
+a handful of words you will reach for on *every* chart, so these five are worth
+knowing cold:
+
+*significative* → **significant** (not an English word at all) · *augmented* →
+**rose / increased** · *diminution* → **decline / drop** · *evolution* (of a trend) →
+**change / trend** · *important* (of a quantity) → **substantial**, because *an
+important increase* is wrong in English however natural *une augmentation
+importante* feels.
+
+Why these five and not the others: each one attaches to a **figure**, and Task 1 is
+made of figures. A false friend that costs you one word in an essay costs you four
+occurrences in a report.
 
 **5. Agreement traps this task manufactures.** Long noun phrases separate subject
 from verb constantly, which is exactly when agreement fails. *The number of cars*
@@ -788,7 +1071,10 @@ Run this on every drill, before looking at any model answer. Any "no" is the fix
    at a time?
 4. Does the overview **name the trend or difference** in words?
 5. If it is a process, does the overview name the **phases** rather than count the
-   stages? If a cycle, does it say the process is cyclical?
+   stages? If a cycle, does it say the process is cyclical? If it is a **static
+   diagram**, is the report grouped by **function or component across both objects**,
+   rather than all of object A followed by all of object B — and have I left some
+   labels out?
 6. Are my body paragraphs built on the **same groups** the overview announced?
 7. Have I checked whether the visual has a **time axis**, and used trend verbs *only*
    if it does?
@@ -804,37 +1090,6 @@ Run this on every drill, before looking at any model answer. Any "no" is the fix
 13. Have I used **both** grammatical shapes — verb+adverb *and*
     there+be+adjective+noun?
 14. Counting only my own words, am I between **170 and 190**?
-15. Sentence by sentence: is **at least half** completely error-free, and is any
-    sentence over about forty words?
+15. Sentence by sentence: are **at least four in ten** completely error-free (tip 5),
+    and is any sentence over about forty words?
 
----
-
-## 60-second summary
-
-Twenty minutes, at least 150 words, about a third of your Writing score. Summarise,
-select, compare — and report only what the visual shows: no causes, no opinions, no
-predictions of your own.
-
-**The chapter in one line: band 7 Task Achievement requires a clear overview, the
-data appropriately categorised, and the main trends identified; band 6 only requires
-that an overview be attempted.** Grouping is in the mark scheme. A perfect list is a
-band-6 answer.
-
-Four paragraphs: one-sentence introduction in your own words, two-sentence
-figure-free overview, then two body paragraphs on the *same* grouping. Never copy
-the prompt or the chart title — it is struck out before your words are counted and
-it tells the examiner you cannot paraphrase. Decide tense before typing: past for
-dated history, present for undated data, future forms for projections, present
-simple passive for man-made processes, active for natural cycles, and for maps
-whatever the two dates dictate.
-
-Precision beats rarity. *Rose sharply* in correct collocation outscores
-*skyrocketed* used wrongly, and *plummeted* for a 3% fall is an accuracy error as
-well as a lexical one. Keep the six families apart: proportion, figure, rate,
-amount, trend and period are not synonyms. Your three costliest L1 leaks here are
-the article on abstract nouns (*the car use*), the preposition on figures (*rose of*
-for *rose by/to*), and the sixty-word coordinated run-on.
-
-**If you do only one thing:** spend ninety seconds, before writing anything,
-deciding your two groups and composing the overview sentence that names them.
-Everything else in Task 1 follows from that decision.

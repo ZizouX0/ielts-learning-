@@ -1,5 +1,53 @@
 # Chapter 5 — Writing Task 2: Every Question Family Mastered
 
+## 60-second summary
+
+**Read this first.** It is at the top of the chapter deliberately: this is the
+highest-value page in the book, and everything after it is the evidence behind one of
+these lines.
+
+Task 2 is two thirds of your Writing band, and Writing is your weakest paper. Of six
+official examiner-marked scripts from band 4 to 8.5, **not one was capped for weak
+ideas** — they were capped for paragraphing, grammatical control, copied rubric,
+spelling and length. Spend your ninety minutes there.
+
+Find the final instruction line and count the demands. Write one body paragraph per
+demand. **If a prompt has two parts and you answer one, ielts.org states the outcome
+in its own words: *"If you don't discuss both, you will be limited to Band 5."***
+[src: ielts.org — Writing test resources, verbatim, fetched 2026-07-31]. That is the
+cheapest band in the test to lose and the cheapest to keep.
+
+Paraphrase the prompt properly: copied rubric earns nothing, counts as evidence that
+you cannot paraphrase, and should be assumed not to count toward your 250 words.
+
+**The four-move body paragraph — claim → because → so what → instance.** This is the
+single most actionable thing in the chapter and it is the official gloss on Task
+Response, not a teaching trick: ielts.org defines *extension* as going into more
+detail and *support* as giving examples. Two ideas built this way, not four asserted
+ones. Band 6 states ideas; band 7 extends and supports them.
+
+Aim for 270–290 words. There is a floor, not a ceiling — an official 7.5 exemplar
+runs to about 375 words and nobody mentioned it. And since the grid contains no
+rating-limiting feature anywhere above band 5, under-length carries no tariff; it
+carries a mechanism. Too short means undeveloped, and undeveloped is what the
+examiner marks.
+
+Concede once, then counter. Hedge every generalisation: an examiner credited *tend
+to* and *appears to be* as higher-level lexis, and hedging also kills band 7's named
+weakness.
+
+Cap discourse markers at about two per paragraph but never zero — one official
+script was docked for overuse, another for underuse. Replace the rest with reference
+and substitution, which band 7 names explicitly. Four or five paragraphs, blank line
+between each.
+
+Then spend three minutes on four mechanical passes: articles before abstract nouns,
+pluralised uncountables, comma splices, third-person *-s*. Those four are your
+systematic errors, and *systematic* is the word that decides whether errors merely
+cost you or cap you.
+
+---
+
 This is the most important chapter in the book, and the arithmetic says so.
 ielts.org states that Task 1 is worth a third of your Writing mark and Task 2 two
 thirds [src: ielts.org — Writing test resources]; the format page puts it the
@@ -33,7 +81,7 @@ least 250 words [src: ielts.org — sample tasks 2023 PDF, pp.6–7].
 | Length | **At least 250 words**; no upper limit is published anywhere |
 | Style | "Academic or semi-formal/neutral" [src: ielts.org — Writing test format] |
 | Form | Continuous prose. No sub-headings or bullet points; note form is penalisable anywhere in the response [src: ielts.org — Writing test resources; Key assessment criteria PDF, p.1] |
-| Criteria | Task Response · Coherence and Cohesion · Lexical Resource · Grammatical Range and Accuracy — four, equally weighted inside the task [src: Key assessment criteria PDF, p.1] |
+| Criteria | Task Response · Coherence and Cohesion · Lexical Resource · Grammatical Range and Accuracy — four, equally weighted inside the task. The four names come from the Key assessment criteria PDF, p.1; the **equal weighting** is stated elsewhere and is quoted in Chapter 1 [src: ielts.org — Understanding and setting IELTS scores: *"The criteria are weighted equally and the score on the task is the average"*] |
 | Marking | Each task assessed independently; a strong Task 1 cannot lift Task 2 [src: same] |
 | Plagiarism | Scripts may be penalised if partly or wholly plagiarised [src: same] |
 | Computer-delivered | Live word counter on screen; you may start from either task [src: ielts.idp.com — How computer-delivered IELTS works] |
@@ -53,15 +101,24 @@ knowledge is required** [src: ielts.org — Writing test resources]. Band 6 stat
 ideas. Band 7 extends and supports them. That distinction is worth more to you
 than any vocabulary list in this book.
 
-**The band-5 cap most candidates walk into.** ielts.org's guidance says that to
-reach band 6 or above you must address all the main parts of the prompt, and that
-**"If you don't discuss both, you will be limited to Band 5."** [src: ielts.org —
-Writing test resources] The grid corroborates it: the band-5 Task Response cell
-describes main parts that are *incompletely* addressed, and that phrase is set in
-bold, which the PDF's own legend reserves for negative features that limit a
-rating [src: ielts.org — Writing band descriptors PDF, p.8]. Band 6 tolerates
-*uneven* coverage; band 5 is where a part is left incomplete. Unevenness costs you
-the 7; absence costs you the 6.
+**The band-5 cap most candidates walk into.** This is not an inference and it is not
+a teacher's rule of thumb. ielts.org's Writing test resources page says it in these
+words:
+
+> **"If you don't discuss both, you will be limited to Band 5."**
+
+[src: ielts.org — Writing test resources, quoted verbatim from the live page, fetched
+2026-07-31]. Take it as the published fact it is, and note that the same page states
+verbatim two other things this chapter relies on: *"Task 1 is worth a third of your
+overall mark for Writing. Task 2 is worth two thirds"*, and *"You can 'extend' your
+ideas by going into more detail and you can 'support' them by giving examples."*
+
+The grid corroborates the band-5 sentence independently: the band-5 Task Response
+cell describes main parts that are *incompletely* addressed, and that phrase is set
+in **bold**, which the PDF's own legend reserves for negative features that limit a
+rating [src: ielts.org — Writing band descriptors PDF, p.8]. Two sources, one rule.
+Band 6 tolerates *uneven* coverage; band 5 is where a part is left incomplete.
+Unevenness costs you the 7; absence costs you the 6.
 
 ### Length: a floor, and no ceiling
 
@@ -72,14 +129,27 @@ length, and length insufficient to show control of sentence forms
 [src: descriptors PDF, p.9]. No deduction for being under 250 is published
 anywhere.
 
-Here is the structural evidence, and you can check it yourself. Extract the bold
-runs from the Task 2 descriptor pages by font name, and the complete list of
-bolded — that is, rating-limiting — negative features sits at bands 5, 4, 3, 2, 1
-and 0. **There is not one bolded negative feature at bands 6, 7, 8 or 9**
-[src: descriptors PDF, pp.7–9, bold extracted by font]. There is no tariff waiting
-at the top of the scale. There is a *mechanism*: 190 words cannot contain two
-extended and supported ideas, so the examiner marks the missing development, not
-the missing words.
+Here is the structural evidence, and you can check it yourself. The descriptor PDF
+carries its own legend: *"Bolded text indicates negative features that will limit a
+rating."* So extract the bold runs from the Task 2 descriptor pages **by font name**,
+not by eye, and see where they land. They land at bands 5, 4, 3, 2, 1 and 0.
+**There is not one bolded negative feature at bands 6, 7, 8 or 9**
+[src: descriptors PDF, pp.7–9, bold extracted by font].
+
+Three details make the extraction reproducible, and one of them is a trap:
+
+- **Page 7** carries bands 9, 8 and 7 and contains **zero** bolded negative features.
+- **Page 8** carries bands 6, 5 and 4, and its only two bolds — *"incompletely
+  addressed"* and *"Paragraphing may be inadequate or missing"* — both belong to the
+  **band-5** row. This is the trap: the band labels are **vertically centred** in
+  their cells, so a bold phrase can sit level with the *6* label while belonging to
+  the row beneath it. Read the row boundaries, not the vertical position of the
+  number.
+- **Page 9** (bands 4 to 0) is dense with them.
+
+There is no tariff waiting at the top of the scale. There is a *mechanism*: 190 words
+cannot contain two extended and supported ideas, so the examiner marks the missing
+development, not the missing words.
 
 Official commentary on a computer-delivered script of roughly 198 words does
 exactly that. The examiner notes the position is clear and the ideas relevant,
@@ -175,9 +245,10 @@ disagree?* · *What is your opinion?* One demand: judge the proposition.
 
 ```
 Intro   ~45 w   Paraphrase the proposition · state your position in one sentence
-Body 1  ~110 w  Reason 1 — claim, because, so what, instance
-Body 2  ~110 w  Reason 2 — claim, because, so what, instance
+Body 1  ~100 w  Reason 1 — claim, because, so what, instance
+Body 2  ~100 w  Reason 2 — claim, because, so what, instance
 Conc.   ~35 w   Restate the position in new words. No new argument.
+                                                        Total ~280 w
 ```
 
 **Worked skeleton.** Original prompt: *Some people believe universities should
@@ -214,10 +285,11 @@ exactly: position relevant, conclusions unclear, unjustified or repetitive
 and the third is the one people drop.
 
 ```
-Intro   ~50 w   Paraphrase both views · state YOUR position now, not at the end
-Body 1  ~100 w  View A — presented fairly, developed
-Body 2  ~120 w  View B — developed, and this is where you side with one, with reasons
+Intro   ~45 w   Paraphrase both views · state YOUR position now, not at the end
+Body 1  ~95 w   View A — presented fairly, developed
+Body 2  ~110 w  View B — developed, and this is where you side with one, with reasons
 Conc.   ~35 w   Your position restated
+                                                        Total ~285 w
 ```
 
 Safer alternative at 6 or 6.5: three bodies of about 75 words — view A, view B,
@@ -259,9 +331,10 @@ demands, and they are **coupled**.
 
 ```
 Intro   ~45 w   Paraphrase the problem · signpost causes then remedies
-Body 1  ~105 w  Cause 1 developed fully, Cause 2 briefly — or one cause, deeply
-Body 2  ~110 w  A remedy for cause 1, a remedy for cause 2, named as such
+Body 1  ~100 w  Cause 1 developed fully, Cause 2 briefly — or one cause, deeply
+Body 2  ~100 w  A remedy for cause 1, a remedy for cause 2, named as such
 Conc.   ~35 w   The problem is tractable if the named causes are attacked
+                                                        Total ~280 w
 ```
 
 **Worked skeleton.** Original prompt: *In many countries young people are leaving
@@ -308,10 +381,11 @@ The *outweigh* version is what the official 2023 sample task 2B uses [src: sampl
 tasks 2023 PDF, p.7], so it is not a rare shape.
 
 ```
-Intro   ~50 w   Paraphrase · state the verdict now
-Body 1  ~95 w   The weaker side, honestly presented
-Body 2  ~120 w  The stronger side, developed further — and say WHY it weighs more
+Intro   ~45 w   Paraphrase · state the verdict now
+Body 1  ~90 w   The weaker side, honestly presented
+Body 2  ~110 w  The stronger side, developed further — and say WHY it weighs more
 Conc.   ~35 w   Verdict restated with the reason for the weighting
+                                                        Total ~280 w
 ```
 
 Give the winning side more words. The asymmetry is itself an argument; a
@@ -351,9 +425,10 @@ stands alone.
 
 ```
 Intro   ~45 w   Paraphrase · one-line answer to BOTH questions
-Body 1  ~105 w  Question 1, fully
-Body 2  ~110 w  Question 2, fully — and it must be an evaluation, not more causes
+Body 1  ~100 w  Question 1, fully
+Body 2  ~100 w  Question 2, fully — and it must be an evaluation, not more causes
 Conc.   ~35 w   Both answers, compressed
+                                                        Total ~280 w
 ```
 
 **Worked skeleton.** Original prompt: *In many households children now spend more
@@ -469,7 +544,13 @@ is a thinking tool and is invisible.
 analyse and plan, thirty-two to write, three to check. At roughly nine words a
 minute that yields about 290 words. Checking time is not optional — ielts.org
 advises reserving time to proofread. *Fails when* you plan for ten minutes and then
-write 220 words.
+write 220 words. **Two conditions on the nine-words-a-minute figure:** it counts
+thinking *and* typing together, so it is only true if you have already planned; and
+it assumes you are typing on the keyboard layout you will actually meet. Run every
+timed drill on that layout — Chapter 9's L1 alert covers the AZERTY/QWERTY question
+for Tunisian centres. Nine words a minute on an unfamiliar layout is optimistic by a
+wide margin, and the shortfall lands on the criterion length hurts most, Task
+Response.
 
 **14. Proofread for *your* three errors, not for "mistakes".** `[verified]` Band 8
 is blocked by *systematic* errors, and an L1 pattern is systematic by definition.
@@ -648,7 +729,7 @@ cohesive devices come in three families — logical connectors, conjunctions, an
 pronouns/reference — and reference and substitution are the ones band 7 asks for by
 name [src: Key assessment criteria PDF, p.3; descriptors PDF, p.7].
 
-> **Band 6 (five markers, four sentences):** Firstly, cities are becoming
+> **Band 6 (five markers, five sentences):** Firstly, cities are becoming
 > overcrowded. Moreover, housing is expensive. Furthermore, transport systems cannot
 > cope. In addition, air quality is poor. Therefore, governments should act.
 >
@@ -701,11 +782,15 @@ and it keeps the company it normally keeps.
 | **7** | A variety of complex structures used with some flexibility and accuracy. Grammar and punctuation generally well controlled, and **"error-free sentences are frequent"**. A few errors persist but do not impede communication. |
 | **6** | A mix of simple and complex forms with limited flexibility. Complex structures are less accurate than the simple ones. Errors occur but rarely impede communication. |
 
-**This one is measurable, so measure it.** Band 7 needs error-free sentences to be
-*frequent*; band 8 needs them to be *the majority*. In a 280-word essay of about
-sixteen sentences, if fewer than seven or eight are completely clean, you are
-arguing for a 6. It is the only criterion you can audit yourself with any
-reliability.
+**This one is measurable, so measure it — but measure it against the right number.**
+Band 7 needs error-free sentences to be *frequent*; band 8 needs them to be *the
+majority*. No official source quantifies *frequent*, so band 7 must sit **below** a
+majority, not at it. In a 280-word essay of about sixteen sentences: **fewer than six
+clean and you are arguing for a 6; six or seven is band-7 territory; nine or ten and
+you are arguing for an 8.** Chapter 4 tip 5 and Chapter 8 §How accurate is "accurate
+enough"? use the same derivation — four in ten rising to five — and it is a derived
+working proxy, not a published threshold. It is still the only criterion you can
+audit yourself with any reliability.
 
 **What "complex" officially means at band 7 and above:** passive constructions,
 modal verbs, comparative forms and complex noun phrases — not merely subordinate
@@ -760,38 +845,68 @@ education* → Technology has transformed education. *The unemployment among the
 people* → Unemployment among young people. **Why:** an uncountable abstract noun used
 in a general sense takes no article in English; French *la société* forces it,
 English drops it. Same family: *society, nature, life, technology, education,
-history, crime, poverty, health, pollution, science, government* (as an
-institution), *work, research, progress*. **The article *is* required** when you
-narrow the noun — *the education system of Tunisia*, *the crime rate*. Test: if a
-following phrase specifies *which one*, keep it.
+history, crime, poverty, health, pollution, science, work, research, progress*.
 
-**2. Uncountables pluralised.** Each instance is a word-formation error under LR.
-*informations · researches · advices · knowledges · equipments · evidences ·
-feedbacks · progresses · trainings · staffs · accommodations · pollutions ·
-transports* → information · research · advice · knowledge · equipment · evidence ·
-feedback · progress · training · staff · accommodation · pollution · transport.
-Quantify with a partitive: *a piece of research*, *some advice*, *a great deal of
-evidence*; and *a research* → *a study*. The official 7.5 script itself contains
-*"reading gossips"* — this family reaches even strong writers.
+**Now the counter-list, and get this the right way round, because over-correction
+after this rule is taught is a real and predictable failure mode.** These abstract
+nouns **keep** their article in ordinary generic use, and stripping it is just as
+wrong as adding it:
 
-**3. Preposition transfer.** *depend of* → depend **on**; *discuss about* → discuss
-Ø; *participate to* → participate **in**; *consist in* → consist **of**;
-*responsible of* → responsible **for**; *suffer of* → suffer **from**; *interested
-by* → interested **in**; *access to* (as a verb) → access Ø; *in the other hand* →
-on the **other** hand; *since ten years* → **for** ten years; *permit to do* →
-permit/allow **somebody to** do; *prevent somebody to do* → prevent somebody **from**
-doing.
+> **the government · the environment · the media · the economy · the internet ·
+> the public · the police**
 
-**4. False friends in essay register.** *actually* means in reality → use
-*currently*. *eventually* means in the end → use *possibly*. *assist* means help →
-use *attend*. *formation* → *training*, *education*. *sensible* means having good
-judgement → use *sensitive*. *deception* means trickery → use *disappointment*.
-*control* means to have power over → use *check*, *monitor*. *support* means to bear
-or back → use *tolerate*. *achieve* → *complete*. *stage* → *internship*. *society*
-(from *société*) meaning a firm → *company*. *evolution* meaning a trend → *change*,
-*development*. *inconvenient* is not a noun in English — use *drawback*. And two that
-are not English words at all: *significative* → **significant**; *alimentation* →
-**diet**, **nutrition** — the official examiner's own example.
+✓ *The government should regulate emissions more strictly.* — not *Government
+should…*
+
+***Government* is the trap on this list**, because it looks like *society* and
+behaves like *the economy*. The article-less *Government is expensive* exists, but it
+is the abstract-activity sense, and it is not what a Task 2 writer is ever producing:
+when you mean the institution — which you always do — it takes **the**. This chapter
+uses it correctly in §6 below (*the government decides*); Chapter 8 owns the full
+counter-list and the decision procedure behind it.
+
+**The article *is* also required** whenever you narrow the noun — *the education
+system of Tunisia*, *the crime rate*, *the poverty **that this policy creates***.
+Test: if something after the noun specifies *which one*, keep the article.
+
+**2. Uncountables pluralised.** The nine-word list, the partitives (*a piece of
+research*, *some advice*) and the research finding that this is the one error type
+which does **not** resolve as proficiency rises all live in **Chapter 8 §The nine
+words**. Two things belong here rather than there:
+
+- **Which criterion it costs.** Chapter 8's hedged version is the honest one:
+  **GRA, and arguably LR too**. IELTS files word formation under LR and says nothing
+  about which side countability falls on, so a book that states the allocation as
+  settled is inventing a ruling. Either way it is scored, and the repair is
+  identical.
+- **Why Task 2 is where it bites.** An essay about *research*, *information*,
+  *evidence*, *knowledge* and *training* is an essay made almost entirely of
+  uncountables — the abstract-argument register hands you five of the nine words in
+  every paragraph. The official **7.5** script itself contains *"reading gossips"*, so
+  this family reaches strong writers; it is a scan, not a lesson.
+
+**3. Preposition transfer — the six that essay argument actually produces.** The full
+table is in **Chapter 8**. These six recur because they attach to the verbs of
+*arguing*: *depend of* → depend **on**; *discuss about* → discuss Ø; *participate
+to* → participate **in**; *responsible of* → responsible **for**; *access to* (as a
+verb) → access Ø; *in the other hand* → on the **other** hand. Add one that is
+specific to Task 2's concessive machinery: *prevent somebody **to** do* → prevent
+somebody **from** doing.
+
+**4. False friends in essay register — the register-specific ones only.** The
+annotated twenty-plus-item list is in **Chapter 8 §French: 3. False friends**, and
+Chapter 7 covers how to test yourself on it; reading it a fifth time will not move
+your band. What is specific to Task 2 is that a false friend here is not a slip in a
+data label — it lands inside an *argument*, where it changes what you are claiming.
+The four that do that most:
+
+*formation* → **training / education** (a whole education essay can be built on the
+wrong word) · *evolution* meaning a trend → **change / development** · *inconvenient*
+used as a noun → **drawback** · *society* (from *société*) meaning a firm →
+**company**. Plus the two that are not English words at all: *significative* →
+**significant**, and *alimentation* → **diet / nutrition** — the second of these is
+the official examiner's own cited example of L1 interference, quoted at the head of
+this section.
 
 **5. Run-ons and comma splices.** Both your languages tolerate long coordinate
 chains, and Arabic rhetorical structure adds sentence-initial connectives that
@@ -834,10 +949,18 @@ Also drop *In my opinion I think* (pick one), *nowadays* at the head of every
 paragraph, *we can say that*, *it is a fact that*.
 
 **Your three-minute, four-pass proofread.** Not "read it through" — four separate
-mechanical sweeps: **articles** (every *the* before an unmodified abstract noun);
-**plurals** (*information / research / advice / knowledge / evidence / equipment*
-carrying an *s*); **commas** (any comma with a complete sentence on both sides);
-**-s** (every present-simple verb with a singular subject).
+mechanical sweeps: **articles** (every *the* before an unmodified abstract noun, and
+every abstract noun on the counter-list above that has lost one); **plurals**
+(*information / research / advice / knowledge / evidence / equipment* carrying an
+*s*); **commas** (any comma with a complete sentence on both sides); **-s** (every
+present-simple verb with a singular subject).
+
+**Chapter 8 owns this procedure** — the same four passes, with the timings and the
+Arabic and French sweeps that sit alongside them. One rule from there is worth
+importing because it is the one people break under time pressure: **in the three
+minutes you may delete and repair; you may not add.** A new sentence written at
+minute 39 is unproofread by definition, and it is the sentence most likely to carry
+an error into a script that was otherwise clean.
 
 ---
 
@@ -856,7 +979,10 @@ named repair.
 6. Does each body paragraph make all four moves — claim, because, so what, instance?
 7. Is there a concrete instance in at least two paragraphs, from my own knowledge or
    experience, with no invented statistics?
-8. Is my word count between 260 and 300, counting only words I wrote myself?
+8. Am I **at or above 260** words, counting only words I wrote myself — with 270–290
+   as the comfortable target, and **no upper limit** beyond what I can still
+   proofread in three minutes? (See M6: there is a floor, not a ceiling. Do not cut
+   320 well-developed words to satisfy a number this book never set.)
 9. Are there four or five paragraphs, each separated by a blank line?
 10. Does any paragraph contain more than two discourse markers — and does any
     paragraph contain none?
@@ -866,7 +992,8 @@ named repair.
     cases*?
 13. Does my conclusion give a *reason* for the verdict rather than repeating the
     introduction in other words?
-14. Counting sentences: are at least half completely error-free?
+14. Counting sentences: are at least **six of about sixteen** completely error-free
+    (see the GRA decoder)?
 15. Have I run all four proofread passes — articles, plural uncountables, comma
     splices, third-person *-s*?
 16. Is the essay free of *e.g.*, *etc.*, bullet points and sub-headings?
@@ -875,12 +1002,6 @@ named repair.
 
 ## What is still unsettled
 
-- **The "limited to Band 5" sentence.** ielts.org's Writing test resources page
-  states that if you do not discuss both parts you will be limited to band 5. It was
-  reached through a rendering layer rather than read verbatim off the live page, so
-  treat it as officially stated but pending verbatim confirmation. It is fully
-  consistent with the bolded band-5 Task Response cell, which is independent
-  evidence for the same rule.
 - **Rhetorical questions.** No official rule exists either way; the recommendation
   above is derived from descriptor logic, not quoted.
 - **Which task to write first.** No official preference exists. Decide it in your own
@@ -891,38 +1012,3 @@ named repair.
 - **The exact Writing band formula.** The 1:2 weighting is official; the precise
   arithmetic and rounding rule is not published. Chapter 1 covers this.
 
----
-
-## 60-second summary
-
-Task 2 is two thirds of your Writing band, and Writing is your weakest paper. Of six
-official examiner-marked scripts from band 4 to 8.5, **not one was capped for weak
-ideas** — they were capped for paragraphing, grammatical control, copied rubric,
-spelling and length. Spend your ninety minutes there.
-
-Find the final instruction line and count the demands. Write one body paragraph per
-demand. Paraphrase the prompt properly: copied rubric earns nothing, counts as
-evidence that you cannot paraphrase, and should be assumed not to count toward your
-250 words.
-
-Aim for 270–290 words. There is a floor, not a ceiling — an official 7.5 exemplar
-runs to about 375 words and nobody mentioned it. And since the grid contains no
-rating-limiting feature anywhere above band 5, under-length carries no tariff; it
-carries a mechanism. Too short means undeveloped, and undeveloped is what the
-examiner marks.
-
-Two ideas, not four. Each gets a claim, a because, a so-what and an instance —
-exactly what the official definitions of *extension* and *support* ask for. Concede
-once, then counter. Hedge every generalisation: an examiner credited *tend to* and
-*appears to be* as higher-level lexis, and hedging also kills band 7's named
-weakness.
-
-Cap discourse markers at about two per paragraph but never zero — one official
-script was docked for overuse, another for underuse. Replace the rest with reference
-and substitution, which band 7 names explicitly. Four or five paragraphs, blank line
-between each.
-
-Then spend three minutes on four mechanical passes: articles before abstract nouns,
-pluralised uncountables, comma splices, third-person *-s*. Those four are your
-systematic errors, and *systematic* is the word that decides whether errors merely
-cost you or cap you.

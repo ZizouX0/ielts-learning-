@@ -1,5 +1,52 @@
 # Chapter 9 — Study Plan, Practice System & Test Day
 
+## 60-second summary
+
+**Book computer-delivered IELTS Academic at a British Council Tunisia centre — not IELTS
+Online.** IELTS Online "is not currently accepted for immigration purposes", institutions
+choose individually whether to accept it, it bans headphones, and it demands a passport.
+Your Malta student visa is an immigration process. TND 750, payable in dinar only. Register
+with your passport and bring that identical document on the day; the wrong ID means no test.
+britishcouncil.tn contradicts itself about whether paper is still bookable — settle it by
+phone, not from the website, and either way train on a keyboard.
+
+Bring nothing else. Water in a clear bottle, no food, no phone, no watch; the centre
+supplies pen and paper. The only published arrival figure, 30 minutes, comes from a blog
+page rather than a policy page; your booking confirmation is the authority on reporting
+time, and on whether Speaking is the same day and face-to-face or by video call. Ask your
+centre about One Skill Retake, headphones, paper availability, and **AZERTY versus QWERTY**
+before you pay — and if the answer is QWERTY, the keyboard plan below is a week-1 task, not
+a week-6 one.
+
+ielts.org publishes **2h40** for the Listening + Reading + Writing session with no
+delivery-mode caveat, and **2h45** as the total test time including Speaking. Plan against
+2h40 seated with no breaks: Listening (two minutes to review, no transfer time), Reading
+(transfer inside the hour), Writing (worth most, sat in the last hour when you are most
+tired — so eat first). Never leave a box blank; guess one thing, inside the word limit.
+Copy-paste Reading completions. Flag and move on. Results: plan against five days, not two.
+
+Study at 90 minutes a day on a fixed shape — 9 minutes theory, 63 minutes timed practice
+**plus marking**, 18 minutes error logging — seven days, with Sunday as review. The theory
+slot is nine minutes because it is meant for one named section of this book, not a chapter:
+§How to read this book inside the nine-minute rule tells you which section on which day.
+Run week 1 of the plan first and choose 6, 8 or 10 weeks on **day 8**, when you have four
+real bands — week 1 is identical in all three.
+
+Writing gets the most days because it is a **gate** that moves slowly; Listening and Reading
+get fewer because they are **levers** that convert technique to marks fast (Chapter 1). That
+is not a contradiction, and §Why Writing gets the most time gives you the rule for when to
+shift the balance. Mark one criterion per pass against the real public descriptors, wait 48
+hours before marking your own writing, award the lower band when torn, and remember that an
+AI cannot hear your pronunciation and grades high unless you pin it to the descriptors. And
+do not chase complex sentences to reach band 7 — Chapter 8's whole argument is that band 6
+is capped by complex sentences less accurate than your simple ones, so more of them at your
+current accuracy moves you down.
+
+If a section comes back anomalously low, you have six weeks to apply for a remark — and you
+should read your centre's own terms before you assume the score cannot move down.
+
+---
+
 ## What the test actually asks
 
 ### The booking decision that can cost you the whole fee
@@ -121,28 +168,37 @@ Almost nothing.
 | Any watch, smart or not | Banned; there is a wall clock `[src: takeielts.britishcouncil.org — Frequently asked questions]` |
 | Bags and belongings | Locker or secure area `[src: ielts.idp.com — Test day]` |
 
-**Stationery is where the sources genuinely disagree, so read this carefully.**
-British Council policy says "Personal stationery, including pencils, are not
-permitted in the test room" `[src: takeielts.britishcouncil.org — Essential Tips to
-Excel in IELTS Test Day]` `[src: takeielts.britishcouncil.org — Frequently asked
-questions]`. Cambridge's Academic FAQ still tells candidates "You can write in pen
-or pencil" `[src: cambridgeenglish.org — IELTS Academic FAQs PDF (269898), p.7]`.
-Both are official. A British Council *blog* page has also been seen to contradict
-the British Council's own policy page. This conflict is unresolved, and I could not
-settle it from the British Council registration terms and conditions: that page
-returns HTTP 403 to automated requests — bot protection, not a rendering failure;
-headless Chromium and plain curl both fail. **Follow the instruction your centre
-gives you at booking, and bring nothing.** For computer delivery the centre
-provides pen and paper anyway `[src: ielts.idp.com — Test day]`, plus a login
-details sheet you are allowed to write on `[src: ielts.idp.com — Test day]`.
+**Stationery reads like a conflict between two official sources, and mostly is not.**
+The British Council rule is explicitly scoped to the paper test: "**You must use a black
+ink pen, supplied by the test centre, to complete your IELTS on Paper test.** Personal
+stationery, including pencils, are not permitted in the test room"
+`[src: takeielts.britishcouncil.org — Test day advice, fetched 2026-07-31]`. Cambridge's
+Academic FAQ answers a different question — which implement is acceptable — with "You can
+write in pen or pencil" `[src: cambridgeenglish.org — IELTS Academic FAQs PDF (269898),
+p.7]`. One governs what you may *bring*, the other what you may *write with*, and both are
+about paper. **For a computer-delivered candidate the question is moot:** the centre
+provides pen and paper for notes `[src: ielts.idp.com — Test day]`, plus a login details
+sheet you are allowed to write on `[src: same]`. **Bring nothing, and follow the
+instruction your centre gives you at booking.**
 
 ### The shape of the day
 
-Listening, Reading and Writing run as one block of **2 hours 40 minutes with no
-breaks at all** `[src: ielts.org — What to expect on IELTS test day]`
-`[src: takeielts.britishcouncil.org — Essential Tips to Excel in IELTS Test Day]`.
-On computer the order is Listening → Reading → Writing, with Speaking before or
-after `[src: ielts.idp.com — Test day]`.
+Listening, Reading and Writing run as one block: "This takes **2 hours 40 minutes**, and
+there are no breaks between each section of the test" `[src: ielts.org — What to expect on
+IELTS test day, fetched 2026-07-31]` `[src: takeielts.britishcouncil.org — Essential Tips
+to Excel in IELTS Test Day]`. On computer the order is Listening → Reading → Writing, with
+Speaking before or after `[src: ielts.idp.com — Test day]`.
+
+**You will also see 2 hours 45 minutes, and the two figures are not in conflict — they
+count different things.** 2h45 is the *total test time* for IELTS Academic, quoted with the
+four component timings (Listening ~30, Reading 60 including transfer time, Writing 60,
+Speaking 11–14) `[src: ielts.org — IELTS Academic test, fetched 2026-07-31]`; 2h40 is the
+Listening + Reading + Writing session alone. ielts.org applies **2h40 with no
+delivery-mode caveat**, so this book does not invent one either, even though the computer
+components sum to roughly 2h32 (Listening 30 + a 2-minute check + Reading 60 + Writing 60);
+the remainder is instructions, seating and administration. **Practise against 2h40 seated
+and concentrating**, and budget the individual paper timings below rather than either
+headline.
 
 | When | What happens |
 |---|---|
@@ -188,7 +244,7 @@ None of these could be confirmed from published sources. Do not guess at them.
 
 | Question | Why it matters | What is actually known |
 |---|---|---|
-| Is paper still bookable in Tunisia? | Changes nothing about your plan — but settles it | **Conflicting.** The English dates/fees page and every Tunis booking link on ielts.org show computer only `[src: britishcouncil.tn — Test dates, fees and locations]` `[src: ielts.org — Test centre: British Council Tunis]`, while the French BC Tunisia page still lists "papier ou ordinateur" `[src: britishcouncil.tn — Réservez votre examen IELTS (FR)]` — very likely stale text. Assume computer. Paper is being retired from mid-2026 anyway `[src: ielts.org — Updates to IELTS test delivery]` |
+| Is paper still bookable in Tunisia? | Changes nothing about your plan — but settles it | **Unsettled, and the website cannot settle it.** britishcouncil.tn's dates, fees and locations page offers only IELTS on computer and IELTS Online `[src: britishcouncil.tn — Test dates, fees and locations, fetched 2026-07-31]`, and every Tunis booking link on ielts.org is computer `[src: ielts.org — Test centre: British Council Tunis]`. But the site's own **English** test pages still offer paper and quote a fee for it — "You can choose between IELTS on paper or computer" with "Paper-based: 750 TND" `[src: britishcouncil.tn/en — IELTS Academic, fetched 2026-07-31]` `[src: britishcouncil.tn/en — IELTS General Training, fetched 2026-07-31]`. So this is **not** a French-versus-English translation lag; the site is internally inconsistent in English. **Phone the centre.** Either way, paper is being retired from mid-2026 `[src: ielts.org — Updates to IELTS test delivery]`, and every drill in this book assumes a keyboard |
 | Is "Writing on Paper" mode offered? | Would let you handwrite Writing | Offered "in selected markets"; no market is named `[src: ielts.org — Updates to IELTS test delivery]`. **Unconfirmed for Tunisia — do not plan on it. Train typing.** |
 | Is One Skill Retake available at your centre, and at what fee? | Changes your entire fallback plan | Probable, unconfirmed. OSR "is currently available at selected IELTS on Computer centres" and no Tunisian centre is named `[src: britishcouncil.tn — IELTS One Skill Retake]`. Tunisia being computer-delivered satisfies the precondition — that is inference, not confirmation. **Ask before you book** |
 | Are headphones supplied? | Listening marks | Provision varies by centre; candidates are told to check locally. **Unconfirmed for Tunisia** |
@@ -227,14 +283,106 @@ The 9-minute theory cap is the rule most likely to be broken and the most expens
 to break. Reading strategy articles for forty minutes converts a practice day into a
 browsing day, and browsing days do not move bands.
 
-### Why Writing gets the most time
+### The numbers, in one table
+
+Every clock and every word count in this book, in one place. Where another chapter differs,
+this table wins — so you never spend a decision on it.
+
+| | Plan | Write | Check | Stop writing at | Word target | Hard floor |
+|---|---|---|---|---|---|---|
+| **Task 1** | 3 min | 12 min | 3 min | **17 min** | 170–190 | 150 |
+| **Task 2** | 5 min | 32 min | 3 min | **37 min** | 270–290 | 250 |
+
+Reading: 19 minutes per passage plus a 3-minute sweep, all inside the hour — there is no
+separate transfer time `[src: ielts.org — IELTS Academic: Reading test format]`. Listening:
+~30 minutes plus **2 minutes** to review, and no transfer time
+`[src: ielts.idp.com — How computer-delivered IELTS works]`. Speaking Part 2: 1 minute to
+prepare, aim to still be talking at 2 minutes.
+
+The floors are the published rubric minima; the targets carry a margin because copied
+rubric is discounted **before** the count is taken, so a weak paraphrase can leave you under
+length while the on-screen counter says you are fine.
+
+### How to read this book inside the nine-minute rule
+
+This book is about 70,000 words. At a careful reading pace on dense prose with tables, that
+is roughly eight hours of first reading — and nine minutes a day across an eight-week plan
+gives you about eight and a half hours in total. **Reading this book once, straight through,
+would consume your entire theory budget for the entire course.** So do not read it straight
+through. It is a reference work with a small compulsory core.
+
+**Day zero — one setup cost, outside the nine-minute rule.** Before day 1, spend two
+sittings of about 45 minutes reading these, end to end, in this order:
+
+1. Every chapter's **60-second summary** — they are the first section of each chapter, and
+   nine of them together are about twenty minutes. This alone gives you the whole book's
+   argument.
+2. **Ch 1 §The strategic core** — where your marks actually are.
+3. **Ch 8 §The spine of this chapter** and **§Your error map, ranked by expected cost** —
+   the 6→7 mechanism and your personal error ranking.
+4. **Ch 9** — this chapter's booking decision, the plan tables, and the numbers table above.
+
+Name that for what it is: a one-off setup cost, not theory time. You are not expected to
+read this book straight through, and if you do, it costs you the budget you were going to
+learn with.
+
+**Then, from day 1, your nine minutes come from one named section — never a chapter.**
+Match it to the day's skill:
+
+| Day | Command | Your nine minutes come from |
+|---|---|---|
+| Mon | `/writing2` | Ch 5 — one question family, or Tip 4 (claim → because → so what → instance) |
+| Tue | `/reading` | Ch 3 — the order table, or one question type you lost marks on |
+| Wed | `/writing1` | Ch 4 — one visual type, or the overview-and-grouping section |
+| Thu | `/listening` | Ch 2 — one trap family, or the prediction drill |
+| Fri | `/speaking` | Ch 6 — one drill, or the Part 2 structure |
+| Sat | `/mock` or a timed section | Nothing. Nine minutes of re-reading yesterday's error log |
+| Sun | `/review`, `/vocab`, `/anki` | Ch 8 — one L1 alert sub-section, in the order Ch 8 §How to use this chapter gives |
+
+**Read once, then never again:** the eight band-7 structures (Ch 8), the vocabulary
+acquisition theory (Ch 7), the test-day logistics tables (Ch 9). **Skim and come back only
+when an error appears in your log:** every Myths section, every Band descriptor decoder.
+**Keep permanently open beside the keyboard:** Ch 8 §The three-minute self-edit, Ch 8 §The
+60-second Arabic sweep and §The 45-second French sweep, and the numbers table above.
+
+From week 4 onward the theory slot changes purpose: it stops being "read the book" and
+becomes "read the one section that explains an error I logged this week". If your log says
+articles, you re-read Ch 8's article procedure. If it says nothing in particular, your log
+is not detailed enough, and that is the week's real finding.
+
+### Why Writing gets the most time — and how that squares with Chapter 1
 
 Official test-taker performance data for 2024–25 shows Arabic-L1 candidates
 averaging **5.54** on Academic Writing against 5.95 overall, and French-L1
 candidates **6.15** on Writing against 6.75 overall
-`[src: ielts.org — IELTS test taker performance data 2024–2025 (xlsx)]`. For both
+`[src: ielts.org — Test statistics → test taker performance data 2024–25]`. For both
 of your language backgrounds, Writing is the weakest paper *and* the slowest to
 move. It therefore starts first and gets the largest share.
+
+**This looks like it contradicts Chapter 1, which says your cheap half-bands are in
+Listening and Reading. It does not — the two claims answer different questions.** Writing
+gets the most *days* because it is a **gate**: below 6.5 it fails your application outright,
+it is your statistically weakest paper, and it moves in weeks rather than sessions, so it
+needs continuous exposure. Listening and Reading get fewer days because they are **levers**:
+the technique in Chapters 2 and 3 converts to marks in a handful of sessions, which is
+exactly why Chapter 1 calls those marks cheap. Cheap marks need fewer hours, not more.
+
+**The decision rule you need when you have one spare hour this week:**
+
+- Reading not yet stable at 30/40 in timed practice → give the hour to Reading. The
+  conversion rate is higher than anything Writing will give you this month.
+- Reading stable at 30/40 across three timed papers → take Tuesday back and give it to
+  Task 2. Until then, do not.
+- Writing below 6.0 in your last two graded scripts → the hour goes to Writing regardless.
+  A gate you are failing outranks a lever you are winning.
+
+**One caveat Chapter 1 raises and this plan has to respect: do not assume Listening is
+cheap for you.** In the same official data, Arabic-L1 Listening (5.70) sits **0.40 below**
+Arabic-L1 Reading (6.10), while French-L1 Listening and Reading sit almost level (6.95 and
+7.01) `[src: ielts.org — Test statistics → test taker performance data 2024–25]`. Your two
+language backgrounds disagree about which of the two receptive papers is your cheap one, so
+**diagnose before you allocate**. That is what week 1 is for, and it is why the plan
+selection below happens on day 8 rather than day 1.
 
 ### The weekly rotation
 
@@ -245,14 +393,45 @@ move. It therefore starts first and gets the largest share.
 | Wed | Writing Task 1 | `/writing1` |
 | Thu | Listening | `/listening` |
 | Fri | Speaking — all three parts, recorded | `/speaking` |
-| Sat | Timed section under full conditions, or `/mock` for the 60-minute Writing pair | `/mock` |
-| Sun | Review day. No new material | `/review`, `/vocab` (QUIZ) |
+| Sat | Timed section under full conditions, or `/mock` for the 60-minute Writing pair | `/mock`, or `/official` after a Cambridge paper |
+| Sun | Review day. No new material | `/review`, `/vocab` (QUIZ), `/anki` |
+
+**The eleven commands, and what each is for.** These are the operating system of the plan —
+if a study activity does not have a command behind it, it is probably browsing.
+
+| Command | What it does | When it fires |
+|---|---|---|
+| `/writing2` | Timed Task 2 drill, then criterion-by-criterion grading | Mondays; day 1 of every plan |
+| `/writing1` | Timed Task 1 drill, then grading | Wednesdays |
+| `/reading` | Original passage with questions targeting your weakest question type | Tuesdays |
+| `/listening` | Text-adapted Listening training — prediction, trap-spotting, spelling dictation | Thursdays |
+| `/speaking` | Full three-part simulation with examiner pushback, then grading | Fridays |
+| `/mock` | The full timed **60-minute Writing** sitting — Task 1 and Task 2 together, no help during | Saturdays, weeks 4 onward |
+| `/official` | Converts raw scores from a Cambridge paper you did offline into bands, and grades your own writing from it | After every official paper |
+| `/vocab` | Builds the bank (ADD) or tests it strictly (QUIZ) with collocations | Sundays, and any day a graded task throws up new words |
+| `/anki` | Exports `progress/vocab-bank.md` to `exports/anki-vocab.csv` for import into a spaced-repetition app | Sundays — see below |
+| `/review` | Weekly review: score trends, top three recurring error patterns, gap to target, a 7-day plan | Every Sunday, without exception |
+| `/handbook` | Regenerates `handbook.md` from your own logged data — your personal revision book | End of each phase, and in the taper week |
+
+**Run the vocabulary ladder in software, not in your head.** Chapter 7 sets a review ladder
+of day 1 → 3 → 7 → 16 → 35, and by week four you are carrying roughly a hundred live items
+on five different intervals. Do not compute that by hand; it eats the whole five-minute slot
+before you review a single word. Keep items in `progress/vocab-bank.md`, run `/anki` on
+Sunday to export them, and import the CSV into any spaced-repetition app — the app computes
+the ladder and you just answer. (If you genuinely prefer paper: five envelopes marked Day 1,
+3, 7, 16, 35, and a pocket diary. When a card passes, write the next date on its back and
+move it up one envelope; when it fails, back to envelope 1.)
 
 Note what `/mock` is and is not: it is a full timed **60-minute Writing** sitting,
 Task 1 and Task 2 together, no help during. It is not a 2h40 simulation. For a real
 2h40 sitting you need official material — sit it on paper or on screen from a
 Cambridge volume, then run `/official` to convert raw scores to bands and get your
 own writing graded.
+
+**Miss a day? Never double up.** Drop the day you missed and continue the rotation on its
+normal day. Two sessions in one evening produces one good session and one bad one, and the
+bad one still goes into `band-tracker.md` and distorts the trend. The rotation matters more
+than the total.
 
 **The rewrite rule, which is the highest-leverage habit in the plan.** Every Sunday,
 rewrite one essay you have already been graded on, applying the corrections.
@@ -268,11 +447,14 @@ week, not dated. The moment you book, do this: write the test date at the top of
 below. Then rebuild `knowledge/revision-playbook.md` ch.9 to the actual number of
 days remaining.
 
-Pick the plan by your **diagnostic**, not by your optimism. Run a full timed
-`/writing2` on day one before choosing.
+Pick the plan by your **diagnostic**, not by your optimism — and note *when* you can
+actually pick. The selection rule below refers to all four sections, and on day one you
+have none of them. **Week 1 is identical in all three plans, so run week 1 and choose on
+day 8**, when you have four real bands in `band-tracker.md`. Do not agonise over the choice
+on day one; it is not available to you yet.
 
 - No section below 5.5 → **6-week plan**
-- Unknown baseline, or one section at 5.5 → **8-week plan** (the default)
+- Unknown baseline after week 1, or one section at 5.5 → **8-week plan** (the default)
 - Anything below 5.5, or Grammatical Range & Accuracy visibly capping you →
   **10-week plan**
 
@@ -285,7 +467,7 @@ date: you may change your test date once, at any time before the test, provided 
 new date is within three months of the original — otherwise the transfer is treated
 as a cancellation `[src: ielts.org — Cancellations, refunds, remarks and transfers]`.
 
-### 6-week plan — ≈54 hours
+### 6-week plan — ≈63 hours
 
 | Week | Phase | Focus | Milestone |
 |---|---|---|---|
@@ -296,30 +478,52 @@ as a cancellation `[src: ielts.org — Cancellations, refunds, remarks and trans
 | 5 | Simulate | Two full Listening+Reading+Writing sittings — 2h40, typed, no breaks. One full `/speaking` simulation with pushback | You know your band under real conditions, not your practice band |
 | 6 | Taper | Days 1–3: light targeted drills, no new material. Day 4: last full sitting. Days 5–6: error log and vocab bank only. Day 7: rest | Arrive fresh |
 
-### 8-week plan — ≈72 hours, the default
+### 8-week plan — ≈84 hours, the default
 
 | Week | Phase | Focus | Milestone |
 |---|---|---|---|
 | 1 | Diagnose | One timed task in every skill across the week, plus **read both public band descriptor PDFs end to end**. You cannot self-mark against a standard you have not read | Four baselines logged; descriptors read once |
 | 2 | Diagnose → Build | Error taxonomy. Sort every logged error into L1 interference / structural / timing. Attack the category carrying the most marks | You can name your three most expensive error patterns |
-| 3 | Build | Task 2 deep work: question families, position statements, body paragraph = claim → explain → example | Every essay answers *all parts* of the question — the commonest band-6 Task Response cap |
+| 3 | Build | Task 2 deep work: question families, position statements, body paragraph = **claim → because → so what → instance** (Ch 5 Tip 4). The *so what* is the move that turns a stated idea into an extended one, and it is what band 7 Task Response asks for | Every essay answers *all parts* of the question — the commonest band-6 Task Response cap |
 | 4 | Build | Task 1 deep work: all visual types, overview, grouping, tense and comparison language. Reading: matching headings and TFNG/YNNG | Task 1 done in 20 minutes, with an overview |
 | 5 | Drill | Listening + Speaking intensive. Listening: computer discipline — no transfer time, flag-and-guess. Speaking: record all three parts daily; transcribe two answers a week and mark your own grammar | Listening raw score stable; you can hear your own L1 errors on playback |
 | 6 | Drill | Mixed high-volume week, a timed section every day. Theory slot = logged errors only. Rewrite two previously graded essays | Error frequency falling; timing automatic |
 | 7 | Simulate | Two full 2h40 sittings, typed, plus two `/speaking` simulations. Mark strictly; award the lower band when torn | A realistic predicted overall band |
 | 8 | Taper | Days 1–3: drills on your single weakest criterion. Day 4: last full sitting. Days 5–6: error log and vocab bank, no new tasks. Day 7: rest and logistics check | Fresh, nothing left to organise |
 
-### 10-week plan — ≈90 hours
+### 10-week plan — ≈105 hours
 
 For a starting point below 6.0. The extra fortnight is a language block, not more
 technique: below 6.0 you are usually capped by Grammatical Range & Accuracy and
 Lexical Resource, and no amount of essay structure fixes that.
 
+⚠️ **Read this before week 3, because the obvious instruction is the wrong one.** It is
+natural to read "below 6.0, capped by GRA" as "write more complex sentences". Chapter 8
+spends a chapter refuting exactly that, and the descriptors back it: band 6 **already**
+credits *a mix of simple and complex sentence forms*, so the presence of complex structures
+is not the gate. What caps band 6 is the clause immediately after — *examples of more
+complex structures are not marked by the same level of accuracy as in simple structures*
+`[src: ielts.org — Writing band descriptors (PDF, Updated May 2023), pp.5, 9]`. Band 7 asks
+for *a variety of complex structures* **and** frequent error-free sentences; range and
+accuracy are conjunctive, not alternative. **So adding complex sentences at your current
+accuracy moves you down, not up** — it multiplies the faulty ones and makes the band-6
+limiter more visible.
+
+Note also that the current Speaking descriptor dropped *complex* from the band-7 range
+clause altogether and now states that **both simple and complex sentences are used
+effectively** `[src: ielts.org — Speaking band descriptors (PDF, created 2025-09-16)]`. An
+accurate simple sentence is not a liability in either paper.
+
+**This plan therefore sets no complex-sentence quota, and you should not set yourself one.**
+A quota makes you write complex sentences you do not need and cannot check. The measure
+below is a ratio — error-free sentences over total sentences — and a small repertoire you
+own cold.
+
 | Week | Phase | Focus | Milestone |
 |---|---|---|---|
 | 1 | Diagnose | Full baseline in four skills; read both descriptor sets | Baselines logged |
 | 2 | Foundation | Grammar block 1 — articles with abstract nouns, and uncountables. Daily: 20 sentences of your own, self-corrected | *the society*, *informations*, *researches* stop appearing |
-| 3 | Foundation | Grammar block 2 — relative clauses, conditionals, concession. Band 7 GRA needs a *range* of complex forms, not error-free simple ones | Every essay contains 4+ correctly formed complex sentences |
+| 3 | Foundation | Grammar block 2 — **a small repertoire drilled to control, not a large one drilled to coverage.** Three structures only: defining relative clauses, the second conditional, and concession (*although* + clause / *despite* + noun phrase). See Ch 8 | Every essay contains **three complex structures you got right**, drawn from that fixed repertoire — and no complex sentence you could not check. Measure the **ratio of error-free sentences**, not the count of clauses |
 | 4 | Build | Task 2: question families, position, paragraph structure | Full essay in 40 minutes |
 | 5 | Build | Task 1: all visual types, overview, grouping | Overview present every time |
 | 6 | Build | Reading: every question type, then timing to 20 min/passage | Full paper inside 60 minutes |
@@ -439,9 +643,9 @@ control throughout, so adjust immediately rather than straining through a sectio
 
 **9. Eat breakfast.** `[verified]` "Have something to eat and drink before the test"
 `[src: ielts.org — What to expect on IELTS test day]`. No food inside, no breaks for
-2h40, and **Writing — the section worth most and marked hardest — is sat at the
-two-and-a-half-hour mark.** Arriving under-fuelled is a Writing-band decision
-disguised as a breakfast decision.
+2h40, and **Writing — the section worth most and marked hardest — is sat in the last hour
+of the block**, starting at roughly the 1h32 mark and finishing you at 2h40. Arriving
+under-fuelled is a Writing-band decision disguised as a breakfast decision.
 
 **10. Quarantine your mistakes.** `[verified]` "If you feel you've made an error,
 don't dwell on it — move forward and focus on the next question, as stressing over a
@@ -477,16 +681,13 @@ typed, before test day. The goal is that nothing on the day is new.
 
 ## Myths that hold you back
 
-**"Bring your own pencils and a spare eraser."** British Council policy says
-personal stationery including pencils is not permitted `[src:
-takeielts.britishcouncil.org — Essential Tips to Excel in IELTS Test Day]`, while
-Cambridge's Academic FAQ still says you may write in pen or pencil
-`[src: cambridgeenglish.org — IELTS Academic FAQs PDF (269898), p.7]`. This is a
-genuine unresolved conflict between two official sources, and I could not settle it
-against the British Council terms and conditions — that page blocks automated
-requests with HTTP 403. **Bring nothing, follow your centre's instruction, and let
-them supply what you need.** The myth's real cost is starting your test day arguing
-with an invigilator about contraband.
+**"Bring your own pencils and a spare eraser."** The British Council bans personal
+stationery and says the centre supplies a black ink pen **for the paper test**
+`[src: takeielts.britishcouncil.org — Test day advice, fetched 2026-07-31]`; Cambridge's
+FAQ says you may write in pen or pencil `[src: cambridgeenglish.org — IELTS Academic FAQs
+PDF (269898), p.7]`. The two answer different questions, and neither applies to you: on
+computer the centre supplies pen and paper for notes. **Bring nothing.** The myth's real
+cost is starting your test day arguing with an invigilator about contraband.
 
 **"You get ten minutes at the end of Listening to transfer answers."** True on
 paper `[src: takeielts.britishcouncil.org — Essential Tips to Excel in IELTS Test
@@ -582,8 +783,12 @@ impression is exactly the mechanism that inflates self-assessed bands.
 3. **Lexical Resource.** Count repeated content words. Count word-choice errors.
    Mark every French false friend by name.
 4. **Grammatical Range & Accuracy.** Count sentences; count error-free sentences.
-   That ratio is the best single proxy. Then count *types* of complex structure —
-   band 7 wants range, not merely accurate simple sentences.
+   **Score that ratio first** — it is the best single proxy, and four in ten clean is the
+   working band-7 target. Then count *types* of complex structure, because band 7 does ask
+   for a variety. But read the two numbers in that order and never trade the first for the
+   second: an essay with four clean complex structures beats one with eight faulty ones,
+   because band 6 is *defined* by complex sentences that are less accurate than the simple
+   ones. If your ratio is low, the fix is repair, not addition.
 
 **Then award the lower band whenever you are torn**, and write down exactly what
 was missing from the higher one. A script must *fully* meet a band to earn it.
@@ -598,10 +803,27 @@ Record all three parts. **Transcribe 60 seconds by hand** — slow, unpleasant, 
 the single most effective diagnostic available, because every dropped third-person
 *-s*, every *peoples are*, every *depend of* appears in writing where you cannot
 miss it. Time your Part 2: under two minutes is a Fluency & Coherence cap. Count
-fillers and self-corrections per minute and track the number weekly. For
-Pronunciation, use a proxy — play a recording to a fluent English speaker and ask
-only "which words did you have to work to understand?" The criterion is
-intelligibility, not accent.
+fillers and self-corrections per minute and track the number weekly.
+
+**Pronunciation, solo.** You are studying alone, and Chapter 6 is honest about what that
+costs: a book cannot hear you, and Pronunciation is a quarter of the Speaking band. Do not
+build your plan around finding a fluent English speaker to listen to your recordings — you
+will not reliably have one on a Tuesday evening in Tunis, and if that is the only route
+offered, Pronunciation quietly drops out of your preparation altogether. Two things you can
+actually do, both alone:
+
+- **The Chapter 6 recording review.** Play your own Part 2 back and listen for exactly three
+  things — speech rate, stress-timing, chunking — and nothing else. Three named targets is
+  a diagnostic; "does this sound good?" is not.
+- **The speech-to-text proxy.** Play the recording into your phone's dictation set to
+  English and read the transcript. The words it gets wrong are, roughly, the words a
+  listener has to work for. It is a crude instrument, it over-reports, and it is not an
+  examiner — but it is free, repeatable, and it produces a list you can drill. Track the
+  same passage weekly and watch the error list shrink.
+
+The criterion is intelligibility, not accent. If you *do* happen to have a fluent English
+speaker to hand, one question is worth asking — "which words did you have to work to
+understand?" — but treat that as a bonus, not the method.
 
 ### Using AI as an examiner — the method and its honest limits
 
@@ -633,6 +855,13 @@ sentences. Finish by asking for the single highest-impact fix, not a list of ten
   tireless error-finder and rule-explainer, not as an oracle for your band.
 - **Triangulate.** If the AI says 7.0 and the official band-7 sample script is
   visibly better than yours, you are not a 7. The sample script wins.
+- **When the coach contradicts this book on a rule, the source wins — not seniority.**
+  This will happen, because this book takes positions most prep material does not: skip
+  the third conditional entirely, a few basic errors persist at band 7, an official 7.5
+  script used contractions. If your coach flags one of those, ask it to quote the official
+  document. If it cannot, this book's version stands — every rule here carries its `[src:]`
+  and you can check it. If it can, log the discrepancy: the book is wrong and you have just
+  improved it.
 
 ### If the result is wrong: Enquiry on Results
 
@@ -675,9 +904,38 @@ swap, Z and W swap, M moves, and punctuation moves entirely. Discovering that at
 minute one of a typed Writing paper costs you fluency and typos in a section where
 "You will lose marks for incorrect spelling and grammar"
 `[src: cambridgeenglish.org — IELTS Academic FAQs PDF (269898)]`. **Phone your
-centre and ask.** It is one call. If they cannot tell you, practise every timed
-Writing task on **QWERTY** — it is the more likely default and by far the more
-damaging surprise.
+centre and ask.** It is one call. If they cannot tell you, assume **QWERTY** — it is the
+more likely default and by far the more damaging surprise.
+
+#### The keyboard plan
+
+"Practise on QWERTY" is a sentence, not a plan. Physically it means switching your operating
+system's layout to English and then typing 280 words in 32 minutes on a keyboard whose
+printed keys now lie to you: A is Q, Z is W, M has moved, and every apostrophe, comma and
+full stop is somewhere else. That is motor-skill retraining, it will cost you speed for one
+to two weeks before it pays, and it needs its own budgeted time. Four steps:
+
+1. **Test yourself before you assume you have a problem.** Type 250 words of your own prose
+   on QWERTY, timed, and count clean words per minute. Task 2 needs 270–290 words in a
+   32-minute writing window, which is about **nine words a minute of finished text** — but
+   that includes thinking. **If you are above 20 clean words a minute on QWERTY, you have no
+   keyboard problem. Stop here** and spend the time on Writing instead.
+2. **If you are below that, this is a week-1 task, not a week-6 one.** Twenty minutes a day
+   for ten days, *on top of* the 90 — typing out Chapter 7's topic word banks and your own
+   previously graded essays. Do **not** take it out of the 63-minute practice slot: a timed
+   essay written while fighting the keyboard produces a band you cannot interpret and
+   corrupts `band-tracker.md`.
+3. **Buy the layout, not the willpower.** Put stickers on the keys or switch the OS layout
+   and leave it switched. Then do every Chapter 4 and Chapter 5 drill on it from day one, so
+   the keyboard is never a separate skill you have to remember to practise.
+4. **Re-test in week 3.** If clean words per minute has not moved, the problem is the
+   punctuation keys rather than the letters — drill full stops, commas, apostrophes and
+   capitals specifically, since those are what a comma-splice check depends on and what
+   Lexical Resource scores as spelling.
+
+Budget it explicitly: **10 sessions × 20 minutes ≈ 3.5 hours**, in weeks 1–2 of whichever
+plan you pick. It is the cheapest insurance in this chapter, and unlike everything else
+here it expires — a skill you cannot acquire in the last fortnight.
 
 **French and Arabic interference is where your Writing marks actually go**, and the
 data agrees: Arabic-L1 candidates average 5.54 on Academic Writing, French-L1
@@ -686,14 +944,18 @@ candidates 6.15 `[src: ielts.org — IELTS test taker performance data 2024–20
 the 8-week plan, expect the L1 bucket to be the fattest, and expect it to be worth
 more marks than any structural fix.
 
-**Do not rely on a French-language page for a rule.** The French British Council
-Tunisia page still lists "IELTS Academic (papier ou ordinateur)" while the English
-page and the live ielts.org centre listing show computer only
-`[src: britishcouncil.tn — Réservez votre examen IELTS (FR)]`
-`[src: britishcouncil.tn — Test dates, fees and locations]`
-`[src: ielts.org — Test centre: British Council Tunis]`. Translated pages lag. Where
-the French and English versions disagree, the English one is more likely current,
-and the centre by telephone beats both.
+**Do not resolve a booking question from the website — in either language.** It is
+tempting to assume the French pages are a stale translation of the English ones and
+trust the English. That diagnosis does not survive checking: britishcouncil.tn is
+inconsistent **within English**. Its dates, fees and locations page offers computer
+and IELTS Online only, while its own English IELTS Academic and General Training
+pages say "You can choose between IELTS on paper or computer" and quote
+"Paper-based: 750 TND"
+`[src: britishcouncil.tn — Test dates, fees and locations, fetched 2026-07-31]`
+`[src: britishcouncil.tn/en — IELTS Academic, fetched 2026-07-31]`
+`[src: britishcouncil.tn/en — IELTS General Training, fetched 2026-07-31]`. So the
+rule is not "prefer English"; it is **prefer the centre on the telephone**, and
+confirm the mode again on your booking confirmation.
 
 **Name transliteration.** Register with your passport, so the name on your Test
 Report Form matches the name a Maltese university and a visa office will be reading.

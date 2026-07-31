@@ -12,6 +12,43 @@ delivered]. Everything here assumes you are typing answers live, while the audio
 
 ---
 
+## 60-second summary
+
+*Read this first. Everything after it is the working detail.*
+
+Forty questions, one mark each, four parts of ten, about thirty minutes of audio, played
+**once**. Five accents: UK, Australia, New Zealand, USA, Canada. Answers come in order for
+**every** question type, matching and maps included — so a missed gap is recoverable by
+moving forward, and hunting backwards turns one lost mark into three.
+
+There are **no band descriptors**. There is a mark budget, and it is published: band 6 is
+23–25 marks, band 6.5 is **26–29**, band 7 starts at **30** [src: T1 ielts.idp.com —
+Listening band scores]. From the bottom of band 6 to band 7 is seven marks; from the top of
+6.5 it is **one**. Those are specific boxes holding the wrong string, not a vague standard,
+and most of them are rules rather than hearing.
+
+The rules that pay: one answer per gap, never two — two scores zero even when one is
+right. Never a blank. Obey the printed word limit exactly. Articles and prepositions
+count; hyphenated words do not. Spelling must be right, but **American spellings are
+accepted** and capitalisation does not matter. Write the words you hear; do not
+paraphrase.
+
+The traps that pay: options mentioned then rejected; positive language reversed in the
+final clause; corrections running **both** directions — the answer can come after the fix
+(*sorry, I mean…*) or before the contrast (*just six euros, down from the usual nine
+fifty*); *proposed* is not *actual* and *modern* is not *recently opened*; the item missing
+from a printed list is your answer.
+
+🖥️ On computer there is **no transfer time and 2 minutes to check**. The 10-minute
+cushion was paper-only, and some official pages still describe it without saying so. Be
+right as you type. Flag four questions, not ten.
+
+And the L1 line to hold: *informations*, *researches*, *advices* are zeros. So is
+*formation* for *training*. In Listening your Writing errors are marked twice as hard,
+because here they are not a criterion — they are the whole mark.
+
+---
+
 ## What the test actually asks
 
 **Four parts, ten questions each, forty questions, one mark per correct answer.** No
@@ -34,12 +71,18 @@ British Council "up to four people" [src: T1 ielts.org — Listening test format
 takeielts.britishcouncil.org — Test format]. Compatible, but train for the harder
 case: four voices, held apart by content rather than pitch.
 
-**Five national accents:** Australia, Canada, New Zealand, the UK, the USA [src: T1
-ielts.org — Teacher's guide to IELTS p.26; corroborated at T1 ielts.org — Listening
-test format, T1 cambridgeenglish.org — FAQs p.4, T1 ielts.idp.com — 9 myths about the
-IELTS Listening test]. If your ear knows only British and American English, the
-Australian and New Zealand vowels will cost you — in Parts 2 and 4, where one voice
-carries ten marks alone.
+**Five national accents:** Australia, Canada, New Zealand, the UK and the US — "a mix of
+native speaker accents from Australia, Canada, New Zealand, the UK and US in the Listening
+section" [src: T1 takeielts.britishcouncil.org — IELTS Guide for teachers (PDF), p.5].
+**Only one official document names five.** The front-line format pages name four and leave
+the list open — "Different accents, *including* British, Australian, New Zealand and North
+American, are used" [src: T1 ielts.org — Listening test format] — and Cambridge's FAQ is
+explicitly illustrative: "a range of English native-speaker accents… (**for example**,
+Australian, British, New Zealand and North American speakers)" [src: T1
+cambridgeenglish.org — FAQs p.4]. So treat five as the working number and the list as
+non-exhaustive; do not treat it as a closed set you can finish preparing for. If your ear
+knows only British and American English, the Australian and New Zealand vowels will cost
+you — in Parts 2 and 4, where one voice carries ten marks alone.
 
 **Between the parts.** Before each part you hear a spoken description of the situation
 — who, where, what about — and **it is not printed anywhere**. There is a pause between
@@ -93,11 +136,17 @@ paper].
 
 ## Question types, one by one
 
-Officially there are six named types; four are one family of completion layouts
+Officially there are six named types; one of them is a family of completion layouts
 sharing one rule set [src: T1 ielts.org — Listening test format; T1 ielts.idp.com —
 Question types in the IELTS Listening test]. Below are the eleven layouts you meet.
 **All examples are original**, written to reproduce the trap structure of official
 material, not the material itself.
+
+**One official document disagrees with another here, and you will meet it.** The 2023
+official Listening sample tasks preamble lists only **five** types — it omits short-answer
+questions — and then ships a short-answer task and its answer key later in the same PDF
+[src: T1 ielts.org — Listening sample tasks 2023, p.1 vs pp. 11–13]. The format page's six
+is the authoritative count. Prepare for short-answer questions.
 
 ### 1. Form completion
 
@@ -160,6 +209,18 @@ and accept only audio that matches it.
 > *Now funded by ………*
 > "It's **not** run on ticket sales any more, the way most galleries are — it's funded
 > by **the regional council**."
+
+*(d) The status word.* The gap asks what something **is**; the audio describes what it was
+going to be, or what it used to be. ***Proposed* is not *actual*, and *modern* is not
+*recently opened*.**
+
+> *Currently houses the ……… · Building dates from ………*
+> "A second footbridge was **proposed** in 2018 and never built. The **archive** moved in
+> instead, into what looks like a modern building — it's actually **Victorian**, just
+> refurbished two years ago."
+
+`archive` · `Victorian`. A plan is not a fact; a refurbishment date is not a construction
+date. Scan every gap for the tense and the status it demands before the audio starts.
 
 **Technique.** Read all ten Part 4 gaps in the opening window; there is no second one.
 Mark two or three gaps whose headings are furthest apart as re-entry points. Track the
@@ -236,7 +297,10 @@ The gap needs a noun: `identification`. But note the official instruction — "D
 to rephrase what you hear. Try to write down the words you hear which fit the question"
 [src: T1 cambridgeenglish.org — FAQs p.2]. When grammar and that instruction pull
 apart, the usual explanation is that the exact word *was* spoken and you missed it.
-Convert form only when you are certain.
+Convert form only when you are certain. **This example is the rare forced case** — the
+noun is genuinely absent from the audio, and the sentence cannot take the verb. The
+decision procedure is: if you can hear the noun anywhere in the passage, write that;
+convert the form only when you are sure no noun was spoken.
 
 **Technique.** Read the summary once for **meaning** before predicting word forms. It
 gives you the whole argument in forty seconds, and that context is worth more than
@@ -353,8 +417,11 @@ each item's discussion.
 
 **C**. Two endorsements — his own and a third party's — overturned in four words.
 
-For the box form the mechanic differs: descriptions are paraphrased, and distractors
-sit in the right semantic field and the wrong category.
+For the box form the mechanic differs: descriptions are paraphrased, and the distractors
+sit in the right semantic field and the wrong category. (*Distractor* — a wrong option
+deliberately built to be attractive: it uses the words you were listening for, or answers
+a question next to the one being asked. Every multiple-choice and matching item in this
+test has them, and they are the reason "I heard that word" is not evidence.)
 
 > *Which café is in a quiet location?*
 > "Riverside is out past the industrial estate, so it's not central — but it's on the
@@ -422,6 +489,11 @@ answering neither.
 > stopped. You'll find it **in the main reception**, and — new this term — **on the
 > noticeboard by the canteen**."
 
+Under a THREE WORDS limit the keyed answers are `(main) reception` and `(the)
+noticeboard` — **not** the full phrases as spoken. *In the main reception* is four words
+and *on the noticeboard by the canteen* is six; both score zero. Hear the whole phrase,
+then type only the noun that answers the question.
+
 **Technique.** Because either order scores, do not force the first thing you hear into
 the first gap. Collect both, then place them. This is the one type where you can safely
 listen ahead of your typing.
@@ -456,19 +528,26 @@ article-bearing version is three words and fits only because the limit was three
 a two-word limit it would breach. Optional is not free. **Operating rule: never type an
 article you were not forced to type.** It can cost a mark; it can never gain one.
 
-**On `ONE WORD ONLY`.** You will see this quoted everywhere in prep material. Research
-for this book could **not verify it verbatim in any official IELTS Listening document** —
-the 2023 official sample tasks use only `NO MORE THAN THREE WORDS AND/OR A NUMBER` and
-`NO MORE THAN TWO WORDS`. Treat it as plausible but unconfirmed, and confirm at
-ielts.org before your test date if it matters to you. The behaviour it demands is what
-you need anyway: **read the instruction printed above every task, every time, and obey
-exactly that.**
+**On `ONE WORD ONLY`.** It is verbatim official — but in **Reading**, not Listening. The
+2023 Academic Reading sample tasks print "Choose ONE WORD ONLY from the passage for each
+answer" twice, on Sentence Completion and on Summary Completion [src: T1 ielts.org —
+Academic Reading sample tasks 2023]. The 2023 Listening sample tasks use only `NO MORE
+THAN THREE WORDS AND/OR A NUMBER` and `NO MORE THAN TWO WORDS`, and research for this
+book could **not verify `ONE WORD ONLY` verbatim in any official Listening document**
+[src: T1 ielts.org — Listening sample tasks 2023]. So Chapter 3 quotes it as standard
+Reading rubric and this chapter does not quote it as standard Listening rubric, and the
+two chapters are not in disagreement: **expect it in Reading; do not assume it in
+Listening.** Either way the behaviour it demands is what you need anyway: **read the
+instruction printed above every task, every time, and obey exactly that.**
 
 ---
 
 ## Tips & tricks
 
-Ranked by marks recoverable.
+Ranked by marks recoverable. **Each rule is stated once, here, with its source.** The
+*Myths* section that follows does not restate them: it names the false belief each rule
+kills, why that belief survives, and what believing it costs you. If you want the rule,
+read here; if you want to know why you currently believe otherwise, read there.
 
 **1. One answer per gap. Never two.** `4.15/4.30` in one box scores zero even though one
 is right [src: T1 cambridgeenglish.org — FAQs p.3] **[verified]**. It converts a 50%
@@ -515,8 +594,10 @@ Listening to write things down" [src: T1 ielts.idp.com — 9 myths] **[verified]
 
 **9. Train on five accents, not two.** Parts 2 and 4 carry 20 of the 40 marks in a
 single voice each, so one unfamiliar accent can cost ten marks — a full band
-**[expert consensus]**, derived from the verified five-accent list. Weekly rotation:
-one Australian and one New Zealand source alongside British and North American.
+**[expert consensus]**, derived from the five-accent list above. This is only an
+instruction you can obey if you know where the audio comes from, so the next section
+names the sources, the weekly rotation and the exact ten-minute exercise: see
+**§Where the audio comes from**.
 
 **10. Read tables by row, maps from the entrance.** **[expert consensus]** A table row is
 one narrative chunk; a plan description is a walk from a fixed origin.
@@ -533,53 +614,162 @@ lower case] **[verified]**.
 
 ---
 
+## Where the audio comes from
+
+You are studying alone. Nobody is going to read words out to you, and the `/listening`
+command in this repository is text-adapted — it drills prediction, traps and spelling on
+written transcripts, and cannot play sound. So this section names the supply, because
+"train on five accents" is not an instruction until it does.
+
+### Layer 1 — official IELTS audio, which is finite and must be rationed
+
+Free, official, exactly the right format, and there is not much of it:
+
+- **British Council free practice tests** — full Listening sections with audio and answer
+  keys [src: T1 takeielts.britishcouncil.org — Free IELTS practice tests].
+- **The official familiarisation test** — free, untimed, on the real computer screens; use
+  it for the *interface*, not for score data [src: T1 takeielts.britishcouncil.org — Free
+  IELTS familiarisation test].
+- **ielts.org sample tasks** — the 2023 Listening sample tasks PDF and its answer key, the
+  document this chapter quotes throughout [src: T1 ielts.org — Listening sample tasks
+  2023].
+- **IDP's free practice material and IELTS Ready** [src: T1 ielts.idp.com — Free IELTS
+  practice tests].
+
+**The re-use rule.** A Listening part you have already answered is *not* used up. You
+cannot re-use it for a score, but you can use it twice more:
+
+1. **Transcription pass.** Play the 30 seconds around each answer and type what you hear
+   word for word, then check against the tapescript. This trains the thing you are
+   actually short of — holding a phrase accurately for two seconds — and it works better
+   when you already know the answer, because it removes the guessing.
+2. **Speed pass.** Play it at 1.25× and answer again. If you are still right, the version
+   at normal speed has slack in it.
+
+Rationing: one *fresh* official part per Listening session, everything else re-used. Four
+Cambridge papers is sixteen fresh parts; at one a session that is sixteen sessions, and
+you want some of them left for the full mocks in the final fortnight.
+
+### Layer 2 — accent supply, which is unlimited and free
+
+Official material will not give you enough Australian, New Zealand or Canadian English.
+Public broadcasters will, at any length you want, for nothing. One stable free source per
+accent **[expert consensus — these are ordinary news and documentary sources, not IELTS
+material, and no official body endorses any particular one]**:
+
+| Accent | Source | Why this one |
+|---|---|---|
+| UK | BBC Radio 4 podcasts; BBC Learning English | Documentary and discussion registers; BBC Learning English carries transcripts |
+| Australia | ABC (Australian Broadcasting Corporation) news and Radio National podcasts | The vowel set that most often surprises a French-trained ear |
+| New Zealand | RNZ (Radio New Zealand) podcasts | The accent least represented in prep material and closest to Part 2 monologue register |
+| Canada | CBC Radio podcasts | Distinct from US English in exactly the vowels that carry numbers and place names |
+| USA | NPR podcasts and news | Transcripts published for most segments; the flapped /t/ that turns *thirty* into *thirdy* |
+
+Prefer anything that publishes a **transcript** — without one you cannot mark yourself,
+and an unmarkable exercise is entertainment.
+
+**The ten-minute exercise, and it is the same for every source.** It does not need the
+90-minute study block — it needs headphones and a queue. Do it on a rotating accent, on
+your Listening day inside the session, and on any other day you have ten minutes standing
+up:
+
+1. Play **60 seconds**. Do not pause it.
+2. Write down every **number, date, price, proper noun and spelled-out word** you heard.
+   Nothing else. These are what Parts 1 and 2 are made of, and they are what accent
+   actually costs you.
+3. Replay the same 60 seconds. Add what you missed, in a different colour.
+4. Open the transcript and mark what is still wrong.
+5. Anything wrong goes into `progress/error-log.md` as a Listening entry, with the accent
+   named. After two weeks you will know which of the five is actually your problem, rather
+   than assuming it is the Australian one.
+
+Weekly rotation, so no accent goes cold: Monday UK · Tuesday Australia · Wednesday USA ·
+Thursday New Zealand · Friday Canada · Saturday whichever produced the most errors this
+week.
+
+### Layer 3 — your own dictator, since there isn't one
+
+You do not need a study partner to be dictated to. **Every phone and desktop operating
+system ships a text-to-speech voice with a selectable regional accent** — iOS and macOS
+under Spoken Content, Android through Google Text-to-Speech, Windows through Narrator or
+Edge's Read Aloud. Install the English (Australia), English (New Zealand), English (UK),
+English (US) and English (Canada) voices where they are offered, and you have five
+dictators for free.
+
+**The cross-training drill.** Paste into a note: your uncountables list, the twenty words
+you have actually misspelled in `progress/error-log.md`, and thirty numbers of the
+`-teen`/`-ty` family (13/30, 14/40, 15/50, 16/60, 17/70, 18/80, 19/90) shuffled. Then:
+
+1. Set the voice to one of the five accents and the speed to slightly faster than
+   comfortable.
+2. Play it with the screen turned away and **type blind**, one item per line, as if each
+   were a gap.
+3. Compare against the source text. Every miss is a Listening mark you were going to lose.
+4. Change the accent and repeat the same list tomorrow. The same word in a different voice
+   is a different exercise.
+
+**Its honest limit:** a synthetic voice does not hesitate, self-correct, overlap another
+speaker or trail off, and those are exactly the behaviours the correction traps in Tip 4
+are built on. So text-to-speech is for **spelling, numbers and single-word perception
+only**. Trap recognition has to come from Layer 1 and Layer 2, where real people speak
+untidily. Do not let the easy drill crowd out the hard one.
+
+---
+
 ## Myths that hold you back
 
-**1 — "Write both answers if you're not sure."** Scores zero [src: T1
-cambridgeenglish.org — FAQs p.3]. It feels like hedging; the marker does not pick the
-right one for you.
+Each entry names the false belief, the rule that kills it, why the belief survives, and
+what it costs. The rules themselves are stated once, above.
 
-**2 — "Always write in CAPITALS, it's safer."** Either case is accepted [src: T1
-takeielts.britishcouncil.org — Test day advice]. The only reason it was ever advised was
-handwriting legibility. On screen the score impact is neutral to negative.
+**1 — "Write both answers if you're not sure."** → Tip 1. **Why it survives:** hedging is
+rational in every other exam you have sat, because partial credit usually exists. It does
+not here. **Cost:** it converts a genuine 50% chance into a certain zero.
 
-**3 — "Articles don't count toward the word limit."** They count [src: T2 IELTS Liz — How
-words are counted; DERIVED from T1 sample tasks p.33]. It persists because keys bracket
-articles as optional and people read optional as uncounted. Optional ≠ free.
+**2 — "Always write in CAPITALS, it's safer."** → Tip 12. **Why it survives:** it was
+sound advice for handwritten answer sheets, where an illegible letter lost the mark.
+**Cost:** on screen there is no legibility risk, so all you add is shift-key typos in
+words you heard correctly.
 
-**4 — "You must use British spelling."** Both UK and US spellings are accepted, and the
-official key prints `meter(s)` [src: T1 cambridgeenglish.org — FAQs p.4; T1 ielts.org —
-sample tasks p.7]. Believing it burns study time on *-our/-ise* pairs instead of the words
-you actually misspell.
+**3 — "Articles don't count toward the word limit."** → *Answer-rule reference*, and the
+derivation printed beneath it. **Why it survives:** official keys bracket articles as
+optional, and readers hear *optional* as *uncounted*. **Cost:** one breach of the limit,
+one mark, on an answer you got right.
 
-**5 — "Paraphrase the answer to show range."** Score-destroying. Listening is 1 mark per
-correct answer; there is no vocabulary criterion. "Don't try to rephrase what you hear"
-[src: T1 cambridgeenglish.org — FAQs p.2]. It is carry-over from Writing and Speaking,
-where paraphrase is rewarded.
+**4 — "You must use British spelling."** → *Answer-rule reference*. **Why it survives:**
+IELTS is a British-branded exam and the assumption feels safe. **Cost:** it is not a
+marking risk at all — it is a study-time risk. You burn weeks on *-our/-ise* pairs that
+were never going to cost you a mark, instead of on the words you actually misspell.
+
+**5 — "Paraphrase the answer to show range."** Score-destroying. Listening is one mark per
+correct answer and there is no vocabulary criterion: "Don't try to rephrase what you hear"
+[src: T1 cambridgeenglish.org — FAQs p.2]. **Why it survives:** it is carry-over from
+Writing and Speaking, where paraphrase is rewarded and copying is penalised. The rule
+inverts between papers, and nobody tells you.
 
 **6 — "Matching and map questions aren't in order."** They are, for all question types
-[src: T1 cambridgeenglish.org — FAQs p.3; T1 ielts.idp.com — 9 myths]. The confusion comes
-from IELTS **Reading**, where some types genuinely are not in text order. Cost: you scan
-the whole task on every clue and fall behind permanently. *Refinement:* questions are in
-order; options within an item are not.
+[src: T1 cambridgeenglish.org — FAQs p.3; T1 ielts.idp.com — 9 myths]. **Why it survives:**
+it is true of IELTS **Reading**, where some types genuinely are not in text order, and prep
+books copy the caution across. **Cost:** you scan the whole task on every clue and fall
+behind permanently. *Refinement:* questions are in order; options within an item are not.
 
-**7 — "You get time at the end to fix things."** False on computer: 2 minutes for forty
-answers [src: T1 ielts.idp.com — How IELTS on computer works]. A study plan built around a
-tidy-up phase trains the wrong reflex.
+**7 — "You get time at the end to fix things."** → §The timing that changes everything,
+and Tip 11. **Why it survives:** the ten-minute paper transfer window was real, and
+ielts.org's Listening page still advertises it with no computer caveat. **Cost:** a study
+plan built around a tidy-up phase trains exactly the wrong reflex for a two-minute close.
 
-**8 — "There's a pause in Part 4 you can use to read ahead."** The pause exists but is
-unannounced and is for refocusing; all Part 4 reading time is at the start [src: T1
-cambridgeenglish.org — FAQs p.3]. Planning around it leaves you reading while answers go
+**8 — "There's a pause in Part 4 you can use to read ahead."** → §What the test actually
+asks, *Part 4 is the exception*. **Why it survives:** the pause is real — it is just
+unannounced and officially described as time to refocus. **Cost:** you plan to read
+questions 35–40 in a window you cannot predict, and end up reading while the answers go
 past.
 
-**9 — "Take detailed notes while you listen."** Official advice is to write **answers** as
-you listen, and explicitly not to take attention off the audio to write things down [src:
-T1 cambridgeenglish.org — FAQs p.2; T1 ielts.idp.com — 9 myths]. It feels diligent; the
-audio does not wait.
+**9 — "Take detailed notes while you listen."** → Tip 8. **Why it survives:** note-taking
+is what you were trained to do in lectures, and it feels diligent. **Cost:** the audio does
+not wait, and every second spent writing prose is a second not spent typing an answer.
 
-**10 — "Guessing is risky."** No points are lost for incorrect answers [src: T1
-takeielts.britishcouncil.org — Test day advice]. Note the interaction with Myth 1: guess
-**one** answer, not two.
+**10 — "Guessing is risky."** → Tip 2. **Why it survives:** several other international
+exams do penalise wrong answers. **Cost:** every blank box is a guaranteed zero you chose.
+Note the interaction with Myth 1: guess **one** answer, never two.
 
 **11 — "Everyone gets headphones."** Not true across paper centres, some of which used
 room speakers [src: T1 ielts.idp.com — 9 myths, myth 4]. Computer candidates use their own
@@ -606,34 +796,48 @@ then check the gap's grammar.
 
 **Listening has no band descriptors. None exist, and none are being withheld.**
 
-The four-criterion apparatus — Fluency and Coherence, Lexical Resource, Grammatical Range
-and Accuracy — applies only to Writing and Speaking. Listening and Reading are scored
-objectively: one mark per correct answer out of 40, converted to a band [src: T1
-ielts.org — Listening test format]. Any site offering "IELTS Listening band descriptors"
-is showing a raw-score conversion table under a misleading title. So the decoder here is
-not a rubric. It is a **mark budget**.
+The four-criterion apparatus applies only to Writing and Speaking — Task
+Response/Achievement, Coherence and Cohesion, Lexical Resource and Grammatical Range and
+Accuracy in Writing; Fluency and Coherence, Lexical Resource, Grammatical Range and
+Accuracy and Pronunciation in Speaking. Listening and Reading are scored objectively: one
+mark per correct answer out of 40, converted to a band [src: T1 ielts.org — Listening test
+format]. Any site offering "IELTS Listening band descriptors" is showing a raw-score
+conversion table under a misleading title. So the decoder here is not a set of band
+descriptors. It is a **mark budget**.
 
-| Target band | Approx. raw marks / 40 | Losses affordable |
+| Target band | Official raw marks / 40 (IDP) | Losses affordable |
 |---|---|---|
-| 6.0 | 23 | 17 |
-| 6.5 | ~26–27 *(interpolated — not official)* | ~13 |
-| **7.0** | **30** | **10** |
-| 7.5 | ~32 *(interpolated — not official)* | ~8 |
-| 8.0 | 35 | 5 |
+| 6.0 | 23–25 | 15–17 |
+| 6.5 | 26–29 | 11–14 |
+| **7.0** | **30–31** | **9–10** |
+| 7.5 | 32–34 | 6–8 |
+| 8.0 | 35–36 | 4–5 |
 
-Official guidance publishes bands 5, 6, 7 and 8; the half-band rows are interpolations,
-labelled as such. Conversion varies slightly by version — planning figures, not
-guarantees.
+**These are official figures, not interpolations.** ielts.org and the British Council
+publish only the band 5/6/7/8 anchors; IDP, the third joint owner of IELTS, publishes the
+full table including every half band [src: T1 ielts.idp.com — Listening band scores], and
+its anchors match ielts.org's exactly. IDP's own caveat travels with it: these are the
+*average* marks required, and "actual marks may vary slightly between tests due to the
+variation in listening questions used on different occasions" [src: T1 ielts.idp.com —
+Listening band scores]. Chapter 1 prints the same table beside Academic Reading; Chapter 3
+prints the Reading half of it. All three agree.
 
-Band 6 is 23 marks. Band 7 is 30. **The gap is seven marks** — not "better listening", but
-seven specific boxes that currently hold the wrong string. Where they come from, and every
-one is a technique in this chapter:
+**Plan against the top of each band, not the bottom.** And note what the ranges show that
+"band 7 is 30" hides: band 6.5 runs all the way to **29**, and band 7 begins at **30**. If
+you are scoring 29 in timed practice, your last half-band is **one mark** — one gap you
+type an article into, one plural you guess at. From the floor of band 6 the climb is seven
+marks. Neither number is "better listening"; both are specific boxes currently holding the
+wrong string.
+
+Here is where six to nine of those marks are, and every one is a technique in this
+chapter. **Fix every row and you clear the gap with margin. Fix half of them and you do
+not.**
 
 | Marks | Source | Section |
 |---|---|---|
 | 1–2 | Word-limit breaches you stop committing | Answer-rule reference |
-| 1 | The hedged double answer you stop writing | Tip 1 / Myth 1 |
-| 1 | Blank boxes you now fill with a guess | Tip 2 / Myth 10 |
+| 1 | The hedged double answer you stop writing | Tip 1 |
+| 1 | Blank boxes you now fill with a guess | Tip 2 |
 | 1–2 | Correction traps caught in **both** directions | Tip 4 |
 | 1–2 | Recovery after a missed gap instead of a three-mark stall | Tip 3 |
 | 1 | A spelling or plural fixed by drilling the uncountables | L1 alert |
@@ -677,7 +881,10 @@ zero study time here.
 **4. False friends in summary and sentence completion.** The gap needs the word the
 speaker used. *Formation* ≠ training. *Augmentation* ≠ increase. *Assist* ≠ attend.
 *Actually* ≠ currently. *Eventually* ≠ possibly. The French cognate is the wrong instinct
-almost every time.
+almost every time. **The Listening-specific consequence is what matters here:** in Writing
+a false friend costs you a fraction of one criterion; in a Listening gap it is the whole
+mark, and there is no partial credit to soften it. The full annotated list lives in
+Chapter 8; do not learn it twice.
 
 **5. Spatial prepositions in map tasks.** The highest-value L1 fix in this chapter:
 *en face de* and أمام each cover two English prepositions, and in a map task the
@@ -687,7 +894,9 @@ preposition **is** the answer. Learn the English set as a closed list and self-t
 `-teen` carries final stress (thir-**TEEN**); `-ty` carries initial stress (**THIR**-ty),
 and in North American speech the /t/ is often flapped so it sounds like /d/ [src: T2 E2 —
 Understanding distractors; T2 IELTS Advantage — common mistakes]. Neither French nor
-Arabic gives you this contrast for free. Drill it across all five accents.
+Arabic gives you this contrast for free. Drill it across all five accents using the
+shuffled number list in **§Where the audio comes from, Layer 3** — it is the one drill in
+this chapter that a synthetic voice does perfectly well.
 
 **7. Sound contrasts worth ten minutes a week.** The /p/–/b/ contrast deserves regular
 dictation — *pear/bear*, *cap/cab*, *port/board* — because a misheard proper noun in
@@ -703,9 +912,11 @@ are to type both versions. Both in one box scores zero [src: T1 cambridgeenglish
 FAQs p.3].
 
 **Cross-training.** Take the real entries from your own error log — from your Writing
-drills — and have them dictated back as Listening gap answers. The words that cost you
-Lexical Resource in an essay are the ones most likely to cost you a Listening mark.
-Testing them once, in the harder modality, covers both.
+drills — and dictate them back to yourself as Listening gap answers, using the
+text-to-speech procedure in **§Where the audio comes from, Layer 3**. You do not need
+another person for this and you should not wait for one. The words that cost you Lexical
+Resource in an essay are the ones most likely to cost you a Listening mark; testing them
+once, in the harder modality, covers both.
 
 ---
 
@@ -713,7 +924,8 @@ Testing them once, in the harder modality, covers both.
 
 Every "no" is a mark on the table.
 
-1. Can I state my mark budget — 30 of 40 for band 7 — and the losses it leaves me?
+1. Can I state my mark budget — band 6.5 is 26–29, band 7 starts at 30 — and how many
+   losses each of those leaves me?
 2. Do I read the word-limit instruction above **every single task**, knowing limits vary
    within one paper?
 3. Do I know hyphenated words count as one, and that articles and prepositions count?
@@ -725,43 +937,18 @@ Every "no" is a mark on the table.
 8. Do I use the reading window to mark each gap's **category and word class**?
 9. Do I read all ten Part 4 questions in the opening window, expecting no second window?
 10. Do I listen to the spoken introduction before each part instead of reading through it?
-11. Am I practising with Australian, New Zealand and Canadian voices too?
-12. Have I drilled the uncountables — *information, research, advice, equipment,
+11. Have I named one free source per accent, put the weekly rotation in my calendar, and
+    done the 60-second numbers-and-names exercise at least four times this week?
+12. Have I installed the five regional text-to-speech voices, so I can dictate my own
+    error log back to myself without needing another person?
+13. Have I drilled the uncountables — *information, research, advice, equipment,
     furniture, software, evidence, feedback* — as spelling targets?
-13. Have I drilled the closed list of English spatial prepositions for map tasks?
-14. Do I type directly and normally — no ALL CAPS, no note-taking prose?
-15. Do I flag four or five questions for review at most, knowing the final check is 2
+14. Have I drilled the closed list of English spatial prepositions for map tasks?
+15. Do I type directly and normally — no ALL CAPS, no note-taking prose?
+16. Do I flag four or five questions for review at most, knowing the final check is 2
     minutes and nothing more?
 
 ---
 
-## 60-second summary
-
-Forty questions, one mark each, four parts of ten, about thirty minutes of audio, played
-**once**. Five accents: UK, Australia, New Zealand, USA, Canada. Answers come in order for
-**every** question type, matching and maps included — so a missed gap is recoverable by
-moving forward, and hunting backwards turns one lost mark into three.
-
-There are **no band descriptors**. There is a mark budget. Band 6 is 23 marks, band 7 is
-30: **seven marks**, and they are specific boxes, not a vague standard. Most are rules,
-not hearing.
-
-The rules that pay: one answer per gap, never two — two scores zero even when one is
-right. Never a blank. Obey the printed word limit exactly. Articles and prepositions
-count; hyphenated words do not. Spelling must be right, but **American spellings are
-accepted** and capitalisation does not matter. Write the words you hear; do not
-paraphrase.
-
-The traps that pay: options mentioned then rejected; positive language reversed in the
-final clause; corrections running **both** directions — the answer can come after the fix
-(*sorry, I mean…*) or before the contrast (*just six euros, down from the usual nine
-fifty*); *proposed* is not *actual*; *modern* is not *recently opened*; the item missing
-from a printed list is your answer.
-
-🖥️ On computer there is **no transfer time and 2 minutes to check**. The 10-minute
-cushion was paper-only, and some official pages still describe it without saying so. Be
-right as you type. Flag four questions, not ten.
-
-And the L1 line to hold: *informations*, *researches*, *advices* are zeros. So is
-*formation* for *training*. In Listening your Writing errors are marked twice as hard,
-because here they are not a criterion — they are the whole mark.
+*The 60-second summary for this chapter is at the top, before "What the test actually
+asks". If you are revising, start there.*

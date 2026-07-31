@@ -307,7 +307,11 @@ emphasis. ielts.org says "you will be penalised if your answer is too short"
 "There is no direct penalty for writing fewer than 150 words for the Task 1
 question and 250 words for the Task 2 question. However, writing fewer words may
 impact on the range of ideas and evidence produced and may therefore affect your
-score" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`. The May
+score" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`. Cambridge
+is two-handed about it: the same FAQ that says there is no direct penalty also
+lists, under Writing → Don't, "Don't write less than the required number of words"
+`[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`. Neither
+statement is a tariff, and neither contradicts the mechanism below. The May
 2023 descriptors contain no word-count deduction — under-length appears only as a
 *cause* of low criterion scores — and the key criteria define the task as fulfilled
 "using a minimum of 150 words" / "250 words"
@@ -336,6 +340,9 @@ never build a band-7 plan that depends on it.**
 "Any copied rubric must be discounted"
 `[src: takeielts.britishcouncil.org — IELTS Writing band descriptors (PDF)]` — it
 does not count as your writing, so copying can silently push you under length.
+*Rubric*, throughout this book, means **the printed wording of the task**: the
+prompt statement, the instruction line above it, and any chart or table title.
+Copying any of that is what "copied rubric" refers to.
 
 **"A memorised essay is insurance."**
 It is a band 0 risk: band 0 is used "where there is proof that a candidate's answer
@@ -352,8 +359,10 @@ for this" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`.
 ### Listening and Academic Reading: raw marks to band
 
 40 questions, one mark each
-`[src: ielts.org — IELTS scoring in detail: band scores explained]`. Officially
-published conversion points — and this is the whole of it:
+`[src: ielts.org — IELTS scoring in detail: band scores explained]`. Two official
+sources publish the conversion, at two levels of detail, and you need both.
+
+**ielts.org and the British Council publish four anchor points per paper:**
 
 | Band | Listening (/40) | Academic Reading (/40) |
 |---:|---:|---:|
@@ -365,18 +374,56 @@ published conversion points — and this is the whole of it:
 `[src: ielts.org — IELTS scoring in detail: band scores explained]`
 `[src: takeielts.britishcouncil.org — IELTS Guide for teachers (PDF)]`
 
-**Half-band thresholds (6.5, 7.5) are not published by any official source**, so
-this book will not print them. What *is* official is the caveat: "The precise
-number of marks needed to achieve these band scores will vary slightly from test
-version to test version" `[src: ielts.org — IELTS scoring in detail]` — boundaries
-are equated per version, so "the Band 6 boundary may be set at a slightly different
-raw score across individual tests"
-`[src: takeielts.britishcouncil.org — IELTS Guide for teachers (PDF)]`.
+**IDP — the third joint owner of IELTS — publishes the full table, half bands
+included:**
 
-Practical reading: **30/40 is band 7** in both papers. Treat 30 as your working
-target and everything above it as insurance against a version whose boundary sits a
-mark higher. The one asymmetry is at band 5 — Reading 15, Listening 16; from band 6
-upward they are identical.
+| Band | Listening (/40) | Academic Reading (/40) |
+|---:|---:|---:|
+| 9 | 39–40 | 39–40 |
+| 8.5 | 37–38 | 37–38 |
+| 8 | 35–36 | 35–36 |
+| 7.5 | 32–34 | 33–34 |
+| **7** | **30–31** | **30–32** |
+| **6.5** | **26–29** | **27–29** |
+| 6 | 23–25 | 23–26 |
+| 5.5 | 18–22 | 19–22 |
+| 5 | 16–17 | 15–18 |
+
+`[src: ielts.idp.com — Listening band scores]`
+`[src: ielts.idp.com — Reading band scores]`
+
+**The two tables agree exactly.** Every ielts.org anchor is the bottom mark of the
+corresponding IDP band row — 16 and 15 at band 5, 23 at band 6, 30 at band 7, 35 at
+band 8 — which is as good a cross-check as this book gets on any number. Print the
+IDP table and use it; it is official, not a reconstruction.
+
+Use it as an **average**, not a promise. IELTS states the caveat plainly: "The
+precise number of marks needed to achieve these band scores will vary slightly from
+test version to test version" `[src: ielts.org — IELTS scoring in detail]` —
+boundaries are equated per version, so "the Band 6 boundary may be set at a slightly
+different raw score across individual tests"
+`[src: takeielts.britishcouncil.org — IELTS Guide for teachers (PDF)]`. IDP says the
+same of its own table: these are the *average* marks required, and "actual marks may
+vary slightly between tests" `[src: ielts.idp.com — Listening band scores]`.
+
+**Why the half bands are worth printing, and why "aim for 30" is the weaker
+instruction.** In Listening, band 6.5 runs to **29** and band 7 begins at **30**.
+If you are already at the top of 6.5, your last half-band — the one this whole book
+is organised around — is **one mark**: one gap you currently type an article into,
+one plural you currently guess at. Academic Reading behaves the same way at the top
+(29 → 30) and costs three marks from the bottom of 6.5 (27 → 30). Told only "band 7
+is 30", you cannot see any of that. Told the ranges, you can score a practice paper
+on Monday morning and know exactly what you are short of, and whether the answer is
+another six weeks of technique or a single fixable habit.
+
+Practical reading: **30/40 is band 7** in both papers, and the ranges tell you the
+cost of everything either side of it. Plan against the *top* of the band you are
+targeting, not its floor, because the boundary may sit a mark higher on your
+version. The anchors are identical from band 6 upward — 23, 30, 35 in both papers —
+but the **ranges between them are not**, and that catches people out. A raw 26 is a
+6.5 in Listening and still a 6 in Academic Reading; a raw 32 is a 7.5 in Listening
+and still a 7 in Reading. Score each paper against its own column, and note that the
+lowest anchor differs too: Reading 15, Listening 16.
 
 ### Writing and Speaking: four criteria, equal weight
 
@@ -488,7 +535,7 @@ and 6.32 for Reading `[src: ielts.org — Test statistics]`.
 Four things follow, and they should shape how you spend ninety minutes a day.
 
 **Writing is the weakest skill for both of your languages, by a wide margin** —
-0.56 below Reading for Arabic L1, 0.86 below for French L1. The same pattern in two
+0.56 below Reading for Arabic L1, 0.85 below for French L1. The same pattern in two
 unrelated language families means the problem is the task, not the language.
 Writing is where 7.0 is won or lost, and it responds most slowly to work. Start it
 in week one.
@@ -526,7 +573,8 @@ Answer yes or no. Any "no" is a chapter you cannot skip.
 3. How many questions are in Listening and Reading, and what is each worth?
 4. What raw mark officially corresponds to band 7 in Listening and Academic
    Reading?
-5. Can you explain why this book refuses to give you a raw score for 6.5?
+5. What raw mark is the *bottom* of band 6.5 in Listening, what is the *top*, and
+   how many marks is it from that top to band 7?
 6. Can you state the rounding rule, including what happens at .25 and at .75?
 7. Without help: what does 7.0 / 6.5 / 6.5 / 7.0 report as?
 8. What total, out of 28, must you reach for a reported 7.0?

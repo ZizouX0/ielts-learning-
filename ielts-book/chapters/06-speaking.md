@@ -1,5 +1,55 @@
 # Chapter 6 — Speaking: All Three Parts
 
+## 60-second summary
+
+*Read this first. Everything after it is the evidence and the drills.*
+
+Speaking is 11–14 minutes in three parts — a 4–5 minute interview, a 1–2 minute long turn from a
+card with one minute to prepare and one or two short **rounding-off questions** after it, and a
+4–5 minute abstract discussion — with a live examiner, recorded, marked on four equally weighted
+criteria. You are rated on your **average across all parts**, and you must **fully** fit a band to
+be awarded it. "Face-to-face" means a live examiner in real time, not necessarily in the room;
+video call is a real mode, you do not choose it, and the partners' own research — 99 test-takers
+in Shanghai, 2015, each sitting both modes — found the score difference negligibly small. You are
+computer-delivered, so plan for Speaking on the **same day** — and trust your booking
+confirmation over any published window.
+
+The most widely mistaught thing about this test is the 6→7 Fluency line. Band 7 still hesitates,
+still repeats, still self-corrects — **often mid-sentence** — and that hesitation is still about
+reaching for language. The only requirement is that it does not break coherence; hesitating about
+*content* is band 8. So the trainable skill is **sentence recovery**: when you stall, hold the
+structure and finish it — pause and breathe, or paraphrase round the missing word. Abandon and
+restart only when the proposition is genuinely gone. Repeating your own last two or three words
+is a rescue that works, but keep it rare: repetition is a **descending** feature of the whole
+scale — bands 8 and 9 are defined by *very occasional* repetition, band 6 names it as a
+coherence-breaker, and band 5 is defined by *relying* on it
+`[src: ielts.org — Speaking band descriptors (PDF, 2025), bands 9–5 Fluency & Coherence]`.
+
+Grammar has moved too — but read the tolerance strictly. Band 7 permits **a few** basic errors to
+persist; band 8 permits that a few *may* persist. *A few* is a density claim, and accuracy is
+officially rated on **error density** `[src: ielts.org — Speaking key assessment criteria (PDF,
+2023)]`. The IELTS-published study puts third-person *-s* at **70.6% error at band 6 and 7.6% at
+band 7** `[src: Roothooft & Breeze 2019 — Speaking data, L1 mix unreported]`, so an *occasional*
+dropped *-s* will not keep you at 6 and a *habitual* one is precisely what does. Get it down to
+occasional in writing practice, where you have time to monitor; then stop hunting slips in the
+room and make complex sentences **land** — six of them, drilled to automaticity.
+
+Pronunciation holds your cheapest band-point. Band 7 has no features of its own: it is all of
+band 6 plus some of band 8. Band 6 now names **chunking**, **stress-timing** and **rapid speech
+rate** — the exact three prosodic habits that transfer from French and Arabic — and band 8's named
+feature is **sustained rhythm**. Buy the rhythm: the three-beat drill and the slash drill, daily.
+Add the paper-strip aspiration drill, because your /p/ problem is almost certainly missing air,
+not a missing sound. Drill English **final** clusters, and test — do not assume — whether you have
+any initial-cluster problem at all, because Tunisian Arabic probably gives you those for free.
+
+Accent is never rated in itself, only through its effect on intelligibility, and it does not
+appear at bands 6 or 7 at all. Spend nothing on sounding British.
+
+And close the one loop this book cannot: record every Part 2 on your phone, and listen back for
+speech rate, stress-timing and chunking. Nothing else. Those three are the difference.
+
+---
+
 ## What the test actually asks
 
 Speaking is **11–14 minutes** in three parts, with a live examiner, and it is
@@ -16,6 +66,26 @@ Four criteria — **Fluency & Coherence, Lexical Resource, Grammatical Range & A
 Pronunciation** — at **25% each** `[src: ielts.org — Academic Speaking test format]`
 `[src: ielts.idp.com — Mastering IELTS Speaking: fluency and coherence]`.
 
+### Three words you need before the rest of this chapter makes sense
+
+All three are named in the official band-6 Pronunciation cell, so this box is also the fastest
+way to make the descriptor decoder below legible
+`[src: ielts.org — Speaking band descriptors (PDF, 2025), band 6 Pronunciation]`.
+
+- **Chunking** — grouping words into meaning units and pausing only at the joins:
+  *To be honest, / the thing I value most / is an old watch.* Pausing in the **middle** of a unit
+  is what makes ordinary hesitation sound like breakdown.
+- **Stress-timing** — English keeps its stressed beats roughly evenly spaced in time and squashes
+  everything between them. French and Arabic give every syllable roughly equal length. This is the
+  single biggest audible difference between your English and a band-8 delivery, and it is a motor
+  habit, not a set of new sounds.
+- **Schwa** — the weak, neutral vowel English uses in almost every **unstressed** syllable: the
+  *a* in *about*, the *er* in *water*, the vowel in *the* when you are not emphasising it. It is
+  close to the French *e* in *le* and *je*. Stress-timing works *by* crushing unstressed syllables
+  into schwa; French does not crush them, which is exactly why your rhythm comes out flat and even.
+  Wherever this chapter shows a phonetic symbol, an ordinary-letters respelling is printed beside
+  it — you never need to read the symbols.
+
 Two footnotes on the official grid matter more than candidates realise. **Note (i):** you
 must *fully* fit a band's positive features to be awarded it — partly fitting band 7 is a 6.
 **Note (ii):** you are rated on your **average performance across all parts**
@@ -31,9 +101,11 @@ In Video Call Speaking you sit at the centre with a computer and headset, an inv
 up the technology, the Part 2 topic appears **on screen**, and pen and paper are still
 provided `[src: ielts.idp.com — Speaking format: face-to-face vs video call]`. **You do not
 choose the mode** — it follows from the centre you book (same source). Nor should it change
-your preparation: the partners' own research found scores essentially equivalent, the
-difference "negligibly small", with **80% of examiners** judging the modes to give equal
-opportunity `[src: ielts.org — Exploring performance across two delivery modes, Phase 2]`.
+your preparation: the partners' own research — **99 test-takers in Shanghai in 2015, each sitting
+both modes**, in a study its own authors describe as a preliminary comparison — found scores
+essentially equivalent, the difference "negligibly small", with **80% of examiners** judging the
+modes to give equal opportunity
+`[src: ielts.org — Exploring performance across two delivery modes, Phase 2]`.
 One useful behavioural finding: under video-conferencing **63.3%** of candidates asked for
 clarification in Part 1, against **26.7%** face-to-face. Have the phrases ready.
 
@@ -47,25 +119,32 @@ the same day**, and **trust your booking confirmation over any published window.
 consequence — you may speak after 2h40 of Listening, Reading and Writing, so rehearse some
 Part 2 drills late in a study session, tired, not fresh at the start.
 
-**Asking for help.** The rules differ by part. This split is not on any official page I could
-retrieve; it rests on three independent preparation sources that agree
-`[src: ieltsliz.com — Asking the examiner questions]`
-`[src: ieltsadvantage.com — Asking the examiner questions]`
-`[src: magoosh.com — How to ask for clarification]`.
+**Asking for help.** The rules differ by part, and the split is **officially stated**, part by
+part, in the same Cambridge FAQ document this book relies on elsewhere:
+
+> "You should tell the examiner that you don't understand. **In Part 1, the examiner will be able
+> to repeat the question. In Part 2 you should look carefully at the task card** because you may
+> be able to guess the meaning of a word you have not understood. **In Part 3, the examiner will
+> be able to repeat the question or ask it in a different way, or may be able to help you to
+> understand the question. If you don't understand a word, the examiner will be able to give you
+> a brief explanation.**"
+> `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF), p.11]`
 
 | Part | Repetition? | Explanation / rephrasing? |
 |---|---|---|
-| **1** | Yes | **No** — the examiner is reading a fixed script |
-| **2** | n/a — no question during the long turn | **No** — work with the card you were given |
-| **3** | Yes | **Yes** — the examiner may rephrase and may explain a word |
+| **1** | Yes | **No** — repetition is the only help named, and the examiner is reading a fixed script |
+| **2** | n/a — no question during the long turn | **No** — you are told to work with the card you were given |
+| **3** | Yes | **Yes** — the examiner may rephrase *and* may explain a word |
 
-The reason to trust it without an official statement is a descriptor argument, and it is
-airtight: the grid rates four things, and **listening comprehension is not one of them.**
-Asking for a repeat cannot cost you a mark; guessing and answering a different question can,
-through coherence. Honest caveat: IDP's Part 1 article lists both "Could you repeat that?"
-and "What does ___ mean?" without naming a part `[src: ielts.idp.com — Speaking Part 1]`, so
-the Part 1 ban is probable rather than certain. Behave as if it holds; if you ask and are
-refused, nothing bad has happened.
+The table is the official paragraph read by contrast: repetition is named for Parts 1 and 3;
+rephrasing and word explanation are named **only** for Part 3, and Part 2 is told to consult the
+card instead. The same page states the limit that makes the permission usable: "The most
+important thing is not to ask the examiner to repeat every question or explain every word" (same
+source).
+
+There is a descriptor argument underneath it too, and it is airtight: the grid rates four things,
+and **listening comprehension is not one of them.** Asking for a repeat cannot cost you a mark;
+guessing and answering a different question can, through coherence.
 
 ---
 
@@ -197,11 +276,68 @@ what stops you stalling at fifty seconds.
 candidate stops well short of two minutes; the examiner says "Thank you" and moves on. Nothing
 rescues you, and band-7 Fluency requires readily producing **long turns**. If time runs out
 first, "don't worry… you have already shown the examiner that you can speak at length"
-`[src: ielts.idp.com — Speaking Part 2]`. You will read elsewhere that the examiner *cannot*
-interrupt before two minutes and that finishing early must be signalled — stricter than
-anything official, and the official transcript shows the examiner moving on after a short turn
-with no signal. Do not build a rule on it. **Keep going until you are stopped; aim to be
-stopped.**
+`[src: ielts.idp.com — Speaking Part 2]`. And being stopped is not merely harmless — it is
+official confirmation that you did the task: "Don't worry if the examiner stops you in the Part 2
+long turn. **It means you have spoken for 2 minutes.** The examiner has to keep to the timing of
+the test" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF), p.10]`. The same
+document sets the target explicitly: "You should try to talk for the full 2 minutes to give the
+examiner a good sample of your English" (p.11). What you will *also* read elsewhere — that you
+must signal when you finish early — is unsupported by anything official, and the official
+transcript shows the examiner simply moving on after a short turn with no signal from the
+candidate. **Keep going until you are stopped; aim to be stopped.**
+
+**The rounding-off questions — an examined stretch of speech almost nobody prepares.**
+*"Rounding off questions"* is IELTS's own heading on the published sample task card, which
+carries two of them, and the official transcript shows the examiner asking one immediately after
+saying "Thank you", with the candidate answering in a couple of clauses before Part 3 begins
+`[src: ielts.org — Speaking sample tasks (PDF, 2023), p.5]`. They sit **inside Part 2** and are
+rated on the same four criteria as everything else. Three things to know:
+
+- **What they look like.** One or two short, concrete, closed questions about the same thing you
+  have just described — its value, whether it could be replaced, whether other people share it,
+  whether you would do it again. Originals in the same shape, for the family-skill card above:
+  *Do many people your age still learn to do that?* · *Would you teach it to someone else?*
+- **How long the answer should be — and this is the one place in the test where short is
+  correct.** Cambridge says so directly: "A short answer is usually expected only when the
+  examiner asks a question at the end of the long turn in Part 2 as they need to move on to Part 3
+  of the test" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF), p.10]`. Do not
+  launch a second long turn here. Over-running eats Part 3, which is where band 7 is actually won.
+- **The band-6 mistake, and it is audible.** A bare *"Yes."* or *"No, it wouldn't."* landing
+  immediately after two minutes of your best English. The examiner hears the **drop in level**
+  between the long turn and the rounding-off answer, and the four criteria do not pause for it.
+  **The shape that fixes it: answer + one clause, then stop.**
+
+*Would you teach it to someone else?*
+
+> **Band 6.** "Yes. Maybe."
+>
+> **Band 7.** "I'd like to, yes — though I suspect I'd be a far less patient teacher than she
+> was."
+
+One sentence, a stance marker, a hedge and a comparative. Still short, still not flat.
+
+**The eight card shapes, and the tense each one hands you.** IELTS publishes no taxonomy of cue
+cards, so treat this as **a preparation heuristic, not an official list.** What is official is
+only that the card "asks you to talk about a particular topic" and "instructs you to explain one
+aspect of the topic" `[src: ielts.org — Academic Speaking test format]`, and that the published
+sample card is an *object* card. The reason to map the shapes anyway is specific to you: **card
+shape decides tense, and tense is your costliest grammar area.** Chapter 4 does exactly this for
+Task 1 visuals; Part 2 deserves the same table. Every example card below is mine, not IELTS's.
+
+| Card family | Example card (original) | Tenses it hands you | One structure worth planting | Characteristic failure |
+|---|---|---|---|---|
+| **Person** | *Describe a teacher who changed how you study.* | past simple for events · *used to / would* for habits · present for what is still true | habitual *would*: *She'd always start by…* | telling it entirely in present simple, so nothing is anchored in time |
+| **Place** | *Describe a part of your city you take visitors to.* | present simple for description · present perfect for change · *there is / there are* | present perfect for change: *It's become much busier since…* | listing features with no change and no evaluation — a postcard, not a turn |
+| **Object** | *Describe something you have kept for a long time.* | present for description · past simple for how you got it · present perfect for duration | present perfect + *for / since*: *I've had it for about nine years* | *I have it since* — the French/Arabic present for English present perfect |
+| **Event or experience** | *Describe a journey that did not go as planned.* | past simple for the sequence · past continuous for background · past perfect for what came before | past perfect: *We'd already missed the first connection when…* | one flat chain of past simples joined by *and then* |
+| **Activity or habit** | *Describe something you do every week to relax.* | present simple + frequency adverbs · *tend to* · present continuous for the current phase | *I tend to… whenever…* | drifting into the past because it feels more like a story |
+| **Media — a book, film or programme** | *Describe a documentary that taught you something.* | present simple for the content (*the film follows…*) · past simple for your viewing of it | reported speech / *what struck me was…* | narrating the whole plot and never reaching *why it mattered* |
+| **Abstract idea or quality** | *Describe a skill you think every adult should have.* | present simple for generalisation · modals for obligation · second conditional | second conditional: *If more people could do it, we'd…* | slipping into Part 3 essay mode with no concrete example at all |
+| **Future plan or wish** | *Describe something you would like to learn in the next few years.* | *going to / will* · *would like to* · present continuous for arrangements · conditionals | *I'd like to… because it would let me…* | using present simple throughout, which reads as a plan you have already carried out |
+
+Use it in the one-minute preparation: name the family first, write the tense on your note page
+(that is what the "the tense I'll use here" line in the note template is for), and only then fill
+in the content.
 
 **Traps.** *Reading your notes aloud* — they are reminders; read them and delivery goes flat,
 which costs twice: flat delivery is the band-6 Pronunciation line, and a read-out register
@@ -293,24 +429,49 @@ different words.
 
 ## Tips & tricks
 
-**1. Train sentence recovery, not hesitation elimination.** `[verified]` The band-7 Fluency
-cell says hesitation, repetition and self-correction **do** occur at 7, often mid-sentence, and
-**do** signal difficulty accessing language — the only requirement is that they not affect
-coherence `[src: ielts.org — Speaking band descriptors (PDF, 2025)]`. So when you stall
-mid-clause, **repeat your last two or three words and continue the same structure.** Official
-backing for the repetition half: the fluency indicator penalises *functionless* repetition
-specifically `[src: ielts.org — Speaking key assessment criteria (PDF, 2023)]`. **When this
-fails:** if the proposition is genuinely gone, end the clause short, breathe, and open a clean
-new sentence rather than forcing the wreckage.
+**1. Train sentence recovery, not hesitation elimination.** `[expert consensus — descriptor-
+derived, not officially stated]` The band-7 Fluency cell says hesitation, repetition and
+self-correction **do** occur at 7, often mid-sentence, and **do** signal difficulty accessing
+language — the only requirement is that they not affect coherence
+`[src: ielts.org — Speaking band descriptors (PDF, 2025)]`. So the target is not silence; it is a
+thread that survives. **In order of preference when you stall mid-clause:**
 
-**2. Buy stress-timing.** `[verified]` Band 7 in Pronunciation has no features of its own; it
-is band 6 plus *some* of band 8, and band 8's named feature is **sustained rhythm** — the
-cheapest to acquire, because it is a motor habit rather than a set of new sounds. Drills below.
+1. **Pause, breathe, and complete the structure you started.** A filled pause costs less than a
+   repeat.
+2. **If the word is gone, route round it.** Paraphrase is separately credited in Lexical Resource
+   at bands 6, 7 and 8.
+3. **Only if both fail, repeat your last two or three words and continue the same structure.**
 
-**3. Stop hunting basic slips; make complex sentences land.** `[verified]` Band-7 GRA now
-states that both simple and complex sentences are used effectively despite some errors, and
-that **a few basic errors persist** — band 8 permits the same. Your missing third-person *-s*
-is not what keeps you at 6. A botched conditional is.
+Keep step 3 rare, and note why the tag on this tip is not `[verified]`: the descriptor
+*tolerates* repetition at band 7, it does not reward manufacturing it. Repetition is a
+**descending** feature of the entire scale — bands 8 and 9 are defined as "fluent with only very
+occasional repetition or self-correction", band 6 names repetition as a thing through which
+"coherence may be lost at times", and band 5 is *defined* by relying on repetition to keep going
+`[src: ielts.org — Speaking band descriptors (PDF, 2025), bands 9–5 Fluency & Coherence]`. The
+assessment criteria list "functionless repetitions of words and phrases" as a negative continuity
+indicator `[src: ielts.org — Speaking key assessment criteria (PDF, 2023)]` — and the examiner
+cannot see inside your head to classify yours as functional. He hears repetition and rates
+density. **When this fails:** if the proposition is genuinely gone, end the clause short,
+breathe, and open a clean new sentence rather than forcing the wreckage.
+
+**2. Buy band-8 features in Pronunciation.** `[verified]` Band 7 in Pronunciation has no features
+of its own; it is all of band 6 plus **"some, but not all"** of band 8
+`[src: ielts.org — Speaking band descriptors (PDF, 2025), band 7 Pronunciation]`. Band 8 lists
+five positive features, so *some* means budget for **two**, not one. Take **sustained rhythm**
+first — the cheapest, because it is a motor habit rather than a set of new sounds — then
+**flexible stress and intonation across long utterances**, which the same drills give you. Drills
+below.
+
+**3. Stop hunting basic slips — once they are already occasional — and make complex sentences
+land.** `[verified]` Band-7 GRA states that both simple and complex sentences are used effectively
+despite some errors, and that **a few** basic errors persist; band 8 says a few *may* persist.
+Read *a few* strictly. It is a density claim, and accuracy is officially rated on **error
+density** `[src: ielts.org — Speaking key assessment criteria (PDF, 2023)]`. The IELTS-published
+study measured third-person *-s* at **70.6% error at band 6 and 7.6% at band 7**
+`[src: Roothooft & Breeze 2019 — Speaking data, L1 mix unreported]` — so an *occasional* dropped
+*-s* will not keep you at 6, and a *habitual* one is exactly what does. Fix the habit in writing
+practice until it is occasional (Chapter 8). Then stop monitoring it in speech and spend the
+attention on making the conditional land — a botched conditional costs the whole proposition.
 
 **4. Mark your attitude.** `[verified]` Indicating your attitude to the content — favourable,
 neutral, unfavourable — is a named Lexical Resource indicator that almost nobody trains
@@ -404,30 +565,44 @@ every answer is overuse *and* a memorised-language flag.
 Fluency is continuity of production, not words per minute — speed buys nothing on Fluency and
 caps Pronunciation.
 
-**"Correct every mistake so the examiner knows you know."** Self-correction is limiting at all
-nine bands. Frequent correction cannot raise a band and can lower Fluency by a full band via
-the "coherence lost" clause.
+**"Correct every mistake so the examiner knows you know."** Self-correction is a limiting feature
+at every band from **4 to 9**; there is no band at which more is better. Frequent correction
+cannot raise a band and can lower Fluency by a full band via the "coherence lost" clause.
 
-**"Never ask the examiner to repeat."** The four criteria contain no comprehension component.
-Asking cannot cost a mark; guessing and answering a different question can. **Real caveat:**
-explanation exists only in Part 3, and repeated asking eats your speaking time.
+**"Never ask the examiner to repeat."** The four criteria contain no comprehension component, and
+the permission is now quotable rather than derived: "In Part 1, the examiner will be able to
+repeat the question… In Part 3, the examiner will be able to repeat the question or ask it in a
+different way… If you don't understand a word, the examiner will be able to give you a brief
+explanation" `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF), p.11]`. Asking
+cannot cost a mark; guessing and answering a different question can. **Real caveat, also
+official:** word explanation is named only for Part 3, and the same page warns against asking the
+examiner "to repeat every question or explain every word".
 
 **"You must cover all three bullet points."** If time runs out first, "don't worry… you have
 already shown the examiner that you can speak at length"
 `[src: ielts.idp.com — Speaking Part 2]`. There is no task-achievement criterion in Speaking.
 
-**"The examiner cannot stop you before two minutes, and you must signal if you finish early."**
-Widely circulated; unsupported. The card and the examiner's frame both say **one to two
-minutes**, and the official transcript shows the examiner moving on after a short turn with no
-signal from the candidate. **Do instead:** keep going until you are stopped.
+**"You must signal if you finish Part 2 early."** Unsupported — no official source says so, and
+the official transcript shows the examiner simply moving on after a short turn with no signal
+from the candidate `[src: ielts.org — Speaking sample tasks (PDF, 2023), p.5]`. What *is*
+official is the other, reassuring half of the same folklore: being stopped means you got there.
+"Don't worry if the examiner stops you in the Part 2 long turn. **It means you have spoken for 2
+minutes.** The examiner has to keep to the timing of the test"
+`[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF), p.10]`, and "You should try to
+talk for the full 2 minutes to give the examiner a good sample of your English" (p.11). **Do
+instead:** keep going until you are stopped; aim to be stopped, and treat the interruption as a
+receipt, not a rebuke.
 
 **"Arabic speakers must drill initial clusters — *istudy*, *ispring*."** Probably not you. See
 *L1 alert*.
 
-**"You can't get band 7 with an obvious accent, or with basic grammar slips."** Both false.
-Accent is not mentioned at 6 or 7 at all, and band-7 GRA explicitly permits a few basic errors
-to persist — as does band 8. **Why it matters:** the opposite belief pushes you into slow,
-over-monitored speech, trading a real Fluency band for an imaginary Grammar gain.
+**"You can't get band 7 with an obvious accent, or with basic grammar slips."** Both false, with
+one condition attached to the second. Accent is not mentioned at 6 or 7 at all. Band-7 GRA
+permits **a few** basic errors to *persist*, and band 8 permits that a few *may* persist — but
+*a few* is a density statement, not a blanket amnesty, and at a 70% omission rate your *-s* is
+not "a few", it is the band-6 profile (Tip 3). **Why it matters:** the opposite belief pushes you
+into slow, over-monitored speech, trading a real Fluency band for an imaginary Grammar gain — but
+the cure is fixing the habit on paper first, not ignoring it forever.
 
 **"Speaking is always seven days before or after the written test."** Partner-specific and
 internally contradicted — see above. For computer-delivered, same day is the expectation, and
@@ -493,10 +668,18 @@ Going silent is.
 | **7** | A range of structures used flexibly. *"Error-free sentences are frequent."* Both simple and complex sentences used effectively despite some errors. **A few basic errors persist.** |
 | **6** | A mix of short and complex sentence forms and a variety of structures, with limited flexibility. Errors frequent in complex structures, though they rarely block communication. |
 
-Read that carefully; it reverses the standard revision priority. Band 7 does **not** demand you
-eliminate article errors or missing third-person *-s* — those are precisely the "few basic
-errors" permitted at 7 *and* 8. The range clause no longer says "complex structures" either: it
-says a range of structures, and explicitly credits **simple sentences used effectively**.
+Read that carefully; it reverses the standard revision priority — but read the quantifier too.
+Band 7 does **not** demand that you eliminate article errors or missing third-person *-s*: those
+are precisely the basic errors permitted at 7, and permitted as *may* occur at 8. What it demands
+is that there be only **a few** of them. That is a density claim, and the official criteria rate
+accuracy on exactly that — "error density (the number of grammatical errors in a given amount of
+speech)" `[src: ielts.org — Speaking key assessment criteria (PDF, 2023)]`. A candidate omitting
+*-s* seven times in ten obligatory contexts is not exploiting a band-7 tolerance; he is producing
+the band-6 measurement (Chapter 8 has the figures and the repair). The tolerance is real once
+your rate is occasional, and not before.
+
+The range clause no longer says "complex structures" either: it says a range of structures, and
+explicitly credits **simple sentences used effectively**.
 
 > **Band 6 — complex attempted, fails:** "If the government would invest more in the public
 > transport, so the people will use it more."
@@ -523,15 +706,21 @@ to*).
 | **6** | Uses a range of features, but **control is variable**. Chunking generally appropriate, but *"rhythm may be affected by a lack of stress-timing and/or a rapid speech rate."* Some effective use of intonation and stress, not sustained. Individual words or phonemes may be mispronounced, causing occasional lack of clarity. Can generally be understood throughout without much effort. |
 
 Bands 5 and 7 have no positive features of their own. That is not a drafting accident — it tells
-you exactly how to reach 7: **secure every band-6 feature completely, then buy one band-8
-feature outright.** For you the buyable one is **sustained rhythm**.
+you exactly how to reach 7: **secure every band-6 feature completely, then buy band-8 features
+outright.** Band 7 asks for *"some, but not all"* of band 8's features, and band 8 lists five of
+them (wide range of features conveying precise and subtle meaning · sustained rhythm · flexible
+stress and intonation across long utterances · easily understood throughout · accent has minimal
+effect). *Some* of five is not one. **Budget for two:** **sustained rhythm** first, because it is
+a motor habit, then **flexible stress and intonation across long utterances**, which the same
+drills give you.
 
-> **Band 6 delivery — syllable-timed, flat:**
+> **Band 6 delivery — syllable-timed, flat, every syllable the same length:**
 > `I · THINK · THAT · THE · GOV · ERN · MENT · SHOULD · IN · VEST · MORE`
 
 > **Band 7 delivery — stress-timed, prominence chosen:**
-> `I think the GOVernment should inVEST a lot MORE in it`
-> with *the, should, a, in, it* compressed to schwa and three clear beats.
+> `I think that the GOVernment should inVEST MORE`
+> with *that, the, should* squeezed down to the weak schwa vowel — "thuht thuh… shud" — and three
+> clear beats landing on **GOV**, **VEST** and **MORE**.
 > **Same words. Same accent. Different band.**
 
 One nuance the two official documents create together: the assessment criteria warn against
@@ -551,11 +740,11 @@ partly wrong for you.
 | Feature | Why it transfers |
 |---|---|
 | **/p/ heard as /b/** | Tunisian Arabic has /p/ and /v/ only in loanwords, usually replaced. But French supplies [p] — the phoneme is not missing. See below. |
-| **/θ/ → [t] or [s]; /ð/ → [d] or [z]** | Nonstandard Arabic merges the dental fricatives to [t]/[d] or [s]/[z]; French has none at all, so French speakers substitute /s/ and /z/ — *zis*, *sink*. |
+| **The two *th* sounds substituted** — /θ/, the *th* of *think*, becoming *t* or *s*; /ð/, the *th* of *this*, becoming *d* or *z* | Nonstandard Arabic merges these two sounds into *t*/*d* or *s*/*z*; French has neither at all, so French speakers substitute *s* and *z* — *zis*, *sink*. |
 | **/h/ dropped, or inserted where it doesn't belong** | /h/ is absent from French, and French learners do **both** — deleting it from *heat*, adding it to *eat*. |
 | **Word stress drifting to the end** | French has no lexical stress; prominence falls at the end of the rhythmic group. English stress moves and changes word class: `PHOtograph → phoTOgraphy → photoGRAPHic`. |
 | **Syllable-timing instead of stress-timing** | French and Arabic are far closer to syllable-timed than English. Every syllable gets equal duration; nothing reduces to schwa. |
-| **English final consonant clusters** | *asked* /ɑːskt/, *texts*, *strengths*. Arabic of any variety does not supply clusters at that density finally. |
+| **English final consonant clusters** | *asked*, *texts*, *strengths* — three or four consonants stacked at the end of a word. Arabic of any variety does not supply clusters at that density finally. |
 
 Those phonological descriptions come from descriptive linguistics, not IELTS documentation, and
 I have not verified them to the standard applied to the descriptor claims in this book. **The
@@ -595,10 +784,12 @@ visibly jump on every *p* and stay still on every *b*. Then transfer to speech: 
 for public transport."* *Why:* band 6 tolerates mispronounced phonemes only where they cause
 **occasional** lack of clarity, and a systematic /p/–/b/ merge is not occasional.
 
-**2. /θ/ and /ð/ — visible tongue, minimal pairs, connected speech.** Dental fricative: tongue
-tip at or lightly between the teeth, air kept **flowing**. Diagnose your substitution first —
-[t] means you are stopping the airflow; [s] means the airflow is right and the tongue is too far
-back. Five minutes: (i) mirror, tongue tip visible; (ii) *think, thought, author, three, this,
+**2. The two *th* sounds — visible tongue, minimal pairs, connected speech.** English has two of
+them: the voiceless one in *think* and *three*, and the voiced one in *this* and *mother*. Both
+are made the same way — tongue tip at or lightly between the teeth, air kept **flowing**.
+Diagnose your substitution first: if *think* comes out as *tink*, you are stopping the airflow
+with the tongue; if it comes out as *sink*, the airflow is right and the tongue is too far back.
+Five minutes: (i) mirror, tongue tip visible; (ii) *think, thought, author, three, this,
 those, mother, weather*; (iii) minimal pairs in random order — **thin/tin, thank/tank,
 three/tree, then/den, they/day, breathe/breed**, plus **think/sink, thing/sing, mouth/mouse** for
 the French route; (iv) *"I think they'd rather breathe the other air"*; (v) **record one sentence
@@ -608,25 +799,34 @@ substitution is a running tax on intelligibility.
 
 **3. Word stress — learn the suffix rules, not the words.** English stress is largely predictable
 from the ending, so this is a rules problem. *-ion, -ic, -ical, -ity* pull stress onto the
-syllable immediately before: `eduCAtion, ecoNOMic, poLItical, posSIbility, phoTOgraphy`.
-Two-syllable noun/verb pairs shift: **REcord**/**reCORD**, **INcrease**/**inCREASE**,
+syllable immediately before: `eduCAtion, ecoNOMic, poLItical, possiBIlity`. (Note where the
+capitals fall in the last one — *bil* is the syllable immediately before *-ity*, and *posSIbility*
+is the mistake this rule exists to prevent.) The endings *-graphy, -ology, -ography* behave the
+same way: `phoTOgraphy, biOLogy, geOGraphy`. Two-syllable noun/verb pairs shift:
+**REcord**/**reCORD**, **INcrease**/**inCREASE**,
 **PREsent**/**preSENT** — high-yield in Part 3, where you use both forms in one answer. *Drill:*
 mark the stressed syllable in capitals in your vocabulary bank for your ten most-used topic
 words, and **hum the word before you say it** — just the rhythm, *da-DA-da-da*. Wrong hum, wrong
 word. *Why:* stress is named at bands 6 and 8 and needs no new articulation — the fastest fix
 here.
 
-**4. Stress-timing — the rubber-band drill.** English compresses unstressed syllables to schwa so
-stressed beats stay evenly spaced. French and Arabic do not compress.
+**4. Stress-timing — the three-beat drill.** (No equipment. Just a table to tap on.) English
+squeezes unstressed syllables down to the weak schwa vowel so that the stressed beats stay evenly
+spaced in time. French and Arabic do not squeeze, which is why an English sentence spoken with
+French rhythm gets longer as you add words instead of staying the same length.
 
 > **CATS** · **EAT** · **FISH**
 > The **CATS** will **EAT** the **FISH**
 > The **CATS** would have **EAT**en the **FISH**
 
-Each line must take **the same time to say**. Tap three beats on the table and force the words to
-fit; *would have* must be crushed to /wʊdəv/, *the* to /ðə/. *Why:* sustained rhythm is a
-**band-8** feature and band 7 is band 6 plus some of band 8. This is your single most efficient
-route out of Pronunciation 6.
+Three beats every time — **CATS**, **EAT**, **FISH** — and each line must take **the same number
+of seconds to say**, even though the third line has more than twice the syllables. Tap the three
+beats on the table at a steady speed and force the words to fit between them. That forcing is the
+whole drill: *would have* has to collapse to one quick unstressed blur, "wud-uv" (never "would
+have" with two full vowels), and *the* has to become the weak "thuh", never "thee". Say each line
+five times, then check on a recording that your taps are still evenly spaced on line three.
+*Why:* sustained rhythm is a **band-8** feature and band 7 is band 6 plus some of band 8. This is
+your single most efficient route out of Pronunciation 6.
 
 **5. Chunking — the slash drill.** Grouping words into thought units with the pauses at the
 boundaries. Pausing *inside* a chunk — flat even-tempo delivery, or a mid-phrase word search — is
@@ -648,24 +848,25 @@ damaging.
 **7. Final clusters — the exit-consonant drill.** Slow, then compress. **ask → asks → asked → he
 asked me.** **text → texts → the texts.** **strength → strengths.** Exaggerate the final
 consonants at half speed, then run them at full speed. Do not insert a vowel and do not drop the
-cluster — English reduces it (*asked* is often /ɑːst/) but does not delete it. *Why here
+cluster — English reduces it (*asked* usually comes out as "ahst", one syllable, no *k* audible)
+but does not delete it: "ahs" alone is a different word. *Why here
 specifically:* on a video-call test, final consonants are the first thing a headset and a
 compressed audio channel take from the listener.
 
 ### The grammar transfers — and why to mostly stop worrying about them in speech
 
-Your written error patterns will surface: **the society / the nature / the technology** for the
-bare abstract noun; **informations, researches, advices, equipments** pluralised; **depend of ·
-discuss about · in the other hand · participate to**; false friends (*actually* ≠ *actuellement*,
-*eventually* ≠ *éventuellement*, *assist* ≠ *assister à*, *deception* ≠ *déception*, and
-*significative*, which is not an English word); *peoples are*, *he do not*; missing third-person
-*-s*; and French-style run-on chains joined by commas and *and*.
+Every written error pattern you have will surface in speech too — generic *the* on abstract nouns,
+pluralised uncountables, the preposition set, the false friends, *peoples are* / *he do not*,
+missing third-person *-s*, and French-style run-on chains. **The full lists live in Chapter 7
+(false friends, uncountables, spelling) and Chapter 8 (articles, agreement, the counter-list of
+nouns that keep *the*); this chapter does not reprint them.** What differs in Speaking is only the
+*ranking*, and that is what this section is for.
 
-The uncomfortable, useful truth: in **Speaking**, most of these are not what holds you at 6. Band
-7 explicitly permits a few basic errors to persist, and so does band 8; accuracy is rated on
-**error density** and on the **communicative effect** of errors. *The society is changing* costs
-almost nothing in comprehension. A collapsed conditional costs the whole proposition. So, in
-priority order:
+The uncomfortable, useful truth: in **Speaking**, most of these are not what holds you at 6 — once
+their rate is already low. Band 7 permits **a few** basic errors to persist and band 8 permits
+that a few *may* persist; accuracy is rated on **error density** and on the **communicative
+effect** of errors. *The society is changing* costs almost nothing in comprehension. A collapsed
+conditional costs the whole proposition. So, in priority order:
 
 1. **Errors that obscure meaning** — wrong tense on a hypothetical, a false friend that inverts
    your point (*eventually* for *possibly* changes the claim), a preposition that flips a
@@ -674,12 +875,19 @@ priority order:
    to automaticity — not by slowing down.
 3. **Run-on chains.** Fix these, because they are a *coherence* problem as well as a grammar one:
    they destroy chunking, which pays into Pronunciation too.
-4. **Articles, uncountables, third-person -s.** Leave them alone during the test; fix them in
-   writing practice, where you have time to monitor.
+4. **Articles, uncountables, third-person *-s* — but only once your written error rate on them is
+   already low.** Leave them alone *during the test*; fix them in writing practice, where you have
+   time to monitor. If your written rate is still one in three, this is not a reallocation you
+   have earned yet — it is your binding constraint, and Chapter 8 is where it gets fixed.
 
-Point 4 is not permission to be sloppy. It is a reallocation of attention: every unit of
-monitoring spent on articles while speaking is a unit not spent keeping the sentence alive — and
-abandoned sentences cost a full Fluency band, where articles cost nothing.
+Point 4 is not permission to be sloppy, and it is conditional. It is a reallocation of attention:
+every unit of monitoring spent on articles while speaking is a unit not spent keeping the sentence
+alive, and abandoned sentences cost a full Fluency band where an occasional article costs nothing.
+But the descriptor's word is *a few*, and the IELTS-published study puts third-person *-s* at
+**70.6% error at band 6 against 7.6% at band 7**
+`[src: Roothooft & Breeze 2019 — Speaking data, L1 mix unreported]`. At 70% you are not spending a
+tolerance, you are producing the band-6 measurement. The target is **occasional slip, not habitual
+omission** — the same line Chapter 8 draws, and it applies in the room as much as on paper.
 
 ### On accent — the official position, stated plainly
 
@@ -697,19 +905,25 @@ A book cannot hear you. Everything here is testable except the thing that matter
 actually sound like — and no amount of reading tells you whether your pauses land at chunk
 boundaries or inside noun phrases.
 
-**Close that loop yourself. Record every Part 2 on your phone and listen back for exactly three
-things, in this order:**
+**Close that loop yourself.** This is a procedure with a written output, not an intention. Record
+every Part 2 on your phone — the voice-memo app is enough — and run these three checks, in this
+order, on the same recording. Five minutes, and you write down three numbers.
 
-1. **Speech rate.** Are you rushing? Count roughly how many words you produce in fifteen seconds
-   and track it across sessions. Rapid rate is a named band-6 limiter.
-2. **Stress-timing.** Play any ten seconds and tap the beats. Do they fall at roughly even
-   intervals on content words, or does every syllable get equal weight?
-3. **Chunking.** Mark where you actually paused. At the boundaries of meaning units, or inside
-   them?
+1. **Speech rate.** Play the first fifteen seconds and count the words you actually produced.
+   Write the number in your log and track it week to week. You are looking for stability, not a
+   target: a number that jumps upward under pressure is you rushing, and a rapid rate is a named
+   band-6 limiter. **Pass:** roughly the same count across three consecutive recordings.
+2. **Stress-timing.** Play any ten seconds and tap the beats on the table as you listen. **Pass:**
+   your taps land at roughly even intervals on the content words. **Fail:** you find yourself
+   tapping on every syllable, because every syllable got the same length — that is the
+   syllable-timing transfer, and drill 4 is the repair.
+3. **Chunking.** Type out one sentence from the recording, then listen again and draw a slash
+   wherever you actually paused. **Pass:** the slashes fall at the joins between meaning units.
+   **Fail:** a slash inside a noun phrase — *an old / watch* — which is drill 5's repair.
 
 Nothing else on the recording. Vocabulary, grammar and structure you can assess from a
-transcript. These three you cannot, and these three are the difference between Pronunciation 6
-and Pronunciation 7.
+transcript — and your coaching system can grade a transcript. These three it cannot hear either,
+and these three are the difference between Pronunciation 6 and Pronunciation 7.
 
 ---
 
@@ -722,17 +936,23 @@ and Pronunciation 7.
 3. Have you confirmed with your centre whether Speaking is face-to-face or by video call, and
    whether it is the same day?
 4. Can you state, per part, whether you may ask for repetition and whether you may ask for an
-   explanation?
+   explanation — and do you know this is officially stated, not inferred?
 5. Can you explain why asking for repetition cannot cost you a mark — by naming the four criteria?
-6. When you stall mid-sentence, do you repeat your last two or three words and continue the
-   **same** structure rather than restarting?
+6. When you stall mid-sentence, do you finish the structure you started — by pausing, or by
+   paraphrasing round the gap — rather than abandoning and restarting, and is repeating your own
+   last words a rare last resort rather than your default?
 7. Can you produce a Part 1 answer of four to five sentences containing one conditional or one
    contrast?
-8. In your last five Part 2 practices, were you **stopped by the clock** every time?
-9. Does your one-minute note page always include a SPARE line?
+8. In your last five Part 2 practices, were you **stopped by the clock** every time — and did you
+   answer the rounding-off question with a *short* answer plus one clause, not a bare *yes* and
+   not a second long turn?
+9. Does your one-minute note page always include a SPARE line **and the tense the card's family
+   hands you**?
 10. Can you name the four steps of the Part 3 answer shape, and do you reach the fourth step in
     most answers?
-11. Have you drilled all six high-yield structures to automaticity?
+11. Have you drilled all six high-yield structures to automaticity — and is your third-person *-s*
+    now an *occasional* slip in written practice rather than a habit, which is the condition for
+    being allowed to stop monitoring it in speech?
 12. Have you tested your **initial** clusters on a recording and settled whether you need that
     drill at all?
 13. Does the paper strip move on *pin* and stay still on *bin*?
@@ -743,37 +963,5 @@ and Pronunciation 7.
 
 ---
 
-## 60-second summary
-
-Speaking is 11–14 minutes in three parts — a 4–5 minute interview, a 1–2 minute long turn from a
-card with one minute to prepare, and a 4–5 minute abstract discussion — with a live examiner,
-recorded, marked on four equally weighted criteria. You are rated on your **average across all
-parts**, and you must **fully** fit a band to be awarded it. "Face-to-face" means a live examiner
-in real time, not necessarily in the room; video call is a real mode, you do not choose it, and
-the partners' own research found the score difference negligibly small. You are
-computer-delivered, so plan for Speaking on the **same day** — and trust your booking
-confirmation over any published window.
-
-The most widely mistaught thing about this test is the 6→7 Fluency line. Band 7 still hesitates,
-still repeats, still self-corrects — **often mid-sentence** — and that hesitation is still about
-reaching for language. The only requirement is that it does not break coherence; hesitating about
-*content* is band 8. So the trainable skill is **sentence recovery**: when you stall, repeat your
-last two or three words and finish the same structure. Never abandon and restart.
-
-Grammar has moved too. Band 7 now permits a few basic errors to persist, and so does band 8. Your
-articles and your third-person *-s* are not what is capping you. Stop hunting slips; make complex
-sentences **land** — six of them, drilled to automaticity.
-
-Pronunciation holds your cheapest band-point. Band 7 has no features of its own: it is all of
-band 6 plus some of band 8. Band 6 now names **chunking**, **stress-timing** and **rapid speech
-rate** — the exact three prosodic habits that transfer from French and Arabic — and band 8's named
-feature is **sustained rhythm**. Buy the rhythm: rubber-band drill and slash drill, daily. Add the
-paper-strip aspiration drill, because your /p/ problem is almost certainly missing air, not a
-missing sound. Drill English **final** clusters, and test — do not assume — whether you have any
-initial-cluster problem at all, because Tunisian Arabic probably gives you those for free.
-
-Accent is never rated in itself, only through its effect on intelligibility, and it does not
-appear at bands 6 or 7 at all. Spend nothing on sounding British.
-
-And close the one loop this book cannot: record every Part 2, and listen back for speech rate,
-stress-timing and chunking. Nothing else. Those three are the difference.
+*The 60-second summary for this chapter is at the top, before "What the test actually
+asks". If you are revising, start there.*
