@@ -51,18 +51,26 @@ ledger.
 
 ## Phase 2 — Writer agents
 
-All nine writers launched. Drafted so far (~43,800 words, **zero
-`[UNVERIFIED]` tags surviving into any chapter**):
+**Phase 2 complete — all nine chapters written, 70,119 words, zero
+`[UNVERIFIED]` tags surviving into any chapter.**
 
-- [x] Ch 1 — How IELTS Academic Really Works (4,428 w)
-- [x] Ch 2 — Listening: Complete Playbook (6,515 w)
-- [x] Ch 3 — Reading: Complete Playbook (8,180 w)
-- [x] Ch 4 — Writing Task 1 (7,734 w)
-- [x] Ch 5 — Writing Task 2 (8,876 w)
-- [x] Ch 6 — Speaking (8,061 w)
-- [~] Ch 7 — The Band 7 Vocabulary System — RUNNING
-- [~] Ch 8 — Grammar for Band 7 + Arabic/French Error Map — RUNNING
-- [~] Ch 9 — Study Plan, Practice System & Test Day — RUNNING
+| Chapter | Words |
+|---|---:|
+| 1 — How IELTS Academic Really Works | 4,428 |
+| 2 — Listening: Complete Playbook | 6,515 |
+| 3 — Reading: Complete Playbook | 8,125 |
+| 4 — Writing Task 1 | 7,358 |
+| 5 — Writing Task 2 | 8,536 |
+| 6 — Speaking | 7,863 |
+| 7 — The Band 7 Vocabulary System | 9,100 |
+| 8 — Grammar for Band 7 + Arabic/French Error Map | 10,264 |
+| 9 — Study Plan, Practice System & Test Day | 7,930 |
+| **Total** | **70,119** |
+
+Every chapter carries the mandated section set including the closing 60-second
+summary, and every chapter ends on a finished sentence. Verified structurally,
+not assumed: the seven agents killed by the session limit were all in optional
+self-imposed compression passes, having already written their chapters.
 
 **Length note.** Chapters are running well over their word targets (Ch 2 came in
 at 5,700 body words against a 3,000–4,000 target). The writer's reasoning is
