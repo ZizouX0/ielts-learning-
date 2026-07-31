@@ -468,14 +468,41 @@ collocations**, never scripts.
 
 ## Pronunciation: intelligibility, not accent
 
-Your Tunisian/French accent costs nothing. What costs marks:
-- **Word stress** in the wrong place (*com-FOR-table* not *COM-for-ta-ble*;
-  pho-TO-graph / PHO-to-graph / photo-GRAPH-ic all differ).
-- **Flat intonation** that hides where sentences end and which word is the point.
-- **Sounds that break recognition:** /θ/ and /ð/ (*think*, *this*); /p/ vs /b/;
-  /h/ dropped or added; final consonant clusters (*asked*, *texts*).
-- **French-influenced final-syllable stress** on English words.
-- Speaking too fast to seem fluent. Fluency is *continuity*, not speed.
+Your Tunisian/French accent costs nothing — the descriptor mentions accent only
+at bands 8 and 9, and only to say it has minimal or no effect there.
+
+The 2025 descriptor rewrote this criterion and named the features that matter.
+**Work them in this order** — the first two are worth more than the rest
+combined:
+
+1. **Speech rate.** Band 6 explicitly names *a rapid speech rate* as something
+   that wrecks rhythm. Speaking fast to sound fluent is a band-6 marker in the
+   official text. Fluency is *continuity*, not speed.
+2. **Stress-timing.** English compresses unstressed syllables between stressed
+   beats; Arabic and French do not. This is named in the descriptor and is your
+   cheapest route out of Pronunciation 6 — band 8's named feature is *sustained
+   rhythm*.
+3. **Chunking** — grouping words into sense units and pausing at the boundaries,
+   not mid-phrase.
+4. **Word stress** placement (*com-FOR-table*; pho-TO-graph / PHO-to-graph /
+   photo-GRAPH-ic all differ), and resisting **French final-syllable stress**.
+5. **Intonation that is sustained**, not occasionally right. The 6→8 difference
+   is consistency, not capability.
+6. **Individual sounds**, last — they cost you only when a word becomes
+   unrecognisable: /θ/ and /ð/ (*think*, *this*), /h/ dropped or added.
+
+**Two corrections to the standard advice, specific to you:**
+
+- **/p/ vs /b/ is probably not a missing sound for you.** French supplies /p/, so
+  you have it. The likely issue is **aspiration** — English /p/ at the start of a
+  stressed syllable comes with a puff of air that French /p/ lacks, which is what
+  makes *pear* sound like *bear*. Hold a strip of paper in front of your mouth:
+  it should move on *pin*, not on *bin*. That is a drill, not a lifelong problem.
+- **Ignore the usual "Arabic speakers break up initial consonant clusters"
+  advice** (*istudy*, *ispring*). That is built on Modern Standard and Gulf
+  Arabic phonotactics. **Tunisian Arabic permits two-consonant onsets**, so this
+  is likely not your error at all. Your real difficulty is English **final**
+  clusters — *asked*, *texts*, *twelfths*, *strengths*.
 
 **Record yourself on your phone** for every Part 2 you practise, and listen back.
 Text-based coaching cannot hear you — this is the one part of the system you must

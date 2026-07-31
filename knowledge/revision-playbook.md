@@ -595,8 +595,18 @@ What does cost marks:
   stressing final syllables.
 - **Flat intonation** that hides sentence boundaries and which word carries the
   point.
-- **Sounds that break recognition:** /θ/ and /ð/ (*think*, *this*), /p/ versus
-  /b/, dropped or added /h/, final consonant clusters (*asked*, *texts*).
+- **Sounds that break recognition:** /θ/ and /ð/ (*think*, *this*), dropped or
+  added /h/, and English **final** consonant clusters (*asked*, *texts*,
+  *strengths*).
+
+  Two corrections to the standard advice, specific to you. **/p/ vs /b/ is
+  probably not a missing sound** — French supplies /p/; what you likely lack is
+  the **aspiration** English puts on /p/ at the start of a stressed syllable,
+  which is what makes *pear* sound like *bear*. Hold a paper strip at your mouth:
+  it should move on *pin*, not *bin*. And **ignore the usual advice that Arabic
+  speakers break up initial clusters** (*istudy*) — that comes from Modern
+  Standard and Gulf phonotactics. Tunisian Arabic permits two-consonant onsets,
+  so your difficulty is at the **end** of words, not the start.
 - **Speaking too fast** in pursuit of fluency. Fluency is continuity, not speed.
 
 **Record yourself on your phone** for every Part 2 you practise and listen back

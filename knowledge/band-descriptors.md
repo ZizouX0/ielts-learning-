@@ -155,10 +155,19 @@ band is decided by what you do next.
 
 | Band | What it looks like |
 |---|---|
-| **8+** | Wide range used flexibly; a majority of error-free sentences; only very occasional inappropriacies or non-systematic errors. |
-| **7** | A range of complex structures with some flexibility. **Frequently produces error-free sentences**, though some mistakes persist. |
+| **8+** | A wide range of structures used flexibly; the majority of sentences error-free. Occasional inappropriacies and non-systematic errors. **A few basic errors may persist.** |
+| **7** | A range of structures flexibly used. **Error-free sentences are frequent.** Both simple and complex sentences used effectively **despite some errors**. **A few basic errors persist.** |
 | **6** | A mix of simple and complex structures with limited flexibility. May make **frequent mistakes with complex structures**, though these rarely block comprehension. |
-| **5** | Basic forms are reasonably accurate. A limited range of complex structures, which usually contain errors and can cause comprehension problems. |
+| **6** | A mix of short and complex sentence forms and a variety of structures, with **limited flexibility**. Errors occur frequently in complex structures, though they rarely impede communication. |
+| **5** | Basic forms fairly well controlled. Complex structures attempted but limited in range, nearly always containing errors, sometimes forcing you to reformulate. |
+
+**Where band 6 becomes band 7 — and what this means for your practice.** Note
+that band 7 *and* band 8 both explicitly allow **a few basic errors to persist**.
+So hunting your third-person `-s` slips is not what moves you from 6 to 7. What
+moves you is complex sentences that **land** — used effectively, even with some
+errors in them. Band 6 is where complex structures are attempted but go wrong
+often; band 7 is where they work most of the time. Spend your practice on making
+one or two complex structures reliable, not on eliminating small slips.
 
 ## Pronunciation
 
