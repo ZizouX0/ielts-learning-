@@ -395,6 +395,13 @@ Task 2.
 Misreading the family is the most expensive error in the paper, because it
 destroys Task Response — the hardest criterion to recover.
 
+One caveat first: **IELTS publishes no official taxonomy of Task 2 question
+types.** This five-way split is a recognition heuristic, and a useful one, but it
+is not handed down by the test makers — the British Council's teaching pages give
+five categories and IDP's give six, and they do not map onto each other. Use the
+families to make sure you have caught every part of the question, not as a set of
+boxes every prompt must fit.
+
 **1. Opinion.** *To what extent do you agree or disagree?*
 Pick **one** position and hold it. You may concede a point, but a wobbling answer
 is band 6.
@@ -439,8 +446,16 @@ Conclusion (2 sentences, ~40 words)
   Restate the position in new words · no new ideas
 ```
 
-**Target 260–290 words.** Under 250 is penalised. Over about 320 buys nothing and
-costs you accuracy and checking time — and accuracy is where band 7 is decided.
+**Target 260–290 words** — but know what the limit really is. There is a **floor
+and no ceiling**: an official examiner-marked exemplar scoring **7.5** runs to
+about **375 words**. Length is not the risk. The risk is writing words you then
+have no time to check, and accuracy is where band 7 is decided.
+
+Under 250 is not an arithmetic penalty either. IELTS publishes no deduction and
+the May 2023 descriptors contain none. A short essay simply cannot have fully
+addressed the prompt, so **Task Response** falls, and it shows less range, so
+**Lexical Resource** and **Grammar** fall with it. The only published hard
+threshold is 20 words or fewer → band 1.
 
 ### Develop, do not assert
 
@@ -462,11 +477,14 @@ The pattern: **claim → because → so what → concrete instance.**
 2. **Undeveloped paragraphs** — claims with no reasoning.
 3. **Memorised openers.** *In this contemporary era of rapid globalisation...*
    Examiners see it constantly; it earns nothing and signals a template.
-4. **Linker spam.** *Moreover* heading six consecutive sentences. Cohesion should
-   not attract attention.
-5. **Informal register.** Contractions, *you*, slang, banks of rhetorical
-   questions.
-6. **Under length.**
+4. **Linker spam.** An examiner logged four sequencers in one paragraph of a
+   band-7.5 essay as "some overuse" — so treat **two per paragraph** as your
+   ceiling. Under-use is penalised too: a 6.5 script was docked for too few.
+5. **Informal register** — real, but less fatal than most guides claim. The same
+   official 7.5 script uses *don't* three times and writes "In my opinion, I
+   think". Tidy your register; don't believe a contraction cost you the band.
+6. **Under length** — via Task Response and reduced evidence of range, not via a
+   published penalty. See the length note above.
 7. **Thesaurus abuse.** *Ameliorate the pecuniary situation* scores **lower** than
    *improve finances* because the collocation is wrong.
 8. **Overgeneralising.** *All young people are addicted to phones.* Hedge it:

@@ -42,8 +42,14 @@ remind me the examiner will not help either.
 
 ## Step 3 — Grade it
 
-When I submit, first **count my words** and tell me the number. If under 250,
-state that a penalty applies and apply it — do not let it slide.
+When I submit, first **count my words** and tell me the number — after
+subtracting any wording I copied from the prompt, since copied rubric is
+discounted before the count is taken.
+
+If under 250, do **not** apply a flat penalty; IELTS publishes none. Mark it
+where examiners do: say which criteria the shortfall hit and why — Task Response
+(a short essay cannot have fully addressed the prompt) and Lexical
+Resource / Grammar (less evidence of range). See `CLAUDE.md` for the full rule.
 
 Then grade per criterion using `knowledge/band-descriptors.md`:
 

@@ -87,7 +87,7 @@ criterion changes.
 
 | Band | What it looks like |
 |---|---|
-| **8+** | The prompt is addressed appropriately and sufficiently. A clear, well-developed position throughout. Ideas relevant, well extended and supported; only occasional omissions. |
+| **8+** | The prompt is addressed appropriately and sufficiently. A clear, **well-developed** position is presented in response to the question. Ideas relevant, well extended and supported; only occasional omissions. |
 | **7** | **The main parts of the prompt are addressed appropriately.** A clear, developed position is presented. Main ideas are extended and supported — but there may be a tendency to over-generalise, or supporting material may lack focus and precision. |
 | **6** | The main parts are addressed, **though some more fully than others**. A position relevant to the prompt is presented, but conclusions may be unclear, unjustified or repetitive. Main ideas are relevant but some are underdeveloped or unclear, and some support is weak or less relevant. |
 | **5** | The main parts are **incompletely addressed**. A position is expressed but its development is not always clear. Main ideas are limited, insufficiently developed, or padded with irrelevant detail. Some repetition. |
@@ -114,17 +114,29 @@ final sentence is a band-6 response.
 
 Four criteria, weighted equally.
 
+> **Source note.** This section is written from the **current** Speaking
+> descriptors (ielts.org, PDF created September 2025). The copy that dominates
+> search results — hosted on a Cambridge English webinars path — is a **2013**
+> edition and its wording differs materially, especially on Pronunciation. If you
+> compare this against something you found online and it disagrees, check the
+> edition date of what you found.
+
 ## Fluency & Coherence
 
 | Band | What it looks like |
 |---|---|
-| **8+** | Fluent, with only occasional repetition or self-correction; hesitation is about *content*, not about hunting for language. Topics developed coherently and appropriately. |
-| **7** | Speaks at length without noticeable effort or loss of coherence. There may be language-related hesitation at times, or some repetition and self-correction. Uses a range of connectives and discourse markers with some flexibility. |
-| **6** | **Willing to speak at length**, but coherence sometimes slips through repetition, self-correction or hesitation. Uses connectives and discourse markers, but not always appropriately. |
-| **5** | Usually keeps going, but leans on repetition, self-correction and slow speech to do it. May overuse certain connectives. Simple speech is fluent; complex communication breaks fluency. |
+| **8+** | Fluent, with only very occasional repetition or self-correction. Hesitation may occasionally be used to find words or grammar, but **most hesitation is content-related**. Topic development is coherent, appropriate and relevant. |
+| **7** | Keeps going and readily produces long turns **without noticeable effort**. Some hesitation, repetition or self-correction occurs — often **mid-sentence, and it does signal difficulty accessing the right language** — but it does **not** damage coherence. Flexible use of spoken discourse markers, connectives and cohesive features. |
+| **6** | Keeps going and shows willingness to produce long turns, but **coherence is sometimes lost** through hesitation, repetition or self-correction. Uses discourse markers and connectives, though not always appropriately. |
+| **5** | Usually keeps going, but relies on repetition, self-correction or slow speech to do it. Hesitations often come mid-sentence while searching for **fairly basic** vocabulary and grammar. Overuses certain discourse markers. Simple speech can be fluent; complex speech usually breaks down. |
 
-**Where band 6 becomes band 7:** hesitation stops being about *finding words*.
-Both bands hesitate — band 7 hesitates while thinking about the idea.
+**Where band 6 becomes band 7:** not the absence of language-hunting — the
+current descriptor explicitly says band 7 hesitation still signals difficulty
+finding language. What changes is that **coherence survives it**. Band 6 loses
+the thread; band 7 hesitates mid-sentence and still lands the point.
+
+*(An earlier version of this file said band 7 hesitation is about ideas rather
+than words. That is the band **8** boundary. Corrected against the 2025 text.)*
 
 ## Lexical Resource
 
@@ -150,18 +162,42 @@ band is decided by what you do next.
 
 ## Pronunciation
 
+The 2025 descriptor rewrote this criterion substantially. It now talks about
+**phonological features** and names specific ones — chunking, stress-timing,
+rhythm, intonation — rather than "pronunciation features" in the abstract.
+
 | Band | What it looks like |
 |---|---|
-| **8+** | A wide range of pronunciation features, sustained flexibly with only occasional lapses. Easy to understand throughout; **L1 accent has minimal effect on intelligibility**. |
+| **9** | A full range of phonological features conveying precise and subtle meaning. Connected speech sustained throughout. Effortless to understand. **Accent has no effect on intelligibility.** |
+| **8** | A wide range of phonological features conveying precise meaning. Sustains appropriate **rhythm**; flexible stress and intonation across long utterances, with occasional lapses. Easily understood throughout. **Accent has minimal effect on intelligibility.** |
 | **7** | All the positive features of band 6, plus some — but not all — of band 8. |
-| **6** | A range of pronunciation features with **mixed control**. Some effective use, but not sustained. Generally understandable throughout, though mispronounced words or sounds reduce clarity at times. |
+| **6** | A range of phonological features, but **control is variable**. Chunking is generally appropriate, but **rhythm may suffer from a lack of stress-timing or from speaking too fast**. Some effective intonation and stress, but not sustained. Individual words or phonemes may be mispronounced, causing occasional loss of clarity. Can generally be understood without much effort. |
 | **5** | All of band 4 plus some of band 6. |
 
-**The point that matters:** the criterion is **intelligibility**, not accent. A
-Tunisian or French-influenced accent costs nothing. What costs marks is word
-stress in the wrong place, flat intonation that hides sentence structure, and
-individual sounds that make a word unrecognisable. Note that bands 5 and 7 are
-defined by reference to their neighbours — pronunciation is judged holistically.
+**The point that matters:** the criterion is **intelligibility**, not accent —
+and the descriptor says so explicitly, mentioning accent only at bands 8 and 9
+and only to say it has minimal or no effect there. A Tunisian or
+French-influenced accent costs nothing by itself.
+
+**What the 2025 wording tells you to actually work on**, in order:
+
+1. **Speech rate.** Band 6 names *a rapid speech rate* as something that damages
+   rhythm. Speaking fast to seem fluent is explicitly a band-6 marker. Slow down.
+2. **Stress-timing.** English is stress-timed; Arabic and French are not. This is
+   the single highest-value pronunciation feature for you, and it is now written
+   into the descriptor by name.
+3. **Chunking** — grouping words into sense units with pauses at the boundaries.
+   Band 6 gets this "generally appropriate"; band 8 sustains it across long
+   utterances.
+4. **Intonation and stress that are *sustained*,** not just occasionally right.
+   The band 6→8 difference is consistency, not capability.
+5. Individual phonemes matter least of these four — they cost you only when they
+   make a word unrecognisable.
+
+Bands 5 and 7 are defined by reference to their neighbours, so pronunciation is
+judged holistically: band 7 is "all of band 6 plus some of band 8". To move from
+6 to 7 you need to start showing band-8 features, not merely stop making band-6
+errors.
 
 ---
 

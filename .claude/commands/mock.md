@@ -37,8 +37,12 @@ attempted (band 0 for that task)**. That is what would happen on test day.
 
 ## Step 3 — Grade both, separately
 
-Count the words in each and report both counts. Apply under-length penalties
-explicitly.
+Count the words in each and report both counts, **after subtracting any copied
+rubric** — it is discounted before the count is taken.
+
+Where a task is under length, do not invent a flat penalty. Name the criteria it
+damaged instead: Task Response / Task Achievement first, then Lexical Resource
+and Grammar for reduced evidence of range.
 
 **Task 1:**
 

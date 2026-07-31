@@ -38,8 +38,13 @@ Then **stop and wait**. No hints, no structure, no model in advance.
 
 ## Step 3 — Grade it
 
-Count my words first and report the number. Under 150 → penalty applies, and say
-so.
+Count my words first and report the number, **after subtracting anything I copied
+from the prompt** — copied rubric is discounted before the count is taken, and
+it is the commonest silent way to fall under 150.
+
+If under 150, do **not** apply a flat penalty; IELTS publishes none. Mark it
+where examiners do: name the criteria the shortfall hit — Task Achievement above
+all, plus Lexical Resource and Grammar for reduced evidence of range.
 
 Grade per criterion using `knowledge/band-descriptors.md`:
 
