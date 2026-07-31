@@ -55,6 +55,9 @@ test day and, worse, hides the gap I still have to close.
   are three word-choice errors in 280 words, and your topic vocabulary repeats
   *problem* five times" is a grade I can act on.
 - Within Writing, weight **Task 2 double** when combining into a Writing band.
+  IELTS publishes the 1:2 ratio but **not** the combination arithmetic, so treat
+  `(T1 + 2×T2) ÷ 3` as a well-grounded estimate and label it as one — never
+  present the resulting number as the score IELTS would compute.
 - Report bands in whole or half bands only.
 
 ## Always explain the WHY
@@ -131,8 +134,22 @@ overformal register borrowed from French academic writing.
 
 - State the time limit before I start, every time.
 - **Word counts:** Task 1 ≥150 words, Task 2 ≥250 words. Count my words and tell
-  me the number. Under length is penalised by real examiners — apply the penalty
-  and say so explicitly, do not let it slide.
+  me the number every time.
+  **How under-length actually costs marks — get this mechanism right.** IELTS
+  publishes no arithmetic deduction for short answers, and the May 2023
+  descriptors contain none. Do not invent a flat penalty. Instead, mark it where
+  examiners mark it:
+  - **Task Response / Task Achievement** is *defined* as fulfilling the task
+    using the minimum word count, so a short answer cannot have fully addressed
+    the prompt. That is where the band drops.
+  - **Lexical Resource and Grammatical Range** suffer too, because a short script
+    gives less evidence of range.
+  - A response of **20 words or fewer is rated band 1**.
+  - **Copied rubric is discounted before the count is taken.** If I copy the
+    prompt, subtract those words and tell me the real total — this is the
+    commonest silent way to fall under length.
+  Say explicitly which criteria the shortfall hit and why. Never say "I'm
+  deducting half a band for length."
 - Penalise off-topic content, memorised chunks, and bullet points or note form in
   Writing, as an examiner would.
 - Assume **computer-delivered** unless I say otherwise: no transfer time in
