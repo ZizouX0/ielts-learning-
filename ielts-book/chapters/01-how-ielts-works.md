@@ -1,5 +1,43 @@
 # Chapter 1 — How IELTS Academic Really Works
 
+## 60-second summary
+
+*Read this first. Everything after it is the evidence.*
+
+Four papers — Listening (~30 min, 40 questions), Academic Reading (60 min, 3
+passages, 40 questions), Writing (60 min, Task 1 ≥150 words / Task 2 ≥250 words),
+Speaking (11–14 min, 3 parts) — on a 0–9 scale in whole and half bands.
+
+You are sitting it on a computer, in Tunisia, and paper is being retired from
+mid-2026. The most expensive consequence: **computer Listening has no ten-minute
+transfer window, only two minutes to check.** ielts.org's own Listening page still
+advertises the ten minutes with no computer caveat — ignore it.
+
+Listening and Reading are marked out of 40, one mark per question; band 7 is
+officially 30/40 in both. ielts.org and the British Council publish four anchor
+points per paper (bands 5, 6, 7, 8); **IDP publishes the full table, half bands
+included** — Listening 6.5 = 26–29 and 7 = 30–31, Academic Reading 6.5 = 27–29 and
+7 = 30–32 `[src: ielts.idp.com — Listening band scores]`
+`[src: ielts.idp.com — Reading band scores]`. So the last step is small and
+countable: **in Listening, band 6.5 runs all the way to 29 and band 7 begins at 30
+— one mark.** Boundaries move slightly between versions, so aim at the *top* of a
+band, never its floor. Writing and Speaking are marked on four criteria of 25%
+each. Within Writing, Task 1 is worth a third and Task 2 two thirds; the combining
+formula is unpublished, but `(T1 + 2×T2) ÷ 3` is a sound planning estimate. Task 2
+alone is about 17% of your whole result.
+
+The overall band is the four-paper average rounded to the nearest half — **.25
+rounds up to the next half band, .75 up to the next whole band.** Hence the
+strategic centre of this book: an average of 6.75 reports as 7.0, which is 27.0 out
+of 28.0. From a 6.5 floor in all four papers you need exactly **two more
+half-bands**, not four sevens. Buy them in Listening and Reading, where technique
+converts directly into marks — and buy a third if you can, because 27.0 exactly
+leaves no margin for a bad morning. Then check the gate: a per-section minimum is
+not an average, and Writing is the paper most likely to break it. Start Writing in
+week one. It moves slowest, and it decides this.
+
+---
+
 ## What the test actually asks
 
 IELTS Academic is four papers: Listening, Reading, Writing, Speaking. The
@@ -478,31 +516,5 @@ Answer yes or no. Any "no" is a chapter you cannot skip.
 
 ---
 
-## 60-second summary
-
-Four papers — Listening (~30 min, 40 questions), Academic Reading (60 min, 3
-passages, 40 questions), Writing (60 min, Task 1 ≥150 words / Task 2 ≥250 words),
-Speaking (11–14 min, 3 parts) — on a 0–9 scale in whole and half bands.
-
-You are sitting it on a computer, in Tunisia, and paper is being retired from
-mid-2026. The most expensive consequence: **computer Listening has no ten-minute
-transfer window, only two minutes to check.** ielts.org's own Listening page still
-advertises the ten minutes with no computer caveat — ignore it.
-
-Listening and Reading are marked out of 40, one mark per question; band 7 is
-officially 30/40 in both. Only bands 5–8 are published, half-band thresholds are
-published nowhere official, and even the anchors shift between versions. Writing
-and Speaking are marked on four criteria of 25% each. Within Writing, Task 1 is
-worth a third and Task 2 two thirds; the combining formula is unpublished, but
-`(T1 + 2×T2) ÷ 3` is a sound planning estimate. Task 2 alone is about 17% of your
-whole result.
-
-The overall band is the four-paper average rounded to the nearest half — **.25
-rounds up to the next half band, .75 up to the next whole band.** Hence the
-strategic centre of this book: an average of 6.75 reports as 7.0, which is 27.0 out
-of 28.0. From a 6.5 floor in all four papers you need exactly **two more
-half-bands**, not four sevens. Buy them in Listening and Reading, where technique
-converts directly into marks — and buy a third if you can, because 27.0 exactly
-leaves no margin for a bad morning. Then check the gate: a per-section minimum is
-not an average, and Writing is the paper most likely to break it. Start Writing in
-week one. It moves slowest, and it decides this.
+*The 60-second summary for this chapter is at the top, before "What the test
+actually asks". If you are revising, start there.*

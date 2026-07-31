@@ -514,6 +514,8 @@ close yourself.
 
 **Listening & Reading:** 40 questions, 1 mark each, no negative marking.
 
+**The anchor bands** (ielts.org):
+
 | Band | Listening | Academic Reading |
 |---:|---:|---:|
 | 5 | 16 | 15 |
@@ -521,7 +523,22 @@ close yourself.
 | 7 | 30 | 30 |
 | 8 | 35 | 35 |
 
-Conversion varies slightly between test versions — targets, not guarantees.
+**The half bands.** IDP — a joint owner of IELTS — publishes full ranges,
+verified live 31 July 2026. These matter more to you than the anchors, because
+your target sits on them:
+
+| Band | Listening | Academic Reading |
+|---:|---:|---:|
+| 6.5 | 26–29 | 27–29 |
+| **7** | **30–31** | **30–32** |
+| 7.5 | 32–34 | 33–34 |
+
+Read the top row carefully: **band 6.5 in Listening runs all the way to 29
+marks.** One more correct answer takes you to 7. In Reading, 6.5 tops out at 29
+and 7 starts at 30 — the same single mark.
+
+Conversion varies slightly between test versions, so treat these as targets
+rather than guarantees.
 
 **Writing:** (Task 1 + 2 × Task 2) ÷ 3.
 
