@@ -46,11 +46,15 @@ official headline figure for the whole test is **2 hours 45 minutes**
 
 You will also see **2 hours 40 minutes** for the Listening + Reading + Writing
 session, with "no breaks between each section of the test"
-`[src: ielts.org — IELTS test day advice: what to expect]`. Different quantities,
-not a contradiction: 2h40m is the paper-mode sitting (Listening 30 + transfer 10 +
-Reading 60 + Writing 60); 2h45m counts all four papers including a ~15-minute
-Speaking test and excludes the paper-only transfer window. Budget around the
-individual paper timings below, not either headline.
+`[src: ielts.org — What to expect on IELTS test day]`. Both figures are official
+and both are published without any delivery-mode caveat — ielts.org applies the
+2h40 figure to the written session generally, not to paper only, and this book
+will not invent a reconciliation the sources do not state. What is worth noticing
+is that neither headline is the sum of the papers: on computer, Listening 30 + a
+2-minute check + Reading 60 + Writing 60 is about **2h32**, and the rest is
+instructions, seating and admin. **Treat 2h40 as the length of time you must be
+seated and concentrating, and budget your work against the individual paper
+timings below rather than against either headline.**
 
 There is no pass or fail. Every paper, and the overall score, is reported on a
 nine-band scale in whole or half bands
@@ -60,11 +64,16 @@ nine-band scale in whole or half bands
 
 First, **you will sit this on a computer.** From mid-2026, "All IELTS tests will
 be delivered on computer. Exact timelines will vary by market"
-`[src: ielts.org — Updates to IELTS test delivery]`. British Council Tunisia
-already lists only computer-delivered testing at a centre and IELTS Online — no
-paper option — across five locations: Tunis, Bizerte, Sousse, Sfax and Gabes
-`[src: britishcouncil.tn — Test dates, fees and locations]`. Every timing,
-technique and drill in this book assumes a screen and a keyboard.
+`[src: ielts.org — Updates to IELTS test delivery]`. British Council Tunisia's
+dates, fees and locations page lists only IELTS on computer at a centre and IELTS
+Online, across five locations: Tunis, Bizerte, Sousse, Sfax and Gabes
+`[src: britishcouncil.tn — Test dates, fees and locations]`. Other pages on the
+same site still quote a paper-based fee — in **English as well as French**, so
+this is not a stale translation — which means **the site is not internally
+consistent and cannot settle the question; phone the centre**
+`[src: britishcouncil.tn — IELTS General Training (English page)]`. Either way,
+paper is being retired from mid-2026, and every timing, technique and drill in
+this book assumes a screen and a keyboard.
 
 Second, **the move to computer does not change what is measured**: "This update
 does not change the IELTS skills assessed, the test construct, or the way results
@@ -123,6 +132,14 @@ recording** `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]` 
 which makes Part 4 the part with the least structured reading time, and the part
 to protect in training.
 
+ielts.org's format page lists **six** Listening question types: multiple choice;
+matching; plan, map or diagram labelling; form, note, table, flow-chart or summary
+completion; sentence completion; and short-answer questions
+`[src: ielts.org — IELTS Academic: Listening test format]`. Chapter 2 splits the
+fourth of those into its separate printed layouts — form, note, table, flow-chart
+and summary each behave differently on screen even though the marking rules are
+identical — and so works through eleven layouts rather than six.
+
 Answers are marked for spelling and grammar, and both British and American
 spellings count
 `[src: cambridgeenglish.org — IELTS FAQs, Academic module (PDF)]`; Chapter 2 takes
@@ -170,10 +187,11 @@ a permanently visible timer and free navigation between questions
 
 `[src: ielts.org — IELTS Academic: Writing test format]`
 
-Task 1 asks for **at least 150 words in about 20 minutes**, Task 2 for **at least
-250 words in about 40 minutes**, in a style that is "academic or
-semi-formal/neutral" `[src: ielts.org — IELTS Academic: Writing test format]`. The
-20/40 split is guidance, not an enforced boundary: the computer gives you 60
+Task 1 asks for **at least 150 words** and instructs you to spend **no more than
+20 minutes** on it; Task 2 asks for **at least 250 words** in **no more than 40
+minutes**, in a style that is "academic or semi-formal/neutral"
+`[src: ielts.org — IELTS Academic: Writing test format]`. That instruction is
+printed on the task but not enforced by the software: the computer gives you 60
 minutes, lets you move between tasks freely, and shows a live word counter, though
 "you still need to check your own spelling"
 `[src: takeielts.britishcouncil.org — IELTS on paper vs computer: how to choose]`.
@@ -267,11 +285,20 @@ in six weeks, instead of a Writing 6.5 you can plus two half-bands in Listening 
 Reading that you certainly can.
 
 **"There's a raw-score table that tells me exactly what 6.5 needs."**
-Not an official one. IELTS publishes four anchor points per test and nothing else,
-with an explicit warning that the numbers move between versions. Every "complete"
-table online reconstructs half-bands from retired practice books. **Do instead:**
-use the published anchors, aim above them, and never budget your revision on the
-assumption that 26/40 is definitely a 6.5.
+There is an official one — it is just not a guarantee. ielts.org and the British
+Council publish four anchors per paper (bands 5, 6, 7, 8)
+`[src: ielts.org — IELTS scoring in detail: band scores explained]`; IDP, the third
+joint owner of IELTS, publishes the full table including every half band
+`[src: ielts.idp.com — Listening band scores]`
+`[src: ielts.idp.com — Reading band scores]`. Both carry the same warning: "The
+precise number of marks needed to achieve these band scores will vary slightly
+from test version to test version" `[src: ielts.org — IELTS scoring in detail]`,
+and IDP's own caveat is that its figures are the *average* marks required and
+"actual marks may vary slightly between tests"
+`[src: ielts.idp.com — Listening band scores]`. **Do instead:** use the table in
+the next section as a planning average, and read every boundary as a floor rather
+than a safe landing — Academic Reading 27 is the *bottom* of 6.5, not a comfortable
+6.5. Aim a mark or two above every line you are targeting.
 
 **"Under-length costs you a fixed half band."**
 There is no published arithmetic penalty, and the official positions differ in
