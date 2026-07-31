@@ -83,10 +83,11 @@ substitute for the real thing.
 
 ### Worth buying
 
-**Cambridge IELTS 15–20** (Academic). Past papers written by the test producers —
-the only practice material with genuine difficulty calibration. Do these on
-paper or screen under timed conditions, then run `/official` to convert your raw
-scores and analyse the error pattern.
+**Cambridge IELTS 21** (Academic) is the current volume, published July 2026;
+15–20 are still perfectly good practice. Past papers written by the test
+producers — the only practice material with genuine difficulty calibration. Do
+these under timed conditions, then run `/official` to convert your raw scores and
+analyse the error pattern.
 
 ---
 
@@ -100,6 +101,38 @@ Total test time **2 hours 45 minutes**.
 | Reading (Academic) | 3 passages, 40 questions, 2,150–2,750 words | 60 min, **no transfer time** |
 | Writing | Task 1 ≥150 words, Task 2 ≥250 words (**Task 2 counts double**) | 60 min |
 | Speaking | 3 parts, face-to-face, recorded | 11–14 min |
+
+### ⚠️ Do not book IELTS Online
+
+**IELTS Online is a different product from computer-delivered IELTS at a test
+centre, and it carries a real risk for you.** Official position: IELTS Online
+"is not currently accepted for immigration purposes", and institutional
+acceptance is optional — receiving organisations choose for themselves whether
+to accept it.
+
+You need a **Malta/EU student visa**. At around **TND 750** a sitting, booking
+the wrong product is an expensive mistake that you would only discover after
+paying. It also bans headphones (speakers only) and requires a passport.
+
+**Book computer-delivered IELTS Academic at a British Council Tunisia centre.**
+
+### Tunisia specifics (verified 31 July 2026)
+
+- **Fee:** TND 750 for IELTS Academic (TND 820 UKVI). Payment in TND only.
+- **ID:** passport *or* CIN — and you must present the **same document** on test
+  day that you booked with.
+- **Delivery:** British Council Tunisia lists computer-delivered and IELTS Online
+  only. (Their French-language page still mentions "papier ou ordinateur"; that
+  appears to be stale, but confirm when booking.)
+- **One Skill Retake:** probable but **not confirmed** for Tunisia from any
+  official page. Ask your centre directly — do not treat it as your safety net.
+- **Enquiry on Results (remarking):** apply within **six weeks** of your test
+  date. Fee refunded if a band changes. Turnaround 2 hours to 21 days. IDP says a
+  result only stays the same or rises, but no other source confirms that — check
+  your centre's terms rather than assuming a re-mark is risk-free.
+- **Worth one phone call:** ask whether the test-centre keyboards are **AZERTY or
+  QWERTY**. Nobody publishes this, and if you type on a French keyboard it is a
+  real variable in a typed Writing paper.
 
 ### ⚠️ Paper-based IELTS is being discontinued
 

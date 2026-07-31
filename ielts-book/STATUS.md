@@ -30,39 +30,38 @@ Batch 1 — complete:
 - [x] R3 — Reading deep dive (1,410 lines, 233 inline source notes)
 - [x] R4 — Writing Task 1 (1,031 lines)
 
-Batch 2 — **RUNNING**:
-- [~] R5 — Writing Task 2
-- [~] R6 — Speaking deep dive
-- [~] R7 — Vocabulary system
+Batch 2 — complete:
+- [x] R5 — Writing Task 2 (1,432 lines)
+- [x] R6 — Speaking deep dive (1,319 lines)
+- [x] R7 — Vocabulary system (1,203 lines)
 
-Batch 3 — **RUNNING**:
-- [~] R8 — Grammar & L1 interference
-- [~] R9 — Test-day strategy & study plan
+Batch 3 — complete:
+- [x] R8 — Grammar & L1 interference (1,281 lines)
+- [x] R9 — Test-day strategy & study plan (1,224 lines, 202 source notes)
 
-> **Known risk — ledger write contention.** Batch 1 agents were told to
+**Phase 1 complete.** ~11,200 lines of sourced notes; **242 rows** in the sources
+ledger.
+
+> **Ledger write contention — resolved.** Batch 1 agents were told to
 > read-append-write `research/sources-ledger.md` concurrently, which is not
-> atomic; entries may be lost. Mitigation: batches 2–3 write per-agent ledger
-> fragments (`sources-ledger-RN.md`) which the Editor merges. Batch 1 entries are
-> reconstructed from the inline source notes in their research files during the
-> V6 gate, so no claim escapes the ledger requirement.
-
-Batch 2:
-- [ ] R5 — Writing Task 2
-- [ ] R6 — Speaking deep dive
-- [ ] R7 — Vocabulary system
-
-Batch 3:
-- [ ] R8 — Grammar & L1 interference
-- [ ] R9 — Test-day strategy & study plan
+> atomic. In the event no rows were lost: each agent re-read immediately before
+> writing and reported preserving prior rows. R9 additionally mirrored its rows to
+> `sources-ledger-R9.md`, which stands as the reconciliation reference. V6 still
+> traces sampled claims back to the ledger independently.
 
 ## Phase 2 — Writer agents
 
-- [ ] Ch 1 — How IELTS Academic Really Works
-- [ ] Ch 2 — Listening: Complete Playbook
-- [ ] Ch 3 — Reading: Complete Playbook
+Batch 1 — **RUNNING**:
+- [~] Ch 1 — How IELTS Academic Really Works
+- [~] Ch 2 — Listening: Complete Playbook
+- [~] Ch 3 — Reading: Complete Playbook
+
+Batch 2 — queued:
 - [ ] Ch 4 — Writing Task 1: Every Visual Type Mastered
 - [ ] Ch 5 — Writing Task 2: Every Question Family Mastered
 - [ ] Ch 6 — Speaking: All Three Parts
+
+Batch 3 — queued:
 - [ ] Ch 7 — The Band 7 Vocabulary System
 - [ ] Ch 8 — Grammar for Band 7 + Arabic/French Error Map
 - [ ] Ch 9 — Study Plan, Practice System & Test Day
@@ -145,6 +144,23 @@ fix loop.
 - Whether matching-headings answers follow text order — R3's reading of the official note needs confirming.
 - ielts-simon.com URLs now return 404; any corroboration resting on that site is tagged unverified.
 - Question-type count: ielts.org's format page defines **11** numbered Reading task types; the 2023 sample-tasks PDF names **14** by splitting the completion formats. Both official. The book uses the 11-type numbering, which is what Cambridge files its own teaching material under.
+
+## Blocker the Editor could not clear
+
+R9 recommended someone with JavaScript execution retrieve the British Council
+terms at `ieltsregistration.britishcouncil.org/terms-and-conditions/Global_IELTS_CD/`,
+expecting it would settle the "can a re-mark lower your band" question and
+several other open items at once.
+
+The Editor attempted this with headless Chromium, both direct and through the
+environment's proxy. **The host returns HTTP 403 to automated requests** — this is
+bot protection, not a JavaScript-rendering problem, so executing JavaScript does
+not help. `curl` confirms 403 independently.
+
+Consequence: the affected items stay unresolved and the book must present them as
+explicit uncertainties (policy option (c)) pointing the reader at his booking
+confirmation and his centre. This is an acceptable outcome under the
+zero-unverified policy; asserting them would not be.
 
 ## Copyright watch
 

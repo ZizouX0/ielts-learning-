@@ -547,7 +547,11 @@ slowest — start it first and work it longest.
 ## Exam-day mechanics
 
 - Listening 🖥️ no transfer time, 2 minutes to check. Type as you go.
-- Reading: no transfer time at all. Never leave a blank.
+- Reading: no transfer time at all. Never leave a blank — **"you don't lose marks
+  for any blank spaces"** is official, so a guess is strictly better than nothing.
+- Reading 🖥️ you **can copy-paste from the passage** into completion answers.
+  Use it: it makes spelling errors structurally impossible on those question
+  types. **CTRL+F does not work** — do not plan to search the text.
 - Writing: do **Task 2 first** if you tend to run out of time — it is worth
   double. Otherwise keep to 20 / 40.
 - Word count 🖥️ displayed on screen. Check it; do not eyeball it.
