@@ -129,14 +129,45 @@ immediately — see the post-gate section of `fixes/changelog.md`.
 - [~] `[MINOR]` editing pass — **RUNNING**, three agents (Ch1–3, Ch4–6, Ch7–9)
 - [~] `fixes/changelog.md` — 64 entries and growing
 
-## Phase 5 — Assembly
+## Phase 5 — Assembly — **COMPLETE**
 
-- [~] Ledger gaps + Appendix E — **RUNNING**
-- [ ] `book/IELTS-Academic-War-Book.md` — title page, how-to-use, TOC, 9 chapters
-- [ ] Appendices A–D
-- [ ] `book/CHEAT-SHEETS.md`
-- [ ] Final Editor-in-Chief read-through
-- [ ] PDF export
+- [x] Ledger gaps closed + `book/appendix-E-sources.md`
+- [x] `book/IELTS-Academic-War-Book.md` — **95,314 words**, front matter, reading
+      route, TOC with anchors, nine chapters
+- [x] Appendix A — band descriptor summary tables (28 KB)
+- [x] Appendix B — complete question-type index (14 KB)
+- [x] Appendix C — Arabic/French error quick-reference card (15 KB)
+- [x] Appendix D — pre-test-day checklist
+- [x] Appendix E — sources consulted (22 KB)
+- [x] `book/CHEAT-SHEETS.md` — five one-page sheets
+- [x] Final integrity check (below)
+- [x] PDF export — 185 pp. book, 6 pp. cheat sheets, 7 pp. error card, 3 pp. checklist
+
+### Final integrity check on the assembled book
+
+| Check | Result |
+|---|---|
+| `[UNVERIFIED]` tags | **0** |
+| Citations of either superseded descriptor edition | **0** |
+| The fabricated collocation statistic | **0** |
+| 60-second summaries, each at the top of its chapter | **9/9** |
+| All seven other mandated sections | **9/9 each** |
+| Chapter anchors resolving from the TOC | **9/9** |
+
+### A note on the front matter
+
+The "How to use this book" page exists because V5 identified the sharpest problem
+in the project: the book prescribes ~9 minutes of theory a day and is itself ten
+hours of reading. That is a real contradiction, and the honest resolution was not
+to cut mandated content but to give a **reading route** — day-zero block, one
+section per skill day, what to read once, what to keep open as reference — and to
+put every chapter's 60-second summary at the top so that on a busy day the
+summary *is* the chapter. Reading the nine summaries takes about fifteen minutes
+and carries most of what moves a band.
+
+The front matter also states plainly what the book could not settle: five
+questions that no official source answers, each resolvable by one phone call to
+the test centre.
 
 ### Repeated failure mode worth recording
 
