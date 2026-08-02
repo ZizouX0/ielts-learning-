@@ -26,7 +26,9 @@ FONTS = ROOT / ".claude/skills/canvas-design/canvas-fonts"
 TMP = pathlib.Path("/tmp/playbook")
 TMP.mkdir(exist_ok=True)
 
-ORDER = ["01-front.md", "02-listening-reading.md", "03-writing.md",
+ORDER = ["01-front.md", "02-listening-reading.md",
+         "03-writing.md", "03z-bank-intro.md", "03a-task1-bank.md", "03b-task2-bank.md",
+         "03c-grammar-on-demand.md",
          "04-speaking-language.md", "05-testday.md"]
 
 FONT_FACES = [
@@ -102,6 +104,16 @@ tbody tr:nth-child(even){ background:#fafafb; }
 table.wrong td:first-child{ color:var(--stop); font-style:italic; }
 table.wrong td:last-child{ color:var(--go); font-weight:600; }
 
+/* wrong -> right, inline */
+.x{ color:var(--stop); font-weight:700; }
+.v{ color:var(--go); font-weight:700; }
+.warn{ color:var(--pay); font-weight:700; }
+
+/* language banks: phrase lists set tight and scannable */
+.bank li{ margin:.18em 0; font-size:10.6pt; }
+table td em{ color:#3a3a42; }
+h2+table,h3+table{ margin-top:.6em; }
+
 ul,ol{ margin:.5em 0 .9em; padding-left:1.4em; }
 li{ margin:.32em 0; }
 code{ font-family:'PBMono',monospace; font-size:9.6pt; background:#f1f1f4;
@@ -141,6 +153,11 @@ def transform(html: str) -> str:
                 f'<span class="ttl">{title}</span>'
                 f'<span class="body">{body}</span></div>')
     html = re.sub(r"<p><strong>(\d+)\.\s*(.*?)</strong>(.*?)</p>", as_move, html, flags=re.S)
+
+    # colour the wrong/right/warning marks wherever they appear
+    html = html.replace("✗", '<span class="x">✗</span>')
+    html = html.replace("✓", '<span class="v">✓</span>')
+    html = html.replace("⚠", '<span class="warn">⚠</span>')
 
     # wrong -> right tables
     def mark(m):
