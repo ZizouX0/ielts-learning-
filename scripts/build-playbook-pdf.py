@@ -26,10 +26,14 @@ FONTS = ROOT / ".claude/skills/canvas-design/canvas-fonts"
 TMP = pathlib.Path("/tmp/playbook")
 TMP.mkdir(exist_ok=True)
 
-ORDER = ["01-front.md", "02-listening-reading.md",
-         "03-writing.md", "03z-bank-intro.md", "03a-task1-bank.md", "03b-task2-bank.md",
-         "03c-grammar-on-demand.md",
+# Two documents. The Playbook stays short — it is what you DO. The Writing Bank
+# is lookup material and would drown it.
+ORDER = ["01-front.md", "02-listening-reading.md", "03-writing.md",
          "04-speaking-language.md", "05-testday.md"]
+
+BANK_ORDER = ["03z-bank-intro.md", "03a-task1-bank.md", "03b-task2-bank.md",
+              "03c-grammar-on-demand.md"]
+BANK_OUT = ROOT / "exports/THE-WRITING-BANK.pdf"
 
 FONT_FACES = [
     ("PBSerif", "IBMPlexSerif-Regular.ttf", 400, "normal"),
@@ -50,6 +54,23 @@ def font_css():
                    f"src:url(data:font/ttf;base64,{b64}) format('truetype');}}")
     return "\n".join(out)
 
+
+COVER_PLAY = """
+<div class="cover"><div class="bar"></div>
+<h1>The<br>Playbook</h1>
+<div class="sub">Every move that raises your band.<br>Nothing else.</div>
+<div class="note"><b>Read this one.</b> Ninety-four moves, ranked by what they are
+worth. When you need the actual words for a Writing task, open <b>The Writing
+Bank</b>. The 226-page War Book is the evidence behind both — open it only if you
+want to know why a move works.</div></div>"""
+
+COVER_BANK = """
+<div class="cover"><div class="bar"></div>
+<h1>The<br>Writing<br>Bank</h1>
+<div class="sub">The words. Organised by the job,<br>not by the chart type.</div>
+<div class="note"><b>Do not read this. Look things up in it.</b> Task 1 language,
+Task 2 language, and every grammar structure with the one error you personally
+make in it. The index on the next page tells you where to go when you are stuck.</div></div>"""
 
 CSS = """
 :root{ --ink:#17171a; --muted:#5e5e66; --faint:#96969e; --rule:#e0e0e5;
@@ -167,16 +188,11 @@ def transform(html: str) -> str:
     return html
 
 
-def build_html(md: str) -> str:
+def build_html(md: str, bank=False) -> str:
     body = markdown.markdown(md, extensions=["tables", "fenced_code", "sane_lists", "attr_list"])
     body = transform(body)
     body = body.replace("<h1>", '<h1 class="first">', 1)
-    cover = """
-<div class="cover"><div class="bar"></div>
-<h1>The<br>Playbook</h1>
-<div class="sub">Every move that raises your band.<br>Nothing else.</div>
-<div class="note"><b>Read this one.</b> The 226-page War Book is the reference —
-open it only when you want the evidence behind a move. This is what you actually do.</div></div>"""
+    cover = COVER_BANK if bank else COVER_PLAY
     return (f"<!doctype html><html><head><meta charset='utf-8'><title>The Playbook</title>"
             f"<style>{font_css()}\n{CSS}</style></head><body>{cover}{body}</body></html>")
 
@@ -194,7 +210,7 @@ def render(html, out):
         b.close()
 
 
-def stamp(src, dst):
+def stamp(src, dst, label="The Playbook"):
     pdf = pikepdf.open(str(src))
     W, H = A4
     buf = io.BytesIO()
@@ -206,7 +222,7 @@ def stamp(src, dst):
             c.drawCentredString(W / 2, 26, str(i))
             c.setFont("Helvetica", 7.5)
             c.setFillColor(HexColor("#a8a8b0"))
-            c.drawRightString(W - 51, 26, "The Playbook")
+            c.drawRightString(W - 51, 26, label)
         c.showPage()
     c.save()
     buf.seek(0)
@@ -217,23 +233,30 @@ def stamp(src, dst):
 
 
 def main():
-    parts = []
-    for name in ORDER:
-        p = SRCDIR / name
-        if not p.is_file():
-            print(f"  missing: {name}")
-            continue
-        parts.append(p.read_text(encoding="utf-8"))
-    md = "\n\n".join(parts)
-    # strip any citation that leaked through the distillation
-    md = re.sub(r"\s*\[src:[^\]]*\]", "", md)
-    md = re.sub(r"`\[src:[^\]]*\]`", "", md)
+    def assemble(names):
+        parts = []
+        for n in names:
+            f = SRCDIR / n
+            if f.is_file():
+                parts.append(f.read_text(encoding="utf-8"))
+            else:
+                print(f"  missing: {n}")
+        md = "\n\n".join(parts)
+        md = re.sub(r"\s*`?\[src:[^\]]*\]`?", "", md)
+        # Each ✗ correction on its own line: markdown joins single newlines into
+        # one paragraph, which turns a scannable error list into a wall.
+        md = re.sub(r"(?m)^(✗ .*?)(?<!  )$", r"\1  ", md)
+        return md
 
-    render(build_html(md), TMP / "raw.pdf")
-    stamp(TMP / "raw.pdf", OUT)
-    n = len(pikepdf.open(str(OUT)).pages)
-    print(f"Wrote {OUT} — {n} pages, {OUT.stat().st_size/1024:.0f} KB, "
-          f"{len(md.split()):,} words")
+    for names, out, bank, label in (
+            (ORDER, OUT, False, "THE PLAYBOOK"),
+            (BANK_ORDER, BANK_OUT, True, "THE WRITING BANK")):
+        md = assemble(names)
+        render(build_html(md, bank=bank), TMP / "raw.pdf")
+        stamp(TMP / "raw.pdf", out, label.title().replace("The ", "The "))
+        n = len(pikepdf.open(str(out)).pages)
+        print(f"{label:20} {n:>3} pages  {out.stat().st_size/1024:>5.0f} KB  "
+              f"{len(md.split()):>6,} words")
     return 0
 
 
